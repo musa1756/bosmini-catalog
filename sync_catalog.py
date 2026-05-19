@@ -15,11 +15,31 @@ import argparse
 import html
 import json
 import os
+import re
 import sys
 import time
 from pathlib import Path
 
 import httpx
+
+# Manager-side artifacts that creep into uCoz product titles:
+#   * leading "/////" / "***" — hack to pin items to the top of category lists
+#   * ",,9''" / ",,10\"" — German-style low quote used as opening inch-mark,
+#     usually paired with double apostrophe as the closing one
+# Cleaning at the sync stage means every device gets clean names and we don't
+# repeat the cleanup commit (f49f657) each time a sale runs through.
+_LEAD_JUNK_RE = re.compile(r"^[\\/*~`«»]+\s*")
+_INCH_LOW_QUOTE_RE = re.compile(r",,\s*(\d+)\s*(?:''|\"+)")
+_INCH_TRAILING_APOS_RE = re.compile(r"(\d+)\s*''")
+
+
+def clean_product_name(name: str) -> str:
+    """Normalize uCoz title artifacts. Idempotent."""
+    s = name.strip()
+    s = _LEAD_JUNK_RE.sub("", s)
+    s = _INCH_LOW_QUOTE_RE.sub(r'\1"', s)
+    s = _INCH_TRAILING_APOS_RE.sub(r'\1"', s)
+    return s.strip()
 
 UA = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -199,7 +219,7 @@ def to_product_json(entry: dict, cat_lookup: dict[int, str]) -> dict:
     return {
         "slug": slug,
         "url": entry.get("entry_shop_url") or "",
-        "name": (entry.get("entry_title") or "").strip(),
+        "name": clean_product_name(entry.get("entry_title") or ""),
         "sku": sku,
         "price_rub": price_rub,
         "old_price_rub": old_price_rub,
