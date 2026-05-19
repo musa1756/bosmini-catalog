@@ -1,0 +1,55 @@
+name: Sync catalog from uCoz uAPI
+
+on:
+  schedule:
+    # Every 10 minutes. GitHub may delay during peak load; expect ~10–15 min lag.
+    - cron: "*/10 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-catalog
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install httpx
+        run: pip install --quiet httpx
+
+      - name: Write .env from secret
+        env:
+          UCOZ_TOKEN: ${{ secrets.UCOZ_TOKEN }}
+        run: |
+          if [ -z "$UCOZ_TOKEN" ]; then
+            echo "::error::UCOZ_TOKEN secret is not set"
+            exit 1
+          fi
+          umask 077
+          printf "UCOZ_SITE=bosminiofficial.ru\nUCOZ_TOKEN=%s\n" "$UCOZ_TOKEN" > .env
+
+      - name: Pull catalog
+        run: python sync_catalog.py --out catalog.json
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain catalog.json)" ]; then
+            count=$(python -c "import json; print(json.load(open('catalog.json'))['scraped_count'])")
+            git add catalog.json
+            git commit -m "Auto-sync catalog (${count} products)"
+            git push
+            echo "Committed update."
+          else
+            echo "No changes — catalog already up to date."
+          fi
