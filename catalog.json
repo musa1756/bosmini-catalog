@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779181737,
+  "generated_at": 1779183488,
   "scraped_count": 447,
   "products": [
     {
@@ -21,8 +21,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1978.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1978.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1978m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1978m.jpg"
       ],
       "stock_count": 0
     },
@@ -43,8 +49,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1935.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1935.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1935m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1935m.jpg"
       ],
       "stock_count": 0
     },
@@ -65,8 +77,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2663.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2663.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2663m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2663m.jpg"
       ],
       "stock_count": 0
     },
@@ -87,8 +105,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1942.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1942.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1942m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1942m.jpg"
       ],
       "stock_count": 0
     },
@@ -109,8 +133,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1943.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1943.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1943m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1943m.jpg"
       ],
       "stock_count": 0
     },
@@ -131,8 +161,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2717.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2717.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2717m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2717m.jpg"
       ],
       "stock_count": 0
     },
@@ -153,8 +189,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1941.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1941.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1941m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1941m.jpg"
       ],
       "stock_count": 0
     },
@@ -175,8 +217,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1940.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1940.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1940m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1940m.jpg"
       ],
       "stock_count": 0
     },
@@ -197,8 +245,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2545.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2545.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2545m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2545m.jpg"
       ],
       "stock_count": 0
     },
@@ -219,8 +273,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2636.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2636.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2636m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2636m.jpg"
       ],
       "stock_count": 0
     },
@@ -241,8 +301,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1964.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1964.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1964m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1964m.jpg"
       ],
       "stock_count": 0
     },
@@ -263,8 +329,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1982.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1982.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1982m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1982m.jpg"
       ],
       "stock_count": 0
     },
@@ -285,8 +357,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/24/2495.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/24/2495.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/24/2495m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/24/2495m.jpg"
       ],
       "stock_count": 0
     },
@@ -307,8 +385,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2715.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2715.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2715m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2715m.jpg"
       ],
       "stock_count": 0
     },
@@ -329,8 +413,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/20/2022.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/20/2022.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/20/2022m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/20/2022m.jpg"
       ],
       "stock_count": 0
     },
@@ -351,8 +441,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/29/2905.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2905.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2905m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2905m.jpg"
       ],
       "stock_count": 0
     },
@@ -373,8 +469,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2557.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2557.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2557m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2557m.jpg"
       ],
       "stock_count": 0
     },
@@ -395,8 +497,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/29/2924.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2924.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2924m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2924m.jpg"
       ],
       "stock_count": 0
     },
@@ -417,8 +525,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2680.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2680.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2680m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2680m.jpg"
       ],
       "stock_count": 0
     },
@@ -439,8 +553,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2681.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2681.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2681m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2681m.jpg"
       ],
       "stock_count": 0
     },
@@ -461,8 +581,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2848.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2848.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2848m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2848m.jpg"
       ],
       "stock_count": 0
     },
@@ -483,8 +609,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2849.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2849.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2849m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2849m.jpg"
       ],
       "stock_count": 0
     },
@@ -505,8 +637,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2686.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2686.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2686m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2686m.jpg"
       ],
       "stock_count": 0
     },
@@ -527,8 +665,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2696.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2696.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2696m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2696m.jpg"
       ],
       "stock_count": 0
     },
@@ -549,8 +693,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2695.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2695.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2695m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2695m.jpg"
       ],
       "stock_count": 0
     },
@@ -571,8 +721,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2857.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2857.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2857m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2857m.jpg"
       ],
       "stock_count": 0
     },
@@ -593,8 +749,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2852.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2852.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2852m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2852m.jpg"
       ],
       "stock_count": 0
     },
@@ -615,8 +777,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1948.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1948.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1948m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1948m.jpg"
       ],
       "stock_count": 0
     },
@@ -637,8 +805,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1949.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1949.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1949m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1949m.jpg"
       ],
       "stock_count": 0
     },
@@ -659,8 +833,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2758.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2758.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2758m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2758m.jpg"
       ],
       "stock_count": 0
     },
@@ -681,8 +861,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2759.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2759.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2759m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2759m.jpg"
       ],
       "stock_count": 0
     },
@@ -703,8 +889,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2756.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2756.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2756m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2756m.jpg"
       ],
       "stock_count": 0
     },
@@ -725,8 +917,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2757.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2757.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2757m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2757m.jpg"
       ],
       "stock_count": 0
     },
@@ -747,8 +945,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2782.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2782.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2782m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2782m.jpg"
       ],
       "stock_count": 0
     },
@@ -769,8 +973,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2744.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2744.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2744m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2744m.jpg"
       ],
       "stock_count": 0
     },
@@ -791,8 +1001,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1951.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1951.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1951m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1951m.jpg"
       ],
       "stock_count": 0
     },
@@ -813,8 +1029,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/20/2041.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/20/2041.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/20/2041m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/20/2041m.jpg"
       ],
       "stock_count": 0
     },
@@ -835,8 +1057,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/20/2042.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/20/2042.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/20/2042m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/20/2042m.jpg"
       ],
       "stock_count": 0
     },
@@ -857,8 +1085,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1953.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1953.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1953m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1953m.jpg"
       ],
       "stock_count": 0
     },
@@ -879,8 +1113,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1952.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1952.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1952m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1952m.jpg"
       ],
       "stock_count": 0
     },
@@ -901,8 +1141,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/20/2040.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/20/2040.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/20/2040m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/20/2040m.jpg"
       ],
       "stock_count": 0
     },
@@ -923,8 +1169,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2815.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2815.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2815m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2815m.jpg"
       ],
       "stock_count": 0
     },
@@ -945,8 +1197,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2814.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2814.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2814m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2814m.jpg"
       ],
       "stock_count": 0
     },
@@ -967,8 +1225,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2817.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2817.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2817m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2817m.jpg"
       ],
       "stock_count": 0
     },
@@ -989,8 +1253,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2816.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2816.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2816m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2816m.jpg"
       ],
       "stock_count": 0
     },
@@ -1011,8 +1281,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2683.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2683.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2683m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2683m.jpg"
       ],
       "stock_count": 0
     },
@@ -1033,8 +1309,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2685.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2685.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2685m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2685m.jpg"
       ],
       "stock_count": 0
     },
@@ -1055,8 +1337,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2682.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2682.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2682m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2682m.jpg"
       ],
       "stock_count": 0
     },
@@ -1077,8 +1365,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2684.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2684.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2684m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2684m.jpg"
       ],
       "stock_count": 0
     },
@@ -1099,8 +1393,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2734.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2734.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2734m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2734m.jpg"
       ],
       "stock_count": 0
     },
@@ -1121,8 +1421,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1969.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1969.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1969m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1969m.jpg"
       ],
       "stock_count": 0
     },
@@ -1143,8 +1449,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1968.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1968.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1968m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1968m.jpg"
       ],
       "stock_count": 0
     },
@@ -1165,8 +1477,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1936.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1936.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1936m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1936m.jpg"
       ],
       "stock_count": 0
     },
@@ -1187,8 +1505,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1927.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1927.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1927m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1927m.jpg"
       ],
       "stock_count": 0
     },
@@ -1209,8 +1533,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/29/2900.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2900.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2900m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2900m.jpg"
       ],
       "stock_count": 0
     },
@@ -1231,8 +1561,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2866.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2866.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2866m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2866m.jpg"
       ],
       "stock_count": 0
     },
@@ -1253,8 +1589,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/20/2018.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/20/2018.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/20/2018m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/20/2018m.jpg"
       ],
       "stock_count": 0
     },
@@ -1275,8 +1617,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2827.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2827.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2827m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2827m.jpg"
       ],
       "stock_count": 0
     },
@@ -1297,8 +1645,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2828.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2828.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2828m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2828m.jpg"
       ],
       "stock_count": 0
     },
@@ -1319,8 +1673,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2826.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2826.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2826m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2826m.jpg"
       ],
       "stock_count": 0
     },
@@ -1341,8 +1701,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2825.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2825.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2825m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2825m.jpg"
       ],
       "stock_count": 0
     },
@@ -1363,8 +1729,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2865.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2865.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2865m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2865m.jpg"
       ],
       "stock_count": 0
     },
@@ -1385,8 +1757,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2864.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2864.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2864m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2864m.jpg"
       ],
       "stock_count": 0
     },
@@ -1407,8 +1785,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2830.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2830.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2830m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2830m.jpg"
       ],
       "stock_count": 0
     },
@@ -1429,8 +1813,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/20/2019.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/20/2019.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/20/2019m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/20/2019m.jpg"
       ],
       "stock_count": 0
     },
@@ -1451,8 +1841,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2899.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2899.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2899m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2899m.jpg"
       ],
       "stock_count": 0
     },
@@ -1473,8 +1869,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/29/2904.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2904.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2904m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2904m.jpg"
       ],
       "stock_count": 0
     },
@@ -1495,8 +1897,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2726.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2726.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2726m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2726m.jpg"
       ],
       "stock_count": 0
     },
@@ -1517,8 +1925,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2725.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2725.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2725m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2725m.jpg"
       ],
       "stock_count": 0
     },
@@ -1539,8 +1953,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2710.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2710.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2710m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2710m.jpg"
       ],
       "stock_count": 0
     },
@@ -1561,8 +1981,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2721.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2721.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2721m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2721m.jpg"
       ],
       "stock_count": 0
     },
@@ -1583,8 +2009,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2720.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2720.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2720m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2720m.jpg"
       ],
       "stock_count": 0
     },
@@ -1605,8 +2037,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2559.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2559.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2559m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2559m.jpg"
       ],
       "stock_count": 0
     },
@@ -1627,8 +2065,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2831.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2831.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2831m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2831m.jpg"
       ],
       "stock_count": 0
     },
@@ -1649,8 +2093,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1946.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1946.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1946m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1946m.jpg"
       ],
       "stock_count": 0
     },
@@ -1671,8 +2121,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2777.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2777.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2777m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2777m.jpg"
       ],
       "stock_count": 0
     },
@@ -1693,8 +2149,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2895.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2895.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2895m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2895m.jpg"
       ],
       "stock_count": 0
     },
@@ -1715,8 +2177,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/20/2004.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/20/2004.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/20/2004m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/20/2004m.jpg"
       ],
       "stock_count": 0
     },
@@ -1737,8 +2205,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1999.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1999.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1999m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1999m.jpg"
       ],
       "stock_count": 0
     },
@@ -1759,8 +2233,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1993.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1993.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1993m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1993m.jpg"
       ],
       "stock_count": 0
     },
@@ -1781,8 +2261,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2811.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2811.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2811m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2811m.jpg"
       ],
       "stock_count": 0
     },
@@ -1803,8 +2289,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2813.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2813.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2813m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2813m.jpg"
       ],
       "stock_count": 0
     },
@@ -1825,8 +2317,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2812.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2812.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2812m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2812m.jpg"
       ],
       "stock_count": 0
     },
@@ -1847,8 +2345,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2873.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2873.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2873m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2873m.jpg"
       ],
       "stock_count": 0
     },
@@ -1869,8 +2373,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1986.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1986.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1986m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1986m.jpg"
       ],
       "stock_count": 0
     },
@@ -1891,8 +2401,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/29/2903.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2903.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2903m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2903m.jpg"
       ],
       "stock_count": 0
     },
@@ -1913,8 +2429,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/29/2901.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2901.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2901m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2901m.jpg"
       ],
       "stock_count": 0
     },
@@ -1935,8 +2457,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/29/2902.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2902.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2902m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2902m.jpg"
       ],
       "stock_count": 0
     },
@@ -1957,8 +2485,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2517.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2517.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2517m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2517m.jpg"
       ],
       "stock_count": 0
     },
@@ -1979,8 +2513,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2516.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2516.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2516m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2516m.jpg"
       ],
       "stock_count": 0
     },
@@ -2001,8 +2541,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/8/884.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/8/884.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/8/884m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/8/884m.jpg"
       ],
       "stock_count": 0
     },
@@ -2023,8 +2569,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/8/815.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/8/815.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/8/815m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/8/815m.jpg"
       ],
       "stock_count": 0
     },
@@ -2045,8 +2597,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1107.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1107.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1107m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1107m.jpg"
       ],
       "stock_count": 0
     },
@@ -2067,8 +2625,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/13/1395.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1395.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1395m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1395m.jpg"
       ],
       "stock_count": 0
     },
@@ -2089,8 +2653,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/8/890.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/8/890.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/8/890m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/8/890m.jpg"
       ],
       "stock_count": 0
     },
@@ -2111,8 +2681,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1033.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1033.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1033m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1033m.jpg"
       ],
       "stock_count": 0
     },
@@ -2133,8 +2709,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1034.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1034.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1034m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1034m.jpg"
       ],
       "stock_count": 0
     },
@@ -2155,8 +2737,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1035.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1035.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1035m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1035m.jpg"
       ],
       "stock_count": 0
     },
@@ -2177,8 +2765,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2896.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2896.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2896m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2896m.jpg"
       ],
       "stock_count": 0
     },
@@ -2199,8 +2793,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1074.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1074.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1074m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1074m.jpg"
       ],
       "stock_count": 0
     },
@@ -2221,8 +2821,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2653.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2653.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2653m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2653m.jpg"
       ],
       "stock_count": 0
     },
@@ -2243,8 +2849,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2652.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2652.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2652m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2652m.jpg"
       ],
       "stock_count": 0
     },
@@ -2265,8 +2877,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2888.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2888.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2888m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2888m.jpg"
       ],
       "stock_count": 0
     },
@@ -2287,8 +2905,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/15/1537.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1537.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/15/1537m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/15/1537m.jpg"
       ],
       "stock_count": 0
     },
@@ -2309,8 +2933,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2887.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2887.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2887m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2887m.jpg"
       ],
       "stock_count": 0
     },
@@ -2331,8 +2961,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2614.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2614.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2614m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2614m.jpg"
       ],
       "stock_count": 0
     },
@@ -2353,8 +2989,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2806.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2806.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2806m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2806m.jpg"
       ],
       "stock_count": 0
     },
@@ -2375,8 +3017,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2805.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2805.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2805m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2805m.jpg"
       ],
       "stock_count": 0
     },
@@ -2397,8 +3045,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2885.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2885.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2885m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2885m.jpg"
       ],
       "stock_count": 0
     },
@@ -2419,8 +3073,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2886.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2886.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2886m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2886m.jpg"
       ],
       "stock_count": 0
     },
@@ -2441,8 +3101,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2889.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2889.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2889m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2889m.jpg"
       ],
       "stock_count": 0
     },
@@ -2463,8 +3129,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/15/1539.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1539.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/15/1539m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/15/1539m.jpg"
       ],
       "stock_count": 0
     },
@@ -2485,8 +3157,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2804.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2804.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2804m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2804m.jpg"
       ],
       "stock_count": 0
     },
@@ -2507,8 +3185,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2613.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2613.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2613m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2613m.jpg"
       ],
       "stock_count": 0
     },
@@ -2529,8 +3213,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2807.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2807.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2807m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2807m.jpg"
       ],
       "stock_count": 0
     },
@@ -2551,8 +3241,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2797.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2797.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2797m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2797m.jpg"
       ],
       "stock_count": 0
     },
@@ -2573,8 +3269,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2798.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2798.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2798m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2798m.jpg"
       ],
       "stock_count": 0
     },
@@ -2595,8 +3297,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2799.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2799.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2799m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2799m.jpg"
       ],
       "stock_count": 0
     },
@@ -2617,8 +3325,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2800.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2800.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2800m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2800m.jpg"
       ],
       "stock_count": 0
     },
@@ -2639,8 +3353,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2801.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2801.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2801m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2801m.jpg"
       ],
       "stock_count": 0
     },
@@ -2661,8 +3381,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2675.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2675.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2675m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2675m.jpg"
       ],
       "stock_count": 0
     },
@@ -2683,8 +3409,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2674.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2674.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2674m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2674m.jpg"
       ],
       "stock_count": 0
     },
@@ -2705,8 +3437,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/15/1526.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1526.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/15/1526m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/15/1526m.jpg"
       ],
       "stock_count": 0
     },
@@ -2727,8 +3465,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1065.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1065.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1065m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1065m.jpg"
       ],
       "stock_count": 0
     },
@@ -2749,8 +3493,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/6/682.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/6/682.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/6/682m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/6/682m.jpg"
       ],
       "stock_count": 0
     },
@@ -2771,8 +3521,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2657.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2657.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2657m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2657m.jpg"
       ],
       "stock_count": 0
     },
@@ -2793,8 +3549,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1104.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1104.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1104m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1104m.jpg"
       ],
       "stock_count": 0
     },
@@ -2815,8 +3577,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2773.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2773.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2773m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2773m.jpg"
       ],
       "stock_count": 0
     },
@@ -2837,8 +3605,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2673.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2673.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2673m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2673m.jpg"
       ],
       "stock_count": 0
     },
@@ -2859,8 +3633,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2672.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2672.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2672m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2672m.jpg"
       ],
       "stock_count": 0
     },
@@ -2881,8 +3661,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/4/448.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/4/448.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/4/448m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/4/448m.jpg"
       ],
       "stock_count": 0
     },
@@ -2903,8 +3689,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1105.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1105.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1105m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1105m.jpg"
       ],
       "stock_count": 0
     },
@@ -2925,8 +3717,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2713.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2713.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2713m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2713m.jpg"
       ],
       "stock_count": 0
     },
@@ -2947,8 +3745,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1050.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1050.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1050m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1050m.jpg"
       ],
       "stock_count": 0
     },
@@ -2969,8 +3773,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1048.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1048.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1048m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1048m.jpg"
       ],
       "stock_count": 0
     },
@@ -2991,8 +3801,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2870.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2870.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2870m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2870m.jpg"
       ],
       "stock_count": 0
     },
@@ -3013,8 +3829,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/14/1424.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1424.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/14/1424m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/14/1424m.jpg"
       ],
       "stock_count": 0
     },
@@ -3035,8 +3857,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1041.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1041.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1041m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1041m.jpg"
       ],
       "stock_count": 0
     },
@@ -3057,8 +3885,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/12/1203.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1203.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/12/1203m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1203m.jpg"
       ],
       "stock_count": 0
     },
@@ -3079,8 +3913,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/12/1201.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1201.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/12/1201m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1201m.jpg"
       ],
       "stock_count": 0
     },
@@ -3101,8 +3941,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/5/588.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/5/588.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/5/588m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/5/588m.jpg"
       ],
       "stock_count": 0
     },
@@ -3123,8 +3969,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/5/589.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/5/589.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/5/589m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/5/589m.jpg"
       ],
       "stock_count": 0
     },
@@ -3145,8 +3997,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1039.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1039.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1039m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1039m.jpg"
       ],
       "stock_count": 0
     },
@@ -3167,8 +4025,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/15/1506.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1506.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/15/1506m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/15/1506m.jpg"
       ],
       "stock_count": 0
     },
@@ -3189,8 +4053,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/15/1503.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1503.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/15/1503m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/15/1503m.jpg"
       ],
       "stock_count": 0
     },
@@ -3211,8 +4081,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/15/1504.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1504.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/15/1504m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/15/1504m.jpg"
       ],
       "stock_count": 0
     },
@@ -3233,8 +4109,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/15/1505.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1505.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/15/1505m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/15/1505m.jpg"
       ],
       "stock_count": 0
     },
@@ -3255,8 +4137,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/5/586.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/5/586.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/5/586m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/5/586m.jpg"
       ],
       "stock_count": 0
     },
@@ -3277,8 +4165,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/5/587.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/5/587.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/5/587m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/5/587m.jpg"
       ],
       "stock_count": 0
     },
@@ -3299,8 +4193,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/15/1534.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1534.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/15/1534m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/15/1534m.jpg"
       ],
       "stock_count": 0
     },
@@ -3321,8 +4221,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/15/1531.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1531.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/15/1531m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/15/1531m.jpg"
       ],
       "stock_count": 0
     },
@@ -3343,8 +4249,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/29/2929.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2929.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2929m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2929m.jpg"
       ],
       "stock_count": 0
     },
@@ -3365,8 +4277,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/15/1532.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1532.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/15/1532m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/15/1532m.jpg"
       ],
       "stock_count": 0
     },
@@ -3387,8 +4305,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/15/1533.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1533.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/15/1533m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/15/1533m.jpg"
       ],
       "stock_count": 0
     },
@@ -3409,8 +4333,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/5/584.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/5/584.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/5/584m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/5/584m.jpg"
       ],
       "stock_count": 0
     },
@@ -3431,8 +4361,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/13/1354.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1354.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1354m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1354m.jpg"
       ],
       "stock_count": 0
     },
@@ -3453,8 +4389,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/13/1357.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1357.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1357m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1357m.jpg"
       ],
       "stock_count": 0
     },
@@ -3475,8 +4417,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/13/1355.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1355.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1355m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1355m.jpg"
       ],
       "stock_count": 0
     },
@@ -3497,8 +4445,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/13/1356.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1356.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1356m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1356m.jpg"
       ],
       "stock_count": 0
     },
@@ -3519,8 +4473,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/13/1358.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1358.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1358m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1358m.jpg"
       ],
       "stock_count": 0
     },
@@ -3541,8 +4501,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1197.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1197.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1197m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1197m.jpg"
       ],
       "stock_count": 0
     },
@@ -3563,8 +4529,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/15/1507.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1507.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/15/1507m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/15/1507m.jpg"
       ],
       "stock_count": 0
     },
@@ -3585,8 +4557,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/15/1508.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1508.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/15/1508m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/15/1508m.jpg"
       ],
       "stock_count": 0
     },
@@ -3607,8 +4585,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1198.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1198.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1198m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1198m.jpg"
       ],
       "stock_count": 0
     },
@@ -3629,8 +4613,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1199.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1199.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1199m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1199m.jpg"
       ],
       "stock_count": 0
     },
@@ -3651,8 +4641,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/29/2930.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2930.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2930m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2930m.jpg"
       ],
       "stock_count": 0
     },
@@ -3673,8 +4669,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/29/2935.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2935.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2935m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2935m.jpg"
       ],
       "stock_count": 0
     },
@@ -3695,8 +4697,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/29/2933.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2933.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2933m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2933m.jpg"
       ],
       "stock_count": 0
     },
@@ -3717,8 +4725,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/29/2934.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2934.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2934m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2934m.jpg"
       ],
       "stock_count": 0
     },
@@ -3739,8 +4753,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/29/2931.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2931.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2931m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2931m.jpg"
       ],
       "stock_count": 0
     },
@@ -3761,8 +4781,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/29/2932.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2932.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2932m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2932m.jpg"
       ],
       "stock_count": 0
     },
@@ -3783,8 +4809,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2772.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2772.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2772m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2772m.jpg"
       ],
       "stock_count": 0
     },
@@ -3805,8 +4837,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/12/1218.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1218.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/12/1218m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1218m.jpg"
       ],
       "stock_count": 0
     },
@@ -3827,8 +4865,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2556.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2556.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2556m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2556m.jpg"
       ],
       "stock_count": 0
     },
@@ -3849,8 +4893,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/15/1500.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1500.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/15/1500m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/15/1500m.jpg"
       ],
       "stock_count": 0
     },
@@ -3871,8 +4921,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/15/1509.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1509.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/15/1509m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/15/1509m.jpg"
       ],
       "stock_count": 0
     },
@@ -3893,8 +4949,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/14/1417.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1417.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/14/1417m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/14/1417m.jpg"
       ],
       "stock_count": 0
     },
@@ -3915,8 +4977,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/12/1297.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1297.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/12/1297m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1297m.jpg"
       ],
       "stock_count": 0
     },
@@ -3937,8 +5005,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1110.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1110.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1110m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1110m.jpg"
       ],
       "stock_count": 0
     },
@@ -3959,8 +5033,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2739.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2739.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2739m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2739m.jpg"
       ],
       "stock_count": 0
     },
@@ -3981,8 +5061,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/13/1312.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1312.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1312m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1312m.jpg"
       ],
       "stock_count": 0
     },
@@ -4003,8 +5089,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2708.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2708.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2708m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2708m.jpg"
       ],
       "stock_count": 0
     },
@@ -4025,8 +5117,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/14/1489.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1489.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/14/1489m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/14/1489m.jpg"
       ],
       "stock_count": 0
     },
@@ -4047,8 +5145,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/14/1488.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1488.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/14/1488m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/14/1488m.jpg"
       ],
       "stock_count": 0
     },
@@ -4069,8 +5173,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1177.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1177.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1177m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1177m.jpg"
       ],
       "stock_count": 0
     },
@@ -4091,8 +5201,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1176.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1176.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1176m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1176m.jpg"
       ],
       "stock_count": 0
     },
@@ -4113,8 +5229,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/12/1299.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1299.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/12/1299m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1299m.jpg"
       ],
       "stock_count": 0
     },
@@ -4135,8 +5257,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/14/1430.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1430.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/14/1430m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/14/1430m.jpg"
       ],
       "stock_count": 0
     },
@@ -4157,8 +5285,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2529.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2529.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2529m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2529m.jpg"
       ],
       "stock_count": 0
     },
@@ -4179,8 +5313,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2528.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2528.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2528m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2528m.jpg"
       ],
       "stock_count": 0
     },
@@ -4201,8 +5341,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2840.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2840.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2840m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2840m.jpg"
       ],
       "stock_count": 0
     },
@@ -4223,8 +5369,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/13/1393.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1393.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1393m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1393m.jpg"
       ],
       "stock_count": 0
     },
@@ -4245,8 +5397,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/3/392.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/3/392.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/3/392m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/3/392m.jpg"
       ],
       "stock_count": 0
     },
@@ -4267,8 +5425,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/14/1464.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1464.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/14/1464m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/14/1464m.jpg"
       ],
       "stock_count": 0
     },
@@ -4289,8 +5453,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2796.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2796.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2796m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2796m.jpg"
       ],
       "stock_count": 0
     },
@@ -4311,8 +5481,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2724.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2724.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2724m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2724m.jpg"
       ],
       "stock_count": 0
     },
@@ -4333,8 +5509,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/12/1296.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1296.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/12/1296m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1296m.jpg"
       ],
       "stock_count": 0
     },
@@ -4355,8 +5537,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2712.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2712.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2712m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2712m.jpg"
       ],
       "stock_count": 0
     },
@@ -4377,8 +5565,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/8/803.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/8/803.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/8/803m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/8/803m.jpg"
       ],
       "stock_count": 0
     },
@@ -4399,8 +5593,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2868.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2868.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2868m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2868m.jpg"
       ],
       "stock_count": 0
     },
@@ -4421,8 +5621,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1096.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1096.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1096m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1096m.jpg"
       ],
       "stock_count": 0
     },
@@ -4443,8 +5649,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2841.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2841.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2841m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2841m.jpg"
       ],
       "stock_count": 0
     },
@@ -4465,8 +5677,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1087.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1087.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1087m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1087m.jpg"
       ],
       "stock_count": 0
     },
@@ -4487,8 +5705,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2846.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2846.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2846m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2846m.jpg"
       ],
       "stock_count": 0
     },
@@ -4509,8 +5733,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2751.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2751.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2751m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2751m.jpg"
       ],
       "stock_count": 0
     },
@@ -4531,8 +5761,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/12/1205.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1205.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/12/1205m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1205m.jpg"
       ],
       "stock_count": 0
     },
@@ -4553,8 +5789,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2690.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2690.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2690m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2690m.jpg"
       ],
       "stock_count": 0
     },
@@ -4575,8 +5817,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2881.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2881.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2881m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2881m.jpg"
       ],
       "stock_count": 0
     },
@@ -4597,8 +5845,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/12/1257.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1257.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/12/1257m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1257m.jpg"
       ],
       "stock_count": 0
     },
@@ -4619,8 +5873,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/12/1258.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1258.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/12/1258m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1258m.jpg"
       ],
       "stock_count": 0
     },
@@ -4641,8 +5901,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2867.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2867.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2867m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2867m.jpg"
       ],
       "stock_count": 0
     },
@@ -4663,8 +5929,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2876.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2876.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2876m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2876m.jpg"
       ],
       "stock_count": 0
     },
@@ -4685,8 +5957,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/4/414.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/4/414.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/4/414m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/4/414m.jpg"
       ],
       "stock_count": 0
     },
@@ -4707,8 +5985,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1064.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1064.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1064m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1064m.jpg"
       ],
       "stock_count": 0
     },
@@ -4729,8 +6013,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/12/1204.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1204.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/12/1204m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1204m.jpg"
       ],
       "stock_count": 0
     },
@@ -4751,8 +6041,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2845.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2845.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2845m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2845m.jpg"
       ],
       "stock_count": 0
     },
@@ -4773,8 +6069,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/14/1460.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1460.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/14/1460m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/14/1460m.jpg"
       ],
       "stock_count": 0
     },
@@ -4795,8 +6097,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/14/1458.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1458.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/14/1458m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/14/1458m.jpg"
       ],
       "stock_count": 0
     },
@@ -4817,8 +6125,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/14/1459.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1459.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/14/1459m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/14/1459m.jpg"
       ],
       "stock_count": 0
     },
@@ -4839,8 +6153,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2513.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2513.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2513m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2513m.jpg"
       ],
       "stock_count": 0
     },
@@ -4861,8 +6181,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1131.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1131.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1131m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1131m.jpg"
       ],
       "stock_count": 0
     },
@@ -4883,8 +6209,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/14/1479.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1479.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/14/1479m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/14/1479m.jpg"
       ],
       "stock_count": 0
     },
@@ -4905,8 +6237,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/12/1270.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1270.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/12/1270m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1270m.jpg"
       ],
       "stock_count": 0
     },
@@ -4927,8 +6265,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1132.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1132.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1132m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1132m.jpg"
       ],
       "stock_count": 0
     },
@@ -4949,8 +6293,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/8/858.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/8/858.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/8/858m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/8/858m.jpg"
       ],
       "stock_count": 0
     },
@@ -4971,8 +6321,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/15/1521.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1521.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/15/1521m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/15/1521m.jpg"
       ],
       "stock_count": 0
     },
@@ -4993,8 +6349,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2735.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2735.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2735m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2735m.jpg"
       ],
       "stock_count": 0
     },
@@ -5015,8 +6377,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/15/1525.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1525.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/15/1525m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/15/1525m.jpg"
       ],
       "stock_count": 0
     },
@@ -5037,8 +6405,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/8/865.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/8/865.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/8/865m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/8/865m.jpg"
       ],
       "stock_count": 0
     },
@@ -5059,8 +6433,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2786.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2786.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2786m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2786m.jpg"
       ],
       "stock_count": 0
     },
@@ -5081,8 +6461,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2787.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2787.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2787m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2787m.jpg"
       ],
       "stock_count": 0
     },
@@ -5103,8 +6489,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2788.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2788.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2788m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2788m.jpg"
       ],
       "stock_count": 0
     },
@@ -5125,8 +6517,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1155.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1155.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1155m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1155m.jpg"
       ],
       "stock_count": 0
     },
@@ -5147,8 +6545,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1154.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1154.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1154m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1154m.jpg"
       ],
       "stock_count": 0
     },
@@ -5169,8 +6573,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/13/1324.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1324.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1324m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1324m.jpg"
       ],
       "stock_count": 0
     },
@@ -5191,8 +6601,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2532.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2532.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2532m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2532m.jpg"
       ],
       "stock_count": 0
     },
@@ -5213,8 +6629,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2530.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2530.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2530m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2530m.jpg"
       ],
       "stock_count": 0
     },
@@ -5235,8 +6657,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2531.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2531.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2531m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2531m.jpg"
       ],
       "stock_count": 0
     },
@@ -5257,8 +6685,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2766.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2766.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2766m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2766m.jpg"
       ],
       "stock_count": 0
     },
@@ -5279,8 +6713,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2767.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2767.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2767m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2767m.jpg"
       ],
       "stock_count": 0
     },
@@ -5301,8 +6741,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2768.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2768.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2768m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2768m.jpg"
       ],
       "stock_count": 0
     },
@@ -5323,8 +6769,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2769.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2769.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2769m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2769m.jpg"
       ],
       "stock_count": 0
     },
@@ -5345,8 +6797,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2591.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2591.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2591m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2591m.jpg"
       ],
       "stock_count": 0
     },
@@ -5367,8 +6825,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2592.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2592.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2592m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2592m.jpg"
       ],
       "stock_count": 0
     },
@@ -5389,8 +6853,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2594.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2594.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2594m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2594m.jpg"
       ],
       "stock_count": 0
     },
@@ -5411,8 +6881,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/7/798.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/7/798.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/7/798m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/7/798m.jpg"
       ],
       "stock_count": 0
     },
@@ -5433,8 +6909,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/7/799.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/7/799.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/7/799m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/7/799m.jpg"
       ],
       "stock_count": 0
     },
@@ -5455,8 +6937,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/8/800.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/8/800.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/8/800m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/8/800m.jpg"
       ],
       "stock_count": 0
     },
@@ -5477,8 +6965,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1111.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1111.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1111m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1111m.jpg"
       ],
       "stock_count": 0
     },
@@ -5499,8 +6993,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1112.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1112.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1112m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1112m.jpg"
       ],
       "stock_count": 0
     },
@@ -5521,8 +7021,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1113.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1113.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1113m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1113m.jpg"
       ],
       "stock_count": 0
     },
@@ -5543,8 +7049,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2671.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2671.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2671m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2671m.jpg"
       ],
       "stock_count": 0
     },
@@ -5565,8 +7077,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/14/1491.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1491.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/14/1491m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/14/1491m.jpg"
       ],
       "stock_count": 0
     },
@@ -5587,8 +7105,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/13/1377.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1377.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1377m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1377m.jpg"
       ],
       "stock_count": 0
     },
@@ -5609,8 +7133,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1138.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1138.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1138m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1138m.jpg"
       ],
       "stock_count": 0
     },
@@ -5631,8 +7161,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/9/966.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/9/966.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/9/966m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/9/966m.jpg"
       ],
       "stock_count": 0
     },
@@ -5653,8 +7189,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/9/964.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/9/964.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/9/964m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/9/964m.jpg"
       ],
       "stock_count": 0
     },
@@ -5675,8 +7217,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2793.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2793.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2793m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2793m.jpg"
       ],
       "stock_count": 0
     },
@@ -5697,8 +7245,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/13/1378.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1378.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1378m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1378m.jpg"
       ],
       "stock_count": 0
     },
@@ -5719,8 +7273,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2794.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2794.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2794m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2794m.jpg"
       ],
       "stock_count": 0
     },
@@ -5741,8 +7301,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/13/1376.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1376.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1376m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1376m.jpg"
       ],
       "stock_count": 0
     },
@@ -5763,8 +7329,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/13/1379.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1379.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1379m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1379m.jpg"
       ],
       "stock_count": 0
     },
@@ -5785,8 +7357,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2795.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2795.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2795m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2795m.jpg"
       ],
       "stock_count": 0
     },
@@ -5807,8 +7385,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2505.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2505.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2505m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2505m.jpg"
       ],
       "stock_count": 0
     },
@@ -5829,8 +7413,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2507.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2507.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2507m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2507m.jpg"
       ],
       "stock_count": 0
     },
@@ -5851,8 +7441,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2508.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2508.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2508m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2508m.jpg"
       ],
       "stock_count": 0
     },
@@ -5873,8 +7469,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2648.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2648.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2648m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2648m.jpg"
       ],
       "stock_count": 0
     },
@@ -5895,8 +7497,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1191.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1191.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1191m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1191m.jpg"
       ],
       "stock_count": 0
     },
@@ -5917,8 +7525,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1190.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1190.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1190m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1190m.jpg"
       ],
       "stock_count": 0
     },
@@ -5939,8 +7553,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1188.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1188.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1188m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1188m.jpg"
       ],
       "stock_count": 0
     },
@@ -5961,8 +7581,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1189.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1189.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1189m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1189m.jpg"
       ],
       "stock_count": 0
     },
@@ -5983,8 +7609,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2619.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2619.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2619m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2619m.jpg"
       ],
       "stock_count": 0
     },
@@ -6005,8 +7637,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/6/639.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/6/639.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/6/639m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/6/639m.jpg"
       ],
       "stock_count": 0
     },
@@ -6027,8 +7665,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/6/638.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/6/638.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/6/638m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/6/638m.jpg"
       ],
       "stock_count": 0
     },
@@ -6049,8 +7693,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/6/637.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/6/637.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/6/637m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/6/637m.jpg"
       ],
       "stock_count": 0
     },
@@ -6071,8 +7721,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/7/742.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/7/742.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/7/742m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/7/742m.jpg"
       ],
       "stock_count": 0
     },
@@ -6093,8 +7749,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/5/521.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/5/521.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/5/521m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/5/521m.jpg"
       ],
       "stock_count": 0
     },
@@ -6115,8 +7777,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/15/1522.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1522.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/15/1522m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/15/1522m.jpg"
       ],
       "stock_count": 0
     },
@@ -6137,8 +7805,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/5/578.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/5/578.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/5/578m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/5/578m.jpg"
       ],
       "stock_count": 0
     },
@@ -6159,8 +7833,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/5/576.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/5/576.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/5/576m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/5/576m.jpg"
       ],
       "stock_count": 0
     },
@@ -6181,8 +7861,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1924.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1924.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1924m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1924m.jpg"
       ],
       "stock_count": 0
     },
@@ -6203,8 +7889,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1923.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1923.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1923m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1923m.jpg"
       ],
       "stock_count": 0
     },
@@ -6225,8 +7917,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1163.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1163.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1163m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1163m.jpg"
       ],
       "stock_count": 0
     },
@@ -6247,8 +7945,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2737.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2737.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2737m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2737m.jpg"
       ],
       "stock_count": 0
     },
@@ -6269,8 +7973,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2740.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2740.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2740m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2740m.jpg"
       ],
       "stock_count": 0
     },
@@ -6291,8 +8001,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/14/1474.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1474.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/14/1474m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/14/1474m.jpg"
       ],
       "stock_count": 0
     },
@@ -6313,8 +8029,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/14/1478.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1478.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/14/1478m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/14/1478m.jpg"
       ],
       "stock_count": 0
     },
@@ -6335,8 +8057,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2518.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2518.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2518m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2518m.jpg"
       ],
       "stock_count": 0
     },
@@ -6357,8 +8085,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2561.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2561.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2561m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2561m.jpg"
       ],
       "stock_count": 0
     },
@@ -6379,8 +8113,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2861.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2861.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2861m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2861m.jpg"
       ],
       "stock_count": 0
     },
@@ -6401,8 +8141,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/8/875.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/8/875.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/8/875m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/8/875m.jpg"
       ],
       "stock_count": 0
     },
@@ -6423,8 +8169,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2858.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2858.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2858m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2858m.jpg"
       ],
       "stock_count": 0
     },
@@ -6445,8 +8197,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2859.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2859.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2859m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2859m.jpg"
       ],
       "stock_count": 0
     },
@@ -6467,8 +8225,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2836.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2836.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2836m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2836m.jpg"
       ],
       "stock_count": 0
     },
@@ -6489,8 +8253,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2837.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2837.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2837m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2837m.jpg"
       ],
       "stock_count": 0
     },
@@ -6511,8 +8281,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2838.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2838.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2838m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2838m.jpg"
       ],
       "stock_count": 0
     },
@@ -6533,8 +8309,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2839.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2839.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2839m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2839m.jpg"
       ],
       "stock_count": 0
     },
@@ -6555,8 +8337,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2791.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2791.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2791m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2791m.jpg"
       ],
       "stock_count": 0
     },
@@ -6577,8 +8365,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2792.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2792.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2792m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2792m.jpg"
       ],
       "stock_count": 0
     },
@@ -6599,8 +8393,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/8/876.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/8/876.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/8/876m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/8/876m.jpg"
       ],
       "stock_count": 0
     },
@@ -6621,8 +8421,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/8/877.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/8/877.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/8/877m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/8/877m.jpg"
       ],
       "stock_count": 0
     },
@@ -6643,8 +8449,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/8/878.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/8/878.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/8/878m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/8/878m.jpg"
       ],
       "stock_count": 0
     },
@@ -6665,8 +8477,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2862.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2862.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2862m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2862m.jpg"
       ],
       "stock_count": 0
     },
@@ -6687,8 +8505,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/00/28.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/00/28.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/00/28m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/00/28m.jpg"
       ],
       "stock_count": 0
     },
@@ -6709,8 +8533,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2832.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2832.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2832m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2832m.jpg"
       ],
       "stock_count": 0
     },
@@ -6731,8 +8561,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2833.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2833.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2833m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2833m.jpg"
       ],
       "stock_count": 0
     },
@@ -6753,8 +8589,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2834.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2834.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2834m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2834m.jpg"
       ],
       "stock_count": 0
     },
@@ -6775,8 +8617,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2835.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2835.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2835m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2835m.jpg"
       ],
       "stock_count": 0
     },
@@ -6797,8 +8645,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2701.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2701.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2701m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2701m.jpg"
       ],
       "stock_count": 0
     },
@@ -6819,8 +8673,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2702.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2702.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2702m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2702m.jpg"
       ],
       "stock_count": 0
     },
@@ -6841,8 +8701,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2736.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2736.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2736m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2736m.jpg"
       ],
       "stock_count": 0
     },
@@ -6863,8 +8729,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2703.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2703.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2703m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2703m.jpg"
       ],
       "stock_count": 0
     },
@@ -6885,8 +8757,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2704.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2704.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2704m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2704m.jpg"
       ],
       "stock_count": 0
     },
@@ -6907,8 +8785,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2705.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2705.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2705m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2705m.jpg"
       ],
       "stock_count": 0
     },
@@ -6929,8 +8813,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2860.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2860.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2860m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2860m.jpg"
       ],
       "stock_count": 0
     },
@@ -6951,8 +8841,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2520.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2520.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2520m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2520m.jpg"
       ],
       "stock_count": 0
     },
@@ -6973,8 +8869,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2521.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2521.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2521m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2521m.jpg"
       ],
       "stock_count": 0
     },
@@ -6995,8 +8897,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/13/1392.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1392.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1392m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1392m.jpg"
       ],
       "stock_count": 0
     },
@@ -7017,8 +8925,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2504.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2504.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2504m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2504m.jpg"
       ],
       "stock_count": 0
     },
@@ -7039,8 +8953,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/11/1161.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1161.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1161m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1161m.jpg"
       ],
       "stock_count": 0
     },
@@ -7061,8 +8981,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/8/824.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/8/824.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/8/824m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/8/824m.jpg"
       ],
       "stock_count": 0
     },
@@ -7083,8 +9009,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/19/1922.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1922.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1922m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1922m.jpg"
       ],
       "stock_count": 0
     },
@@ -7105,8 +9037,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/8/821.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/8/821.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/8/821m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/8/821m.jpg"
       ],
       "stock_count": 0
     },
@@ -7127,8 +9065,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/00/88.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/00/88.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/00/88m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/00/88m.jpg"
       ],
       "stock_count": 0
     },
@@ -7149,8 +9093,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/00/89.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/00/89.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/00/89m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/00/89m.jpg"
       ],
       "stock_count": 0
     },
@@ -7171,8 +9121,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/00/90.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/00/90.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/00/90m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/00/90m.jpg"
       ],
       "stock_count": 0
     },
@@ -7193,8 +9149,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/00/91.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/00/91.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/00/91m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/00/91m.jpg"
       ],
       "stock_count": 0
     },
@@ -7215,8 +9177,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/12/1254.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1254.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/12/1254m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1254m.jpg"
       ],
       "stock_count": 0
     },
@@ -7237,8 +9205,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/29/2928.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2928.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2928m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2928m.jpg"
       ],
       "stock_count": 0
     },
@@ -7259,8 +9233,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2898.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2898.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2898m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2898m.jpg"
       ],
       "stock_count": 0
     },
@@ -7281,8 +9261,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2723.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2723.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2723m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2723m.jpg"
       ],
       "stock_count": 0
     },
@@ -7303,8 +9289,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2892.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2892.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2892m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2892m.jpg"
       ],
       "stock_count": 0
     },
@@ -7325,8 +9317,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2872.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2872.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2872m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2872m.jpg"
       ],
       "stock_count": 0
     },
@@ -7347,8 +9345,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2699.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2699.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2699m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2699m.jpg"
       ],
       "stock_count": 0
     },
@@ -7369,8 +9373,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/13/1360.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1360.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1360m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1360m.jpg"
       ],
       "stock_count": 0
     },
@@ -7391,8 +9401,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2616.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2616.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2616m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2616m.jpg"
       ],
       "stock_count": 0
     },
@@ -7413,8 +9429,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/1/121.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/1/121.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/1/121m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/1/121m.jpg"
       ],
       "stock_count": 0
     },
@@ -7435,8 +9457,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/6/617.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/6/617.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/6/617m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/6/617m.jpg"
       ],
       "stock_count": 0
     },
@@ -7457,8 +9485,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/6/618.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/6/618.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/6/618m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/6/618m.jpg"
       ],
       "stock_count": 0
     },
@@ -7479,8 +9513,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2842.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2842.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2842m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2842m.jpg"
       ],
       "stock_count": 0
     },
@@ -7501,8 +9541,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/13/1381.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1381.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1381m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1381m.jpg"
       ],
       "stock_count": 0
     },
@@ -7523,8 +9569,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/14/1466.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1466.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/14/1466m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/14/1466m.jpg"
       ],
       "stock_count": 0
     },
@@ -7545,8 +9597,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/18/1837.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/18/1837.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/18/1837m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/18/1837m.jpg"
       ],
       "stock_count": 0
     },
@@ -7567,8 +9625,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/14/1454.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1454.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/14/1454m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/14/1454m.jpg"
       ],
       "stock_count": 0
     },
@@ -7589,8 +9653,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2711.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2711.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2711m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2711m.jpg"
       ],
       "stock_count": 0
     },
@@ -7611,8 +9681,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/12/1284.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1284.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/12/1284m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1284m.jpg"
       ],
       "stock_count": 0
     },
@@ -7633,8 +9709,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1007.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1007.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1007m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1007m.jpg"
       ],
       "stock_count": 0
     },
@@ -7655,8 +9737,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1009.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1009.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1009m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1009m.jpg"
       ],
       "stock_count": 0
     },
@@ -7677,8 +9765,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2698.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2698.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2698m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2698m.jpg"
       ],
       "stock_count": 0
     },
@@ -7699,8 +9793,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/8/841.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/8/841.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/8/841m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/8/841m.jpg"
       ],
       "stock_count": 0
     },
@@ -7721,8 +9821,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2524.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2524.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2524m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2524m.jpg"
       ],
       "stock_count": 0
     },
@@ -7743,8 +9849,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/9/932.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/9/932.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/9/932m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/9/932m.jpg"
       ],
       "stock_count": 0
     },
@@ -7765,8 +9877,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/3/363.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/3/363.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/3/363m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/3/363m.jpg"
       ],
       "stock_count": 0
     },
@@ -7787,8 +9905,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2554.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2554.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2554m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2554m.jpg"
       ],
       "stock_count": 0
     },
@@ -7809,8 +9933,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2555.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2555.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2555m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2555m.jpg"
       ],
       "stock_count": 0
     },
@@ -7831,8 +9961,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/12/1213.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1213.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/12/1213m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1213m.jpg"
       ],
       "stock_count": 0
     },
@@ -7853,8 +9989,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/3/354.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/3/354.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/3/354m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/3/354m.jpg"
       ],
       "stock_count": 0
     },
@@ -7875,8 +10017,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/12/1283.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1283.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/12/1283m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1283m.jpg"
       ],
       "stock_count": 0
     },
@@ -7897,8 +10045,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/9/929.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/9/929.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/9/929m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/9/929m.jpg"
       ],
       "stock_count": 0
     },
@@ -7919,8 +10073,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/24/2489.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/24/2489.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/24/2489m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/24/2489m.jpg"
       ],
       "stock_count": 0
     },
@@ -7941,8 +10101,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2606.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2606.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2606m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2606m.jpg"
       ],
       "stock_count": 0
     },
@@ -7963,8 +10129,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2879.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2879.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2879m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2879m.jpg"
       ],
       "stock_count": 0
     },
@@ -7985,8 +10157,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2599.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2599.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2599m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2599m.jpg"
       ],
       "stock_count": 0
     },
@@ -8007,8 +10185,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/7/757.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/7/757.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/7/757m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/7/757m.jpg"
       ],
       "stock_count": 0
     },
@@ -8029,8 +10213,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/24/2480.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/24/2480.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/24/2480m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/24/2480m.jpg"
       ],
       "stock_count": 0
     },
@@ -8051,8 +10241,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2607.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2607.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2607m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2607m.jpg"
       ],
       "stock_count": 0
     },
@@ -8073,8 +10269,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2608.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2608.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2608m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2608m.jpg"
       ],
       "stock_count": 0
     },
@@ -8095,8 +10297,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2553.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2553.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2553m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2553m.jpg"
       ],
       "stock_count": 0
     },
@@ -8117,8 +10325,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2808.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2808.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2808m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2808m.jpg"
       ],
       "stock_count": 0
     },
@@ -8139,8 +10353,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2880.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2880.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2880m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2880m.jpg"
       ],
       "stock_count": 0
     },
@@ -8161,8 +10381,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2597.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2597.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2597m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2597m.jpg"
       ],
       "stock_count": 0
     },
@@ -8183,8 +10409,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2552.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2552.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2552m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2552m.jpg"
       ],
       "stock_count": 0
     },
@@ -8205,8 +10437,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1002.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1002.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1002m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1002m.jpg"
       ],
       "stock_count": 0
     },
@@ -8227,8 +10465,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/13/1374.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1374.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1374m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1374m.jpg"
       ],
       "stock_count": 0
     },
@@ -8249,8 +10493,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/7/769.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/7/769.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/7/769m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/7/769m.jpg"
       ],
       "stock_count": 0
     },
@@ -8271,8 +10521,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/7/771.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/7/771.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/7/771m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/7/771m.jpg"
       ],
       "stock_count": 0
     },
@@ -8293,8 +10549,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/24/2490.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/24/2490.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/24/2490m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/24/2490m.jpg"
       ],
       "stock_count": 0
     },
@@ -8315,8 +10577,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/12/1268.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1268.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/12/1268m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1268m.jpg"
       ],
       "stock_count": 0
     },
@@ -8337,8 +10605,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/12/1266.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1266.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/12/1266m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1266m.jpg"
       ],
       "stock_count": 0
     },
@@ -8359,8 +10633,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/12/1269.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1269.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/12/1269m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1269m.jpg"
       ],
       "stock_count": 0
     },
@@ -8381,8 +10661,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/13/1389.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1389.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1389m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1389m.jpg"
       ],
       "stock_count": 0
     },
@@ -8403,8 +10689,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2884.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2884.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2884m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2884m.jpg"
       ],
       "stock_count": 0
     },
@@ -8425,8 +10717,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2644.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2644.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2644m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2644m.jpg"
       ],
       "stock_count": 0
     },
@@ -8447,8 +10745,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2878.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2878.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2878m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2878m.jpg"
       ],
       "stock_count": 0
     },
@@ -8469,8 +10773,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2877.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2877.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2877m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2877m.jpg"
       ],
       "stock_count": 0
     },
@@ -8491,8 +10801,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1083.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1083.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1083m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1083m.jpg"
       ],
       "stock_count": 0
     },
@@ -8513,8 +10829,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1082.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1082.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1082m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1082m.jpg"
       ],
       "stock_count": 0
     },
@@ -8535,8 +10857,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1080.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1080.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1080m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1080m.jpg"
       ],
       "stock_count": 0
     },
@@ -8557,8 +10885,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1077.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1077.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1077m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1077m.jpg"
       ],
       "stock_count": 0
     },
@@ -8579,8 +10913,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2697.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2697.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2697m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2697m.jpg"
       ],
       "stock_count": 0
     },
@@ -8601,8 +10941,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1075.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1075.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1075m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1075m.jpg"
       ],
       "stock_count": 0
     },
@@ -8623,8 +10969,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/10/1076.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1076.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1076m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1076m.jpg"
       ],
       "stock_count": 0
     },
@@ -8645,8 +10997,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/6/692.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/6/692.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/6/692m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/6/692m.jpg"
       ],
       "stock_count": 0
     },
@@ -8667,8 +11025,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/6/693.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/6/693.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/6/693m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/6/693m.jpg"
       ],
       "stock_count": 0
     },
@@ -8689,8 +11053,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/29/2925.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2925.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2925m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2925m.jpg"
       ],
       "stock_count": 0
     },
@@ -8711,8 +11081,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2535.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2535.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2535m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2535m.jpg"
       ],
       "stock_count": 0
     },
@@ -8733,8 +11109,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2534.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2534.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2534m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2534m.jpg"
       ],
       "stock_count": 0
     },
@@ -8755,8 +11137,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2533.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2533.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2533m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2533m.jpg"
       ],
       "stock_count": 0
     },
@@ -8777,8 +11165,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/9/927.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/9/927.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/9/927m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/9/927m.jpg"
       ],
       "stock_count": 0
     },
@@ -8799,8 +11193,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2574.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2574.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2574m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2574m.jpg"
       ],
       "stock_count": 0
     },
@@ -8821,8 +11221,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2575.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2575.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2575m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2575m.jpg"
       ],
       "stock_count": 0
     },
@@ -8843,8 +11249,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2573.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2573.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2573m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2573m.jpg"
       ],
       "stock_count": 0
     },
@@ -8865,8 +11277,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2651.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2651.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2651m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2651m.jpg"
       ],
       "stock_count": 0
     },
@@ -8887,8 +11305,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/7/728.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/7/728.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/7/728m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/7/728m.jpg"
       ],
       "stock_count": 0
     },
@@ -8909,8 +11333,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/7/729.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/7/729.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/7/729m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/7/729m.jpg"
       ],
       "stock_count": 0
     },
@@ -8931,8 +11361,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/7/730.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/7/730.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/7/730m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/7/730m.jpg"
       ],
       "stock_count": 0
     },
@@ -8953,8 +11389,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2584.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2584.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2584m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2584m.jpg"
       ],
       "stock_count": 0
     },
@@ -8975,8 +11417,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2502.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2502.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2502m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2502m.jpg"
       ],
       "stock_count": 0
     },
@@ -8997,8 +11445,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2503.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2503.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2503m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2503m.jpg"
       ],
       "stock_count": 0
     },
@@ -9019,8 +11473,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/9/928.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/9/928.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/9/928m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/9/928m.jpg"
       ],
       "stock_count": 0
     },
@@ -9041,8 +11501,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2780.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2780.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2780m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2780m.jpg"
       ],
       "stock_count": 0
     },
@@ -9063,8 +11529,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/26/2677.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2677.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2677m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2677m.jpg"
       ],
       "stock_count": 0
     },
@@ -9085,8 +11557,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/13/1330.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1330.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1330m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1330m.jpg"
       ],
       "stock_count": 0
     },
@@ -9107,8 +11585,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/14/1421.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1421.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/14/1421m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/14/1421m.jpg"
       ],
       "stock_count": 0
     },
@@ -9129,8 +11613,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/13/1398.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1398.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1398m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1398m.jpg"
       ],
       "stock_count": 0
     },
@@ -9151,8 +11641,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2763.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2763.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2763m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2763m.jpg"
       ],
       "stock_count": 0
     },
@@ -9173,8 +11669,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2764.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2764.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2764m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2764m.jpg"
       ],
       "stock_count": 0
     },
@@ -9195,8 +11697,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/5/567.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/5/567.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/5/567m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/5/567m.jpg"
       ],
       "stock_count": 0
     },
@@ -9217,8 +11725,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/5/569.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/5/569.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/5/569m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/5/569m.jpg"
       ],
       "stock_count": 0
     },
@@ -9239,8 +11753,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/29/2936.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2936.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2936m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2936m.jpg"
       ],
       "stock_count": 0
     },
@@ -9261,8 +11781,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/5/553.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/5/553.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/5/553m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/5/553m.jpg"
       ],
       "stock_count": 0
     },
@@ -9283,8 +11809,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2760.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2760.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2760m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2760m.jpg"
       ],
       "stock_count": 0
     },
@@ -9305,8 +11837,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/5/549.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/5/549.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/5/549m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/5/549m.jpg"
       ],
       "stock_count": 0
     },
@@ -9327,8 +11865,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/2/290.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/2/290.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/2/290m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/2/290m.jpg"
       ],
       "stock_count": 0
     },
@@ -9349,8 +11893,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2550.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2550.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2550m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2550m.jpg"
       ],
       "stock_count": 0
     },
@@ -9371,8 +11921,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/29/2927.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2927.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2927m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2927m.jpg"
       ],
       "stock_count": 0
     },
@@ -9393,8 +11949,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/29/2926.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2926.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2926m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2926m.jpg"
       ],
       "stock_count": 0
     },
@@ -9415,8 +11977,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2761.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2761.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2761m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2761m.jpg"
       ],
       "stock_count": 0
     },
@@ -9437,8 +12005,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2762.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2762.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2762m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2762m.jpg"
       ],
       "stock_count": 0
     },
@@ -9459,8 +12033,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/25/2500.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2500.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2500m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2500m.jpg"
       ],
       "stock_count": 0
     },
@@ -9481,8 +12061,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/7/717.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/7/717.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/7/717m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/7/717m.jpg"
       ],
       "stock_count": 0
     },
@@ -9503,8 +12089,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/6/647.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/6/647.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/6/647m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/6/647m.jpg"
       ],
       "stock_count": 0
     },
@@ -9525,8 +12117,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2729.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2729.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2729m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2729m.jpg"
       ],
       "stock_count": 0
     },
@@ -9547,8 +12145,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2727.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2727.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2727m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2727m.jpg"
       ],
       "stock_count": 0
     },
@@ -9569,8 +12173,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2844.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2844.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2844m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2844m.jpg"
       ],
       "stock_count": 0
     },
@@ -9591,8 +12201,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2753.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2753.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2753m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2753m.jpg"
       ],
       "stock_count": 0
     },
@@ -9613,8 +12229,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2754.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2754.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2754m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2754m.jpg"
       ],
       "stock_count": 0
     },
@@ -9635,8 +12257,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/24/2486.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/24/2486.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/24/2486m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/24/2486m.jpg"
       ],
       "stock_count": 0
     },
@@ -9657,8 +12285,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2747.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2747.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2747m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2747m.jpg"
       ],
       "stock_count": 0
     },
@@ -9679,8 +12313,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/28/2843.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2843.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2843m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2843m.jpg"
       ],
       "stock_count": 0
     },
@@ -9701,8 +12341,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2730.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2730.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2730m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2730m.jpg"
       ],
       "stock_count": 0
     },
@@ -9723,8 +12369,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2731.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2731.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2731m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2731m.jpg"
       ],
       "stock_count": 0
     },
@@ -9745,8 +12397,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2732.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2732.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2732m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2732m.jpg"
       ],
       "stock_count": 0
     },
@@ -9767,8 +12425,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2728.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2728.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2728m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2728m.jpg"
       ],
       "stock_count": 0
     },
@@ -9789,8 +12453,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/27/2746.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2746.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/27/2746m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/27/2746m.jpg"
       ],
       "stock_count": 0
     },
@@ -9811,8 +12481,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/3/346.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/3/346.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/3/346m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/3/346m.jpg"
       ],
       "stock_count": 0
     },
@@ -9833,8 +12509,14 @@
       "image_urls": [
         "https://bosminiofficial.ru/_sh/12/1285.jpg"
       ],
-      "local_images": [
+      "full_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1285.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/12/1285m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1285m.jpg"
       ],
       "stock_count": 0
     }
