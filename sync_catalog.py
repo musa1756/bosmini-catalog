@@ -29,8 +29,10 @@ import httpx
 # Cleaning at the sync stage means every device gets clean names and we don't
 # repeat the cleanup commit (f49f657) each time a sale runs through.
 _LEAD_JUNK_RE = re.compile(r"^[\\/*~`«»]+\s*")
-_INCH_LOW_QUOTE_RE = re.compile(r",,\s*(\d+)\s*(?:''|\"+)")
-_INCH_TRAILING_APOS_RE = re.compile(r"(\d+)\s*''")
+_INCH_LOW_QUOTE_RE = re.compile(r",,\s*(\d+)\s*(?:''|\"+|”)")
+_INCH_TRAILING_QUOTE_RE = re.compile(r"(\d+)\s*(?:''|”)")
+_BARE_LOW_QUOTE_RE = re.compile(r",,(?=\S)")
+_SMART_CLOSE_QUOTE_RE = re.compile(r"”")
 
 
 def clean_product_name(name: str) -> str:
@@ -38,7 +40,9 @@ def clean_product_name(name: str) -> str:
     s = name.strip()
     s = _LEAD_JUNK_RE.sub("", s)
     s = _INCH_LOW_QUOTE_RE.sub(r'\1"', s)
-    s = _INCH_TRAILING_APOS_RE.sub(r'\1"', s)
+    s = _INCH_TRAILING_QUOTE_RE.sub(r'\1"', s)
+    s = _BARE_LOW_QUOTE_RE.sub('"', s)
+    s = _SMART_CLOSE_QUOTE_RE.sub('"', s)
     return s.strip()
 
 UA = (
