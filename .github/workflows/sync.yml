@@ -26,19 +26,16 @@ jobs:
       - name: Install httpx
         run: pip install --quiet httpx
 
-      - name: Write .env from secret
+      - name: Pull catalog
         env:
+          UCOZ_SITE: bosminiofficial.ru
           UCOZ_TOKEN: ${{ secrets.UCOZ_TOKEN }}
         run: |
           if [ -z "$UCOZ_TOKEN" ]; then
             echo "::error::UCOZ_TOKEN secret is not set"
             exit 1
           fi
-          umask 077
-          printf "UCOZ_SITE=bosminiofficial.ru\nUCOZ_TOKEN=%s\n" "$UCOZ_TOKEN" > .env
-
-      - name: Pull catalog
-        run: python sync_catalog.py --out catalog.json
+          python sync_catalog.py --out catalog.json
 
       - name: Commit if changed
         run: |

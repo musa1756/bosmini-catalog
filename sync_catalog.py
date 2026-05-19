@@ -14,6 +14,7 @@ from __future__ import annotations
 import argparse
 import html
 import json
+import os
 import sys
 import time
 from pathlib import Path
@@ -26,15 +27,29 @@ UA = (
 )
 
 
-def load_env(env_path: Path) -> dict[str, str]:
-    env: dict[str, str] = {}
-    for line in env_path.read_text(encoding="utf-8").splitlines():
-        line = line.strip()
-        if not line or line.startswith("#") or "=" not in line:
-            continue
-        k, _, v = line.partition("=")
-        env[k.strip()] = v.strip().strip('"').strip("'")
-    return env
+def load_env(script_dir: Path) -> dict[str, str]:
+    """Resolve UCOZ_SITE/UCOZ_TOKEN. Priority:
+      1. Process environment (used by CI workflows)
+      2. .env beside the script
+      3. .env in the script's parent directory (legacy layout when this
+         script lived inside bosmini_app/tools/ucoz/, with .env in tools/)
+    """
+    if os.environ.get("UCOZ_SITE") and os.environ.get("UCOZ_TOKEN"):
+        return {
+            "UCOZ_SITE": os.environ["UCOZ_SITE"],
+            "UCOZ_TOKEN": os.environ["UCOZ_TOKEN"],
+        }
+    for candidate in (script_dir / ".env", script_dir.parent / ".env"):
+        if candidate.exists():
+            env: dict[str, str] = {}
+            for line in candidate.read_text(encoding="utf-8").splitlines():
+                line = line.strip()
+                if not line or line.startswith("#") or "=" not in line:
+                    continue
+                k, _, v = line.partition("=")
+                env[k.strip()] = v.strip().strip('"').strip("'")
+            return env
+    return {}
 
 
 def fetch_categories(client: httpx.Client, base: str) -> list[dict]:
@@ -200,12 +215,15 @@ def run() -> int:
     args = ap.parse_args()
 
     here = Path(__file__).resolve().parent
-    env_path = here.parent / ".env"
-    env = load_env(env_path)
+    env = load_env(here)
     site = env.get("UCOZ_SITE")
     token = env.get("UCOZ_TOKEN")
     if not (site and token):
-        print("ERROR: UCOZ_SITE and UCOZ_TOKEN must be set in .env", file=sys.stderr)
+        print(
+            "ERROR: UCOZ_SITE and UCOZ_TOKEN must be set as env vars "
+            "or in a .env file next to the script.",
+            file=sys.stderr,
+        )
         return 2
 
     base = f"https://{site}/uapi"
