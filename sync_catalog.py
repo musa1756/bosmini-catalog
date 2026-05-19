@@ -144,17 +144,27 @@ def to_product_json(entry: dict, cat_lookup: dict[int, str]) -> dict:
 
     photo = entry.get("entry_photo") or {}
     def_p = photo.get("def_photo") or {}
+    # uCoz serves 4 sizes per photo:
+    #   small (~4 KB),  thumb (~57 KB),  middl (~170 KB),  photo (~270 KB).
+    # Catalog tiles use thumb — ~5× less bandwidth and memory than photo.
+    # Detail galleries use photo for full quality.
+    thumb_url = def_p.get("thumb") or def_p.get("small") or def_p.get("middl") or def_p.get("photo") or ""
     full_url = def_p.get("photo") or def_p.get("middl") or def_p.get("thumb") or ""
-    image_urls: list[str] = []
-    if full_url:
-        image_urls.append(full_url)
+
+    thumb_urls: list[str] = [thumb_url] if thumb_url else []
+    full_urls: list[str] = [full_url] if full_url else []
+
     others = photo.get("others_photo")
     if isinstance(others, list):
         for o in others:
-            if isinstance(o, dict):
-                u = o.get("photo") or o.get("middl") or o.get("thumb")
-                if u and u not in image_urls:
-                    image_urls.append(u)
+            if not isinstance(o, dict):
+                continue
+            t = o.get("thumb") or o.get("small") or o.get("middl") or o.get("photo")
+            f = o.get("photo") or o.get("middl") or o.get("thumb")
+            if t and t not in thumb_urls:
+                thumb_urls.append(t)
+            if f and f not in full_urls:
+                full_urls.append(f)
 
     brand = (entry.get("entry_brand") or "").strip()
     sku = (entry.get("entry_art_no") or "").strip()
@@ -198,11 +208,15 @@ def to_product_json(entry: dict, cat_lookup: dict[int, str]) -> dict:
         "brand_tags": [brand] if brand else [],
         "description": description,
         "specs": [],
-        "image_urls": image_urls,
-        # local_images doubles as the path Flutter feeds into ProductThumb.
-        # product_thumb.dart routes http(s):// through BosNetworkImage automatically,
-        # so HTTPS URLs work without any Flutter changes.
-        "local_images": image_urls,
+        # full-resolution URLs — used by ProductScreen hero/zoom gallery.
+        "image_urls": full_urls,
+        "full_image_urls": full_urls,
+        # thumb-sized URLs — used by ProductThumb in catalog tiles
+        # (~5× smaller than full, decoded directly without client-side downscale).
+        # local_images is the field name ProductThumb already consumes;
+        # we keep it for backward compat but swap the contents to thumbs.
+        "local_images": thumb_urls,
+        "thumb_image_urls": thumb_urls,
         "stock_count": int(stock_total) if isinstance(stock_total, (int, float)) else 0,
     }
 
