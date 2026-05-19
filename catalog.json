@@ -1,37 +1,9 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779219664,
+  "generated_at": 1779224856,
   "scraped_count": 447,
   "products": [
-    {
-      "slug": "alpine-409s-2-64gb",
-      "url": "https://bosminiofficial.ru/shop/1978/desc/alpine-409s-2-64gb",
-      "name": "ALPINE 409S 2+64Gb",
-      "sku": "",
-      "price_rub": 5000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9\" ✅Память-2+64GB ✅Bluetooth, Wi-Fi ✅CarPlay ✅Кулер охлаждения ✅Набор проводов в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.ru/_sh/19/1978.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.ru/_sh/19/1978.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.ru/_sh/19/1978m.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.ru/_sh/19/1978m.jpg"
-      ],
-      "stock_count": 0
-    },
     {
       "slug": "ah-9999-4-64gb-9",
       "url": "https://bosminiofficial.ru/shop/1935/desc/ah-9999-4-64gb-9",
@@ -57,6 +29,34 @@
       ],
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1935m.jpg"
+      ],
+      "stock_count": 0
+    },
+    {
+      "slug": "alpine-409s-2-64gb",
+      "url": "https://bosminiofficial.ru/shop/1978/desc/alpine-409s-2-64gb",
+      "name": "ALPINE 409S 2+64Gb",
+      "sku": "",
+      "price_rub": 5000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-9\" ✅Память-2+64GB ✅Bluetooth, Wi-Fi ✅CarPlay ✅Кулер охлаждения ✅Набор проводов в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1978.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1978.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/19/1978m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/19/1978m.jpg"
       ],
       "stock_count": 0
     },
