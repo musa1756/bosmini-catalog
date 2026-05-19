@@ -26,6 +26,18 @@ jobs:
       - name: Install httpx
         run: pip install --quiet httpx
 
+      - name: Snapshot previous count
+        id: prev
+        run: |
+          # Read scraped_count from the committed catalog (HEAD) before we
+          # overwrite the file. Empty string if catalog.json doesn't exist yet.
+          if [ -f catalog.json ]; then
+            old=$(python -c "import json; print(json.load(open('catalog.json'))['scraped_count'])")
+          else
+            old=""
+          fi
+          echo "old=$old" >> "$GITHUB_OUTPUT"
+
       - name: Pull catalog
         env:
           UCOZ_SITE: bosminiofficial.ru
@@ -36,6 +48,32 @@ jobs:
             exit 1
           fi
           python sync_catalog.py --out catalog.json
+
+      - name: Sanity check (count not collapsed)
+        env:
+          OLD: ${{ steps.prev.outputs.old }}
+          MIN_RATIO: "0.8"
+        run: |
+          new=$(python -c "import json; print(json.load(open('catalog.json'))['scraped_count'])")
+          echo "Previous count: ${OLD:-<none>}"
+          echo "New count:      $new"
+          if [ -z "$OLD" ]; then
+            echo "First run — nothing to compare. Accepting."
+            exit 0
+          fi
+          # Refuse to publish if the catalog shrank below MIN_RATIO of the prior
+          # snapshot. Guards against partial uAPI failures (one category 5xx'd
+          # mid-fetch) leaving us with a half-empty feed in production.
+          python - <<PY
+          import os, sys
+          old = int(os.environ["OLD"])
+          new = $new
+          ratio = float(os.environ["MIN_RATIO"])
+          if old > 0 and new < old * ratio:
+              print(f"::error::Catalog collapsed: {new} < {old} * {ratio} ({int(old*ratio)}). Refusing to commit.")
+              sys.exit(1)
+          print(f"OK — {new} >= {int(old*ratio)} (floor at {ratio:.0%} of previous).")
+          PY
 
       - name: Commit if changed
         run: |
@@ -50,3 +88,22 @@ jobs:
           else
             echo "No changes — catalog already up to date."
           fi
+
+      - name: Notify Telegram on failure
+        # Self-skips when secrets aren't set, so this can land before the user
+        # finishes wiring the bot. Once TG_BOT_TOKEN+TG_CHAT_ID exist as repo
+        # secrets, any failed run (uAPI 5xx, sanity check trip, token expiry…)
+        # pings the chat with a link to the failed run.
+        if: ${{ failure() && env.TG_BOT_TOKEN != '' && env.TG_CHAT_ID != '' }}
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          text="🚨 *BOS·MINI catalog sync FAILED*%0A%0ARepo: ${GITHUB_REPOSITORY}%0ARun: ${RUN_URL}"
+          curl -fsS -X POST \
+            "https://api.telegram.org/bot${TG_BOT_TOKEN}/sendMessage" \
+            -d "chat_id=${TG_CHAT_ID}" \
+            -d "parse_mode=Markdown" \
+            -d "disable_web_page_preview=true" \
+            -d "text=${text}"
