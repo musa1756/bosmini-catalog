@@ -1,13 +1,13 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779213302,
+  "generated_at": 1779219664,
   "scraped_count": 447,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
       "url": "https://bosminiofficial.ru/shop/1978/desc/alpine-409s-2-64gb",
-      "name": "ALPINE 409S 2+64Gb",
+      "name": "/////ALPINE 409S 2+64Gb",
       "sku": "",
       "price_rub": 5000,
       "old_price_rub": null,
@@ -35,7 +35,7 @@
     {
       "slug": "ah-9999-4-64gb-9",
       "url": "https://bosminiofficial.ru/shop/1935/desc/ah-9999-4-64gb-9",
-      "name": "AH-9999 4+64Gb 9\"",
+      "name": "AH-9999 4+64Gb ,,9''",
       "sku": "",
       "price_rub": 8000,
       "old_price_rub": null,
@@ -91,7 +91,7 @@
     {
       "slug": "bos-mini-8701-2-32gb-7",
       "url": "https://bosminiofficial.ru/shop/1942/desc/bos-mini-8701-2-32gb-7",
-      "name": "BOS-MINI 8701 2+32Gb 7\"",
+      "name": "BOS-MINI 8701 2+32Gb ,,7''",
       "sku": "",
       "price_rub": 3750,
       "old_price_rub": null,
@@ -119,7 +119,7 @@
     {
       "slug": "bos-mini-8702-2-32gb-7",
       "url": "https://bosminiofficial.ru/shop/1943/desc/bos-mini-8702-2-32gb-7",
-      "name": "BOS-MINI 8702 2+32Gb 7\"",
+      "name": "BOS-MINI 8702 2+32Gb ,,7''",
       "sku": "",
       "price_rub": 3750,
       "old_price_rub": null,
@@ -147,7 +147,7 @@
     {
       "slug": "bos-mini-a1-pro-4-64gb-9",
       "url": "https://bosminiofficial.ru/shop/2717/desc/bos-mini-a1-pro-4-64gb-9",
-      "name": "BOS-MINI A1 Pro 4+64Gb 9\"",
+      "name": "BOS-MINI A1 Pro 4+64Gb ,,9\"",
       "sku": "",
       "price_rub": 5500,
       "old_price_rub": null,
@@ -175,7 +175,7 @@
     {
       "slug": "bos-mini-a2-4-64gb-10",
       "url": "https://bosminiofficial.ru/shop/1941/desc/bos-mini-a2-4-64gb-10",
-      "name": "BOS-MINI A2 4+64Gb 10\"",
+      "name": "BOS-MINI A2 4+64Gb ,,10''",
       "sku": "",
       "price_rub": 5500,
       "old_price_rub": null,
@@ -203,7 +203,7 @@
     {
       "slug": "bos-mini-a2-4-64gb-9",
       "url": "https://bosminiofficial.ru/shop/1940/desc/bos-mini-a2-4-64gb-9",
-      "name": "BOS-MINI A2 4+64Gb 9\"",
+      "name": "BOS-MINI A2 4+64Gb ,,9''",
       "sku": "",
       "price_rub": 5500,
       "old_price_rub": null,
@@ -231,7 +231,7 @@
     {
       "slug": "bos-mini-a42-6-64gb-9",
       "url": "https://bosminiofficial.ru/shop/2545/desc/bos-mini-a42-6-64gb-9",
-      "name": "BOS-MINI A42 6+64Gb 9\"",
+      "name": "BOS-MINI A42 6+64Gb ,,9''",
       "sku": "",
       "price_rub": 6400,
       "old_price_rub": null,
@@ -259,7 +259,7 @@
     {
       "slug": "bos-mini-a7-4-64gb-7",
       "url": "https://bosminiofficial.ru/shop/2636/desc/bos-mini-a7-4-64gb-7",
-      "name": "BOS-MINI A7 4+64Gb 7\"",
+      "name": "BOS-MINI A7 4+64Gb ,,7\"",
       "sku": "",
       "price_rub": 6850,
       "old_price_rub": null,
@@ -315,7 +315,7 @@
     {
       "slug": "bos-mini-q2-9",
       "url": "https://bosminiofficial.ru/shop/1982/desc/bos-mini-q2-9",
-      "name": "BOS-MINI Q2 9\"",
+      "name": "BOS-MINI Q2 ,,9''",
       "sku": "",
       "price_rub": 5200,
       "old_price_rub": null,
@@ -343,7 +343,7 @@
     {
       "slug": "bos-mini-q70-6-64gb-7",
       "url": "https://bosminiofficial.ru/shop/2495/desc/bos-mini-q70-6-64gb-7",
-      "name": "BOS-MINI Q70 6+64Gb 7\"",
+      "name": "BOS-MINI Q70 6+64Gb ,,7\"",
       "sku": "",
       "price_rub": 6500,
       "old_price_rub": null,
@@ -371,7 +371,7 @@
     {
       "slug": "bos-mini-q8-4-64gb-9",
       "url": "https://bosminiofficial.ru/shop/2715/desc/bos-mini-q8-4-64gb-9",
-      "name": "BOS-MINI Q8 4+64Gb 9\"",
+      "name": "BOS-MINI Q8 4+64Gb ,,9\"",
       "sku": "",
       "price_rub": 7500,
       "old_price_rub": null,
@@ -399,7 +399,7 @@
     {
       "slug": "bos-mini-t2-4-64gb-10",
       "url": "https://bosminiofficial.ru/shop/2022/desc/bos-mini-t2-4-64gb-10",
-      "name": "BOS-MINI T2 4+64Gb 10\"",
+      "name": "BOS-MINI T2 4+64Gb ,,10''",
       "sku": "",
       "price_rub": 5000,
       "old_price_rub": null,
@@ -427,7 +427,7 @@
     {
       "slug": "bos-mini-t3-4-64gb-9",
       "url": "https://bosminiofficial.ru/shop/2905/desc/bos-mini-t3-4-64gb-9",
-      "name": "BOS-MINI T3 4+64Gb 9\"",
+      "name": "BOS-MINI T3 4+64Gb ,,9''",
       "sku": "",
       "price_rub": 5200,
       "old_price_rub": null,
@@ -455,7 +455,7 @@
     {
       "slug": "bos-mini-t6-4-64gb-9",
       "url": "https://bosminiofficial.ru/shop/2557/desc/bos-mini-t6-4-64gb-9",
-      "name": "BOS-MINI T6 4+64Gb 9\"",
+      "name": "BOS-MINI T6 4+64Gb ,,9\"",
       "sku": "",
       "price_rub": 6700,
       "old_price_rub": null,
@@ -623,7 +623,7 @@
     {
       "slug": "bos-mini-a1pro-10-4-64gb",
       "url": "https://bosminiofficial.ru/shop/2686/desc/bos-mini-a1pro-10-4-64gb",
-      "name": "Bos-Mini A1Pro 10\" 4+64Gb",
+      "name": "Bos-Mini A1Pro ,,10\" 4+64Gb",
       "sku": "",
       "price_rub": 5500,
       "old_price_rub": null,
@@ -763,7 +763,7 @@
     {
       "slug": "bos-mini-cc3-max-12-256gb-9",
       "url": "https://bosminiofficial.ru/shop/1948/desc/bos-mini-cc3-max-12-256gb-9",
-      "name": "Bos-Mini CC3 MAX 12+256Gb 9\"",
+      "name": "Bos-Mini CC3 MAX 12+256Gb ,,9''",
       "sku": "",
       "price_rub": 27000,
       "old_price_rub": null,
@@ -791,7 +791,7 @@
     {
       "slug": "bos-mini-cc3-max-2k-12-256gb-9",
       "url": "https://bosminiofficial.ru/shop/1949/desc/bos-mini-cc3-max-2k-12-256gb-9",
-      "name": "Bos-Mini CC3 MAX 2K 12+256Gb 9\"",
+      "name": "Bos-Mini CC3 MAX 2K 12+256Gb ,,9''",
       "sku": "",
       "price_rub": 29500,
       "old_price_rub": null,
@@ -987,7 +987,7 @@
     {
       "slug": "bos-mini-q5-4-64gb-9",
       "url": "https://bosminiofficial.ru/shop/1951/desc/bos-mini-q5-4-64gb-9",
-      "name": "Bos-Mini Q5 4+64Gb 9\"",
+      "name": "Bos-Mini Q5 4+64Gb ,,9''",
       "sku": "",
       "price_rub": 6400,
       "old_price_rub": null,
@@ -1071,7 +1071,7 @@
     {
       "slug": "bos-mini-t8-4-64gb-10",
       "url": "https://bosminiofficial.ru/shop/1953/desc/bos-mini-t8-4-64gb-10",
-      "name": "Bos-Mini T8 4+64Gb 10\"",
+      "name": "Bos-Mini T8 4+64Gb ,,10''",
       "sku": "",
       "price_rub": 8800,
       "old_price_rub": null,
@@ -1099,7 +1099,7 @@
     {
       "slug": "bos-mini-t8-4-64gb-9",
       "url": "https://bosminiofficial.ru/shop/1952/desc/bos-mini-t8-4-64gb-9",
-      "name": "Bos-Mini T8 4+64Gb 9\"",
+      "name": "Bos-Mini T8 4+64Gb ,,9''",
       "sku": "",
       "price_rub": 8800,
       "old_price_rub": null,
@@ -1127,7 +1127,7 @@
     {
       "slug": "bos-mini-t8705-4-64gb-7",
       "url": "https://bosminiofficial.ru/shop/2040/desc/bos-mini-t8705-4-64gb-7",
-      "name": "Bos-Mini T8705 4+64Gb 7\"",
+      "name": "Bos-Mini T8705 4+64Gb ,,7''",
       "sku": "",
       "price_rub": 4500,
       "old_price_rub": null,
@@ -1155,7 +1155,7 @@
     {
       "slug": "bos-mini-ts10-4-64gb-10",
       "url": "https://bosminiofficial.ru/shop/2815/desc/bos-mini-ts10-4-64gb-10",
-      "name": "Bos-Mini TS10 4+64Gb 10\"",
+      "name": "Bos-Mini TS10 4+64Gb ,,10\"",
       "sku": "",
       "price_rub": 11000,
       "old_price_rub": null,
@@ -1183,7 +1183,7 @@
     {
       "slug": "bos-mini-ts10-4-64gb-9",
       "url": "https://bosminiofficial.ru/shop/2814/desc/bos-mini-ts10-4-64gb-9",
-      "name": "Bos-Mini TS10 4+64Gb 9\"",
+      "name": "Bos-Mini TS10 4+64Gb ,,9\"",
       "sku": "",
       "price_rub": 11000,
       "old_price_rub": null,
@@ -1211,7 +1211,7 @@
     {
       "slug": "bos-mini-ts10-6-128gb-10",
       "url": "https://bosminiofficial.ru/shop/2817/desc/bos-mini-ts10-6-128gb-10",
-      "name": "Bos-Mini TS10 6+128Gb 10\"",
+      "name": "Bos-Mini TS10 6+128Gb ,,10\"",
       "sku": "",
       "price_rub": 13000,
       "old_price_rub": null,
@@ -1239,7 +1239,7 @@
     {
       "slug": "bos-mini-ts10-6-128gb-9",
       "url": "https://bosminiofficial.ru/shop/2816/desc/bos-mini-ts10-6-128gb-9",
-      "name": "Bos-Mini TS10 6+128Gb 9\"",
+      "name": "Bos-Mini TS10 6+128Gb ,,9\"",
       "sku": "",
       "price_rub": 13000,
       "old_price_rub": null,
@@ -1267,7 +1267,7 @@
     {
       "slug": "bos-mini-ts18-10-4-64gb",
       "url": "https://bosminiofficial.ru/shop/2683/desc/bos-mini-ts18-10-4-64gb",
-      "name": "Bos-Mini TS18 10\" 4+64Gb",
+      "name": "Bos-Mini TS18 ,,10\" 4+64Gb",
       "sku": "",
       "price_rub": 8800,
       "old_price_rub": null,
@@ -1295,7 +1295,7 @@
     {
       "slug": "bos-mini-ts18-10-6-128gb",
       "url": "https://bosminiofficial.ru/shop/2685/desc/bos-mini-ts18-10-6-128gb",
-      "name": "Bos-Mini TS18 10\" 6+128Gb",
+      "name": "Bos-Mini TS18 ,,10\" 6+128Gb",
       "sku": "",
       "price_rub": 10800,
       "old_price_rub": null,
@@ -1323,7 +1323,7 @@
     {
       "slug": "bos-mini-ts18-9-4-64gb",
       "url": "https://bosminiofficial.ru/shop/2682/desc/bos-mini-ts18-9-4-64gb",
-      "name": "Bos-Mini TS18 9\" 4+64Gb",
+      "name": "Bos-Mini TS18 ,,9\" 4+64Gb",
       "sku": "",
       "price_rub": 8800,
       "old_price_rub": null,
@@ -1351,7 +1351,7 @@
     {
       "slug": "bos-mini-ts18-9-6-128gb",
       "url": "https://bosminiofficial.ru/shop/2684/desc/bos-mini-ts18-9-6-128gb",
-      "name": "Bos-Mini TS18 9\" 6+128Gb",
+      "name": "Bos-Mini TS18 ,,9\" 6+128Gb",
       "sku": "",
       "price_rub": 10800,
       "old_price_rub": null,
@@ -1407,7 +1407,7 @@
     {
       "slug": "cc5-ultra-4-64gb-10",
       "url": "https://bosminiofficial.ru/shop/1969/desc/cc5-ultra-4-64gb-10",
-      "name": "CC5 Ultra 4+64Gb 10\"",
+      "name": "CC5 Ultra 4+64Gb ,,10''",
       "sku": "",
       "price_rub": 10000,
       "old_price_rub": null,
@@ -1435,7 +1435,7 @@
     {
       "slug": "cc5-ultra-4-64gb-9",
       "url": "https://bosminiofficial.ru/shop/1968/desc/cc5-ultra-4-64gb-9",
-      "name": "CC5 Ultra 4+64Gb 9\"",
+      "name": "CC5 Ultra 4+64Gb ,,9''",
       "sku": "",
       "price_rub": 10000,
       "old_price_rub": null,
@@ -1463,7 +1463,7 @@
     {
       "slug": "dv-pineer-ok-ahd-9115-10-3-32gb-10",
       "url": "https://bosminiofficial.ru/shop/1936/desc/dv-pineer-ok-ahd-9115-10-3-32gb-10",
-      "name": "DV-Pineer.OK AHD-9115-10 3+32Gb 9\"",
+      "name": "DV-Pineer.OK AHD-9115-10 3+32Gb ,,9''",
       "sku": "",
       "price_rub": 5800,
       "old_price_rub": null,
@@ -1575,7 +1575,7 @@
     {
       "slug": "dv-pioneer-ok-ac3-mini-4-64gb-7",
       "url": "https://bosminiofficial.ru/shop/2018/desc/dv-pioneer-ok-ac3-mini-4-64gb-7",
-      "name": "DV-Pioneer.Ok AC3 Mini 4+64Gb 7\"",
+      "name": "DV-Pioneer.Ok AC3 Mini 4+64Gb ,,7''",
       "sku": "",
       "price_rub": 3700,
       "old_price_rub": null,
@@ -1799,7 +1799,7 @@
     {
       "slug": "dv-pioneer-ok-kk5-4-64gb-9",
       "url": "https://bosminiofficial.ru/shop/2019/desc/dv-pioneer-ok-kk5-4-64gb-9",
-      "name": "DV-Pioneer.Ok KK5 4+64Gb 9\"",
+      "name": "DV-Pioneer.Ok KK5 4+64Gb ,,9''",
       "sku": "",
       "price_rub": 4500,
       "old_price_rub": null,
@@ -1883,7 +1883,7 @@
     {
       "slug": "dv-pioneer-ok-a43-magic-4-64gb-9",
       "url": "https://bosminiofficial.ru/shop/2726/desc/dv-pioneer-ok-a43-magic-4-64gb-9",
-      "name": "Dv-Pioneer.Ok A43 Magic 4+64Gb 9\"",
+      "name": "Dv-Pioneer.Ok A43 Magic 4+64Gb ,,9\"",
       "sku": "",
       "price_rub": 4500,
       "old_price_rub": null,
@@ -1911,7 +1911,7 @@
     {
       "slug": "dv-pioneer-ok-b4-gold-6-128gb-9",
       "url": "https://bosminiofficial.ru/shop/2725/desc/dv-pioneer-ok-b4-gold-6-128gb-9",
-      "name": "Dv-Pioneer.Ok B4 Gold 6+128Gb 9\"",
+      "name": "Dv-Pioneer.Ok B4 Gold 6+128Gb ,,9\"",
       "sku": "",
       "price_rub": 6600,
       "old_price_rub": null,
@@ -1939,7 +1939,7 @@
     {
       "slug": "dv-pioneer-ok-cc2-4-64gb-9",
       "url": "https://bosminiofficial.ru/shop/2710/desc/dv-pioneer-ok-cc2-4-64gb-9",
-      "name": "Dv-Pioneer.Ok CC2 4+64Gb 9\"",
+      "name": "Dv-Pioneer.Ok CC2 4+64Gb ,,9\"",
       "sku": "",
       "price_rub": 4400,
       "old_price_rub": null,
@@ -1995,7 +1995,7 @@
     {
       "slug": "dv-pioneer-ok-z3-pro-6-64gb-9",
       "url": "https://bosminiofficial.ru/shop/2720/desc/dv-pioneer-ok-z3-pro-6-64gb-9",
-      "name": "Dv-Pioneer.Ok Z3 Pro 6+64Gb 9\"",
+      "name": "Dv-Pioneer.Ok Z3 Pro 6+64Gb ,,9\"",
       "sku": "",
       "price_rub": 7200,
       "old_price_rub": null,
@@ -2079,7 +2079,7 @@
     {
       "slug": "e5-olom-es4-ultra-4-64gb-9",
       "url": "https://bosminiofficial.ru/shop/1946/desc/e5-olom-es4-ultra-4-64gb-9",
-      "name": "E5-OLOM ES4 Ultra 4+64Gb 9\"",
+      "name": "E5-OLOM ES4 Ultra 4+64Gb ,,9''",
       "sku": "",
       "price_rub": 9000,
       "old_price_rub": null,
@@ -2135,7 +2135,7 @@
     {
       "slug": "e5-olom-e3-pro-6-64gb-9",
       "url": "https://bosminiofficial.ru/shop/2895/desc/e5-olom-e3-pro-6-64gb-9",
-      "name": "E5-Olom E3 Pro 6+64Gb 9\"",
+      "name": "E5-Olom E3 Pro 6+64Gb ,,9\"",
       "sku": "",
       "price_rub": 7500,
       "old_price_rub": null,
@@ -2191,7 +2191,7 @@
     {
       "slug": "kk5-pro-6-128gb-9",
       "url": "https://bosminiofficial.ru/shop/1999/desc/kk5-pro-6-128gb-9",
-      "name": "KK5 Pro 6+128Gb 9\"",
+      "name": "KK5 Pro 6+128Gb ,,9''",
       "sku": "",
       "price_rub": 8100,
       "old_price_rub": null,
@@ -2219,7 +2219,7 @@
     {
       "slug": "multimedia-factory-f7d-pro-4-64gb-7",
       "url": "https://bosminiofficial.ru/shop/1993/desc/multimedia-factory-f7d-pro-4-64gb-7",
-      "name": "Multimedia Factory F7D Pro 4+64Gb 7\"",
+      "name": "Multimedia Factory F7D Pro 4+64Gb ,,7''",
       "sku": "",
       "price_rub": 3300,
       "old_price_rub": null,
@@ -2247,7 +2247,7 @@
     {
       "slug": "pioneer-gb-f8-6-64gb-9",
       "url": "https://bosminiofficial.ru/shop/2811/desc/pioneer-gb-f8-6-64gb-9",
-      "name": "Pioneer.GB F8 6+64Gb 9\"",
+      "name": "Pioneer.GB F8 6+64Gb ,,9\"",
       "sku": "",
       "price_rub": 7200,
       "old_price_rub": null,
@@ -2275,7 +2275,7 @@
     {
       "slug": "pioneer-gb-f8-plus-12-128g-10",
       "url": "https://bosminiofficial.ru/shop/2813/desc/pioneer-gb-f8-plus-12-128g-10",
-      "name": "Pioneer.GB F8 Plus 12+128G 10\"",
+      "name": "Pioneer.GB F8 Plus 12+128G ,,10\"",
       "sku": "",
       "price_rub": 8700,
       "old_price_rub": null,
@@ -2303,7 +2303,7 @@
     {
       "slug": "pioneer-gb-f8-plus-12-128g-9",
       "url": "https://bosminiofficial.ru/shop/2812/desc/pioneer-gb-f8-plus-12-128g-9",
-      "name": "Pioneer.GB F8 Plus 12+128G 9\"",
+      "name": "Pioneer.GB F8 Plus 12+128G ,,9\"",
       "sku": "",
       "price_rub": 8700,
       "old_price_rub": null,
@@ -2695,7 +2695,7 @@
     {
       "slug": "carplay-6-4-64gb-sim",
       "url": "https://bosminiofficial.ru/shop/1034/desc/carplay-6-4-64gb-sim",
-      "name": "CarPlay 6\" (4+64Gb+SIM)",
+      "name": "CarPlay „6\" (4+64Gb+SIM)",
       "sku": "",
       "price_rub": 10500,
       "old_price_rub": null,
@@ -2723,7 +2723,7 @@
     {
       "slug": "carplay-8-6-128gb-sim",
       "url": "https://bosminiofficial.ru/shop/1035/desc/carplay-8-6-128gb-sim",
-      "name": "CarPlay 8\" (6+128Gb+SIM)",
+      "name": "CarPlay „8\" (6+128Gb+SIM)",
       "sku": "",
       "price_rub": 12500,
       "old_price_rub": null,
@@ -5607,7 +5607,7 @@
     {
       "slug": "zerkala-videoregistratory-4k-wif-x12",
       "url": "https://bosminiofficial.ru/shop/1096/desc/zerkala-videoregistratory-4k-wif-x12",
-      "name": "Зеркала видеорегистраторы 4K-WiFi (X12)",
+      "name": "Зеркала видеорегистраторы ,,4K-WiF” (X12",
       "sku": "",
       "price_rub": 4500,
       "old_price_rub": null,
@@ -10115,7 +10115,7 @@
     {
       "slug": "ford-focus-9",
       "url": "https://bosminiofficial.ru/shop/2879/desc/ford-focus-9",
-      "name": "Ford Focus 9\"",
+      "name": "Ford Focus ,,9\"",
       "sku": "",
       "price_rub": 800,
       "old_price_rub": null,
@@ -10339,7 +10339,7 @@
     {
       "slug": "hyundai-sonata-9-2011-2014g",
       "url": "https://bosminiofficial.ru/shop/2880/desc/hyundai-sonata-9-2011-2014g",
-      "name": "Hyundai Sonata 9\" (2011-2014г)",
+      "name": "Hyundai Sonata ,,9\" (2011-2014г)",
       "sku": "",
       "price_rub": 800,
       "old_price_rub": null,
@@ -10675,7 +10675,7 @@
     {
       "slug": "toyota-prado-2010gg-9",
       "url": "https://bosminiofficial.ru/shop/2884/desc/toyota-prado-2010gg-9",
-      "name": "Toyota Prado 2010гг 9\"",
+      "name": "Toyota Prado 2010гг ,, 9”",
       "sku": "",
       "price_rub": 800,
       "old_price_rub": null,
@@ -12103,7 +12103,7 @@
     {
       "slug": "alpine-405",
       "url": "https://bosminiofficial.ru/shop/2729/desc/alpine-405",
-      "name": "ALPINE 405",
+      "name": "/////ALPINE 405",
       "sku": "",
       "price_rub": 1900,
       "old_price_rub": null,
@@ -12131,7 +12131,7 @@
     {
       "slug": "alpine-ap-47-1",
       "url": "https://bosminiofficial.ru/shop/2727/desc/alpine-ap-47-1",
-      "name": "ALPINE AP-47.1",
+      "name": "/////ALPINE AP-47.1",
       "sku": "",
       "price_rub": 1900,
       "old_price_rub": null,
@@ -12159,7 +12159,7 @@
     {
       "slug": "alpine-ap-a5204",
       "url": "https://bosminiofficial.ru/shop/2844/desc/alpine-ap-a5204",
-      "name": "ALPINE AP-A5204",
+      "name": "/////ALPINE AP-A5204",
       "sku": "",
       "price_rub": 2200,
       "old_price_rub": null,
