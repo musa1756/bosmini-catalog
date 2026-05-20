@@ -2,8 +2,10 @@ name: Sync catalog from uCoz uAPI
 
 on:
   schedule:
-    # Every 10 minutes. GitHub may delay during peak load; expect ~10–15 min lag.
-    - cron: "*/10 * * * *"
+    # Off-the-hour offsets (:03,:13,:23…) — GitHub deprioritises schedule events
+    # at :00,:10,:20 under peak load and silently skips them. This is a fallback;
+    # primary trigger is a Supabase pg_cron job that hits workflow_dispatch.
+    - cron: "3,13,23,33,43,53 * * * *"
   workflow_dispatch: {}
 
 permissions:
