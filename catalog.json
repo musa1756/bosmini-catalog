@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779266686,
-  "scraped_count": 447,
+  "generated_at": 1779276863,
+  "scraped_count": 444,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -393,34 +393,6 @@
       ],
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2715m.jpg"
-      ],
-      "stock_count": 0
-    },
-    {
-      "slug": "bos-mini-t2-4-64gb-10",
-      "url": "https://bosminiofficial.ru/shop/2022/desc/bos-mini-t2-4-64gb-10",
-      "name": "BOS-MINI T2 4+64Gb 10\"",
-      "sku": "",
-      "price_rub": 5000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-10 дюймов ✅Память-4+64G ✅Звуковой процессор DSP ✅Кулер охлаждения ✅Набор проводов для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.ru/_sh/20/2022.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.ru/_sh/20/2022.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.ru/_sh/20/2022m.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.ru/_sh/20/2022m.jpg"
       ],
       "stock_count": 0
     },
@@ -1373,34 +1345,6 @@
       ],
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2684m.jpg"
-      ],
-      "stock_count": 0
-    },
-    {
-      "slug": "bos-mini-a97",
-      "url": "https://bosminiofficial.ru/shop/2734/desc/bos-mini-a97",
-      "name": "Bos-Mini А97",
-      "sku": "",
-      "price_rub": 6200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана- 10,33\". (275мм*140мм)\n✅Память-4+64Gb (реальные 2+64Gb)\n✅Посадочное место на 9 дюймов\n✅Кулер охлаждения\n✅Голосовое управление\n✅Универсальная рамка и провода в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.ru/_sh/27/2734.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.ru/_sh/27/2734.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.ru/_sh/27/2734m.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.ru/_sh/27/2734m.jpg"
       ],
       "stock_count": 0
     },
@@ -4345,6 +4289,34 @@
       "stock_count": 0
     },
     {
+      "slug": "led-mini-h7",
+      "url": "https://bosminiofficial.ru/shop/585/desc/led-mini-h7",
+      "name": "Led Mini H7",
+      "sku": "",
+      "price_rub": 950,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Автосвет"
+      ],
+      "brand_tags": [],
+      "description": "✅Цоколь-Н7",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.ru/_sh/5/585.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.ru/_sh/5/585.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/5/585m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/5/585m.jpg"
+      ],
+      "stock_count": 0
+    },
+    {
       "slug": "tech-king-h1",
       "url": "https://bosminiofficial.ru/shop/1354/desc/tech-king-h1",
       "name": "Tech-King H1",
@@ -5881,34 +5853,6 @@
       ],
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1258m.jpg"
-      ],
-      "stock_count": 0
-    },
-    {
-      "slug": "kamera-zadnego-vida-e1011",
-      "url": "https://bosminiofficial.ru/shop/2867/desc/kamera-zadnego-vida-e1011",
-      "name": "Камера заднего вида E1011",
-      "sku": "",
-      "price_rub": 200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅Провода 5 м. в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.ru/_sh/28/2867.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.ru/_sh/28/2867.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.ru/_sh/28/2867m.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.ru/_sh/28/2867m.jpg"
       ],
       "stock_count": 0
     },
@@ -9273,34 +9217,6 @@
       "stock_count": 0
     },
     {
-      "slug": "dv-pioneer-ok-den-mp7012",
-      "url": "https://bosminiofficial.ru/shop/2892/desc/dv-pioneer-ok-den-mp7012",
-      "name": "DV-Pioneer.Ok DEN-MP7012",
-      "sku": "",
-      "price_rub": 1750,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы с экраном"
-      ],
-      "brand_tags": [],
-      "description": "✅Экран-7 дюймов сенсорный\n✅USB, SD card, Aux выход\n✅Bluetooth\n✅6 выходов RCA\n✅Возможность подключения камеры заднего вида\n✅Пульт управления и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.ru/_sh/28/2892.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.ru/_sh/28/2892.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.ru/_sh/28/2892m.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.ru/_sh/28/2892m.jpg"
-      ],
-      "stock_count": 0
-    },
-    {
       "slug": "dv-pioneer-ok-mp5710",
       "url": "https://bosminiofficial.ru/shop/2872/desc/dv-pioneer-ok-mp5710",
       "name": "DV-Pioneer.Ok Mp5710",
@@ -12105,7 +12021,7 @@
       "url": "https://bosminiofficial.ru/shop/2729/desc/alpine-405",
       "name": "ALPINE 405",
       "sku": "",
-      "price_rub": 1900,
+      "price_rub": 1700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -12133,7 +12049,7 @@
       "url": "https://bosminiofficial.ru/shop/2727/desc/alpine-ap-47-1",
       "name": "ALPINE AP-47.1",
       "sku": "",
-      "price_rub": 1900,
+      "price_rub": 1700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -12161,7 +12077,7 @@
       "url": "https://bosminiofficial.ru/shop/2844/desc/alpine-ap-a5204",
       "name": "ALPINE AP-A5204",
       "sku": "",
-      "price_rub": 2200,
+      "price_rub": 2000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -12189,7 +12105,7 @@
       "url": "https://bosminiofficial.ru/shop/2753/desc/dv-pioneer-ok-414",
       "name": "Dv-Pioneer.Ok 414",
       "sku": "",
-      "price_rub": 1900,
+      "price_rub": 1700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -12217,7 +12133,7 @@
       "url": "https://bosminiofficial.ru/shop/2754/desc/dv-pioneer-ok-415",
       "name": "Dv-Pioneer.Ok 415",
       "sku": "",
-      "price_rub": 1900,
+      "price_rub": 1700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -12245,7 +12161,7 @@
       "url": "https://bosminiofficial.ru/shop/2486/desc/dv-pioneer-ok-a43",
       "name": "Dv-Pioneer.Ok A43",
       "sku": "",
-      "price_rub": 1900,
+      "price_rub": 1700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -12273,7 +12189,7 @@
       "url": "https://bosminiofficial.ru/shop/2747/desc/jbl-jb-480",
       "name": "JBL JB-480",
       "sku": "",
-      "price_rub": 2200,
+      "price_rub": 2000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -12301,7 +12217,7 @@
       "url": "https://bosminiofficial.ru/shop/2843/desc/kenwood-kw-a5314",
       "name": "KENWOOD KW-A5314",
       "sku": "",
-      "price_rub": 2200,
+      "price_rub": 2000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -12329,7 +12245,7 @@
       "url": "https://bosminiofficial.ru/shop/2730/desc/pioneer-421",
       "name": "Pioneer 421",
       "sku": "",
-      "price_rub": 1900,
+      "price_rub": 1700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -12357,7 +12273,7 @@
       "url": "https://bosminiofficial.ru/shop/2731/desc/pioneer-423",
       "name": "Pioneer 423",
       "sku": "",
-      "price_rub": 1900,
+      "price_rub": 1700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -12385,7 +12301,7 @@
       "url": "https://bosminiofficial.ru/shop/2732/desc/pioneer-424",
       "name": "Pioneer 424",
       "sku": "",
-      "price_rub": 1900,
+      "price_rub": 1700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -12413,7 +12329,7 @@
       "url": "https://bosminiofficial.ru/shop/2728/desc/pioneer-427",
       "name": "Pioneer 427",
       "sku": "",
-      "price_rub": 1900,
+      "price_rub": 1700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -12441,7 +12357,7 @@
       "url": "https://bosminiofficial.ru/shop/2746/desc/pioneer-t5-45-1",
       "name": "Pioneer T5-45.1",
       "sku": "",
-      "price_rub": 2200,
+      "price_rub": 2000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
