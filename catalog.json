@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779358823,
-  "scraped_count": 444,
+  "generated_at": 1779359422,
+  "scraped_count": 445,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -12041,6 +12041,34 @@
       ],
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2729m.jpg"
+      ],
+      "stock_count": 0
+    },
+    {
+      "slug": "alpine-ap-45-1",
+      "url": "https://bosminiofficial.ru/shop/2540/desc/alpine-ap-45-1",
+      "name": "ALPINE AP-45.1",
+      "sku": "",
+      "price_rub": 1500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Усилители"
+      ],
+      "brand_tags": [],
+      "description": "✅Количество каналов 4 ✅Мощность 3500W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2540.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2540.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2540m.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2540m.jpg"
       ],
       "stock_count": 0
     },
