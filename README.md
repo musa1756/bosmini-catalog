@@ -20,6 +20,9 @@ pip install httpx
 python sync_catalog.py --out catalog.json
 ```
 
+`--out` can be omitted for manual repo-local sync; the default output is
+`catalog.json`.
+
 `UCOZ_TOKEN` is also stored as a repo secret for the cron workflow.
 
 ## Schema

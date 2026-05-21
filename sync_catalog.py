@@ -6,8 +6,8 @@ to collect every product, dedupes by entry_id, then writes the JSON in the
 schema Product.fromJson (lib/shared/data/product.dart) expects.
 
 Usage:
-    cd bosmini_app/tools && .venv/bin/python ucoz/sync_catalog.py
-    cd bosmini_app/tools && .venv/bin/python ucoz/sync_catalog.py --dry-run
+    python sync_catalog.py --out catalog.json
+    python sync_catalog.py --dry-run --out catalog.json
 """
 from __future__ import annotations
 
@@ -168,14 +168,11 @@ def to_product_json(entry: dict, cat_lookup: dict[int, str]) -> dict:
 
     photo = entry.get("entry_photo") or {}
     def_p = photo.get("def_photo") or {}
-    # uCoz serves 4 sizes per photo:
-    #   small (~4 KB),  thumb (~57 KB),  middl (~170 KB),  photo (~270 KB).
-    # Catalog tiles use thumb — ~5× less bandwidth and memory than photo.
-    # Detail galleries use photo for full quality.
-    thumb_url = def_p.get("thumb") or def_p.get("small") or def_p.get("middl") or def_p.get("photo") or ""
+    # Single full-resolution URL serves both the catalog grid and the
+    # detail gallery. ProductThumb decodes via memCacheWidth, so memory
+    # stays small while the disk cache is shared (tile → detail = warm).
     full_url = def_p.get("photo") or def_p.get("middl") or def_p.get("thumb") or ""
 
-    thumb_urls: list[str] = [thumb_url] if thumb_url else []
     full_urls: list[str] = [full_url] if full_url else []
 
     others = photo.get("others_photo")
@@ -183,10 +180,7 @@ def to_product_json(entry: dict, cat_lookup: dict[int, str]) -> dict:
         for o in others:
             if not isinstance(o, dict):
                 continue
-            t = o.get("thumb") or o.get("small") or o.get("middl") or o.get("photo")
             f = o.get("photo") or o.get("middl") or o.get("thumb")
-            if t and t not in thumb_urls:
-                thumb_urls.append(t)
             if f and f not in full_urls:
                 full_urls.append(f)
 
@@ -232,15 +226,10 @@ def to_product_json(entry: dict, cat_lookup: dict[int, str]) -> dict:
         "brand_tags": [brand] if brand else [],
         "description": description,
         "specs": [],
-        # full-resolution URLs — used by ProductScreen hero/zoom gallery.
         "image_urls": full_urls,
         "full_image_urls": full_urls,
-        # thumb-sized URLs — used by ProductThumb in catalog tiles
-        # (~5× smaller than full, decoded directly without client-side downscale).
-        # local_images is the field name ProductThumb already consumes;
-        # we keep it for backward compat but swap the contents to thumbs.
-        "local_images": thumb_urls,
-        "thumb_image_urls": thumb_urls,
+        "local_images": full_urls,
+        "thumb_image_urls": full_urls,
         "stock_count": int(stock_total) if isinstance(stock_total, (int, float)) else 0,
     }
 
@@ -265,7 +254,7 @@ def run() -> int:
         return 2
 
     base = f"https://{site}/uapi"
-    out_path = Path(args.out) if args.out else (here.parent.parent / "assets" / "catalog.json")
+    out_path = Path(args.out) if args.out else (here / "catalog.json")
     print(f"Site:  {site}")
     print(f"Base:  {base}")
     print(f"Out:   {out_path}\n")
