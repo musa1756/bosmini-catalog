@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779460225,
+  "generated_at": 1779460821,
   "scraped_count": 445,
   "products": [
     {
@@ -64,7 +64,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1752862193,
-      "views": 1128
+      "views": 1129
     },
     {
       "slug": "blaupunkt-ha900-b4-4-64g",
@@ -777,7 +777,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1772529067,
-      "views": 410
+      "views": 412
     },
     {
       "slug": "bos-mini-a8-pro-8-256gb-10-djujmov",
@@ -5830,7 +5830,7 @@
       "stock_count": 0,
       "popularity": 64,
       "added_at": 1753772635,
-      "views": 831
+      "views": 832
     },
     {
       "slug": "tomboss-t30",
@@ -13394,7 +13394,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1765430230,
-      "views": 231
+      "views": 232
     },
     {
       "slug": "alpine-ap-a5204",
