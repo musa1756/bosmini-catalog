@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779457818,
+  "generated_at": 1779458304,
   "scraped_count": 445,
   "products": [
     {
@@ -30,7 +30,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1935.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1752843286,
+      "views": 554
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -58,7 +61,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1978.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 1,
+      "added_at": 1752862193,
+      "views": 1128
     },
     {
       "slug": "blaupunkt-ha900-b4-4-64g",
@@ -86,7 +92,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2663.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 12,
+      "added_at": 1763311652,
+      "views": 678
     },
     {
       "slug": "bos-mini-8701-2-32gb-7",
@@ -114,7 +123,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1942.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 378,
+      "added_at": 1752844839,
+      "views": 1248
     },
     {
       "slug": "bos-mini-8702-2-32gb-7",
@@ -142,7 +154,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1943.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 201,
+      "added_at": 1752844861,
+      "views": 835
     },
     {
       "slug": "bos-mini-a1-pro-4-64gb-9",
@@ -170,7 +185,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2717.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 530,
+      "added_at": 1765176165,
+      "views": 1546
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -198,7 +216,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1941.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 966,
+      "added_at": 1752844697,
+      "views": 1179
     },
     {
       "slug": "bos-mini-a2-4-64gb-9",
@@ -226,7 +247,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1940.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 2984,
+      "added_at": 1752844676,
+      "views": 1590
     },
     {
       "slug": "bos-mini-a42-6-64gb-9",
@@ -254,7 +278,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2545.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 120,
+      "added_at": 1753952536,
+      "views": 657
     },
     {
       "slug": "bos-mini-a7-4-64gb-7",
@@ -282,7 +309,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2636.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 107,
+      "added_at": 1757144356,
+      "views": 1950
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -310,7 +340,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1964.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 8,
+      "added_at": 1752859489,
+      "views": 832
     },
     {
       "slug": "bos-mini-q2-9",
@@ -338,7 +371,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1982.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 34,
+      "added_at": 1752862854,
+      "views": 323
     },
     {
       "slug": "bos-mini-q70-6-64gb-7",
@@ -366,7 +402,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/24/2495.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 64,
+      "added_at": 1753341610,
+      "views": 2648
     },
     {
       "slug": "bos-mini-q8-4-64gb-9",
@@ -394,7 +433,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2715.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 119,
+      "added_at": 1765175893,
+      "views": 872
     },
     {
       "slug": "bos-mini-t3-4-64gb-9",
@@ -422,7 +464,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2905.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 19,
+      "added_at": 1776843716,
+      "views": 161
     },
     {
       "slug": "bos-mini-t6-4-64gb-9",
@@ -450,7 +495,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2557.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 22,
+      "added_at": 1754376021,
+      "views": 379
     },
     {
       "slug": "bos-mini-t7038-4-64gb",
@@ -478,7 +526,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2924.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 8,
+      "added_at": 1777460775,
+      "views": 167
     },
     {
       "slug": "bos-a658d-pro-4-64gb",
@@ -506,7 +557,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2680.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 95,
+      "added_at": 1764313794,
+      "views": 1382
     },
     {
       "slug": "bos-a659d-pro-4-64gb",
@@ -534,7 +588,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2681.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 46,
+      "added_at": 1764313847,
+      "views": 1213
     },
     {
       "slug": "bos-mini-a15-10-djujmov",
@@ -562,7 +619,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2848.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 16,
+      "added_at": 1772526981,
+      "views": 470
     },
     {
       "slug": "bos-mini-a15-9-djujmov",
@@ -590,7 +650,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2849.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 37,
+      "added_at": 1772527002,
+      "views": 673
     },
     {
       "slug": "bos-mini-a1pro-10-4-64gb",
@@ -618,7 +681,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2686.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 474,
+      "added_at": 1764392614,
+      "views": 721
     },
     {
       "slug": "bos-mini-a628d-dsp-4-64gb",
@@ -646,7 +712,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2696.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 72,
+      "added_at": 1764494765,
+      "views": 1233
     },
     {
       "slug": "bos-mini-a629d-4-64gb",
@@ -674,7 +743,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2695.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 30,
+      "added_at": 1764494672,
+      "views": 970
     },
     {
       "slug": "bos-mini-a8-plus-6-128gb-10-djujmov",
@@ -702,7 +774,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2857.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 3,
+      "added_at": 1772529067,
+      "views": 410
     },
     {
       "slug": "bos-mini-a8-pro-8-256gb-10-djujmov",
@@ -730,7 +805,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2852.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 15,
+      "added_at": 1772528022,
+      "views": 297
     },
     {
       "slug": "bos-mini-cc3-max-12-256gb-9",
@@ -758,7 +836,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1948.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 2,
+      "added_at": 1752852728,
+      "views": 1284
     },
     {
       "slug": "bos-mini-cc3-max-2k-12-256gb-9",
@@ -786,7 +867,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1949.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1752852789,
+      "views": 1627
     },
     {
       "slug": "bos-mini-k68",
@@ -814,7 +898,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2758.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 16,
+      "added_at": 1765802757,
+      "views": 1396
     },
     {
       "slug": "bos-mini-k69",
@@ -842,7 +929,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2759.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 10,
+      "added_at": 1765802832,
+      "views": 639
     },
     {
       "slug": "bos-mini-k71",
@@ -870,7 +960,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2756.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 11,
+      "added_at": 1765802523,
+      "views": 1008
     },
     {
       "slug": "bos-mini-k72",
@@ -898,7 +991,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2757.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 10,
+      "added_at": 1765802621,
+      "views": 640
     },
     {
       "slug": "bos-mini-k76hg-4-64gb",
@@ -926,7 +1022,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2782.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 80,
+      "added_at": 1767294203,
+      "views": 695
     },
     {
       "slug": "bos-mini-n776s-4-64gb",
@@ -954,7 +1053,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2744.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 50,
+      "added_at": 1765630585,
+      "views": 780
     },
     {
       "slug": "bos-mini-q5-4-64gb-9",
@@ -982,7 +1084,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1951.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 41,
+      "added_at": 1752853019,
+      "views": 1044
     },
     {
       "slug": "bos-mini-t215-4-64gb",
@@ -1010,7 +1115,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/20/2041.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 22,
+      "added_at": 1752912057,
+      "views": 1621
     },
     {
       "slug": "bos-mini-t216-4-64gb",
@@ -1038,7 +1146,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/20/2042.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 31,
+      "added_at": 1752912147,
+      "views": 1737
     },
     {
       "slug": "bos-mini-t8-4-64gb-10",
@@ -1066,7 +1177,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1953.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 14,
+      "added_at": 1752853165,
+      "views": 342
     },
     {
       "slug": "bos-mini-t8-4-64gb-9",
@@ -1094,7 +1208,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1952.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 56,
+      "added_at": 1752853137,
+      "views": 782
     },
     {
       "slug": "bos-mini-t8705-4-64gb-7",
@@ -1122,7 +1239,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/20/2040.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 118,
+      "added_at": 1752911964,
+      "views": 1731
     },
     {
       "slug": "bos-mini-ts10-4-64gb-10",
@@ -1150,7 +1270,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2815.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 2,
+      "added_at": 1769577346,
+      "views": 298
     },
     {
       "slug": "bos-mini-ts10-4-64gb-9",
@@ -1178,7 +1301,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2814.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 16,
+      "added_at": 1769577324,
+      "views": 382
     },
     {
       "slug": "bos-mini-ts10-6-128gb-10",
@@ -1206,7 +1332,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2817.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 13,
+      "added_at": 1769577457,
+      "views": 380
     },
     {
       "slug": "bos-mini-ts10-6-128gb-9",
@@ -1234,7 +1363,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2816.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 19,
+      "added_at": 1769577429,
+      "views": 540
     },
     {
       "slug": "bos-mini-ts18-10-4-64gb",
@@ -1262,7 +1394,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2683.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 62,
+      "added_at": 1764392333,
+      "views": 429
     },
     {
       "slug": "bos-mini-ts18-10-6-128gb",
@@ -1290,7 +1425,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2685.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 34,
+      "added_at": 1764392414,
+      "views": 707
     },
     {
       "slug": "bos-mini-ts18-9-4-64gb",
@@ -1318,7 +1456,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2682.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 148,
+      "added_at": 1764392312,
+      "views": 460
     },
     {
       "slug": "bos-mini-ts18-9-6-128gb",
@@ -1346,7 +1487,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2684.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 59,
+      "added_at": 1764392394,
+      "views": 1034
     },
     {
       "slug": "cc5-ultra-4-64gb-10",
@@ -1374,7 +1518,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1969.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 2,
+      "added_at": 1752860117,
+      "views": 593
     },
     {
       "slug": "cc5-ultra-4-64gb-9",
@@ -1402,7 +1549,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1968.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 16,
+      "added_at": 1752860064,
+      "views": 718
     },
     {
       "slug": "dv-pineer-ok-ahd-9115-10-3-32gb-10",
@@ -1430,7 +1580,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1936.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 10,
+      "added_at": 1752843688,
+      "views": 326
     },
     {
       "slug": "dv-pioneer-ok-6611",
@@ -1458,7 +1611,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1927.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 8,
+      "added_at": 1752841827,
+      "views": 509
     },
     {
       "slug": "dv-pioneer-ok-a2-4-64gb",
@@ -1486,7 +1642,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2900.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 369,
+      "added_at": 1776516674,
+      "views": 156
     },
     {
       "slug": "dv-pioneer-ok-a2-pro-6-64",
@@ -1514,7 +1673,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2866.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 40,
+      "added_at": 1773035336,
+      "views": 285
     },
     {
       "slug": "dv-pioneer-ok-ac3-mini-4-64gb-7",
@@ -1542,7 +1704,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/20/2018.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 33,
+      "added_at": 1752909105,
+      "views": 666
     },
     {
       "slug": "dv-pioneer-ok-b4-mini-4-64gb",
@@ -1570,7 +1735,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2827.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 120,
+      "added_at": 1770801276,
+      "views": 317
     },
     {
       "slug": "dv-pioneer-ok-bx4-6-128gb",
@@ -1598,7 +1766,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2828.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 20,
+      "added_at": 1770801359,
+      "views": 364
     },
     {
       "slug": "dv-pioneer-ok-d107-4-64gb",
@@ -1626,7 +1797,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2826.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 15,
+      "added_at": 1770637683,
+      "views": 391
     },
     {
       "slug": "dv-pioneer-ok-d3gold-4-64gb",
@@ -1654,7 +1828,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2825.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 17,
+      "added_at": 1770637548,
+      "views": 326
     },
     {
       "slug": "dv-pioneer-ok-e1-4-64gb",
@@ -1682,7 +1859,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2865.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 38,
+      "added_at": 1773035266,
+      "views": 206
     },
     {
       "slug": "dv-pioneer-ok-e4-4-64gb",
@@ -1710,7 +1890,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2864.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 88,
+      "added_at": 1773035167,
+      "views": 201
     },
     {
       "slug": "dv-pioneer-ok-kk4s-6-128gb",
@@ -1738,7 +1921,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2830.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 144,
+      "added_at": 1770801497,
+      "views": 388
     },
     {
       "slug": "dv-pioneer-ok-kk5-4-64gb-9",
@@ -1766,7 +1952,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/20/2019.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 230,
+      "added_at": 1752909267,
+      "views": 558
     },
     {
       "slug": "dv-pioneer-ok-sx3s-mini-4-64g",
@@ -1794,7 +1983,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2899.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 14,
+      "added_at": 1776342307,
+      "views": 171
     },
     {
       "slug": "dv-pioneer-ok-z3s-4-64",
@@ -1822,7 +2014,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2904.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 3,
+      "added_at": 1776680345,
+      "views": 84
     },
     {
       "slug": "dv-pioneer-ok-a43-magic-4-64gb-9",
@@ -1850,7 +2045,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2726.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 30,
+      "added_at": 1765346513,
+      "views": 293
     },
     {
       "slug": "dv-pioneer-ok-b4-gold-6-128gb-9",
@@ -1878,7 +2076,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2725.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 40,
+      "added_at": 1765346209,
+      "views": 771
     },
     {
       "slug": "dv-pioneer-ok-cc2-4-64gb-9",
@@ -1906,7 +2107,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2710.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 96,
+      "added_at": 1764786444,
+      "views": 319
     },
     {
       "slug": "dv-pioneer-ok-d3-nano-4-64gb",
@@ -1934,7 +2138,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2721.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 10,
+      "added_at": 1765283275,
+      "views": 498
     },
     {
       "slug": "dv-pioneer-ok-z3-pro-6-64gb-9",
@@ -1962,7 +2169,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2720.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 61,
+      "added_at": 1765282134,
+      "views": 347
     },
     {
       "slug": "dv-pioneer-ok-z3-pro-4-64gb",
@@ -1990,7 +2200,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2559.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 163,
+      "added_at": 1754464305,
+      "views": 773
     },
     {
       "slug": "e5-olom-es4-flip-4-64gb",
@@ -2018,7 +2231,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2831.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 27,
+      "added_at": 1770801589,
+      "views": 450
     },
     {
       "slug": "e5-olom-es4-ultra-4-64gb-9",
@@ -2046,7 +2262,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1946.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 19,
+      "added_at": 1752845497,
+      "views": 492
     },
     {
       "slug": "e5-olom-kk5-pro-2-32gb",
@@ -2074,7 +2293,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2777.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 45,
+      "added_at": 1766641876,
+      "views": 223
     },
     {
       "slug": "e5-olom-e3-pro-6-64gb-9",
@@ -2102,7 +2324,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2895.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 3,
+      "added_at": 1776112985,
+      "views": 153
     },
     {
       "slug": "h1-pro-2-32gb",
@@ -2130,7 +2355,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/20/2004.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 85,
+      "added_at": 1752907044,
+      "views": 199
     },
     {
       "slug": "kk5-pro-6-128gb-9",
@@ -2158,7 +2386,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1999.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 87,
+      "added_at": 1752905847,
+      "views": 237
     },
     {
       "slug": "multimedia-factory-f7d-pro-4-64gb-7",
@@ -2186,7 +2417,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1993.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 46,
+      "added_at": 1752866853,
+      "views": 762
     },
     {
       "slug": "pioneer-gb-f8-6-64gb-9",
@@ -2214,7 +2448,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2811.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 35,
+      "added_at": 1769575727,
+      "views": 318
     },
     {
       "slug": "pioneer-gb-f8-plus-12-128g-10",
@@ -2242,7 +2479,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2813.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 41,
+      "added_at": 1769577216,
+      "views": 396
     },
     {
       "slug": "pioneer-gb-f8-plus-12-128g-9",
@@ -2270,7 +2510,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2812.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 236,
+      "added_at": 1769577184,
+      "views": 949
     },
     {
       "slug": "s1-4-64gb",
@@ -2298,7 +2541,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2873.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 26,
+      "added_at": 1773476138,
+      "views": 278
     },
     {
       "slug": "sx4-pro-4-64gb",
@@ -2326,7 +2572,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1986.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 164,
+      "added_at": 1752864487,
+      "views": 536
     },
     {
       "slug": "zx1-4-64gb-9",
@@ -2354,7 +2603,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2903.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 2,
+      "added_at": 1776517259,
+      "views": 108
     },
     {
       "slug": "zx1-pro-plus-4-64gb-9",
@@ -2382,7 +2634,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2901.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 60,
+      "added_at": 1776516888,
+      "views": 139
     },
     {
       "slug": "zx1-pro-plus-4-64gb-10",
@@ -2410,7 +2665,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2902.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 14,
+      "added_at": 1776517157,
+      "views": 98
     },
     {
       "slug": "teyes-hs-sony-camera",
@@ -2438,7 +2696,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2517.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 1816,
+      "added_at": 1753684369,
+      "views": 578
     },
     {
       "slug": "teyes-sony-ahd-1080p",
@@ -2466,7 +2727,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2516.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 2404,
+      "added_at": 1753683801,
+      "views": 575
     },
     {
       "slug": "teyes-x5-dvr",
@@ -2494,7 +2758,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/8/884.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 5040,
+      "added_at": 1724219666,
+      "views": 782
     },
     {
       "slug": "kamera-teyes-ahd-v-pakete",
@@ -2522,7 +2789,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/8/815.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 5359,
+      "added_at": 1722408772,
+      "views": 635
     },
     {
       "slug": "bos-mini-9602",
@@ -2550,7 +2820,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1107.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 15,
+      "added_at": 1732348103,
+      "views": 930
     },
     {
       "slug": "bos-mini-sd-128gb",
@@ -2578,7 +2851,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1395.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 118,
+      "added_at": 1746417011,
+      "views": 190
     },
     {
       "slug": "bos-mini-sd-64gb",
@@ -2606,7 +2882,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/8/890.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 351,
+      "added_at": 1724488803,
+      "views": 249
     },
     {
       "slug": "carplay-5-4-64gb",
@@ -2634,7 +2913,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1033.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 5,
+      "added_at": 1730529413,
+      "views": 673
     },
     {
       "slug": "carplay-6-4-64gb-sim",
@@ -2662,7 +2944,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1034.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 5,
+      "added_at": 1730529692,
+      "views": 474
     },
     {
       "slug": "carplay-8-6-128gb-sim",
@@ -2690,7 +2975,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1035.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 3,
+      "added_at": 1730529840,
+      "views": 355
     },
     {
       "slug": "iso-bos-mini-e-05",
@@ -2718,7 +3006,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2896.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 244,
+      "added_at": 1776113206,
+      "views": 138
     },
     {
       "slug": "avtomobilnaja-ehlektrokruzhka-24v",
@@ -2746,7 +3037,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1074.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 4,
+      "added_at": 1732003598,
+      "views": 254
     },
     {
       "slug": "avtonomnyj-otopitel-bos-l22",
@@ -2774,7 +3068,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2653.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 2,
+      "added_at": 1760942656,
+      "views": 194
     },
     {
       "slug": "avtonomnyj-otopitel-bos-w33",
@@ -2802,7 +3099,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2652.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 5,
+      "added_at": 1760942574,
+      "views": 243
     },
     {
       "slug": "aromatizator-rh-001n",
@@ -2830,7 +3130,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2888.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 40,
+      "added_at": 1775198471,
+      "views": 109
     },
     {
       "slug": "aromatizator-rh-002",
@@ -2858,7 +3161,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1537.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 153,
+      "added_at": 1752658610,
+      "views": 118
     },
     {
       "slug": "aromatizator-rh-032",
@@ -2886,7 +3192,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2887.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 28,
+      "added_at": 1775198040,
+      "views": 65
     },
     {
       "slug": "aromatizator-rh-034",
@@ -2914,7 +3223,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2614.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 542,
+      "added_at": 1756104856,
+      "views": 148
     },
     {
       "slug": "aromatizator-rh-038",
@@ -2942,7 +3254,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2806.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 25,
+      "added_at": 1769494185,
+      "views": 73
     },
     {
       "slug": "aromatizator-rh-039",
@@ -2970,7 +3285,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2805.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 4,
+      "added_at": 1769493683,
+      "views": 102
     },
     {
       "slug": "aromatizator-rh-040",
@@ -2998,7 +3316,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2885.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 4,
+      "added_at": 1775197632,
+      "views": 113
     },
     {
       "slug": "aromatizator-rh-044",
@@ -3026,7 +3347,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2886.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 14,
+      "added_at": 1775197935,
+      "views": 77
     },
     {
       "slug": "aromatizator-rh-045",
@@ -3054,7 +3378,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2889.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 9,
+      "added_at": 1775199067,
+      "views": 84
     },
     {
       "slug": "aromatizator-x-v-korobke",
@@ -3082,7 +3409,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1539.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 81,
+      "added_at": 1752661634,
+      "views": 293
     },
     {
       "slug": "aromatizator-diffuzory-rh-017",
@@ -3110,7 +3440,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2804.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 5,
+      "added_at": 1769493461,
+      "views": 90
     },
     {
       "slug": "aromatizator-diffuzory-rh-033",
@@ -3138,7 +3471,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2613.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 66,
+      "added_at": 1756104784,
+      "views": 131
     },
     {
       "slug": "aromatizator-diffuzory-rh-035",
@@ -3166,7 +3502,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2807.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 35,
+      "added_at": 1769494404,
+      "views": 100
     },
     {
       "slug": "aromatizator-sprej-rh-010",
@@ -3194,7 +3533,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2797.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 2,
+      "added_at": 1769411297,
+      "views": 85
     },
     {
       "slug": "aromatizator-sprej-rh-011",
@@ -3222,7 +3564,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2798.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 3,
+      "added_at": 1769411412,
+      "views": 81
     },
     {
       "slug": "aromatizator-sprej-rh-012",
@@ -3250,7 +3595,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2799.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 7,
+      "added_at": 1769411527,
+      "views": 104
     },
     {
       "slug": "aromatizator-sprej-rh-014",
@@ -3278,7 +3626,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2800.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 1,
+      "added_at": 1769411604,
+      "views": 74
     },
     {
       "slug": "aromatizator-sprej-rh-031",
@@ -3306,7 +3657,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2801.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 1,
+      "added_at": 1769411698,
+      "views": 73
     },
     {
       "slug": "besprovodnoj-usb-adapter-carplay",
@@ -3334,7 +3688,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2675.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 14,
+      "added_at": 1763447303,
+      "views": 119
     },
     {
       "slug": "besprovodnoj-karplehj-t1-dlja-populjarnykh-modelej-toyota",
@@ -3362,7 +3719,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2674.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1763447228,
+      "views": 148
     },
     {
       "slug": "vneshniij-mikrafon-bos-e02",
@@ -3390,7 +3750,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1526.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 189,
+      "added_at": 1752176292,
+      "views": 319
     },
     {
       "slug": "vozdukhoduvka-s-funkciej-pylesosa",
@@ -3418,7 +3781,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1065.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 45,
+      "added_at": 1731912601,
+      "views": 298
     },
     {
       "slug": "komplekt-provodov-dlja-podkljuchenija-android-magnitola",
@@ -3446,7 +3812,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/6/682.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 922,
+      "added_at": 1718527601,
+      "views": 738
     },
     {
       "slug": "kompressor-3v1-y-qb01",
@@ -3474,7 +3843,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2657.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 8,
+      "added_at": 1761308770,
+      "views": 204
     },
     {
       "slug": "kompressor-v-chemodanchike",
@@ -3502,7 +3874,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1104.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 359,
+      "added_at": 1732270354,
+      "views": 379
     },
     {
       "slug": "multimedijnaja-smart-pristavka-a133-2-32g",
@@ -3530,7 +3905,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2773.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 2,
+      "added_at": 1766149772,
+      "views": 202
     },
     {
       "slug": "multimedijnaja-smart-pristavka-kpl070-4-64g",
@@ -3558,7 +3936,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2673.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 1,
+      "added_at": 1763447077,
+      "views": 177
     },
     {
       "slug": "multimedijnaja-smart-pristavka-kpl079b-8-128g",
@@ -3586,7 +3967,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2672.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1763446863,
+      "views": 245
     },
     {
       "slug": "multirul-a01",
@@ -3614,7 +3998,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/4/448.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 247,
+      "added_at": 1714856095,
+      "views": 441
     },
     {
       "slug": "multirul-a02",
@@ -3642,7 +4029,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1105.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 120,
+      "added_at": 1732270639,
+      "views": 488
     },
     {
       "slug": "multirul-bos-mini-a03",
@@ -3670,7 +4060,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2713.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 54,
+      "added_at": 1765013957,
+      "views": 485
     },
     {
       "slug": "puskovoe-ustrojstvo-3-v-1-cjs-28",
@@ -3698,7 +4091,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1050.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 27,
+      "added_at": 1731180224,
+      "views": 310
     },
     {
       "slug": "puskovoe-ustrojstvo-4-v-1-cjs-78",
@@ -3726,7 +4122,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1048.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 11,
+      "added_at": 1731153413,
+      "views": 334
     },
     {
       "slug": "ultrafioletovyj-fonar-dlja-proverki-lkp-avto",
@@ -3754,7 +4153,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2870.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 5,
+      "added_at": 1773035946,
+      "views": 216
     },
     {
       "slug": "ar2-d3s",
@@ -3782,7 +4184,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1424.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 8,
+      "added_at": 1747379828,
+      "views": 172
     },
     {
       "slug": "ar7-h4",
@@ -3810,7 +4215,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1041.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 223,
+      "added_at": 1730983413,
+      "views": 262
     },
     {
       "slug": "ars-9005-hb3",
@@ -3838,7 +4246,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1203.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 10,
+      "added_at": 1735018975,
+      "views": 208
     },
     {
       "slug": "ars-h4",
@@ -3866,7 +4277,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1201.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 12,
+      "added_at": 1735018631,
+      "views": 236
     },
     {
       "slug": "auto-led-ar6-h4",
@@ -3894,7 +4308,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/5/588.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 36,
+      "added_at": 1716467615,
+      "views": 229
     },
     {
       "slug": "auto-led-r6-h7",
@@ -3922,7 +4339,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/5/589.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 42,
+      "added_at": 1716467831,
+      "views": 222
     },
     {
       "slug": "e4-9005-20000-lm",
@@ -3950,7 +4370,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1039.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 27,
+      "added_at": 1730967246,
+      "views": 227
     },
     {
       "slug": "k15-9005-hb3",
@@ -3978,7 +4401,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1506.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 6,
+      "added_at": 1751464085,
+      "views": 88
     },
     {
       "slug": "k15-h1",
@@ -4006,7 +4432,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1503.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 16,
+      "added_at": 1751463087,
+      "views": 104
     },
     {
       "slug": "k15-h4",
@@ -4034,7 +4463,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1504.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 31,
+      "added_at": 1751463679,
+      "views": 113
     },
     {
       "slug": "k15-h7",
@@ -4062,7 +4494,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1505.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 37,
+      "added_at": 1751463944,
+      "views": 125
     },
     {
       "slug": "led-headlights-n3-h4",
@@ -4090,7 +4525,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/5/586.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 15,
+      "added_at": 1716467176,
+      "views": 229
     },
     {
       "slug": "led-headlights-n3-h7",
@@ -4118,7 +4556,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/5/587.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 18,
+      "added_at": 1716467260,
+      "views": 208
     },
     {
       "slug": "led-lampa-zw1-9005",
@@ -4146,7 +4587,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1534.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 30,
+      "added_at": 1752401620,
+      "views": 111
     },
     {
       "slug": "led-lampa-zw1-h1",
@@ -4174,7 +4618,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1531.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 56,
+      "added_at": 1752401107,
+      "views": 47
     },
     {
       "slug": "led-lampa-zw1-h11",
@@ -4202,7 +4649,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2929.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 6,
+      "added_at": 1778499441,
+      "views": 38
     },
     {
       "slug": "led-lampa-zw1-h4",
@@ -4230,7 +4680,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1532.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 39,
+      "added_at": 1752401332,
+      "views": 83
     },
     {
       "slug": "led-lampa-zw1-h7",
@@ -4258,7 +4711,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1533.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 49,
+      "added_at": 1752401573,
+      "views": 61
     },
     {
       "slug": "led-mini-h4",
@@ -4286,7 +4742,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/5/584.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 174,
+      "added_at": 1716466990,
+      "views": 318
     },
     {
       "slug": "led-mini-h7",
@@ -4314,7 +4773,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/5/585.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 129,
+      "added_at": 1716467058,
+      "views": 190
     },
     {
       "slug": "tech-king-h1",
@@ -4342,7 +4804,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1354.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 16,
+      "added_at": 1743145190,
+      "views": 118
     },
     {
       "slug": "tech-king-h11",
@@ -4370,7 +4835,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1357.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 8,
+      "added_at": 1743145576,
+      "views": 127
     },
     {
       "slug": "tech-king-h4",
@@ -4398,7 +4866,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1355.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 14,
+      "added_at": 1743145408,
+      "views": 161
     },
     {
       "slug": "tech-king-h7",
@@ -4426,7 +4897,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1356.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 14,
+      "added_at": 1743145520,
+      "views": 152
     },
     {
       "slug": "tech-king-hb3-9005",
@@ -4454,7 +4928,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1358.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 2,
+      "added_at": 1743145803,
+      "views": 128
     },
     {
       "slug": "zr-9005-hb3",
@@ -4482,7 +4959,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1197.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 68,
+      "added_at": 1734934388,
+      "views": 161
     },
     {
       "slug": "zr2-h1",
@@ -4510,7 +4990,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1507.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 134,
+      "added_at": 1751713853,
+      "views": 70
     },
     {
       "slug": "zr2-h11",
@@ -4538,7 +5021,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1508.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 78,
+      "added_at": 1751713957,
+      "views": 58
     },
     {
       "slug": "zr2-h4",
@@ -4566,7 +5052,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1198.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 163,
+      "added_at": 1734934541,
+      "views": 234
     },
     {
       "slug": "zr2-h7",
@@ -4594,7 +5083,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1199.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 368,
+      "added_at": 1734934654,
+      "views": 257
     },
     {
       "slug": "galogenovaja-lampa-h1",
@@ -4622,7 +5114,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2930.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1778564901,
+      "views": 34
     },
     {
       "slug": "galogenovaja-lampa-h11",
@@ -4650,7 +5145,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2935.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1778565956,
+      "views": 31
     },
     {
       "slug": "galogenovaja-lampa-h4",
@@ -4678,7 +5176,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2933.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1778565823,
+      "views": 39
     },
     {
       "slug": "galogenovaja-lampa-h7",
@@ -4706,7 +5207,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2934.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1778565879,
+      "views": 41
     },
     {
       "slug": "galogenovaja-lampa-hb3-9005",
@@ -4734,7 +5238,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2931.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1778565029,
+      "views": 29
     },
     {
       "slug": "galogenovaja-lampa-hb4-9006",
@@ -4762,7 +5269,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2932.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1778565614,
+      "views": 37
     },
     {
       "slug": "zvezdnoe-nebo",
@@ -4790,7 +5300,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2772.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 5,
+      "added_at": 1766130374,
+      "views": 310
     },
     {
       "slug": "ptf-universalnye-50w-glazki-angela",
@@ -4818,7 +5331,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1218.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 2,
+      "added_at": 1736655571,
+      "views": 268
     },
     {
       "slug": "podsvetka-salona-colorful-frgb",
@@ -4846,7 +5362,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2556.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 123,
+      "added_at": 1754140827,
+      "views": 388
     },
     {
       "slug": "svetodiodnye-linzy-gt2",
@@ -4874,7 +5393,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1500.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 24,
+      "added_at": 1751353443,
+      "views": 245
     },
     {
       "slug": "svetodiodnye-linzy-gt3",
@@ -4902,7 +5424,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1509.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 19,
+      "added_at": 1751715210,
+      "views": 320
     },
     {
       "slug": "svetodiodnye-linzy-gt1",
@@ -4930,7 +5455,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1417.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 39,
+      "added_at": 1747293099,
+      "views": 276
     },
     {
       "slug": "a15l-2k-wi-fi",
@@ -4958,7 +5486,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1297.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 53,
+      "added_at": 1739603510,
+      "views": 535
     },
     {
       "slug": "bos-mini-l-810",
@@ -4986,7 +5517,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1110.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 940,
+      "added_at": 1732391421,
+      "views": 830
     },
     {
       "slug": "bos-mini-a32-pro-wi-fi",
@@ -5014,7 +5548,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2739.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 109,
+      "added_at": 1765628182,
+      "views": 323
     },
     {
       "slug": "bos-mini-l-369",
@@ -5042,7 +5579,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1312.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 908,
+      "added_at": 1740736611,
+      "views": 609
     },
     {
       "slug": "bos-mini-l-817",
@@ -5070,7 +5610,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2708.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 33,
+      "added_at": 1764785199,
+      "views": 195
     },
     {
       "slug": "carplay-pnd-7",
@@ -5098,7 +5641,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1489.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 9,
+      "added_at": 1750599777,
+      "views": 215
     },
     {
       "slug": "carplay-pnd-7-pro",
@@ -5126,7 +5672,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1488.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 5,
+      "added_at": 1750599476,
+      "views": 278
     },
     {
       "slug": "e5-olim-s2",
@@ -5154,7 +5703,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1177.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 33,
+      "added_at": 1734179124,
+      "views": 539
     },
     {
       "slug": "e5-olom-s1",
@@ -5182,7 +5734,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1176.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 97,
+      "added_at": 1734179057,
+      "views": 399
     },
     {
       "slug": "gq11-4-sensornyj-ehkran",
@@ -5210,7 +5765,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1299.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 63,
+      "added_at": 1739603728,
+      "views": 1032
     },
     {
       "slug": "gzj-u9",
@@ -5238,7 +5796,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1430.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 125,
+      "added_at": 1747484565,
+      "views": 323
     },
     {
       "slug": "tomboss-t20",
@@ -5266,7 +5827,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2529.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 64,
+      "added_at": 1753772635,
+      "views": 831
     },
     {
       "slug": "tomboss-t30",
@@ -5294,7 +5858,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2528.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 19,
+      "added_at": 1753772523,
+      "views": 461
     },
     {
       "slug": "tomboss-t10",
@@ -5322,7 +5889,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2840.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 3,
+      "added_at": 1771148839,
+      "views": 208
     },
     {
       "slug": "videoregistrator-4-1-ok-dhd-4",
@@ -5350,7 +5920,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1393.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 64,
+      "added_at": 1746085925,
+      "views": 1156
     },
     {
       "slug": "videoregistrator-c8",
@@ -5378,7 +5951,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/3/392.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 40,
+      "added_at": 1714856095,
+      "views": 337
     },
     {
       "slug": "videoregistrator-t33-1080p",
@@ -5406,7 +5982,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1464.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 18,
+      "added_at": 1749455456,
+      "views": 240
     },
     {
       "slug": "videoregistrator-dlja-android-magnitol-u10",
@@ -5434,7 +6013,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2796.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 15,
+      "added_at": 1768974626,
+      "views": 246
     },
     {
       "slug": "videoregistrator-dlja-android-magnitol-u1pro",
@@ -5462,7 +6044,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2724.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 114,
+      "added_at": 1765285796,
+      "views": 191
     },
     {
       "slug": "videoregistrator-dlja-android-magnitol-u2",
@@ -5490,7 +6075,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1296.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 423,
+      "added_at": 1739603379,
+      "views": 296
     },
     {
       "slug": "videoregistrator-dlja-android-magnitol-u2pro",
@@ -5518,7 +6106,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2712.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 186,
+      "added_at": 1765013878,
+      "views": 240
     },
     {
       "slug": "videoregistrator-na-3-kamery-c6",
@@ -5546,7 +6137,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/8/803.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 99,
+      "added_at": 1721755869,
+      "views": 424
     },
     {
       "slug": "vreznaja-kamera-zadnego-vida-e1241",
@@ -5574,7 +6168,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2868.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 46,
+      "added_at": 1773035549,
+      "views": 130
     },
     {
       "slug": "zerkala-videoregistratory-4k-wif-x12",
@@ -5602,7 +6199,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1096.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 3,
+      "added_at": 1732085020,
+      "views": 415
     },
     {
       "slug": "zerkalo-videorgistrator-blaupunkt",
@@ -5630,7 +6230,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2841.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 16,
+      "added_at": 1771148869,
+      "views": 177
     },
     {
       "slug": "kamera-zad-vida-bos-mini-e-267",
@@ -5658,7 +6261,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1087.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 404,
+      "added_at": 1732038503,
+      "views": 469
     },
     {
       "slug": "kamera-zad-vida-e-3218",
@@ -5686,7 +6292,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2846.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 12,
+      "added_at": 1771745664,
+      "views": 126
     },
     {
       "slug": "kamera-zad-vida-e034-ahd",
@@ -5714,7 +6323,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2751.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 40,
+      "added_at": 1765777713,
+      "views": 190
     },
     {
       "slug": "kamera-zadnego-vida-l606",
@@ -5742,7 +6354,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1205.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 8046,
+      "added_at": 1735293007,
+      "views": 245
     },
     {
       "slug": "kamera-zadnego-vida-bos-f65",
@@ -5770,7 +6385,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2690.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 105,
+      "added_at": 1764398182,
+      "views": 387
     },
     {
       "slug": "kamera-zadnego-vida-bos-l370",
@@ -5798,7 +6416,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2881.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 5,
+      "added_at": 1775026590,
+      "views": 206
     },
     {
       "slug": "kamera-zadnego-vida-bos-l210",
@@ -5826,7 +6447,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1257.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 549,
+      "added_at": 1738414405,
+      "views": 448
     },
     {
       "slug": "kamera-zadnego-vida-bos-l310",
@@ -5854,7 +6478,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1258.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 592,
+      "added_at": 1738414504,
+      "views": 663
     },
     {
       "slug": "kamera-zadnego-vida-l-165",
@@ -5882,7 +6509,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2876.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 7,
+      "added_at": 1774248473,
+      "views": 87
     },
     {
       "slug": "monitor-s-4-mja-kamerami-jcs-7003-4",
@@ -5910,7 +6540,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/4/414.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 14,
+      "added_at": 1714856095,
+      "views": 563
     },
     {
       "slug": "provoda-dlja-kamery-zadnego-vida-20m",
@@ -5938,7 +6571,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1064.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 219,
+      "added_at": 1731883338,
+      "views": 239
     },
     {
       "slug": "provoda-dlja-kamery-zadnego-vida-6m",
@@ -5966,7 +6602,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1204.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 95,
+      "added_at": 1735020490,
+      "views": 234
     },
     {
       "slug": "radar-detektor-3v1-a1",
@@ -5994,7 +6633,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2845.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 6,
+      "added_at": 1771745453,
+      "views": 153
     },
     {
       "slug": "bos-5071-13cm-220w",
@@ -6022,7 +6664,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1460.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 22,
+      "added_at": 1749113475,
+      "views": 227
     },
     {
       "slug": "bos-5089-13cm-300w",
@@ -6050,7 +6695,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1458.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 57,
+      "added_at": 1749113253,
+      "views": 251
     },
     {
       "slug": "bos-6589-16cm-380w",
@@ -6078,7 +6726,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1459.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 71,
+      "added_at": 1749113356,
+      "views": 388
     },
     {
       "slug": "bos-6591",
@@ -6106,7 +6757,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2513.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 37,
+      "added_at": 1753599089,
+      "views": 893
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -6134,7 +6788,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1131.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 277,
+      "added_at": 1733386143,
+      "views": 701
     },
     {
       "slug": "bos-6580",
@@ -6162,7 +6819,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1479.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 13,
+      "added_at": 1750255621,
+      "views": 326
     },
     {
       "slug": "bos-mini-6581-260w",
@@ -6190,7 +6850,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1270.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 25,
+      "added_at": 1738564421,
+      "views": 239
     },
     {
       "slug": "bos-mini-5086-13sm",
@@ -6218,7 +6881,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1132.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 293,
+      "added_at": 1733386378,
+      "views": 321
     },
     {
       "slug": "bos-mini-5500",
@@ -6246,7 +6912,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/8/858.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 72,
+      "added_at": 1723527380,
+      "views": 458
     },
     {
       "slug": "bos-mini-5565",
@@ -6274,7 +6943,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1521.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 17,
+      "added_at": 1752041968,
+      "views": 330
     },
     {
       "slug": "bos-mini-6515",
@@ -6302,7 +6974,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2735.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 5,
+      "added_at": 1765546118,
+      "views": 197
     },
     {
       "slug": "bos-mini-6516kit",
@@ -6330,7 +7005,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1525.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 58,
+      "added_at": 1752176079,
+      "views": 949
     },
     {
       "slug": "bos-mini-6985-6-9",
@@ -6358,7 +7036,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/8/865.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 11,
+      "added_at": 1723529449,
+      "views": 410
     },
     {
       "slug": "dv-pioneer-ok-1015",
@@ -6386,7 +7067,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2786.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1767296121,
+      "views": 104
     },
     {
       "slug": "dv-pioneer-ok-1315",
@@ -6414,7 +7098,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2787.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 7,
+      "added_at": 1767296178,
+      "views": 79
     },
     {
       "slug": "dv-pioneer-ok-1615",
@@ -6442,7 +7129,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2788.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 12,
+      "added_at": 1767296273,
+      "views": 132
     },
     {
       "slug": "e5-olom-e5-cy404c",
@@ -6470,7 +7160,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1155.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 4,
+      "added_at": 1733726181,
+      "views": 248
     },
     {
       "slug": "e5-olom-e5-cy504c",
@@ -6498,7 +7191,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1154.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 3,
+      "added_at": 1733726084,
+      "views": 232
     },
     {
       "slug": "graffiti-sound-es-1565",
@@ -6526,7 +7222,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1324.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 49,
+      "added_at": 1740909835,
+      "views": 210
     },
     {
       "slug": "hertz-dsk165-3",
@@ -6554,7 +7253,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2532.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 54,
+      "added_at": 1753860068,
+      "views": 320
     },
     {
       "slug": "hertz-k165",
@@ -6582,7 +7284,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2530.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 74,
+      "added_at": 1753859805,
+      "views": 223
     },
     {
       "slug": "hertz-x165",
@@ -6610,7 +7315,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2531.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 115,
+      "added_at": 1753859920,
+      "views": 223
     },
     {
       "slug": "hx409",
@@ -6638,7 +7346,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2766.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 1,
+      "added_at": 1765863961,
+      "views": 88
     },
     {
       "slug": "hx509",
@@ -6666,7 +7377,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2767.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1765864015,
+      "views": 100
     },
     {
       "slug": "hx609",
@@ -6694,7 +7408,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2768.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 2,
+      "added_at": 1765864079,
+      "views": 108
     },
     {
       "slug": "hx699",
@@ -6722,7 +7439,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2769.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 5,
+      "added_at": 1765864139,
+      "views": 123
     },
     {
       "slug": "hz-405-360w-10sm",
@@ -6750,7 +7470,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2591.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 6,
+      "added_at": 1755665003,
+      "views": 101
     },
     {
       "slug": "hz-505-500w-13sm",
@@ -6778,7 +7501,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2592.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 16,
+      "added_at": 1755665146,
+      "views": 113
     },
     {
       "slug": "hz-695-1200w-6-9-ovaly",
@@ -6806,7 +7532,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2594.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 43,
+      "added_at": 1755665591,
+      "views": 175
     },
     {
       "slug": "hertz-401-10sm",
@@ -6834,7 +7563,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/7/798.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 30,
+      "added_at": 1721656202,
+      "views": 226
     },
     {
       "slug": "hertz-501-13sm",
@@ -6862,7 +7594,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/7/799.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 104,
+      "added_at": 1721656363,
+      "views": 235
     },
     {
       "slug": "hertz-601-16sm",
@@ -6890,7 +7625,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/8/800.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 152,
+      "added_at": 1721656517,
+      "views": 204
     },
     {
       "slug": "jvc-cs-510",
@@ -6918,7 +7656,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1111.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 46,
+      "added_at": 1732391667,
+      "views": 212
     },
     {
       "slug": "jvc-cs-610",
@@ -6946,7 +7687,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1112.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 52,
+      "added_at": 1732391754,
+      "views": 203
     },
     {
       "slug": "jvc-cs-6910",
@@ -6974,7 +7718,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1113.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 64,
+      "added_at": 1732391845,
+      "views": 281
     },
     {
       "slug": "lenovo-sp04wy-10sm-50w-max",
@@ -7002,7 +7749,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2671.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 1,
+      "added_at": 1763446753,
+      "views": 165
     },
     {
       "slug": "ok-kenwood-rfc-1358",
@@ -7030,7 +7780,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1491.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 136,
+      "added_at": 1751111969,
+      "views": 142
     },
     {
       "slug": "pioneer-ts-1393",
@@ -7058,7 +7811,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1377.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 51,
+      "added_at": 1745502365,
+      "views": 155
     },
     {
       "slug": "pioneer-ts-1396s-480w",
@@ -7086,7 +7842,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1138.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 59,
+      "added_at": 1733548229,
+      "views": 166
     },
     {
       "slug": "pioneer-ts-1675-v2-16sm",
@@ -7114,7 +7873,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/9/966.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 95,
+      "added_at": 1728137276,
+      "views": 302
     },
     {
       "slug": "pioneer-ts-6975-v3-6-9-ovaly",
@@ -7142,7 +7904,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/9/964.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 180,
+      "added_at": 1728137074,
+      "views": 313
     },
     {
       "slug": "pioneer-ts-a1096a-450w",
@@ -7170,7 +7935,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2793.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 24,
+      "added_at": 1767297276,
+      "views": 131
     },
     {
       "slug": "pioneer-ts-a1394",
@@ -7198,7 +7966,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1378.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 70,
+      "added_at": 1745558726,
+      "views": 136
     },
     {
       "slug": "pioneer-ts-a1396a-550w",
@@ -7226,7 +7997,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2794.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 79,
+      "added_at": 1767297338,
+      "views": 153
     },
     {
       "slug": "pioneer-ts-a1693",
@@ -7254,7 +8028,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1376.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 28,
+      "added_at": 1745502255,
+      "views": 128
     },
     {
       "slug": "pioneer-ts-a1694",
@@ -7282,7 +8059,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1379.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 72,
+      "added_at": 1745558815,
+      "views": 230
     },
     {
       "slug": "pioneer-ts-a1696a-650w",
@@ -7310,7 +8090,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2795.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 61,
+      "added_at": 1767297425,
+      "views": 140
     },
     {
       "slug": "pioneer-ts6996a",
@@ -7338,7 +8121,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2505.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 45,
+      "added_at": 1753519209,
+      "views": 104
     },
     {
       "slug": "pioneer-ts6997a",
@@ -7366,7 +8152,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2507.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 140,
+      "added_at": 1753519365,
+      "views": 151
     },
     {
       "slug": "pioneer-ts6999a",
@@ -7394,7 +8183,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2508.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 131,
+      "added_at": 1753519412,
+      "views": 106
     },
     {
       "slug": "ts-a1696s-650w",
@@ -7422,7 +8214,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2648.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 225,
+      "added_at": 1759759078,
+      "views": 115
     },
     {
       "slug": "wt-580asp-22",
@@ -7450,7 +8245,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1191.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 3,
+      "added_at": 1734507278,
+      "views": 212
     },
     {
       "slug": "wt-582asp-22",
@@ -7478,7 +8276,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1190.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 2,
+      "added_at": 1734507190,
+      "views": 207
     },
     {
       "slug": "wt-spk159-22",
@@ -7506,7 +8307,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1188.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 1,
+      "added_at": 1734506942,
+      "views": 209
     },
     {
       "slug": "wt-spk161-22",
@@ -7534,7 +8338,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1189.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 3,
+      "added_at": 1734507022,
+      "views": 183
     },
     {
       "slug": "kolonki-bos-mini-4083",
@@ -7562,7 +8369,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2619.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 15,
+      "added_at": 1756469877,
+      "views": 203
     },
     {
       "slug": "kolonki-ot-bos-mini-5083",
@@ -7590,7 +8400,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/6/639.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 65,
+      "added_at": 1717065242,
+      "views": 344
     },
     {
       "slug": "kolonki-ot-bos-mini-6583",
@@ -7618,7 +8431,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/6/638.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 155,
+      "added_at": 1717065094,
+      "views": 405
     },
     {
       "slug": "kolonki-ot-bos-mini-6983",
@@ -7646,7 +8462,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/6/637.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 56,
+      "added_at": 1717064941,
+      "views": 340
     },
     {
       "slug": "pishhalka-ht-25",
@@ -7674,7 +8493,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/7/742.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 328,
+      "added_at": 1720114055,
+      "views": 224
     },
     {
       "slug": "postuplenie-pishhalok-hz-3-0t",
@@ -7702,7 +8524,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/5/521.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 113,
+      "added_at": 1715285715,
+      "views": 364
     },
     {
       "slug": "rupor-tp-14",
@@ -7730,7 +8555,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/15/1522.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 64,
+      "added_at": 1752047244,
+      "views": 114
     },
     {
       "slug": "1-din-bos-mini-n771",
@@ -7758,7 +8586,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/5/578.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 63,
+      "added_at": 1716273525,
+      "views": 932
     },
     {
       "slug": "1-din-pioneer-gb-mvn-5803sbt",
@@ -7786,7 +8617,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/5/576.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 135,
+      "added_at": 1716273290,
+      "views": 486
     },
     {
       "slug": "bos-mini-n870",
@@ -7814,7 +8648,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1924.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 60,
+      "added_at": 1752837333,
+      "views": 253
     },
     {
       "slug": "bos-mini-n871",
@@ -7842,7 +8679,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1923.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 63,
+      "added_at": 1752837291,
+      "views": 392
     },
     {
       "slug": "bos-mini-bos-n671dsp",
@@ -7870,7 +8710,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1163.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 27,
+      "added_at": 1733822564,
+      "views": 1038
     },
     {
       "slug": "bos-mini-940dsp",
@@ -7898,7 +8741,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2737.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 110,
+      "added_at": 1765607730,
+      "views": 642
     },
     {
       "slug": "bos-mini-y958bt",
@@ -7926,7 +8772,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2740.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 78,
+      "added_at": 1765628462,
+      "views": 214
     },
     {
       "slug": "bos-n974dsp",
@@ -7954,7 +8803,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1474.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 59,
+      "added_at": 1749968403,
+      "views": 306
     },
     {
       "slug": "bos-y950bt",
@@ -7982,7 +8834,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1478.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 108,
+      "added_at": 1750255313,
+      "views": 496
     },
     {
       "slug": "bos-y957bt-12v-24v",
@@ -8010,7 +8865,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2518.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 240,
+      "added_at": 1753768718,
+      "views": 397
     },
     {
       "slug": "den-190hbt",
@@ -8038,7 +8896,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2561.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 1560,
+      "added_at": 1754637220,
+      "views": 233
     },
     {
       "slug": "dv-pioneer-ok-212",
@@ -8066,7 +8927,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2861.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 30,
+      "added_at": 1772781358,
+      "views": 167
     },
     {
       "slug": "dv-pioneer-ok-214",
@@ -8094,7 +8958,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/8/875.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 666,
+      "added_at": 1723960647,
+      "views": 328
     },
     {
       "slug": "dv-pioneer-ok-deh-dv3850",
@@ -8122,7 +8989,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2858.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 3,
+      "added_at": 1772779859,
+      "views": 148
     },
     {
       "slug": "dv-pioneer-ok-deh-dv5850",
@@ -8150,7 +9020,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2859.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 6,
+      "added_at": 1772779884,
+      "views": 124
     },
     {
       "slug": "dv-pioneer-ok-mp3564",
@@ -8178,7 +9051,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2836.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 5,
+      "added_at": 1770802347,
+      "views": 101
     },
     {
       "slug": "dv-pioneer-ok-mp3565",
@@ -8206,7 +9082,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2837.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 27,
+      "added_at": 1770802367,
+      "views": 99
     },
     {
       "slug": "dv-pioneer-ok-mp3566",
@@ -8234,7 +9113,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2838.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 9,
+      "added_at": 1770802444,
+      "views": 112
     },
     {
       "slug": "dv-pioneer-ok-mp3567",
@@ -8262,7 +9144,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2839.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 30,
+      "added_at": 1770802487,
+      "views": 150
     },
     {
       "slug": "dv-pioneer-ok-mp371dsp",
@@ -8290,7 +9175,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2791.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 18,
+      "added_at": 1767297093,
+      "views": 174
     },
     {
       "slug": "dv-pioneer-ok-mp372dsp",
@@ -8318,7 +9206,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2792.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 22,
+      "added_at": 1767297118,
+      "views": 190
     },
     {
       "slug": "dv-pioneer-ok-217",
@@ -8346,7 +9237,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/8/876.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 718,
+      "added_at": 1723960692,
+      "views": 327
     },
     {
       "slug": "dv-pioneer-ok-218",
@@ -8374,7 +9268,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/8/877.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 1098,
+      "added_at": 1723960739,
+      "views": 325
     },
     {
       "slug": "dv-pioneer-ok-219",
@@ -8402,7 +9299,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/8/878.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 967,
+      "added_at": 1723960791,
+      "views": 296
     },
     {
       "slug": "dv-pioneer-ok-220",
@@ -8430,7 +9330,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2862.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 111,
+      "added_at": 1773034968,
+      "views": 181
     },
     {
       "slug": "dv-pioneer-ok-1605",
@@ -8458,7 +9361,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/00/28.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 40,
+      "added_at": 1714856095,
+      "views": 332
     },
     {
       "slug": "e5-olom-e-011",
@@ -8486,7 +9392,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2832.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 3,
+      "added_at": 1770802084,
+      "views": 88
     },
     {
       "slug": "e5-olom-e-012",
@@ -8514,7 +9423,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2833.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 3,
+      "added_at": 1770802124,
+      "views": 74
     },
     {
       "slug": "e5-olom-e-013",
@@ -8542,7 +9454,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2834.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 3,
+      "added_at": 1770802147,
+      "views": 81
     },
     {
       "slug": "kenwood-ok-k-015",
@@ -8570,7 +9485,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2835.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 17,
+      "added_at": 1770802213,
+      "views": 226
     },
     {
       "slug": "mvh-y8053mbt",
@@ -8598,7 +9516,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2701.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 1103,
+      "added_at": 1764669494,
+      "views": 128
     },
     {
       "slug": "mvh-y8055mbt",
@@ -8626,7 +9547,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2702.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 772,
+      "added_at": 1764669521,
+      "views": 183
     },
     {
       "slug": "mvh-y8056mbt",
@@ -8654,7 +9578,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2736.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 505,
+      "added_at": 1765546343,
+      "views": 135
     },
     {
       "slug": "mvh-y8057mbt",
@@ -8682,7 +9609,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2703.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 56,
+      "added_at": 1764669556,
+      "views": 122
     },
     {
       "slug": "mvh-y8058mbt",
@@ -8710,7 +9640,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2704.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 3120,
+      "added_at": 1764669581,
+      "views": 160
     },
     {
       "slug": "mvh-y8059mbt",
@@ -8738,7 +9671,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2705.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 658,
+      "added_at": 1764669603,
+      "views": 107
     },
     {
       "slug": "ok-jvc-kd-r592m",
@@ -8766,7 +9702,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2860.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 3,
+      "added_at": 1772780396,
+      "views": 98
     },
     {
       "slug": "pioneer-pla-196sbt",
@@ -8794,7 +9733,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2520.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 172,
+      "added_at": 1753770414,
+      "views": 327
     },
     {
       "slug": "pioneer-gb-den-5806sbt",
@@ -8822,7 +9764,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2521.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 50,
+      "added_at": 1753770698,
+      "views": 153
     },
     {
       "slug": "pioneer-gb-mvh-341-12-24v",
@@ -8850,7 +9795,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1392.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 1699,
+      "added_at": 1746085618,
+      "views": 229
     },
     {
       "slug": "pinoeer-gb-mvh-815dsp",
@@ -8878,7 +9826,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2504.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 81,
+      "added_at": 1753518362,
+      "views": 152
     },
     {
       "slug": "pioneer-gb-mvh-816dsp",
@@ -8906,7 +9857,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/11/1161.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 394,
+      "added_at": 1733727083,
+      "views": 351
     },
     {
       "slug": "pioneer-gb-mvh-767mbt",
@@ -8934,7 +9888,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/8/824.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 1532,
+      "added_at": 1722713624,
+      "views": 387
     },
     {
       "slug": "pioneer-gb-mvh-f899zbt",
@@ -8962,7 +9919,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/19/1922.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 21,
+      "added_at": 1752837167,
+      "views": 303
     },
     {
       "slug": "pioneer-gb-mvh-768mbt",
@@ -8990,7 +9950,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/8/821.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 1218,
+      "added_at": 1722584362,
+      "views": 455
     },
     {
       "slug": "magnitola-bos-mini-n970dsp",
@@ -9018,7 +9981,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/00/88.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 144,
+      "added_at": 1714856095,
+      "views": 1030
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
@@ -9046,7 +10012,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/00/89.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 149,
+      "added_at": 1714856095,
+      "views": 1012
     },
     {
       "slug": "magnitola-bos-mini-n972dsp",
@@ -9074,7 +10043,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/00/90.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 62,
+      "added_at": 1714856095,
+      "views": 803
     },
     {
       "slug": "magnitola-bos-mini-n973dsp",
@@ -9102,7 +10074,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/00/91.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 60,
+      "added_at": 1714856095,
+      "views": 1014
     },
     {
       "slug": "7010b",
@@ -9130,7 +10105,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1254.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 364,
+      "added_at": 1738048528,
+      "views": 365
     },
     {
       "slug": "bos-mini-n640dp5",
@@ -9158,7 +10136,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2928.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 23,
+      "added_at": 1778219987,
+      "views": 145
     },
     {
       "slug": "bos-mini-n727hgp5",
@@ -9186,7 +10167,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2898.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 9,
+      "added_at": 1776253023,
+      "views": 195
     },
     {
       "slug": "bos-mini-n636dp5",
@@ -9214,7 +10198,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2723.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 46,
+      "added_at": 1765285531,
+      "views": 885
     },
     {
       "slug": "dv-pioneer-ok-mp5710",
@@ -9242,7 +10229,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2872.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 33,
+      "added_at": 1773149681,
+      "views": 324
     },
     {
       "slug": "dv-pioneer-ok-7110",
@@ -9270,7 +10260,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2699.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 83,
+      "added_at": 1764658726,
+      "views": 493
     },
     {
       "slug": "e5-olom-e-707",
@@ -9298,7 +10291,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1360.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 91,
+      "added_at": 1743669570,
+      "views": 468
     },
     {
       "slug": "pioneer-gb-mvh-595dp5",
@@ -9326,7 +10322,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2616.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 23,
+      "added_at": 1756292951,
+      "views": 418
     },
     {
       "slug": "pioneer-ok-4422",
@@ -9354,7 +10353,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/1/121.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 46,
+      "added_at": 1714856095,
+      "views": 612
     },
     {
       "slug": "pioneergb-grs-881dp5",
@@ -9382,7 +10384,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/6/617.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 444,
+      "added_at": 1716836605,
+      "views": 723
     },
     {
       "slug": "pioneergb-grs-882dp5",
@@ -9410,7 +10415,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/6/618.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 918,
+      "added_at": 1716836782,
+      "views": 314
     },
     {
       "slug": "2-provodnyj-ehlektroprivod-zamka-dverej-bm-02",
@@ -9438,7 +10446,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2842.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 36,
+      "added_at": 1771312210,
+      "views": 124
     },
     {
       "slug": "5-provodnyj-ehlektroprivod-zamka-dverej-vm-05",
@@ -9466,7 +10477,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1381.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 48,
+      "added_at": 1745559160,
+      "views": 168
     },
     {
       "slug": "bos-a231bt",
@@ -9494,7 +10508,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1466.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 23,
+      "added_at": 1749455727,
+      "views": 252
     },
     {
       "slug": "bos-mini-233pke",
@@ -9522,7 +10539,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/18/1837.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 11,
+      "added_at": 1752671618,
+      "views": 757
     },
     {
       "slug": "bos-08e",
@@ -9550,7 +10570,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1454.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 62,
+      "added_at": 1749111958,
+      "views": 565
     },
     {
       "slug": "bos-mini-a238",
@@ -9578,7 +10601,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2711.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 5,
+      "added_at": 1765013663,
+      "views": 187
     },
     {
       "slug": "new-parktronik-bos-666",
@@ -9606,7 +10632,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1284.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 261,
+      "added_at": 1738756168,
+      "views": 327
     },
     {
       "slug": "ok-jvc-he-670",
@@ -9634,7 +10663,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1007.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 9,
+      "added_at": 1729676994,
+      "views": 320
     },
     {
       "slug": "ok-jvc-he-690-4",
@@ -9662,7 +10694,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1009.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 16,
+      "added_at": 1729677208,
+      "views": 359
     },
     {
       "slug": "starline-a91",
@@ -9690,7 +10725,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2698.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 75,
+      "added_at": 1764621987,
+      "views": 274
     },
     {
       "slug": "starline-b9",
@@ -9718,7 +10756,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/8/841.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 279,
+      "added_at": 1722779686,
+      "views": 323
     },
     {
       "slug": "tomahawk-tw-9010",
@@ -9746,7 +10787,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2524.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 210,
+      "added_at": 1753770937,
+      "views": 172
     },
     {
       "slug": "brelok-dlja-avtosignalizacii-tamahawk-x5",
@@ -9774,7 +10818,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/9/932.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 48,
+      "added_at": 1727081099,
+      "views": 206
     },
     {
       "slug": "dvukhstoronnjaja-signalizacija-s-avtozapuskom-x5",
@@ -9802,7 +10849,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/3/363.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 148,
+      "added_at": 1714856095,
+      "views": 322
     },
     {
       "slug": "lazernyj-datchik-otkryvanija-bagazhnika-ot-bos-mini-x-03",
@@ -9830,7 +10880,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2554.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 12,
+      "added_at": 1754137097,
+      "views": 549
     },
     {
       "slug": "odnostoronnjaja-signalizacija-bos-a232ke-s-knopkoj-start-stop",
@@ -9858,7 +10911,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2555.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 12,
+      "added_at": 1754137765,
+      "views": 295
     },
     {
       "slug": "odnostoronnjaja-signalizacija-bos-mini-g6099bt",
@@ -9886,7 +10942,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1213.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 54,
+      "added_at": 1736253626,
+      "views": 709
     },
     {
       "slug": "odnostoronnjaja-signalizacija-dv-234",
@@ -9914,7 +10973,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/3/354.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 14,
+      "added_at": 1714856095,
+      "views": 296
     },
     {
       "slug": "parktronik-bos-555",
@@ -9942,7 +11004,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1283.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 78,
+      "added_at": 1738756089,
+      "views": 348
     },
     {
       "slug": "centralnyj-zamok-s-dvumja-pultami-686b",
@@ -9970,7 +11035,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/9/929.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 131,
+      "added_at": 1727072278,
+      "views": 493
     },
     {
       "slug": "chevrolet-cobalt",
@@ -9998,7 +11066,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/24/2489.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 25,
+      "added_at": 1753205038,
+      "views": 189
     },
     {
       "slug": "chevrolet-cruze-2013g-9-chjornyj",
@@ -10026,7 +11097,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2606.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 36,
+      "added_at": 1755667405,
+      "views": 185
     },
     {
       "slug": "ford-focus-9",
@@ -10054,7 +11128,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2879.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 28,
+      "added_at": 1774859909,
+      "views": 98
     },
     {
       "slug": "ford-transit-2015g",
@@ -10082,7 +11159,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2599.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 105,
+      "added_at": 1755666788,
+      "views": 97
     },
     {
       "slug": "gazelle-business-2010-2022",
@@ -10110,7 +11190,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/7/757.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 104,
+      "added_at": 1721251344,
+      "views": 324
     },
     {
       "slug": "gazel-next-2016",
@@ -10138,7 +11221,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/24/2480.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 155,
+      "added_at": 1752932250,
+      "views": 135
     },
     {
       "slug": "gazelle-business-2010-9-djujmov-seryj",
@@ -10166,7 +11252,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2607.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 219,
+      "added_at": 1755667861,
+      "views": 180
     },
     {
       "slug": "gazelle-business-2010-9-djujmov-chjornyj",
@@ -10194,7 +11283,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2608.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 105,
+      "added_at": 1755667900,
+      "views": 131
     },
     {
       "slug": "hyundai-accent-2011-2016g-9-djum-chernyj",
@@ -10222,7 +11314,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2553.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 471,
+      "added_at": 1754039232,
+      "views": 148
     },
     {
       "slug": "hyundai-accent-2011-2016-seryj",
@@ -10250,7 +11345,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2808.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 21,
+      "added_at": 1769508393,
+      "views": 93
     },
     {
       "slug": "hyundai-sonata-9-2011-2014g",
@@ -10278,7 +11376,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2880.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 7,
+      "added_at": 1774860023,
+      "views": 40
     },
     {
       "slug": "kia-k5-2016g",
@@ -10306,7 +11407,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2597.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 37,
+      "added_at": 1755666601,
+      "views": 140
     },
     {
       "slug": "kia-rio-2012-2016",
@@ -10334,7 +11438,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2552.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 197,
+      "added_at": 1754039103,
+      "views": 209
     },
     {
       "slug": "laba-niva-1993-2020",
@@ -10362,7 +11469,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1002.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 82,
+      "added_at": 1729665330,
+      "views": 295
     },
     {
       "slug": "lada-2114-2115-1997-2012rr",
@@ -10390,7 +11500,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1374.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 112,
+      "added_at": 1745134818,
+      "views": 252
     },
     {
       "slug": "lada-granta-2018",
@@ -10418,7 +11531,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/7/769.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 654,
+      "added_at": 1721297076,
+      "views": 522
     },
     {
       "slug": "lada-priora-2013-2018",
@@ -10446,7 +11562,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/7/771.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 28,
+      "added_at": 1721297725,
+      "views": 316
     },
     {
       "slug": "lada-xray",
@@ -10474,7 +11593,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/24/2490.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 22,
+      "added_at": 1753205133,
+      "views": 99
     },
     {
       "slug": "mazda-3-2006-2012-gg-9-djujmov",
@@ -10502,7 +11624,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1268.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 164,
+      "added_at": 1738491299,
+      "views": 169
     },
     {
       "slug": "nissan-qashqai-2014-10-djujmov",
@@ -10530,7 +11655,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1266.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 76,
+      "added_at": 1738490935,
+      "views": 159
     },
     {
       "slug": "renault-logan-2009-2013",
@@ -10558,7 +11686,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1269.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 25,
+      "added_at": 1738491414,
+      "views": 252
     },
     {
       "slug": "toyota-highlander-2009-2014",
@@ -10586,7 +11717,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1389.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 23,
+      "added_at": 1746084791,
+      "views": 176
     },
     {
       "slug": "toyota-prado-2010gg-9",
@@ -10614,7 +11748,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2884.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 6,
+      "added_at": 1775026980,
+      "views": 78
     },
     {
       "slug": "uaz-patriot-2016",
@@ -10642,7 +11779,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2644.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 134,
+      "added_at": 1757834787,
+      "views": 161
     },
     {
       "slug": "uaz-patriot-2016-10-djumov",
@@ -10670,7 +11810,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2878.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 10,
+      "added_at": 1774597625,
+      "views": 49
     },
     {
       "slug": "uaz-patriot-2016-9-djumov",
@@ -10698,7 +11841,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2877.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 14,
+      "added_at": 1774597460,
+      "views": 55
     },
     {
       "slug": "red-24v-220v-1000w",
@@ -10726,7 +11872,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1083.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 10,
+      "added_at": 1732022622,
+      "views": 270
     },
     {
       "slug": "red-24v-220v-1600w",
@@ -10754,7 +11903,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1082.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 6,
+      "added_at": 1732022421,
+      "views": 225
     },
     {
       "slug": "inverter-red-12v-220v-1000w",
@@ -10782,7 +11934,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1080.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 22,
+      "added_at": 1732020182,
+      "views": 234
     },
     {
       "slug": "inverter-red-12v-220v-2200w",
@@ -10810,7 +11965,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1077.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 12,
+      "added_at": 1732015908,
+      "views": 287
     },
     {
       "slug": "inverter-xbk-12v-220v-8000w",
@@ -10838,7 +11996,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2697.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 1,
+      "added_at": 1764579038,
+      "views": 131
     },
     {
       "slug": "inverter-khvk-12v-220v-6000w",
@@ -10866,7 +12027,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1075.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 3,
+      "added_at": 1732015314,
+      "views": 228
     },
     {
       "slug": "inverter-khvk-12v-220v-5000w",
@@ -10894,7 +12058,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/10/1076.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 6,
+      "added_at": 1732015518,
+      "views": 217
     },
     {
       "slug": "preobrazovateli-24v-12v-45a",
@@ -10922,7 +12089,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/6/692.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 25,
+      "added_at": 1718658908,
+      "views": 224
     },
     {
       "slug": "preobrazovateli-24v-12v-60a",
@@ -10950,7 +12120,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/6/693.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 65,
+      "added_at": 1718659006,
+      "views": 227
     },
     {
       "slug": "bos-404-4-ch-rca",
@@ -10978,7 +12151,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2925.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 26,
+      "added_at": 1777715674,
+      "views": 84
     },
     {
       "slug": "bos-4ga",
@@ -11006,7 +12182,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2535.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 247,
+      "added_at": 1753860593,
+      "views": 320
     },
     {
       "slug": "bos-6ga",
@@ -11034,7 +12213,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2534.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 143,
+      "added_at": 1753860509,
+      "views": 150
     },
     {
       "slug": "bos-8ga",
@@ -11062,7 +12244,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2533.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 225,
+      "added_at": 1753860442,
+      "views": 126
     },
     {
       "slug": "bos-mini-10g",
@@ -11090,7 +12275,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/9/927.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 74,
+      "added_at": 1726917366,
+      "views": 690
     },
     {
       "slug": "dv-100-komplekt-provodov",
@@ -11118,7 +12306,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2574.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 181,
+      "added_at": 1754806593,
+      "views": 211
     },
     {
       "slug": "dv-60-komplekt-provodov",
@@ -11146,7 +12337,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2575.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 19,
+      "added_at": 1754823254,
+      "views": 62
     },
     {
       "slug": "dv-80-komplekt-provodov",
@@ -11174,7 +12368,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2573.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 62,
+      "added_at": 1754806553,
+      "views": 72
     },
     {
       "slug": "e5-olom-e5-3012",
@@ -11202,7 +12399,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2651.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 46,
+      "added_at": 1760773970,
+      "views": 239
     },
     {
       "slug": "e5-olom-p-08",
@@ -11230,7 +12430,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/7/728.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 13,
+      "added_at": 1719655304,
+      "views": 155
     },
     {
       "slug": "e5-olom-p-10",
@@ -11258,7 +12461,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/7/729.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 34,
+      "added_at": 1719655432,
+      "views": 366
     },
     {
       "slug": "e5-olom-p-12",
@@ -11286,7 +12492,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/7/730.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 103,
+      "added_at": 1719655536,
+      "views": 322
     },
     {
       "slug": "fs56-8ga",
@@ -11314,7 +12523,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2584.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 62,
+      "added_at": 1755617714,
+      "views": 150
     },
     {
       "slug": "pioneer-gb-801a",
@@ -11342,7 +12554,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2502.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 55,
+      "added_at": 1753518032,
+      "views": 183
     },
     {
       "slug": "pioneer-gb-802a",
@@ -11370,7 +12585,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2503.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 105,
+      "added_at": 1753518058,
+      "views": 177
     },
     {
       "slug": "pioneer-gb-11g",
@@ -11398,7 +12616,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/9/928.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 38,
+      "added_at": 1726917429,
+      "views": 322
     },
     {
       "slug": "pioneer-gb-mvh-3010u",
@@ -11426,7 +12647,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2780.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 140,
+      "added_at": 1766646329,
+      "views": 103
     },
     {
       "slug": "pioneer-gb-3080u",
@@ -11454,7 +12678,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/26/2677.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 13,
+      "added_at": 1764221514,
+      "views": 138
     },
     {
       "slug": "syzx-v-us80",
@@ -11482,7 +12709,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1330.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 14,
+      "added_at": 1741171685,
+      "views": 175
     },
     {
       "slug": "syzx-d-8310",
@@ -11510,7 +12740,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/14/1421.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 37,
+      "added_at": 1747294154,
+      "views": 136
     },
     {
       "slug": "syzx-v-1310-10",
@@ -11538,7 +12771,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/13/1398.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 12,
+      "added_at": 1746689110,
+      "views": 109
     },
     {
       "slug": "aktivnyj-sabvufer-px100",
@@ -11566,7 +12802,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2763.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 1,
+      "added_at": 1765863730,
+      "views": 138
     },
     {
       "slug": "aktivnyj-sabvufer-px120",
@@ -11594,7 +12833,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2764.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 2,
+      "added_at": 1765863799,
+      "views": 145
     },
     {
       "slug": "bukhta-kabelja-model-200",
@@ -11622,7 +12864,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/5/567.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 14,
+      "added_at": 1715671657,
+      "views": 276
     },
     {
       "slug": "bukhta-kabelja-model-400",
@@ -11650,7 +12895,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/5/569.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 17,
+      "added_at": 1715671990,
+      "views": 293
     },
     {
       "slug": "kabel-2-2-rca-sinij",
@@ -11678,7 +12926,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2936.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 5,
+      "added_at": 1778922215,
+      "views": 42
     },
     {
       "slug": "kabel-2-2-rca-bl863",
@@ -11706,7 +12957,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/5/553.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 79,
+      "added_at": 1715363607,
+      "views": 272
     },
     {
       "slug": "kabel-rca-the-poem",
@@ -11734,7 +12988,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2760.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 243,
+      "added_at": 1765863450,
+      "views": 160
     },
     {
       "slug": "komplekt-provodov-10ga",
@@ -11762,7 +13019,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/5/549.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 48,
+      "added_at": 1715363107,
+      "views": 279
     },
     {
       "slug": "komplekt-provodov-8ga",
@@ -11790,7 +13050,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/2/290.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 372,
+      "added_at": 1714856095,
+      "views": 301
     },
     {
       "slug": "komplekt-provodov-ak4",
@@ -11818,7 +13081,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2550.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 36,
+      "added_at": 1754038743,
+      "views": 134
     },
     {
       "slug": "komplekt-provodov-bos-44",
@@ -11846,7 +13112,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2927.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 6,
+      "added_at": 1777715840,
+      "views": 75
     },
     {
       "slug": "komplekt-provodov-bos-48",
@@ -11874,7 +13143,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/29/2926.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 15,
+      "added_at": 1777715745,
+      "views": 92
     },
     {
       "slug": "komplekt-provodov-pro-series-4ga",
@@ -11902,7 +13174,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2761.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 40,
+      "added_at": 1765863510,
+      "views": 159
     },
     {
       "slug": "komplekt-provodov-vp04",
@@ -11930,7 +13205,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2762.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 24,
+      "added_at": 1765863602,
+      "views": 131
     },
     {
       "slug": "komplekt-provodov-x9",
@@ -11958,7 +13236,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/25/2500.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 807,
+      "added_at": 1753516707,
+      "views": 185
     },
     {
       "slug": "sabvufer-syzx-yd-0108",
@@ -11986,7 +13267,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/7/717.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 25,
+      "added_at": 1719475285,
+      "views": 327
     },
     {
       "slug": "saby-bos-mini-k-120",
@@ -12014,7 +13298,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/6/647.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 32,
+      "added_at": 1717502009,
+      "views": 388
     },
     {
       "slug": "alpine-405",
@@ -12042,7 +13329,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2729.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 9,
+      "added_at": 1765430348,
+      "views": 262
     },
     {
       "slug": "alpine-ap-45-1",
@@ -12065,12 +13355,15 @@
         "https://bosminiofficial.ru/_sh/25/2540.jpg"
       ],
       "local_images": [
-        "https://bosminiofficial.ru/_sh/25/2540m.jpg"
+        "https://bosminiofficial.ru/_sh/25/2540.jpg"
       ],
       "thumb_image_urls": [
-        "https://bosminiofficial.ru/_sh/25/2540m.jpg"
+        "https://bosminiofficial.ru/_sh/25/2540.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 15,
+      "added_at": 1753952020,
+      "views": 236
     },
     {
       "slug": "alpine-ap-47-1",
@@ -12098,7 +13391,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2727.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 19,
+      "added_at": 1765430230,
+      "views": 231
     },
     {
       "slug": "alpine-ap-a5204",
@@ -12126,7 +13422,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2844.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 8,
+      "added_at": 1771744690,
+      "views": 167
     },
     {
       "slug": "dv-pioneer-ok-414",
@@ -12154,7 +13453,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2753.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 16,
+      "added_at": 1765802307,
+      "views": 131
     },
     {
       "slug": "dv-pioneer-ok-415",
@@ -12182,7 +13484,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2754.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 5,
+      "added_at": 1765802327,
+      "views": 136
     },
     {
       "slug": "dv-pioneer-ok-a43",
@@ -12210,7 +13515,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/24/2486.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 6,
+      "added_at": 1753165880,
+      "views": 204
     },
     {
       "slug": "jbl-jb-480",
@@ -12238,7 +13546,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2747.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 21,
+      "added_at": 1765657288,
+      "views": 611
     },
     {
       "slug": "kenwood-kw-a5314",
@@ -12266,7 +13577,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/28/2843.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 4,
+      "added_at": 1771744629,
+      "views": 165
     },
     {
       "slug": "pioneer-421",
@@ -12294,7 +13608,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2730.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 8,
+      "added_at": 1765430447,
+      "views": 114
     },
     {
       "slug": "pioneer-423",
@@ -12322,7 +13639,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2731.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 2,
+      "added_at": 1765430470,
+      "views": 119
     },
     {
       "slug": "pioneer-424",
@@ -12350,7 +13670,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2732.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 8,
+      "added_at": 1765430493,
+      "views": 134
     },
     {
       "slug": "pioneer-427",
@@ -12378,7 +13701,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2728.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 8,
+      "added_at": 1765430285,
+      "views": 120
     },
     {
       "slug": "pioneer-t5-45-1",
@@ -12406,7 +13732,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/27/2746.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 6,
+      "added_at": 1765657210,
+      "views": 217
     },
     {
       "slug": "planior-pla-a21",
@@ -12434,7 +13763,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/3/346.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 601,
+      "added_at": 1714856095,
+      "views": 523
     },
     {
       "slug": "planior-pla-a25",
@@ -12462,7 +13794,10 @@
       "thumb_image_urls": [
         "https://bosminiofficial.ru/_sh/12/1285.jpg"
       ],
-      "stock_count": 0
+      "stock_count": 0,
+      "popularity": 122,
+      "added_at": 1738756387,
+      "views": 814
     }
   ]
 }
