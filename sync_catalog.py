@@ -214,6 +214,21 @@ def to_product_json(entry: dict, cat_lookup: dict[int, str]) -> dict:
     is_hidden = bool(entry.get("entry_is_hidden"))
     in_stock = (not is_hidden) and price_rub > 0
 
+    # Behavioural signals for the home "Хиты" / "Новые прибытия" rails. uCoz
+    # exposes no manual hit/new flag via uAPI, so we drive these from organic
+    # data instead: entry_ordered (cumulative order count) is the strongest
+    # popularity signal, entry_added_time the real creation timestamp.
+    # entry_solds is ~always 0, so it's intentionally dropped.
+    def _as_int(v) -> int:
+        try:
+            return int(v)
+        except (TypeError, ValueError):
+            return 0
+
+    popularity = _as_int(entry.get("entry_ordered"))
+    added_at = _as_int(entry.get("entry_added_time"))
+    views = _as_int(entry.get("entry_views"))
+
     return {
         "slug": slug,
         "url": entry.get("entry_shop_url") or "",
@@ -231,6 +246,9 @@ def to_product_json(entry: dict, cat_lookup: dict[int, str]) -> dict:
         "local_images": full_urls,
         "thumb_image_urls": full_urls,
         "stock_count": int(stock_total) if isinstance(stock_total, (int, float)) else 0,
+        "popularity": popularity,
+        "added_at": added_at,
+        "views": views,
     }
 
 
