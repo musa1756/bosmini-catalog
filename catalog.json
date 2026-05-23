@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779523221,
+  "generated_at": 1779523816,
   "scraped_count": 446,
   "products": [
     {
@@ -95,7 +95,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1763311652,
-      "views": 681
+      "views": 682
     },
     {
       "slug": "bos-mini-8701-2-32gb-7",
@@ -2389,7 +2389,7 @@
       "stock_count": 0,
       "popularity": 87,
       "added_at": 1752905847,
-      "views": 237
+      "views": 238
     },
     {
       "slug": "multimedia-factory-f7d-pro-4-64gb-7",
@@ -7070,7 +7070,7 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1723529449,
-      "views": 411
+      "views": 412
     },
     {
       "slug": "dv-pioneer-ok-1015",
@@ -7721,7 +7721,7 @@
       "stock_count": 0,
       "popularity": 52,
       "added_at": 1732391754,
-      "views": 204
+      "views": 205
     },
     {
       "slug": "jvc-cs-6910",
@@ -8062,7 +8062,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1745502255,
-      "views": 129
+      "views": 130
     },
     {
       "slug": "pioneer-ts-a1694",
@@ -12092,7 +12092,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1732015518,
-      "views": 218
+      "views": 219
     },
     {
       "slug": "preobrazovateli-24v-12v-45a",
@@ -13828,7 +13828,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 815
+      "views": 816
     }
   ]
 }
