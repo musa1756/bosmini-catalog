@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779520221,
-  "scraped_count": 445,
+  "generated_at": 1779520816,
+  "scraped_count": 446,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -126,7 +126,7 @@
       "stock_count": 0,
       "popularity": 378,
       "added_at": 1752844839,
-      "views": 1251
+      "views": 1252
     },
     {
       "slug": "bos-mini-8702-2-32gb-7",
@@ -3722,7 +3722,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1763447228,
-      "views": 150
+      "views": 151
     },
     {
       "slug": "vneshniij-mikrafon-bos-e02",
@@ -6763,6 +6763,37 @@
       "views": 895
     },
     {
+      "slug": "bos-mini-6587",
+      "url": "https://bosminiofficial.ru/shop/2937/desc/bos-mini-6587",
+      "name": "BOS-MINI 6587",
+      "sku": "",
+      "price_rub": 0,
+      "old_price_rub": null,
+      "in_stock": false,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Размер  Колонки  16см\n✅️ Максимальная Мощность 420W-Max",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2937.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2937.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2937.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2937.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1779520353,
+      "views": 1
+    },
+    {
       "slug": "bos-mini-6586-16sm",
       "url": "https://bosminiofficial.ru/shop/1131/desc/bos-mini-6586-16sm",
       "name": "Bos Mini 6586 (16см)",
@@ -7070,7 +7101,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1767296121,
-      "views": 106
+      "views": 107
     },
     {
       "slug": "dv-pioneer-ok-1315",
@@ -9333,7 +9364,7 @@
       "stock_count": 0,
       "popularity": 111,
       "added_at": 1773034968,
-      "views": 181
+      "views": 182
     },
     {
       "slug": "dv-pioneer-ok-1605",
