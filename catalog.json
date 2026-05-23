@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779554416,
+  "generated_at": 1779555019,
   "scraped_count": 446,
   "products": [
     {
@@ -3412,7 +3412,7 @@
       "stock_count": 0,
       "popularity": 81,
       "added_at": 1752661634,
-      "views": 294
+      "views": 295
     },
     {
       "slug": "aromatizator-diffuzory-rh-017",
@@ -4497,7 +4497,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1751463944,
-      "views": 127
+      "views": 128
     },
     {
       "slug": "led-headlights-n3-h4",
@@ -4900,7 +4900,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1743145520,
-      "views": 153
+      "views": 154
     },
     {
       "slug": "tech-king-hb3-9005",
@@ -5644,7 +5644,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1750599777,
-      "views": 215
+      "views": 216
     },
     {
       "slug": "carplay-pnd-7-pro",
@@ -8806,7 +8806,7 @@
       "stock_count": 0,
       "popularity": 78,
       "added_at": 1765628462,
-      "views": 215
+      "views": 216
     },
     {
       "slug": "bos-n974dsp",
@@ -9984,7 +9984,7 @@
       "stock_count": 0,
       "popularity": 1218,
       "added_at": 1722584362,
-      "views": 461
+      "views": 462
     },
     {
       "slug": "magnitola-bos-mini-n970dsp",
@@ -13828,7 +13828,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 816
+      "views": 817
     }
   ]
 }
