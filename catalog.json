@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779520816,
+  "generated_at": 1779521419,
   "scraped_count": 446,
   "products": [
     {
@@ -1242,7 +1242,7 @@
       "stock_count": 0,
       "popularity": 118,
       "added_at": 1752911964,
-      "views": 1733
+      "views": 1734
     },
     {
       "slug": "bos-mini-ts10-4-64gb-10",
@@ -4373,7 +4373,7 @@
       "stock_count": 0,
       "popularity": 27,
       "added_at": 1730967246,
-      "views": 227
+      "views": 228
     },
     {
       "slug": "k15-9005-hb3",
@@ -5055,7 +5055,7 @@
       "stock_count": 0,
       "popularity": 163,
       "added_at": 1734934541,
-      "views": 236
+      "views": 237
     },
     {
       "slug": "zr2-h7",
@@ -6767,9 +6767,9 @@
       "url": "https://bosminiofficial.ru/shop/2937/desc/bos-mini-6587",
       "name": "BOS-MINI 6587",
       "sku": "",
-      "price_rub": 0,
+      "price_rub": 2200,
       "old_price_rub": null,
-      "in_stock": false,
+      "in_stock": true,
       "categories": [
         "Колонки"
       ],
@@ -6791,7 +6791,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1779520353,
-      "views": 1
+      "views": 2
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -9984,7 +9984,7 @@
       "stock_count": 0,
       "popularity": 1218,
       "added_at": 1722584362,
-      "views": 455
+      "views": 457
     },
     {
       "slug": "magnitola-bos-mini-n970dsp",
@@ -12030,7 +12030,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1764579038,
-      "views": 131
+      "views": 132
     },
     {
       "slug": "inverter-khvk-12v-220v-6000w",
