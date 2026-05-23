@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779567022,
+  "generated_at": 1779567613,
   "scraped_count": 446,
   "products": [
     {
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 530,
       "added_at": 1765176165,
-      "views": 1550
+      "views": 1551
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -250,7 +250,7 @@
       "stock_count": 0,
       "popularity": 2984,
       "added_at": 1752844676,
-      "views": 1595
+      "views": 1596
     },
     {
       "slug": "bos-mini-a42-6-64gb-9",
@@ -281,7 +281,7 @@
       "stock_count": 0,
       "popularity": 120,
       "added_at": 1753952536,
-      "views": 665
+      "views": 666
     },
     {
       "slug": "bos-mini-a7-4-64gb-7",
@@ -374,7 +374,7 @@
       "stock_count": 0,
       "popularity": 34,
       "added_at": 1752862854,
-      "views": 324
+      "views": 325
     },
     {
       "slug": "bos-mini-q70-6-64gb-7",
@@ -436,7 +436,7 @@
       "stock_count": 0,
       "popularity": 119,
       "added_at": 1765175893,
-      "views": 873
+      "views": 874
     },
     {
       "slug": "bos-mini-t3-4-64gb-9",
@@ -2203,7 +2203,7 @@
       "stock_count": 0,
       "popularity": 163,
       "added_at": 1754464305,
-      "views": 773
+      "views": 774
     },
     {
       "slug": "e5-olom-es4-flip-4-64gb",
@@ -2823,7 +2823,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1732348103,
-      "views": 934
+      "views": 935
     },
     {
       "slug": "bos-mini-sd-128gb",
@@ -2916,7 +2916,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1730529413,
-      "views": 675
+      "views": 676
     },
     {
       "slug": "carplay-6-4-64gb-sim",
@@ -2978,7 +2978,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1730529840,
-      "views": 357
+      "views": 358
     },
     {
       "slug": "iso-bos-mini-e-05",
@@ -3133,7 +3133,7 @@
       "stock_count": 0,
       "popularity": 40,
       "added_at": 1775198471,
-      "views": 110
+      "views": 111
     },
     {
       "slug": "aromatizator-rh-002",
@@ -3164,7 +3164,7 @@
       "stock_count": 0,
       "popularity": 153,
       "added_at": 1752658610,
-      "views": 120
+      "views": 121
     },
     {
       "slug": "aromatizator-rh-032",
@@ -3195,7 +3195,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1775198040,
-      "views": 66
+      "views": 67
     },
     {
       "slug": "aromatizator-rh-034",
@@ -3319,7 +3319,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1775197632,
-      "views": 115
+      "views": 116
     },
     {
       "slug": "aromatizator-rh-044",
@@ -3350,7 +3350,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1775197935,
-      "views": 80
+      "views": 81
     },
     {
       "slug": "aromatizator-rh-045",
@@ -3381,7 +3381,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1775199067,
-      "views": 89
+      "views": 90
     },
     {
       "slug": "aromatizator-x-v-korobke",
@@ -3412,7 +3412,7 @@
       "stock_count": 0,
       "popularity": 81,
       "added_at": 1752661634,
-      "views": 295
+      "views": 296
     },
     {
       "slug": "aromatizator-diffuzory-rh-017",
@@ -3598,7 +3598,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1769411527,
-      "views": 106
+      "views": 107
     },
     {
       "slug": "aromatizator-sprej-rh-014",
@@ -3691,7 +3691,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1763447303,
-      "views": 121
+      "views": 122
     },
     {
       "slug": "besprovodnoj-karplehj-t1-dlja-populjarnykh-modelej-toyota",
@@ -3846,7 +3846,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1761308770,
-      "views": 205
+      "views": 206
     },
     {
       "slug": "kompressor-v-chemodanchike",
@@ -4063,7 +4063,7 @@
       "stock_count": 0,
       "popularity": 54,
       "added_at": 1765013957,
-      "views": 486
+      "views": 487
     },
     {
       "slug": "puskovoe-ustrojstvo-3-v-1-cjs-28",
@@ -5582,7 +5582,7 @@
       "stock_count": 0,
       "popularity": 908,
       "added_at": 1740736611,
-      "views": 611
+      "views": 612
     },
     {
       "slug": "bos-mini-l-817",
@@ -5768,7 +5768,7 @@
       "stock_count": 0,
       "popularity": 63,
       "added_at": 1739603728,
-      "views": 1035
+      "views": 1036
     },
     {
       "slug": "gzj-u9",
@@ -6140,7 +6140,7 @@
       "stock_count": 0,
       "popularity": 99,
       "added_at": 1721755869,
-      "views": 429
+      "views": 430
     },
     {
       "slug": "vreznaja-kamera-zadnego-vida-e1241",
@@ -6543,7 +6543,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1714856095,
-      "views": 569
+      "views": 570
     },
     {
       "slug": "provoda-dlja-kamery-zadnego-vida-20m",
@@ -10573,7 +10573,7 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1752671618,
-      "views": 758
+      "views": 759
     },
     {
       "slug": "bos-08e",
@@ -10635,7 +10635,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1765013663,
-      "views": 187
+      "views": 188
     },
     {
       "slug": "new-parktronik-bos-666",
@@ -11038,7 +11038,7 @@
       "stock_count": 0,
       "popularity": 78,
       "added_at": 1738756089,
-      "views": 353
+      "views": 354
     },
     {
       "slug": "centralnyj-zamok-s-dvumja-pultami-686b",
@@ -13053,7 +13053,7 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1715363107,
-      "views": 280
+      "views": 281
     },
     {
       "slug": "komplekt-provodov-8ga",
@@ -13611,7 +13611,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1771744629,
-      "views": 167
+      "views": 168
     },
     {
       "slug": "pioneer-421",
