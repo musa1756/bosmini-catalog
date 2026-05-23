@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779574217,
+  "generated_at": 1779574819,
   "scraped_count": 446,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 555
+      "views": 556
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -95,7 +95,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1763311652,
-      "views": 687
+      "views": 688
     },
     {
       "slug": "bos-mini-8701-2-32gb-7",
@@ -498,7 +498,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1754376021,
-      "views": 388
+      "views": 389
     },
     {
       "slug": "bos-mini-t7038-4-64gb",
@@ -2513,7 +2513,7 @@
       "stock_count": 0,
       "popularity": 236,
       "added_at": 1769577184,
-      "views": 966
+      "views": 967
     },
     {
       "slug": "s1-4-64gb",
@@ -2823,7 +2823,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1732348103,
-      "views": 935
+      "views": 936
     },
     {
       "slug": "bos-mini-sd-128gb",
@@ -9984,7 +9984,7 @@
       "stock_count": 0,
       "popularity": 1218,
       "added_at": 1722584362,
-      "views": 464
+      "views": 465
     },
     {
       "slug": "magnitola-bos-mini-n970dsp",
@@ -13828,7 +13828,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 817
+      "views": 818
     }
   ]
 }
