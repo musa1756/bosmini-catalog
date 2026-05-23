@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779561617,
+  "generated_at": 1779562216,
   "scraped_count": 446,
   "products": [
     {
@@ -95,7 +95,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1763311652,
-      "views": 685
+      "views": 686
     },
     {
       "slug": "bos-mini-8701-2-32gb-7",
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 530,
       "added_at": 1765176165,
-      "views": 1549
+      "views": 1550
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -281,7 +281,7 @@
       "stock_count": 0,
       "popularity": 120,
       "added_at": 1753952536,
-      "views": 664
+      "views": 665
     },
     {
       "slug": "bos-mini-a7-4-64gb-7",
@@ -405,7 +405,7 @@
       "stock_count": 0,
       "popularity": 64,
       "added_at": 1753341610,
-      "views": 2655
+      "views": 2656
     },
     {
       "slug": "bos-mini-q8-4-64gb-9",
@@ -467,7 +467,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1776843716,
-      "views": 166
+      "views": 167
     },
     {
       "slug": "bos-mini-t6-4-64gb-9",
@@ -2389,7 +2389,7 @@
       "stock_count": 0,
       "popularity": 87,
       "added_at": 1752905847,
-      "views": 238
+      "views": 239
     },
     {
       "slug": "multimedia-factory-f7d-pro-4-64gb-7",
@@ -5582,7 +5582,7 @@
       "stock_count": 0,
       "popularity": 908,
       "added_at": 1740736611,
-      "views": 610
+      "views": 611
     },
     {
       "slug": "bos-mini-l-817",
@@ -5768,7 +5768,7 @@
       "stock_count": 0,
       "popularity": 63,
       "added_at": 1739603728,
-      "views": 1034
+      "views": 1035
     },
     {
       "slug": "gzj-u9",
@@ -10201,7 +10201,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1776253023,
-      "views": 201
+      "views": 202
     },
     {
       "slug": "bos-mini-n636dp5",
