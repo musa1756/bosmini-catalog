@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779582022,
+  "generated_at": 1779582622,
   "scraped_count": 446,
   "products": [
     {
@@ -312,7 +312,7 @@
       "stock_count": 0,
       "popularity": 107,
       "added_at": 1757144356,
-      "views": 1954
+      "views": 1955
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -653,7 +653,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1772527002,
-      "views": 682
+      "views": 683
     },
     {
       "slug": "bos-mini-a1pro-10-4-64gb",
@@ -808,7 +808,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1772528022,
-      "views": 304
+      "views": 305
     },
     {
       "slug": "bos-mini-cc3-max-12-256gb-9",
@@ -2482,7 +2482,7 @@
       "stock_count": 0,
       "popularity": 41,
       "added_at": 1769577216,
-      "views": 401
+      "views": 402
     },
     {
       "slug": "pioneer-gb-f8-plus-12-128g-9",
@@ -2513,7 +2513,7 @@
       "stock_count": 0,
       "popularity": 236,
       "added_at": 1769577184,
-      "views": 967
+      "views": 968
     },
     {
       "slug": "s1-4-64gb",
@@ -2823,7 +2823,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1732348103,
-      "views": 936
+      "views": 937
     },
     {
       "slug": "bos-mini-sd-128gb",
@@ -5458,7 +5458,7 @@
       "stock_count": 0,
       "popularity": 39,
       "added_at": 1747293099,
-      "views": 280
+      "views": 281
     },
     {
       "slug": "a15l-2k-wi-fi",
@@ -5582,7 +5582,7 @@
       "stock_count": 0,
       "popularity": 908,
       "added_at": 1740736611,
-      "views": 612
+      "views": 613
     },
     {
       "slug": "bos-mini-l-817",
@@ -10170,7 +10170,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1778219987,
-      "views": 161
+      "views": 162
     },
     {
       "slug": "bos-mini-n727hgp5",
@@ -12929,7 +12929,7 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1715671990,
-      "views": 295
+      "views": 296
     },
     {
       "slug": "kabel-2-2-rca-sinij",
@@ -13611,7 +13611,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1771744629,
-      "views": 168
+      "views": 169
     },
     {
       "slug": "pioneer-421",
@@ -13828,7 +13828,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 819
+      "views": 820
     }
   ]
 }
