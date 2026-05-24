@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779642034,
+  "generated_at": 1779642622,
   "scraped_count": 447,
   "products": [
     {
@@ -498,7 +498,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1754376021,
-      "views": 392
+      "views": 393
     },
     {
       "slug": "bos-mini-t7038-4-64gb",
@@ -777,7 +777,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1772529067,
-      "views": 424
+      "views": 425
     },
     {
       "slug": "bos-mini-a8-pro-8-256gb-10-djujmov",
@@ -6977,7 +6977,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1752041968,
-      "views": 332
+      "views": 333
     },
     {
       "slug": "bos-mini-6515",
@@ -13859,7 +13859,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 820
+      "views": 821
     }
   ]
 }
