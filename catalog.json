@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779613817,
-  "scraped_count": 446,
+  "generated_at": 1779614423,
+  "scraped_count": 447,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -6140,7 +6140,7 @@
       "stock_count": 0,
       "popularity": 99,
       "added_at": 1721755869,
-      "views": 430
+      "views": 431
     },
     {
       "slug": "vreznaja-kamera-zadnego-vida-e1241",
@@ -6512,7 +6512,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1774248473,
-      "views": 87
+      "views": 88
     },
     {
       "slug": "monitor-s-4-mja-kamerami-jcs-7003-4",
@@ -8714,6 +8714,37 @@
       "popularity": 63,
       "added_at": 1752837291,
       "views": 392
+    },
+    {
+      "slug": "bos-mini-bos-n670dsp",
+      "url": "https://bosminiofficial.ru/shop/1162/desc/bos-mini-bos-n670dsp",
+      "name": "Bos-Mini (Bos-N670DSP)",
+      "sku": "",
+      "price_rub": 1800,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅Bluetooth ✅Aux ✅2USB ✅Процессор DSP ✅Цветной RGB экран ✅Мощный радиатор охлаждения ✅6 выходов RCA ✅Пульт и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1162.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1162.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/11/1162.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/11/1162.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 199,
+      "added_at": 1733822414,
+      "views": 1091
     },
     {
       "slug": "bos-mini-bos-n671dsp",
