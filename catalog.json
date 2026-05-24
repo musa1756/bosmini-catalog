@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779653420,
+  "generated_at": 1779654018,
   "scraped_count": 447,
   "products": [
     {
@@ -281,7 +281,7 @@
       "stock_count": 0,
       "popularity": 120,
       "added_at": 1753952536,
-      "views": 672
+      "views": 674
     },
     {
       "slug": "bos-mini-a7-4-64gb-7",
@@ -405,7 +405,7 @@
       "stock_count": 0,
       "popularity": 64,
       "added_at": 1753341610,
-      "views": 2659
+      "views": 2660
     },
     {
       "slug": "bos-mini-q8-4-64gb-9",
@@ -436,7 +436,7 @@
       "stock_count": 0,
       "popularity": 119,
       "added_at": 1765175893,
-      "views": 878
+      "views": 879
     },
     {
       "slug": "bos-mini-t3-4-64gb-9",
@@ -467,7 +467,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1776843716,
-      "views": 171
+      "views": 172
     },
     {
       "slug": "bos-mini-t6-4-64gb-9",
@@ -591,7 +591,7 @@
       "stock_count": 0,
       "popularity": 46,
       "added_at": 1764313847,
-      "views": 1216
+      "views": 1217
     },
     {
       "slug": "bos-mini-a15-10-djujmov",
@@ -1707,7 +1707,7 @@
       "stock_count": 0,
       "popularity": 33,
       "added_at": 1752909105,
-      "views": 676
+      "views": 677
     },
     {
       "slug": "dv-pioneer-ok-b4-mini-4-64gb",
@@ -2234,7 +2234,7 @@
       "stock_count": 0,
       "popularity": 27,
       "added_at": 1770801589,
-      "views": 457
+      "views": 458
     },
     {
       "slug": "e5-olom-es4-ultra-4-64gb-9",
@@ -4032,7 +4032,7 @@
       "stock_count": 0,
       "popularity": 120,
       "added_at": 1732270639,
-      "views": 492
+      "views": 493
     },
     {
       "slug": "multirul-bos-mini-a03",
@@ -8279,7 +8279,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1734507278,
-      "views": 215
+      "views": 216
     },
     {
       "slug": "wt-582asp-22",
@@ -10108,7 +10108,7 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1714856095,
-      "views": 811
+      "views": 812
     },
     {
       "slug": "magnitola-bos-mini-n973dsp",
@@ -12743,7 +12743,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1764221514,
-      "views": 143
+      "views": 144
     },
     {
       "slug": "syzx-v-us80",
@@ -13611,7 +13611,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1765657288,
-      "views": 614
+      "views": 615
     },
     {
       "slug": "kenwood-kw-a5314",
@@ -13859,7 +13859,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 821
+      "views": 822
     }
   ]
 }
