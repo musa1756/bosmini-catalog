@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779689422,
-  "scraped_count": 447,
+  "generated_at": 1779690019,
+  "scraped_count": 445,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -437,37 +437,6 @@
       "popularity": 119,
       "added_at": 1765175893,
       "views": 879
-    },
-    {
-      "slug": "bos-mini-t3-4-64gb-9",
-      "url": "https://bosminiofficial.ru/shop/2905/desc/bos-mini-t3-4-64gb-9",
-      "name": "BOS-MINI T3 4+64Gb 9\"",
-      "sku": "",
-      "price_rub": 5200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9 дюймов\n✅Память- 4+64Gb\n✅CarPlay/AndroidAuto\n✅Количество ядер-4+4\n✅Процессор DSP\n✅USB и Type-C разъемы\n✅Кулер охлаждения\n✅Провода для подключения и в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.ru/_sh/29/2905.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.ru/_sh/29/2905.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.ru/_sh/29/2905.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.ru/_sh/29/2905.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 19,
-      "added_at": 1776843716,
-      "views": 174
     },
     {
       "slug": "bos-mini-t6-4-64gb-9",
@@ -10574,37 +10543,6 @@
       "popularity": 23,
       "added_at": 1749455727,
       "views": 256
-    },
-    {
-      "slug": "bos-mini-233pke",
-      "url": "https://bosminiofficial.ru/shop/1837/desc/bos-mini-233pke",
-      "name": "BOS-MINI A233PKE",
-      "sku": "BOS-MINI",
-      "price_rub": 1650,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Охранные системы"
-      ],
-      "brand_tags": [],
-      "description": "Модель: Bos-A233PKE ✅В комплекте 2 пульта, сирена, кнопка старт стоп, блок и провода для установки",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.ru/_sh/18/1837.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.ru/_sh/18/1837.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.ru/_sh/18/1837.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.ru/_sh/18/1837.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 15,
-      "added_at": 1752671618,
-      "views": 761
     },
     {
       "slug": "bos-08e",
