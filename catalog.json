@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779681016,
+  "generated_at": 1779681619,
   "scraped_count": 447,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 559
+      "views": 560
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -715,7 +715,7 @@
       "stock_count": 0,
       "popularity": 72,
       "added_at": 1764494765,
-      "views": 1237
+      "views": 1238
     },
     {
       "slug": "bos-mini-a629d-4-64gb",
@@ -901,7 +901,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1765802757,
-      "views": 1402
+      "views": 1403
     },
     {
       "slug": "bos-mini-k69",
@@ -5737,7 +5737,7 @@
       "stock_count": 0,
       "popularity": 97,
       "added_at": 1734179057,
-      "views": 407
+      "views": 408
     },
     {
       "slug": "gq11-4-sensornyj-ehkran",
@@ -9426,7 +9426,7 @@
       "stock_count": 0,
       "popularity": 40,
       "added_at": 1714856095,
-      "views": 341
+      "views": 342
     },
     {
       "slug": "e5-olom-e-011",
@@ -10108,7 +10108,7 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1714856095,
-      "views": 814
+      "views": 815
     },
     {
       "slug": "magnitola-bos-mini-n973dsp",
