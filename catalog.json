@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779735016,
+  "generated_at": 1779735622,
   "scraped_count": 445,
   "products": [
     {
@@ -715,7 +715,7 @@
       "stock_count": 0,
       "popularity": 30,
       "added_at": 1764494672,
-      "views": 975
+      "views": 976
     },
     {
       "slug": "bos-mini-a8-plus-6-128gb-10-djujmov",
@@ -777,7 +777,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1772528022,
-      "views": 314
+      "views": 315
     },
     {
       "slug": "bos-mini-cc3-max-12-256gb-9",
@@ -2606,7 +2606,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1776517157,
-      "views": 104
+      "views": 105
     },
     {
       "slug": "teyes-hs-sony-camera",
@@ -13797,7 +13797,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 825
+      "views": 826
     }
   ]
 }
