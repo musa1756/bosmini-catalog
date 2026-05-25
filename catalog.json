@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779690019,
-  "scraped_count": 445,
+  "generated_at": 1779690616,
+  "scraped_count": 446,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1056,7 +1056,7 @@
       "stock_count": 0,
       "popularity": 41,
       "added_at": 1752853019,
-      "views": 1051
+      "views": 1052
     },
     {
       "slug": "bos-mini-t215-4-64gb",
@@ -13426,6 +13426,37 @@
       "popularity": 8,
       "added_at": 1771744690,
       "views": 169
+    },
+    {
+      "slug": "bos-mini-468d",
+      "url": "https://bosminiofficial.ru/shop/2548/desc/bos-mini-468d",
+      "name": "BOS-MINI 468D",
+      "sku": "",
+      "price_rub": 1400,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Усилители"
+      ],
+      "brand_tags": [],
+      "description": "✅Управление через приложение ✅Мощность-1000W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2548.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2548.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/25/2548.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/25/2548.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 240,
+      "added_at": 1754033937,
+      "views": 508
     },
     {
       "slug": "dv-pioneer-ok-414",
