@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779736817,
+  "generated_at": 1779737419,
   "scraped_count": 445,
   "products": [
     {
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 966,
       "added_at": 1752844697,
-      "views": 1184
+      "views": 1185
     },
     {
       "slug": "bos-mini-a2-4-64gb-9",
@@ -529,7 +529,7 @@
       "stock_count": 0,
       "popularity": 97,
       "added_at": 1764313794,
-      "views": 1393
+      "views": 1394
     },
     {
       "slug": "bos-a659d-pro-4-64gb",
@@ -13332,7 +13332,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1753952020,
-      "views": 239
+      "views": 240
     },
     {
       "slug": "alpine-ap-47-1",
