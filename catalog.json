@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779711617,
-  "scraped_count": 447,
+  "generated_at": 1779712219,
+  "scraped_count": 445,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -405,7 +405,7 @@
       "stock_count": 0,
       "popularity": 65,
       "added_at": 1753341610,
-      "views": 2666
+      "views": 2667
     },
     {
       "slug": "bos-mini-q8-4-64gb-9",
@@ -1586,37 +1586,6 @@
       "views": 512
     },
     {
-      "slug": "dv-pioneer-ok-a2-4-64gb",
-      "url": "https://bosminiofficial.ru/shop/2900/desc/dv-pioneer-ok-a2-4-64gb",
-      "name": "DV-Pioneer.Ok A2 4+64Gb",
-      "sku": "",
-      "price_rub": 4300,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9  дюймов\n✅Память -4+64Gb\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅Провода для подключения и в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.ru/_sh/29/2900.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.ru/_sh/29/2900.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.ru/_sh/29/2900.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.ru/_sh/29/2900.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 523,
-      "added_at": 1776516674,
-      "views": 165
-    },
-    {
       "slug": "dv-pioneer-ok-a2-pro-6-64",
       "url": "https://bosminiofficial.ru/shop/2866/desc/dv-pioneer-ok-a2-pro-6-64",
       "name": "DV-Pioneer.Ok A2 Pro 6+64",
@@ -2141,7 +2110,7 @@
       "stock_count": 0,
       "popularity": 61,
       "added_at": 1765282134,
-      "views": 349
+      "views": 350
     },
     {
       "slug": "dv-pioneer-ok-z3-pro-4-64gb",
@@ -7009,37 +6978,6 @@
       "popularity": 5,
       "added_at": 1765546118,
       "views": 202
-    },
-    {
-      "slug": "bos-mini-6516kit",
-      "url": "https://bosminiofficial.ru/shop/1525/desc/bos-mini-6516kit",
-      "name": "Bos-Mini 6516KIT",
-      "sku": "",
-      "price_rub": 2800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅Компонетная с двумя кроссоверами для срезов частот ✅Размер Динамика 16см",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.ru/_sh/15/1525.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.ru/_sh/15/1525.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.ru/_sh/15/1525.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.ru/_sh/15/1525.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 58,
-      "added_at": 1752176079,
-      "views": 959
     },
     {
       "slug": "bos-mini-6985-6-9",
