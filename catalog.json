@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779699020,
+  "generated_at": 1779699618,
   "scraped_count": 446,
   "products": [
     {
@@ -312,7 +312,7 @@
       "stock_count": 0,
       "popularity": 107,
       "added_at": 1757144356,
-      "views": 1962
+      "views": 1963
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -932,7 +932,7 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1765802523,
-      "views": 1016
+      "views": 1017
     },
     {
       "slug": "bos-mini-k72",
@@ -1056,7 +1056,7 @@
       "stock_count": 0,
       "popularity": 41,
       "added_at": 1752853019,
-      "views": 1053
+      "views": 1054
     },
     {
       "slug": "bos-mini-t215-4-64gb",
@@ -1211,7 +1211,7 @@
       "stock_count": 0,
       "popularity": 118,
       "added_at": 1752911964,
-      "views": 1747
+      "views": 1748
     },
     {
       "slug": "bos-mini-ts10-4-64gb-10",
@@ -1674,9 +1674,9 @@
         "https://bosminiofficial.ru/_sh/20/2018.jpg"
       ],
       "stock_count": 0,
-      "popularity": 33,
+      "popularity": 53,
       "added_at": 1752909105,
-      "views": 680
+      "views": 681
     },
     {
       "slug": "dv-pioneer-ok-b4-mini-4-64gb",
@@ -2172,7 +2172,7 @@
       "stock_count": 0,
       "popularity": 163,
       "added_at": 1754464305,
-      "views": 778
+      "views": 779
     },
     {
       "slug": "e5-olom-es4-flip-4-64gb",
@@ -6357,7 +6357,7 @@
       "stock_count": 0,
       "popularity": 106,
       "added_at": 1764398182,
-      "views": 388
+      "views": 391
     },
     {
       "slug": "kamera-zadnego-vida-bos-l370",
@@ -12743,7 +12743,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1747294154,
-      "views": 137
+      "views": 138
     },
     {
       "slug": "syzx-v-1310-10",
