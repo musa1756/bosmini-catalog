@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779705016,
-  "scraped_count": 446,
+  "generated_at": 1779705620,
+  "scraped_count": 447,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2420,7 +2420,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1769575727,
-      "views": 320
+      "views": 321
     },
     {
       "slug": "pioneer-gb-f8-plus-12-128g-10",
@@ -2731,6 +2731,37 @@
       "popularity": 5060,
       "added_at": 1724219666,
       "views": 785
+    },
+    {
+      "slug": "datchik-davlenija-shin-teyes",
+      "url": "https://bosminiofficial.ru/shop/2666/desc/datchik-davlenija-shin-teyes",
+      "name": "Датчик давления шин Teyes",
+      "sku": "",
+      "price_rub": 3250,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "TEYES"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Количество датчиков-4",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2666.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2666.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/26/2666.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/26/2666.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 405,
+      "added_at": 1763361207,
+      "views": 286
     },
     {
       "slug": "kamera-teyes-ahd-v-pakete",
@@ -10325,7 +10356,7 @@
       "stock_count": 0,
       "popularity": 91,
       "added_at": 1743669570,
-      "views": 468
+      "views": 471
     },
     {
       "slug": "pioneer-gb-mvh-595dp5",
@@ -11193,7 +11224,7 @@
       "stock_count": 0,
       "popularity": 105,
       "added_at": 1721251344,
-      "views": 325
+      "views": 326
     },
     {
       "slug": "gazel-next-2016",
@@ -11255,7 +11286,7 @@
       "stock_count": 0,
       "popularity": 220,
       "added_at": 1755667861,
-      "views": 180
+      "views": 181
     },
     {
       "slug": "gazelle-business-2010-9-djujmov-chjornyj",
@@ -11286,7 +11317,7 @@
       "stock_count": 0,
       "popularity": 105,
       "added_at": 1755667900,
-      "views": 131
+      "views": 132
     },
     {
       "slug": "hyundai-accent-2011-2016g-9-djum-chernyj",
