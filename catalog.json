@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779700222,
+  "generated_at": 1779700820,
   "scraped_count": 446,
   "products": [
     {
@@ -715,7 +715,7 @@
       "stock_count": 0,
       "popularity": 30,
       "added_at": 1764494672,
-      "views": 973
+      "views": 974
     },
     {
       "slug": "bos-mini-a8-plus-6-128gb-10-djujmov",
@@ -1273,7 +1273,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1769577324,
-      "views": 382
+      "views": 383
     },
     {
       "slug": "bos-mini-ts10-6-128gb-10",
@@ -1831,7 +1831,7 @@
       "stock_count": 0,
       "popularity": 38,
       "added_at": 1773035266,
-      "views": 217
+      "views": 218
     },
     {
       "slug": "dv-pioneer-ok-e4-4-64gb",
@@ -1862,7 +1862,7 @@
       "stock_count": 0,
       "popularity": 88,
       "added_at": 1773035167,
-      "views": 207
+      "views": 208
     },
     {
       "slug": "dv-pioneer-ok-kk4s-6-128gb",
@@ -2079,7 +2079,7 @@
       "stock_count": 0,
       "popularity": 96,
       "added_at": 1764786444,
-      "views": 322
+      "views": 323
     },
     {
       "slug": "dv-pioneer-ok-d3-nano-4-64gb",
@@ -6140,7 +6140,7 @@
       "stock_count": 0,
       "popularity": 46,
       "added_at": 1773035549,
-      "views": 130
+      "views": 131
     },
     {
       "slug": "zerkala-videoregistratory-4k-wif-x12",
@@ -13084,7 +13084,7 @@
       "stock_count": 0,
       "popularity": 36,
       "added_at": 1754038743,
-      "views": 135
+      "views": 136
     },
     {
       "slug": "komplekt-provodov-bos-44",
@@ -13828,7 +13828,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 823
+      "views": 824
     }
   ]
 }
