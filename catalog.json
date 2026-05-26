@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779786622,
-  "scraped_count": 444,
+  "generated_at": 1779787222,
+  "scraped_count": 447,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -284,6 +284,68 @@
       "views": 686
     },
     {
+      "slug": "bos-mini-a6-wi-fi-4-64gb-10-djujm",
+      "url": "https://bosminiofficial.ru/shop/2938/desc/bos-mini-a6-wi-fi-4-64gb-10-djujm",
+      "name": "BOS-MINI A6+ Wi-Fi 4+64Gb 10-Дюйм",
+      "sku": "",
+      "price_rub": 6500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-10 дюймов\n✅Память-4+64Gb\n✅Количество ядер-8\n✅Звуковой процессор DSP\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅Набор проводов для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2938.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2938.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2938.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2938.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1779786820,
+      "views": 2
+    },
+    {
+      "slug": "bos-mini-a6-wi-fi-4-64gb-9-djujm",
+      "url": "https://bosminiofficial.ru/shop/2939/desc/bos-mini-a6-wi-fi-4-64gb-9-djujm",
+      "name": "BOS-MINI A6+ Wi-Fi 4+64Gb 9-Дюйм",
+      "sku": "",
+      "price_rub": 6500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-9 дюймов\n✅Память-4+64Gb\n✅Количество ядер-8\n✅Звуковой процессор DSP\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅Набор проводов для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2939.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2939.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2939.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2939.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1779787001,
+      "views": 2
+    },
+    {
       "slug": "bos-mini-a7-4-64gb-7",
       "url": "https://bosminiofficial.ru/shop/2636/desc/bos-mini-a7-4-64gb-7",
       "name": "BOS-MINI A7 4+64Gb 7\"",
@@ -437,6 +499,37 @@
       "popularity": 123,
       "added_at": 1765175893,
       "views": 882
+    },
+    {
+      "slug": "bos-mini-t2-4-64gb-9",
+      "url": "https://bosminiofficial.ru/shop/2021/desc/bos-mini-t2-4-64gb-9",
+      "name": "BOS-MINI T2 4+64Gb 9\"",
+      "sku": "",
+      "price_rub": 4700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-9 дюймов ✅Память-4+64G ✅Звуковой процессор DSP ✅Кулер охлаждения ✅Набор проводов для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.ru/_sh/20/2021.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.ru/_sh/20/2021.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/20/2021.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/20/2021.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 647,
+      "added_at": 1752909494,
+      "views": 947
     },
     {
       "slug": "bos-mini-t6-4-64gb-9",
@@ -1211,7 +1304,7 @@
       "stock_count": 0,
       "popularity": 118,
       "added_at": 1752911964,
-      "views": 1755
+      "views": 1756
     },
     {
       "slug": "bos-mini-ts10-4-64gb-10",
@@ -9953,7 +10046,7 @@
       "stock_count": 0,
       "popularity": 146,
       "added_at": 1714856095,
-      "views": 1049
+      "views": 1050
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
@@ -10170,7 +10263,7 @@
       "stock_count": 0,
       "popularity": 46,
       "added_at": 1765285531,
-      "views": 910
+      "views": 912
     },
     {
       "slug": "dv-pioneer-ok-mp5710",
