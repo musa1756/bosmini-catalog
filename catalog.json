@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779786024,
-  "scraped_count": 445,
+  "generated_at": 1779786622,
+  "scraped_count": 444,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 562
+      "views": 563
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -777,7 +777,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1772528022,
-      "views": 320
+      "views": 324
     },
     {
       "slug": "bos-mini-cc3-max-12-256gb-9",
@@ -1335,7 +1335,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1769577429,
-      "views": 555
+      "views": 556
     },
     {
       "slug": "bos-mini-ts18-10-4-64gb",
@@ -1989,37 +1989,6 @@
       "views": 295
     },
     {
-      "slug": "dv-pioneer-ok-b4-gold-6-128gb-9",
-      "url": "https://bosminiofficial.ru/shop/2725/desc/dv-pioneer-ok-b4-gold-6-128gb-9",
-      "name": "Dv-Pioneer.Ok B4 Gold 6+128Gb 9\"",
-      "sku": "",
-      "price_rub": 6600,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅️Размер экрана-9 дюймов\n✅Память-6+128Gb\n✅Физические кнопки управления меню!\n✅Carplay\n✅Кулер охлаждения\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.ru/_sh/27/2725.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.ru/_sh/27/2725.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.ru/_sh/27/2725.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.ru/_sh/27/2725.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 42,
-      "added_at": 1765346209,
-      "views": 779
-    },
-    {
       "slug": "dv-pioneer-ok-cc2-4-64gb-9",
       "url": "https://bosminiofficial.ru/shop/2710/desc/dv-pioneer-ok-cc2-4-64gb-9",
       "name": "Dv-Pioneer.Ok CC2 4+64Gb 9\"",
@@ -2203,7 +2172,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1752845497,
-      "views": 496
+      "views": 497
     },
     {
       "slug": "e5-olom-kk5-pro-2-32gb",
@@ -9984,7 +9953,7 @@
       "stock_count": 0,
       "popularity": 146,
       "added_at": 1714856095,
-      "views": 1048
+      "views": 1049
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
