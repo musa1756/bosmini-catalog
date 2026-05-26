@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779787222,
-  "scraped_count": 447,
+  "generated_at": 1779787826,
+  "scraped_count": 446,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 573,
       "added_at": 1765176165,
-      "views": 1566
+      "views": 1567
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -343,7 +343,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1779787001,
-      "views": 2
+      "views": 3
     },
     {
       "slug": "bos-mini-a7-4-64gb-7",
@@ -715,7 +715,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1772527002,
-      "views": 705
+      "views": 706
     },
     {
       "slug": "bos-mini-a1pro-10-4-64gb",
@@ -2359,37 +2359,6 @@
       "popularity": 85,
       "added_at": 1752907044,
       "views": 204
-    },
-    {
-      "slug": "kk5-pro-6-128gb-9",
-      "url": "https://bosminiofficial.ru/shop/1999/desc/kk5-pro-6-128gb-9",
-      "name": "KK5 Pro 6+128Gb 9\"",
-      "sku": "",
-      "price_rub": 8100,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9 дюймов ✅Память-6+128Gb ✅Поддержка сим карты ✅Количество ядер-8 ✅CarPlay ✅Кулер охлаждения ✅Набор проводов для подключения и выносной микрофон в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.ru/_sh/19/1999.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.ru/_sh/19/1999.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.ru/_sh/19/1999.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.ru/_sh/19/1999.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 88,
-      "added_at": 1752905847,
-      "views": 242
     },
     {
       "slug": "multimedia-factory-f7d-pro-4-64gb-7",
@@ -5303,7 +5272,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1778565614,
-      "views": 42
+      "views": 43
     },
     {
       "slug": "zvezdnoe-nebo",
@@ -10945,7 +10914,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1754137765,
-      "views": 301
+      "views": 302
     },
     {
       "slug": "odnostoronnjaja-signalizacija-bos-mini-g6099bt",
@@ -13022,7 +12991,7 @@
       "stock_count": 0,
       "popularity": 247,
       "added_at": 1765863450,
-      "views": 162
+      "views": 163
     },
     {
       "slug": "komplekt-provodov-10ga",
