@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779779423,
+  "generated_at": 1779780020,
   "scraped_count": 445,
   "products": [
     {
@@ -529,7 +529,7 @@
       "stock_count": 0,
       "popularity": 102,
       "added_at": 1764313794,
-      "views": 1399
+      "views": 1400
     },
     {
       "slug": "bos-a659d-pro-4-64gb",
@@ -591,7 +591,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1772526981,
-      "views": 488
+      "views": 489
     },
     {
       "slug": "bos-mini-a15-9-djujmov",
@@ -1180,7 +1180,7 @@
       "stock_count": 0,
       "popularity": 57,
       "added_at": 1752853137,
-      "views": 799
+      "views": 800
     },
     {
       "slug": "bos-mini-t8705-4-64gb-7",
@@ -4590,7 +4590,7 @@
       "stock_count": 0,
       "popularity": 61,
       "added_at": 1752401107,
-      "views": 48
+      "views": 49
     },
     {
       "slug": "led-lampa-zw1-h11",
@@ -6574,7 +6574,7 @@
       "stock_count": 0,
       "popularity": 98,
       "added_at": 1735020490,
-      "views": 236
+      "views": 237
     },
     {
       "slug": "radar-detektor-3v1-a1",
@@ -8248,7 +8248,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1734507190,
-      "views": 209
+      "views": 210
     },
     {
       "slug": "wt-spk159-22",
@@ -9984,7 +9984,7 @@
       "stock_count": 0,
       "popularity": 145,
       "added_at": 1714856095,
-      "views": 1047
+      "views": 1048
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
@@ -10046,7 +10046,7 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1714856095,
-      "views": 821
+      "views": 822
     },
     {
       "slug": "magnitola-bos-mini-n973dsp",
@@ -12619,7 +12619,7 @@
       "stock_count": 0,
       "popularity": 140,
       "added_at": 1766646329,
-      "views": 107
+      "views": 108
     },
     {
       "slug": "pioneer-gb-3080u",
@@ -13177,7 +13177,7 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1765863602,
-      "views": 134
+      "views": 135
     },
     {
       "slug": "komplekt-provodov-x9",
@@ -13797,7 +13797,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 829
+      "views": 830
     }
   ]
 }
