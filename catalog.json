@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779788422,
-  "scraped_count": 451,
+  "generated_at": 1779789020,
+  "scraped_count": 453,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -312,7 +312,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1779786820,
-      "views": 2
+      "views": 3
     },
     {
       "slug": "bos-mini-a6-wi-fi-4-64gb-9-djujm",
@@ -963,7 +963,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1752852728,
-      "views": 1296
+      "views": 1297
     },
     {
       "slug": "bos-mini-cc3-max-2k-12-256gb-9",
@@ -5864,6 +5864,37 @@
       "views": 324
     },
     {
+      "slug": "tomboss-t16",
+      "url": "https://bosminiofficial.ru/shop/2940/desc/tomboss-t16",
+      "name": "TOMBOSS T16",
+      "sku": "",
+      "price_rub": 3500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅Камера вперед,салон и назад\n✅Разрешение-4К+2К+2К\n✅Ночное видение, Wi-Fi\n✅Поддержка флешки до 256Gb\n✅Камера заднего вида с обзором 180 градусов, АЗУ и провод 5м в комплекте!!!",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2940.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2940.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2940.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2940.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1779788743,
+      "views": 1
+    },
+    {
       "slug": "tomboss-t20",
       "url": "https://bosminiofficial.ru/shop/2529/desc/tomboss-t20",
       "name": "TOMBOSS T20",
@@ -8930,7 +8961,7 @@
       "stock_count": 0,
       "popularity": 80,
       "added_at": 1765628462,
-      "views": 216
+      "views": 217
     },
     {
       "slug": "bos-n974dsp",
@@ -10667,6 +10698,37 @@
       "popularity": 23,
       "added_at": 1749455727,
       "views": 257
+    },
+    {
+      "slug": "bos-mini-233pke",
+      "url": "https://bosminiofficial.ru/shop/1837/desc/bos-mini-233pke",
+      "name": "BOS-MINI A233PKE",
+      "sku": "BOS-MINI",
+      "price_rub": 1500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Охранные системы"
+      ],
+      "brand_tags": [],
+      "description": "Модель: Bos-A233PKE ✅В комплекте 2 пульта, сирена, кнопка старт стоп, блок и провода для установки",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.ru/_sh/18/1837.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.ru/_sh/18/1837.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/18/1837.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/18/1837.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 15,
+      "added_at": 1752671618,
+      "views": 769
     },
     {
       "slug": "bos-08e",
