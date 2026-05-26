@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779787826,
-  "scraped_count": 446,
+  "generated_at": 1779788422,
+  "scraped_count": 451,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 573,
       "added_at": 1765176165,
-      "views": 1567
+      "views": 1568
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -840,6 +840,68 @@
       "popularity": 3,
       "added_at": 1772529067,
       "views": 431
+    },
+    {
+      "slug": "bos-mini-a8-pro-6-128gb-10-djujmov",
+      "url": "https://bosminiofficial.ru/shop/2850/desc/bos-mini-a8-pro-6-128gb-10-djujmov",
+      "name": "Bos-Mini A8+Pro 6+128Gb 10-дюймов",
+      "sku": "",
+      "price_rub": 12500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-10 дюймов\n✅Память-6+128Gb\n✅Количество ядер-8 (Qualcomm Snapdragon)\n✅Поддержка сим карты\n✅Оптический выход\n✅Голосовое управление\n✅Звуковой процессор DSP\n✅CarPlay\n✅Кулер охлаждения\n✅Набор проводов для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2850.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2850.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2850.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2850.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 13,
+      "added_at": 1772527567,
+      "views": 245
+    },
+    {
+      "slug": "bos-mini-a8-pro-6-128gb-9-djujmov",
+      "url": "https://bosminiofficial.ru/shop/2851/desc/bos-mini-a8-pro-6-128gb-9-djujmov",
+      "name": "Bos-Mini A8+Pro 6+128Gb 9-дюймов",
+      "sku": "",
+      "price_rub": 12500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана: 9-дюймов\n✅Память-6+128Gb\n✅Количество ядер-8 (Qualcomm Snapdragon)\n✅Поддержка сим карты\n✅Оптический выход\n✅Голосовое управление\n✅Звуковой процессор DSP\n✅CarPlay\n✅Кулер охлаждения\n✅Набор проводов для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2851.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2851.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/28/2851.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/28/2851.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 8,
+      "added_at": 1772527820,
+      "views": 268
     },
     {
       "slug": "bos-mini-a8-pro-8-256gb-10-djujmov",
@@ -6236,6 +6298,37 @@
       "views": 181
     },
     {
+      "slug": "kamera-zad-vida-bos-mini-l-168",
+      "url": "https://bosminiofficial.ru/shop/1088/desc/kamera-zad-vida-bos-mini-l-168",
+      "name": "Камера зад.вида Bos-Mini (L-168)",
+      "sku": "",
+      "price_rub": 350,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅ Камера зад.вида",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1088.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1088.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/10/1088.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/10/1088.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 968,
+      "added_at": 1732039326,
+      "views": 490
+    },
+    {
       "slug": "kamera-zad-vida-bos-mini-e-267",
       "url": "https://bosminiofficial.ru/shop/1087/desc/kamera-zad-vida-bos-mini-e-267",
       "name": "Камера зад.вида Bos-Mini E-267",
@@ -6482,6 +6575,37 @@
       "popularity": 601,
       "added_at": 1738414504,
       "views": 671
+    },
+    {
+      "slug": "kamera-zadnego-vida-l-162",
+      "url": "https://bosminiofficial.ru/shop/1394/desc/kamera-zadnego-vida-l-162",
+      "name": "Камера заднего вида L-162",
+      "sku": "",
+      "price_rub": 350,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅ В комплекте провода 5 метров",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1394.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1394.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/13/1394.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/13/1394.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 281,
+      "added_at": 1746416891,
+      "views": 265
     },
     {
       "slug": "kamera-zadnego-vida-l-165",
@@ -10547,9 +10671,9 @@
     {
       "slug": "bos-08e",
       "url": "https://bosminiofficial.ru/shop/1454/desc/bos-08e",
-      "name": "Bos-08E",
+      "name": "Bos-08E (с брелоком)",
       "sku": "",
-      "price_rub": 1000,
+      "price_rub": 900,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -10573,7 +10697,38 @@
       "stock_count": 0,
       "popularity": 64,
       "added_at": 1749111958,
-      "views": 570
+      "views": 571
+    },
+    {
+      "slug": "bos-08g",
+      "url": "https://bosminiofficial.ru/shop/1455/desc/bos-08g",
+      "name": "Bos-08G",
+      "sku": "",
+      "price_rub": 750,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Охранные системы"
+      ],
+      "brand_tags": [],
+      "description": "✅Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.ru/_sh/14/1455.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.ru/_sh/14/1455.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/14/1455.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/14/1455.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 46,
+      "added_at": 1749112025,
+      "views": 253
     },
     {
       "slug": "bos-mini-a238",
@@ -10605,37 +10760,6 @@
       "popularity": 7,
       "added_at": 1765013663,
       "views": 191
-    },
-    {
-      "slug": "new-parktronik-bos-666",
-      "url": "https://bosminiofficial.ru/shop/1284/desc/new-parktronik-bos-666",
-      "name": "NEW Парктроник Bos-666",
-      "sku": "",
-      "price_rub": 650,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Охранные системы"
-      ],
-      "brand_tags": [],
-      "description": "✅ Радар- голосовой ✅ Цвет- черный",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.ru/_sh/12/1284.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.ru/_sh/12/1284.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.ru/_sh/12/1284.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.ru/_sh/12/1284.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 261,
-      "added_at": 1738756168,
-      "views": 329
     },
     {
       "slug": "ok-jvc-he-670",
@@ -11008,6 +11132,37 @@
       "popularity": 78,
       "added_at": 1738756089,
       "views": 358
+    },
+    {
+      "slug": "parktronik-bos-666",
+      "url": "https://bosminiofficial.ru/shop/1284/desc/parktronik-bos-666",
+      "name": "Парктроник Bos-666",
+      "sku": "",
+      "price_rub": 650,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Охранные системы"
+      ],
+      "brand_tags": [],
+      "description": "✅ Радар- голосовой ✅ Цвет- черный",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1284.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1284.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/12/1284.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/12/1284.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 261,
+      "added_at": 1738756168,
+      "views": 330
     },
     {
       "slug": "centralnyj-zamok-s-dvumja-pultami-686b",
