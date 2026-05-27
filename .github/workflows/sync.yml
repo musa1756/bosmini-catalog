@@ -49,7 +49,19 @@ jobs:
             echo "::error::UCOZ_TOKEN secret is not set"
             exit 1
           fi
-          python sync_catalog.py --out catalog.json
+          # Retry to ride out transient uAPI 5xx / network blips before paging
+          # the operator. Telegram alert fires only after all 3 attempts fail.
+          for attempt in 1 2 3; do
+            if python sync_catalog.py --out catalog.json; then
+              break
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              echo "::error::sync_catalog.py failed after 3 attempts"
+              exit 1
+            fi
+            echo "Attempt $attempt failed, retrying in 20s…"
+            sleep 20
+          done
 
       - name: Sanity check (count not collapsed)
         env:
@@ -85,7 +97,17 @@ jobs:
             count=$(python -c "import json; print(json.load(open('catalog.json'))['scraped_count'])")
             git add catalog.json
             git commit -m "Auto-sync catalog (${count} products)"
-            git push
+            for attempt in 1 2 3; do
+              if git push; then
+                break
+              fi
+              if [ "$attempt" -eq 3 ]; then
+                echo "::error::git push failed after 3 attempts"
+                exit 1
+              fi
+              echo "Push attempt $attempt failed, retrying in 10s…"
+              sleep 10
+            done
             echo "Committed update."
           else
             echo "No changes — catalog already up to date."
