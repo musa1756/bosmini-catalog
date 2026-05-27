@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779891622,
+  "generated_at": 1779892221,
   "scraped_count": 453,
   "products": [
     {
@@ -777,7 +777,7 @@
       "stock_count": 0,
       "popularity": 83,
       "added_at": 1764494765,
-      "views": 1253
+      "views": 1254
     },
     {
       "slug": "bos-mini-a629d-4-64gb",
@@ -14045,7 +14045,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 832
+      "views": 833
     }
   ]
 }
