@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779859225,
+  "generated_at": 1779859817,
   "scraped_count": 453,
   "products": [
     {
@@ -496,7 +496,7 @@
         "https://bosminiofficial.ru/_sh/27/2715.jpg"
       ],
       "stock_count": 0,
-      "popularity": 123,
+      "popularity": 124,
       "added_at": 1765175893,
       "views": 882
     },
@@ -527,7 +527,7 @@
         "https://bosminiofficial.ru/_sh/20/2021.jpg"
       ],
       "stock_count": 0,
-      "popularity": 648,
+      "popularity": 649,
       "added_at": 1752909494,
       "views": 954
     },
@@ -558,7 +558,7 @@
         "https://bosminiofficial.ru/_sh/25/2557.jpg"
       ],
       "stock_count": 0,
-      "popularity": 27,
+      "popularity": 28,
       "added_at": 1754376021,
       "views": 404
     },
@@ -1209,9 +1209,9 @@
         "https://bosminiofficial.ru/_sh/19/1951.jpg"
       ],
       "stock_count": 0,
-      "popularity": 46,
+      "popularity": 47,
       "added_at": 1752853019,
-      "views": 1066
+      "views": 1067
     },
     {
       "slug": "bos-mini-t215-4-64gb",
@@ -2790,7 +2790,7 @@
         "https://bosminiofficial.ru/_sh/8/884.jpg"
       ],
       "stock_count": 0,
-      "popularity": 5064,
+      "popularity": 5065,
       "added_at": 1724219666,
       "views": 789
     },
@@ -2852,7 +2852,7 @@
         "https://bosminiofficial.ru/_sh/8/815.jpg"
       ],
       "stock_count": 0,
-      "popularity": 5403,
+      "popularity": 5408,
       "added_at": 1722408772,
       "views": 641
     },
@@ -10170,7 +10170,7 @@
       "stock_count": 0,
       "popularity": 146,
       "added_at": 1714856095,
-      "views": 1056
+      "views": 1057
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
@@ -13671,7 +13671,7 @@
         "https://bosminiofficial.ru/_sh/25/2548.jpg"
       ],
       "stock_count": 0,
-      "popularity": 247,
+      "popularity": 248,
       "added_at": 1754033937,
       "views": 509
     },
