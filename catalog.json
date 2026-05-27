@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779874226,
+  "generated_at": 1779874825,
   "scraped_count": 453,
   "products": [
     {
@@ -839,7 +839,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1772529067,
-      "views": 435
+      "views": 436
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-10-djujmov",
@@ -870,7 +870,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1772527567,
-      "views": 247
+      "views": 248
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-9-djujmov",
@@ -1490,7 +1490,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1769577429,
-      "views": 561
+      "views": 562
     },
     {
       "slug": "bos-mini-ts18-10-4-64gb",
@@ -3071,7 +3071,7 @@
       "stock_count": 0,
       "popularity": 257,
       "added_at": 1776113206,
-      "views": 146
+      "views": 147
     },
     {
       "slug": "avtomobilnaja-ehlektrokruzhka-24v",
@@ -13580,7 +13580,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1753952020,
-      "views": 241
+      "views": 242
     },
     {
       "slug": "alpine-ap-47-1",
@@ -13673,7 +13673,7 @@
       "stock_count": 0,
       "popularity": 248,
       "added_at": 1754033937,
-      "views": 509
+      "views": 511
     },
     {
       "slug": "dv-pioneer-ok-414",
