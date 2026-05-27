@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779843620,
+  "generated_at": 1779844216,
   "scraped_count": 453,
   "products": [
     {
@@ -9178,7 +9178,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1772779859,
-      "views": 154
+      "views": 155
     },
     {
       "slug": "dv-pioneer-ok-deh-dv5850",
@@ -14045,7 +14045,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 831
+      "views": 832
     }
   ]
 }
