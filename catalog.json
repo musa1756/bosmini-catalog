@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779923418,
+  "generated_at": 1779924022,
   "scraped_count": 453,
   "products": [
     {
@@ -1862,7 +1862,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1770801359,
-      "views": 385
+      "views": 386
     },
     {
       "slug": "dv-pioneer-ok-d107-4-64gb",
@@ -6481,7 +6481,7 @@
       "stock_count": 0,
       "popularity": 8052,
       "added_at": 1735293007,
-      "views": 248
+      "views": 249
     },
     {
       "slug": "kamera-zadnego-vida-bos-f65",
@@ -11007,7 +11007,7 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1727081099,
-      "views": 207
+      "views": 208
     },
     {
       "slug": "dvukhstoronnjaja-signalizacija-s-avtozapuskom-x5",
@@ -14045,7 +14045,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 834
+      "views": 835
     }
   ]
 }
