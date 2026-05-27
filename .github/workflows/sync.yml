@@ -119,11 +119,13 @@ jobs:
         # stale copy from before this run. anon key is intentionally
         # public — sync-catalog uses service_role internally.
         run: |
+          # Edge Functions require Authorization: Bearer <jwt>; the apikey
+          # header alone is for PostgREST and returns 401 here.
           for attempt in 1 2 3; do
             if curl -fsS -X POST \
                 "https://bjcqaltwlblzqdkdujlu.supabase.co/functions/v1/sync-catalog" \
                 -H "Content-Type: application/json" \
-                -H "apikey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJqY3FhbHR3bGJsenFka2R1amx1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzkyMDA0NzcsImV4cCI6MjA5NDc3NjQ3N30.wcQgMgba0OEW0vfDzXfhnC92Aqjd3ZPbBOQ_TGyc1qo" \
+                -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJqY3FhbHR3bGJsenFka2R1amx1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzkyMDA0NzcsImV4cCI6MjA5NDc3NjQ3N30.wcQgMgba0OEW0vfDzXfhnC92Aqjd3ZPbBOQ_TGyc1qo" \
                 -d '{}'; then
               echo
               break
