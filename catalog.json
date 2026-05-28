@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779939019,
+  "generated_at": 1779939624,
   "scraped_count": 453,
   "products": [
     {
@@ -64,7 +64,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1752862193,
-      "views": 1152
+      "views": 1154
     },
     {
       "slug": "blaupunkt-ha900-b4-4-64g",
@@ -95,7 +95,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1763311652,
-      "views": 694
+      "views": 695
     },
     {
       "slug": "bos-mini-8701-2-32gb-7",
@@ -746,7 +746,7 @@
       "stock_count": 0,
       "popularity": 477,
       "added_at": 1764392614,
-      "views": 737
+      "views": 738
     },
     {
       "slug": "bos-mini-a628d-dsp-4-64gb",
