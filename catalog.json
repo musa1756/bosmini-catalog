@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779943820,
+  "generated_at": 1779944419,
   "scraped_count": 453,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 575
+      "views": 576
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -653,7 +653,7 @@
       "stock_count": 0,
       "popularity": 46,
       "added_at": 1764313847,
-      "views": 1233
+      "views": 1234
     },
     {
       "slug": "bos-mini-a15-10-djujmov",
@@ -1335,7 +1335,7 @@
       "stock_count": 0,
       "popularity": 58,
       "added_at": 1752853137,
-      "views": 808
+      "views": 809
     },
     {
       "slug": "bos-mini-t8705-4-64gb-7",
@@ -1459,7 +1459,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1769577457,
-      "views": 405
+      "views": 406
     },
     {
       "slug": "bos-mini-ts10-6-128gb-9",
@@ -2668,7 +2668,7 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1776516888,
-      "views": 156
+      "views": 157
     },
     {
       "slug": "zx1-pro-plus-4-64gb-10",
