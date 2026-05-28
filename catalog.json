@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779958825,
-  "scraped_count": 450,
+  "generated_at": 1779959419,
+  "scraped_count": 451,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1428,7 +1428,7 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1769577324,
-      "views": 388
+      "views": 389
     },
     {
       "slug": "bos-mini-ts10-6-128gb-10",
@@ -1924,7 +1924,7 @@
       "stock_count": 0,
       "popularity": 161,
       "added_at": 1773035167,
-      "views": 216
+      "views": 217
     },
     {
       "slug": "dv-pioneer-ok-kk5-4-64gb-9",
@@ -4126,6 +4126,37 @@
       "popularity": 5,
       "added_at": 1773035946,
       "views": 222
+    },
+    {
+      "slug": "fizicheski-knopka-tmb-001",
+      "url": "https://bosminiofficial.ru/shop/2941/desc/fizicheski-knopka-tmb-001",
+      "name": "Физически кнопка TMB-001",
+      "sku": "",
+      "price_rub": 0,
+      "old_price_rub": null,
+      "in_stock": false,
+      "categories": [
+        "Автоаксессуары"
+      ],
+      "brand_tags": [],
+      "description": "",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2941.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2941.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.ru/_sh/29/2941.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.ru/_sh/29/2941.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1779958996,
+      "views": 1
     },
     {
       "slug": "ar2-d3s",
@@ -6822,7 +6853,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1753599089,
-      "views": 915
+      "views": 916
     },
     {
       "slug": "bos-mini-6587",
