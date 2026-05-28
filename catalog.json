@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779959419,
+  "generated_at": 1779960024,
   "scraped_count": 451,
   "products": [
     {
@@ -620,7 +620,7 @@
         "https://bosminiofficial.ru/_sh/26/2680.jpg"
       ],
       "stock_count": 0,
-      "popularity": 107,
+      "popularity": 108,
       "added_at": 1764313794,
       "views": 1427
     },
@@ -1922,7 +1922,7 @@
         "https://bosminiofficial.ru/_sh/28/2864.jpg"
       ],
       "stock_count": 0,
-      "popularity": 161,
+      "popularity": 162,
       "added_at": 1773035167,
       "views": 217
     },
@@ -3224,7 +3224,7 @@
         "https://bosminiofficial.ru/_sh/28/2806.jpg"
       ],
       "stock_count": 0,
-      "popularity": 25,
+      "popularity": 45,
       "added_at": 1769494185,
       "views": 77
     },
@@ -4132,9 +4132,9 @@
       "url": "https://bosminiofficial.ru/shop/2941/desc/fizicheski-knopka-tmb-001",
       "name": "Физически кнопка TMB-001",
       "sku": "",
-      "price_rub": 0,
+      "price_rub": 1800,
       "old_price_rub": null,
-      "in_stock": false,
+      "in_stock": true,
       "categories": [
         "Автоаксессуары"
       ],
@@ -4156,7 +4156,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1779958996,
-      "views": 1
+      "views": 2
     },
     {
       "slug": "ar2-d3s",
@@ -7874,7 +7874,7 @@
         "https://bosminiofficial.ru/_sh/14/1491.jpg"
       ],
       "stock_count": 0,
-      "popularity": 139,
+      "popularity": 142,
       "added_at": 1751111969,
       "views": 150
     },
@@ -9393,7 +9393,7 @@
         "https://bosminiofficial.ru/_sh/8/877.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1167,
+      "popularity": 1192,
       "added_at": 1723960739,
       "views": 326
     },
@@ -12865,7 +12865,7 @@
         "https://bosminiofficial.ru/_sh/13/1330.jpg"
       ],
       "stock_count": 0,
-      "popularity": 14,
+      "popularity": 15,
       "added_at": 1741171685,
       "views": 178
     },
@@ -13516,7 +13516,7 @@
         "https://bosminiofficial.ru/_sh/25/2540.jpg"
       ],
       "stock_count": 0,
-      "popularity": 19,
+      "popularity": 24,
       "added_at": 1753952020,
       "views": 245
     },
@@ -13640,7 +13640,7 @@
         "https://bosminiofficial.ru/_sh/27/2753.jpg"
       ],
       "stock_count": 0,
-      "popularity": 21,
+      "popularity": 26,
       "added_at": 1765802307,
       "views": 135
     },
@@ -13950,7 +13950,7 @@
         "https://bosminiofficial.ru/_sh/3/346.jpg"
       ],
       "stock_count": 0,
-      "popularity": 616,
+      "popularity": 617,
       "added_at": 1714856095,
       "views": 528
     },
