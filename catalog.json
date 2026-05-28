@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.ru",
-  "generated_at": 1779955819,
-  "scraped_count": 453,
+  "generated_at": 1779956922,
+  "scraped_count": 450,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -126,7 +126,7 @@
       "stock_count": 0,
       "popularity": 397,
       "added_at": 1752844839,
-      "views": 1272
+      "views": 1273
     },
     {
       "slug": "bos-mini-8702-2-32gb-7",
@@ -250,7 +250,7 @@
       "stock_count": 0,
       "popularity": 3038,
       "added_at": 1752844676,
-      "views": 1625
+      "views": 1626
     },
     {
       "slug": "bos-mini-a42-6-64gb-9",
@@ -374,7 +374,7 @@
       "stock_count": 0,
       "popularity": 108,
       "added_at": 1757144356,
-      "views": 1984
+      "views": 1986
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -467,7 +467,7 @@
       "stock_count": 0,
       "popularity": 66,
       "added_at": 1753341610,
-      "views": 2700
+      "views": 2701
     },
     {
       "slug": "bos-mini-q8-4-64gb-9",
@@ -653,7 +653,7 @@
       "stock_count": 0,
       "popularity": 46,
       "added_at": 1764313847,
-      "views": 1234
+      "views": 1235
     },
     {
       "slug": "bos-mini-a15-10-djujmov",
@@ -684,7 +684,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1772526981,
-      "views": 490
+      "views": 491
     },
     {
       "slug": "bos-mini-a15-9-djujmov",
@@ -715,7 +715,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1772527002,
-      "views": 724
+      "views": 725
     },
     {
       "slug": "bos-mini-a1pro-10-4-64gb",
@@ -839,7 +839,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1772529067,
-      "views": 441
+      "views": 442
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-10-djujmov",
@@ -1273,7 +1273,7 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1752912147,
-      "views": 1774
+      "views": 1775
     },
     {
       "slug": "bos-mini-t8-4-64gb-10",
@@ -1460,37 +1460,6 @@
       "popularity": 13,
       "added_at": 1769577457,
       "views": 407
-    },
-    {
-      "slug": "bos-mini-ts10-6-128gb-9",
-      "url": "https://bosminiofficial.ru/shop/2816/desc/bos-mini-ts10-6-128gb-9",
-      "name": "Bos-Mini TS10 6+128Gb 9\"",
-      "sku": "",
-      "price_rub": 13000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Память-6+128Gb\n✅Размер экрана- 9 дюймов\n✅Процессор TS10\n✅Оптический выход\n✅Поддержка сим карты\n✅Количество ядер-8\n✅Carplay\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.ru/_sh/28/2816.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.ru/_sh/28/2816.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.ru/_sh/28/2816.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.ru/_sh/28/2816.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 19,
-      "added_at": 1769577429,
-      "views": 564
     },
     {
       "slug": "bos-mini-ts18-10-4-64gb",
@@ -1769,7 +1738,7 @@
       "stock_count": 0,
       "popularity": 41,
       "added_at": 1773035336,
-      "views": 297
+      "views": 298
     },
     {
       "slug": "dv-pioneer-ok-ac3-mini-4-64gb-7",
@@ -1801,37 +1770,6 @@
       "popularity": 54,
       "added_at": 1752909105,
       "views": 694
-    },
-    {
-      "slug": "dv-pioneer-ok-b4-mini-4-64gb",
-      "url": "https://bosminiofficial.ru/shop/2827/desc/dv-pioneer-ok-b4-mini-4-64gb",
-      "name": "DV-Pioneer.Ok B4 Mini 4+64Gb",
-      "sku": "",
-      "price_rub": 3800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅️Размер экрана-7 дюймов\n✅Память-4+64Gb\n✅Carplay\n✅Кулер охлаждения\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.ru/_sh/28/2827.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.ru/_sh/28/2827.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.ru/_sh/28/2827.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.ru/_sh/28/2827.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 120,
-      "added_at": 1770801276,
-      "views": 326
     },
     {
       "slug": "dv-pioneer-ok-bx4-6-128gb",
@@ -1987,37 +1925,6 @@
       "popularity": 161,
       "added_at": 1773035167,
       "views": 216
-    },
-    {
-      "slug": "dv-pioneer-ok-kk4s-6-128gb",
-      "url": "https://bosminiofficial.ru/shop/2830/desc/dv-pioneer-ok-kk4s-6-128gb",
-      "name": "DV-Pioneer.Ok KK4S 6+128Gb",
-      "sku": "",
-      "price_rub": 6000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9 дюймов\n✅Память- 6+128Gb\n✅Кулер охлаждения\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.ru/_sh/28/2830.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.ru/_sh/28/2830.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.ru/_sh/28/2830.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.ru/_sh/28/2830.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 145,
-      "added_at": 1770801497,
-      "views": 403
     },
     {
       "slug": "dv-pioneer-ok-kk5-4-64gb-9",
@@ -4063,7 +3970,7 @@
       "stock_count": 0,
       "popularity": 249,
       "added_at": 1714856095,
-      "views": 446
+      "views": 447
     },
     {
       "slug": "multirul-a02",
@@ -6357,7 +6264,7 @@
       "stock_count": 0,
       "popularity": 978,
       "added_at": 1732039326,
-      "views": 494
+      "views": 495
     },
     {
       "slug": "kamera-zad-vida-bos-mini-e-267",
@@ -10387,7 +10294,7 @@
       "stock_count": 0,
       "popularity": 46,
       "added_at": 1765285531,
-      "views": 931
+      "views": 932
     },
     {
       "slug": "dv-pioneer-ok-mp5710",
@@ -11255,7 +11162,7 @@
       "stock_count": 0,
       "popularity": 139,
       "added_at": 1727072278,
-      "views": 509
+      "views": 510
     },
     {
       "slug": "chevrolet-cobalt",
