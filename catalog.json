@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780038617,
+  "generated_at": 1780039218,
   "scraped_count": 450,
   "products": [
     {
@@ -2544,7 +2544,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1776517259,
-      "views": 129
+      "views": 130
     },
     {
       "slug": "zx1-pro-plus-4-64gb-9",
@@ -2637,7 +2637,7 @@
       "stock_count": 0,
       "popularity": 1906,
       "added_at": 1753684369,
-      "views": 590
+      "views": 591
     },
     {
       "slug": "teyes-sony-ahd-1080p",
@@ -11193,7 +11193,7 @@
       "stock_count": 0,
       "popularity": 139,
       "added_at": 1727072278,
-      "views": 511
+      "views": 512
     },
     {
       "slug": "chevrolet-cobalt",
@@ -13146,7 +13146,7 @@
       "stock_count": 0,
       "popularity": 247,
       "added_at": 1765863450,
-      "views": 166
+      "views": 168
     },
     {
       "slug": "komplekt-provodov-10ga",
@@ -13487,14 +13487,14 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1753952020,
-      "views": 245
+      "views": 246
     },
     {
       "slug": "alpine-ap-47-1",
       "url": "https://bosminiofficial.com/shop/2727/desc/alpine-ap-47-1",
       "name": "ALPINE AP-47.1",
       "sku": "",
-      "price_rub": 1700,
+      "price_rub": 1500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -13649,7 +13649,7 @@
       "url": "https://bosminiofficial.com/shop/2486/desc/dv-pioneer-ok-a43",
       "name": "Dv-Pioneer.Ok A43",
       "sku": "",
-      "price_rub": 1700,
+      "price_rub": 1500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -13742,7 +13742,7 @@
       "url": "https://bosminiofficial.com/shop/2730/desc/pioneer-421",
       "name": "Pioneer 421",
       "sku": "",
-      "price_rub": 1700,
+      "price_rub": 1500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -13773,7 +13773,7 @@
       "url": "https://bosminiofficial.com/shop/2731/desc/pioneer-423",
       "name": "Pioneer 423",
       "sku": "",
-      "price_rub": 1700,
+      "price_rub": 1500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -13804,7 +13804,7 @@
       "url": "https://bosminiofficial.com/shop/2732/desc/pioneer-424",
       "name": "Pioneer 424",
       "sku": "",
-      "price_rub": 1700,
+      "price_rub": 1500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -13835,7 +13835,7 @@
       "url": "https://bosminiofficial.com/shop/2728/desc/pioneer-427",
       "name": "Pioneer 427",
       "sku": "",
-      "price_rub": 1700,
+      "price_rub": 1500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -13921,7 +13921,7 @@
       "stock_count": 0,
       "popularity": 647,
       "added_at": 1714856095,
-      "views": 529
+      "views": 530
     },
     {
       "slug": "planior-pla-a25",
