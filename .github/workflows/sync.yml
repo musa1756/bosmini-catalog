@@ -42,7 +42,7 @@ jobs:
 
       - name: Pull catalog
         env:
-          UCOZ_SITE: bosminiofficial.ru
+          UCOZ_SITE: bosminiofficial.com
           UCOZ_TOKEN: ${{ secrets.UCOZ_TOKEN }}
         run: |
           if [ -z "$UCOZ_TOKEN" ]; then
