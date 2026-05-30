@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780131018,
+  "generated_at": 1780131622,
   "scraped_count": 447,
   "products": [
     {
@@ -1428,7 +1428,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1769577324,
-      "views": 392
+      "views": 393
     },
     {
       "slug": "bos-mini-ts10-6-128gb-10",
@@ -4125,7 +4125,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1773035946,
-      "views": 224
+      "views": 225
     },
     {
       "slug": "fizicheski-knopka-tmb-001",
@@ -5272,7 +5272,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1778565614,
-      "views": 52
+      "views": 54
     },
     {
       "slug": "zvezdnoe-nebo",
@@ -8403,7 +8403,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1756469877,
-      "views": 208
+      "views": 209
     },
     {
       "slug": "kolonki-ot-bos-mini-5083",
@@ -9240,7 +9240,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1767297093,
-      "views": 183
+      "views": 184
     },
     {
       "slug": "dv-pioneer-ok-mp372dsp",
@@ -10108,7 +10108,7 @@
       "stock_count": 0,
       "popularity": 63,
       "added_at": 1714856095,
-      "views": 841
+      "views": 842
     },
     {
       "slug": "magnitola-bos-mini-n973dsp",
@@ -13580,7 +13580,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1753165880,
-      "views": 217
+      "views": 218
     },
     {
       "slug": "jbl-jb-480",
@@ -13859,7 +13859,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 839
+      "views": 840
     }
   ]
 }
