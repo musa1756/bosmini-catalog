@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780157417,
+  "generated_at": 1780158020,
   "scraped_count": 447,
   "products": [
     {
@@ -126,7 +126,7 @@
       "stock_count": 0,
       "popularity": 397,
       "added_at": 1752844839,
-      "views": 1279
+      "views": 1280
     },
     {
       "slug": "bos-mini-8702-2-32gb-7",
@@ -13859,7 +13859,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 842
+      "views": 843
     }
   ]
 }
