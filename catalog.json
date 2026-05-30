@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780171816,
+  "generated_at": 1780172417,
   "scraped_count": 446,
   "products": [
     {
@@ -2420,7 +2420,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1769577216,
-      "views": 429
+      "views": 430
     },
     {
       "slug": "pioneer-gb-f8-plus-12-128g-9",
@@ -4807,7 +4807,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1743145576,
-      "views": 130
+      "views": 131
     },
     {
       "slug": "tech-king-h4",
@@ -4907,7 +4907,7 @@
       "url": "https://bosminiofficial.com/shop/1197/desc/zr-9005-hb3",
       "name": "ZR-9005 (HB3)",
       "sku": "",
-      "price_rub": 850,
+      "price_rub": 650,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -4931,7 +4931,7 @@
       "stock_count": 0,
       "popularity": 68,
       "added_at": 1734934388,
-      "views": 165
+      "views": 166
     },
     {
       "slug": "zr2-h1",
@@ -4962,7 +4962,7 @@
       "stock_count": 0,
       "popularity": 134,
       "added_at": 1751713853,
-      "views": 75
+      "views": 76
     },
     {
       "slug": "zr2-h11",
@@ -7814,7 +7814,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1751111969,
-      "views": 152
+      "views": 154
     },
     {
       "slug": "pioneer-ts-1393",
@@ -8775,7 +8775,7 @@
       "stock_count": 0,
       "popularity": 112,
       "added_at": 1765607730,
-      "views": 666
+      "views": 667
     },
     {
       "slug": "bos-mini-y958bt",
@@ -13828,7 +13828,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 850
+      "views": 851
     }
   ]
 }
