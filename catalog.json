@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780137021,
+  "generated_at": 1780137618,
   "scraped_count": 447,
   "products": [
     {
@@ -1211,7 +1211,7 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1752853019,
-      "views": 1075
+      "views": 1076
     },
     {
       "slug": "bos-mini-t215-4-64gb",
@@ -2514,6 +2514,37 @@
       "popularity": 164,
       "added_at": 1752864487,
       "views": 542
+    },
+    {
+      "slug": "tomboss-t123",
+      "url": "https://bosminiofficial.com/shop/2942/desc/tomboss-t123",
+      "name": "Tomboss T123",
+      "sku": "",
+      "price_rub": 9000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана -12,3 дюйма\n✅Память-4+64Gb\n✅Посадочное место-2Din\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅2 рамки и провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2942.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2942.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2942.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2942.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1780137341,
+      "views": 1
     },
     {
       "slug": "zx1-4-64gb-9",
@@ -3909,37 +3940,6 @@
       "popularity": 1,
       "added_at": 1763447077,
       "views": 189
-    },
-    {
-      "slug": "multimedijnaja-smart-pristavka-kpl079b-8-128g",
-      "url": "https://bosminiofficial.com/shop/2672/desc/multimedijnaja-smart-pristavka-kpl079b-8-128g",
-      "name": "Мультимедийная смарт приставка KPL079B 8+128G",
-      "sku": "",
-      "price_rub": 7500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Автоаксессуары"
-      ],
-      "brand_tags": [],
-      "description": "✅Память-8+128G\n✅Поддержка сим карты",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/26/2672.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2672.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/26/2672.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2672.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 0,
-      "added_at": 1763446863,
-      "views": 248
     },
     {
       "slug": "multirul-a01",
@@ -6481,7 +6481,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1775026590,
-      "views": 222
+      "views": 223
     },
     {
       "slug": "kamera-zadnego-vida-bos-l210",
@@ -7566,7 +7566,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1755665146,
-      "views": 115
+      "views": 116
     },
     {
       "slug": "hz-695-1200w-6-9-ovaly",
@@ -9860,7 +9860,7 @@
       "stock_count": 0,
       "popularity": 1699,
       "added_at": 1746085618,
-      "views": 240
+      "views": 241
     },
     {
       "slug": "pinoeer-gb-mvh-815dsp",
