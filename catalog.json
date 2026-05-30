@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780161021,
+  "generated_at": 1780161616,
   "scraped_count": 447,
   "products": [
     {
@@ -7938,7 +7938,7 @@
       "stock_count": 0,
       "popularity": 184,
       "added_at": 1728137074,
-      "views": 322
+      "views": 323
     },
     {
       "slug": "pioneer-ts-a1096a-450w",
@@ -9364,7 +9364,7 @@
       "stock_count": 0,
       "popularity": 976,
       "added_at": 1723960791,
-      "views": 306
+      "views": 307
     },
     {
       "slug": "dv-pioneer-ok-220",
@@ -9767,7 +9767,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1772780396,
-      "views": 104
+      "views": 105
     },
     {
       "slug": "pioneer-pla-196sbt",
@@ -10294,7 +10294,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1773149681,
-      "views": 429
+      "views": 430
     },
     {
       "slug": "dv-pioneer-ok-7110",
@@ -13859,7 +13859,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 846
+      "views": 849
     }
   ]
 }
