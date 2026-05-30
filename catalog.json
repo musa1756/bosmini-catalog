@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780162816,
+  "generated_at": 1780163422,
   "scraped_count": 447,
   "products": [
     {
@@ -746,7 +746,7 @@
       "stock_count": 0,
       "popularity": 477,
       "added_at": 1764392614,
-      "views": 743
+      "views": 744
     },
     {
       "slug": "bos-mini-a628d-dsp-4-64gb",
@@ -13859,7 +13859,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 849
+      "views": 850
     }
   ]
 }
