@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780169418,
-  "scraped_count": 447,
+  "generated_at": 1780169934,
+  "scraped_count": 446,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 598,
       "added_at": 1765176165,
-      "views": 1584
+      "views": 1585
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -343,7 +343,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1779787001,
-      "views": 38
+      "views": 39
     },
     {
       "slug": "bos-mini-a7-4-64gb-7",
@@ -529,7 +529,7 @@
       "stock_count": 0,
       "popularity": 656,
       "added_at": 1752909494,
-      "views": 970
+      "views": 971
     },
     {
       "slug": "bos-mini-t6-4-64gb-9",
@@ -1521,7 +1521,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1764392414,
-      "views": 721
+      "views": 722
     },
     {
       "slug": "bos-mini-ts18-9-4-64gb",
@@ -2017,7 +2017,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1776680345,
-      "views": 102
+      "views": 103
     },
     {
       "slug": "dv-pioneer-ok-a43-magic-4-64gb-9",
@@ -2172,7 +2172,7 @@
       "stock_count": 0,
       "popularity": 165,
       "added_at": 1754464305,
-      "views": 785
+      "views": 786
     },
     {
       "slug": "e5-olom-es4-flip-4-64gb",
@@ -2575,7 +2575,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1776517259,
-      "views": 131
+      "views": 132
     },
     {
       "slug": "zx1-pro-plus-4-64gb-9",
@@ -2606,7 +2606,7 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1776516888,
-      "views": 159
+      "views": 160
     },
     {
       "slug": "zx1-pro-plus-4-64gb-10",
@@ -4159,37 +4159,6 @@
       "views": 23
     },
     {
-      "slug": "ar2-d3s",
-      "url": "https://bosminiofficial.com/shop/1424/desc/ar2-d3s",
-      "name": "AR2 D3S",
-      "sku": "",
-      "price_rub": 1600,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Автосвет"
-      ],
-      "brand_tags": [],
-      "description": "✅Мощность-110W ✅Цветовая температура: 6000K ✅Срок службы: >50000 часов ✅Влагозащищенность: IP68 ✅Светоотдача-11000 Lm ✅Напряжение: DC 12-24V",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/14/1424.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/14/1424.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/14/1424.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/14/1424.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 8,
-      "added_at": 1747379828,
-      "views": 172
-    },
-    {
       "slug": "ar7-h4",
       "url": "https://bosminiofficial.com/shop/1041/desc/ar7-h4",
       "name": "AR7 - H4",
@@ -5427,7 +5396,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1751715210,
-      "views": 323
+      "views": 324
     },
     {
       "slug": "svetodiodnye-linzy-gt1",
@@ -5458,7 +5427,7 @@
       "stock_count": 0,
       "popularity": 39,
       "added_at": 1747293099,
-      "views": 287
+      "views": 288
     },
     {
       "slug": "a15l-2k-wi-fi",
@@ -9395,7 +9364,7 @@
       "stock_count": 0,
       "popularity": 121,
       "added_at": 1773034968,
-      "views": 196
+      "views": 197
     },
     {
       "slug": "dv-pioneer-ok-1605",
