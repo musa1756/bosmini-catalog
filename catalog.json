@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780150297,
+  "generated_at": 1780150820,
   "scraped_count": 447,
   "products": [
     {
@@ -13580,7 +13580,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1753165880,
-      "views": 245
+      "views": 246
     },
     {
       "slug": "jbl-jb-480",
@@ -13859,7 +13859,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 841
+      "views": 842
     }
   ]
 }
