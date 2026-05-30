@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780128016,
-  "scraped_count": 449,
+  "generated_at": 1780128617,
+  "scraped_count": 448,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1831,7 +1831,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1770637683,
-      "views": 409
+      "views": 410
     },
     {
       "slug": "dv-pioneer-ok-d3gold-4-64gb",
@@ -4156,7 +4156,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1779958996,
-      "views": 18
+      "views": 19
     },
     {
       "slug": "ar2-d3s",
@@ -7876,7 +7876,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1751111969,
-      "views": 151
+      "views": 152
     },
     {
       "slug": "pioneer-ts-1393",
@@ -7939,37 +7939,6 @@
       "popularity": 62,
       "added_at": 1733548229,
       "views": 169
-    },
-    {
-      "slug": "pioneer-ts-1675-v2-16sm",
-      "url": "https://bosminiofficial.com/shop/966/desc/pioneer-ts-1675-v2-16sm",
-      "name": "Pioneer TS-1675 V2 (16см)",
-      "sku": "",
-      "price_rub": 1700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅Максимальная мощность 300W ✅Размер динамика-16 см ✅Количество полос-3",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/9/966.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/9/966.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/9/966.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/9/966.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 95,
-      "added_at": 1728137276,
-      "views": 310
     },
     {
       "slug": "pioneer-ts-6975-v3-6-9-ovaly",
@@ -8806,7 +8775,7 @@
       "stock_count": 0,
       "popularity": 201,
       "added_at": 1733822414,
-      "views": 1101
+      "views": 1102
     },
     {
       "slug": "bos-mini-bos-n671dsp",
@@ -9922,7 +9891,7 @@
       "stock_count": 0,
       "popularity": 1699,
       "added_at": 1746085618,
-      "views": 238
+      "views": 239
     },
     {
       "slug": "pinoeer-gb-mvh-815dsp",
@@ -10356,7 +10325,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1773149681,
-      "views": 422
+      "views": 423
     },
     {
       "slug": "dv-pioneer-ok-7110",
@@ -13084,7 +13053,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1778922215,
-      "views": 63
+      "views": 64
     },
     {
       "slug": "kabel-2-2-rca-bl863",
@@ -13115,7 +13084,7 @@
       "stock_count": 0,
       "popularity": 80,
       "added_at": 1715363607,
-      "views": 275
+      "views": 276
     },
     {
       "slug": "kabel-rca-the-poem",
@@ -13208,7 +13177,7 @@
       "stock_count": 0,
       "popularity": 372,
       "added_at": 1714856095,
-      "views": 304
+      "views": 305
     },
     {
       "slug": "komplekt-provodov-ak4",
@@ -13270,7 +13239,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1777715840,
-      "views": 82
+      "views": 83
     },
     {
       "slug": "komplekt-provodov-bos-48",
@@ -13394,7 +13363,7 @@
       "stock_count": 0,
       "popularity": 837,
       "added_at": 1753516707,
-      "views": 188
+      "views": 189
     },
     {
       "slug": "sabvufer-syzx-yd-0108",
