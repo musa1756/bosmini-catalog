@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780222220,
+  "generated_at": 1780222823,
   "scraped_count": 445,
   "products": [
     {
@@ -9767,7 +9767,7 @@
       "stock_count": 0,
       "popularity": 52,
       "added_at": 1753770698,
-      "views": 163
+      "views": 164
     },
     {
       "slug": "pioneer-gb-mvh-341-12-24v",
@@ -10201,7 +10201,7 @@
       "stock_count": 0,
       "popularity": 46,
       "added_at": 1765285531,
-      "views": 940
+      "views": 941
     },
     {
       "slug": "dv-pioneer-ok-mp5710",
@@ -12960,7 +12960,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1778922215,
-      "views": 66
+      "views": 67
     },
     {
       "slug": "kabel-2-2-rca-bl863",
@@ -12991,7 +12991,7 @@
       "stock_count": 0,
       "popularity": 80,
       "added_at": 1715363607,
-      "views": 278
+      "views": 279
     },
     {
       "slug": "kabel-rca-the-poem",
@@ -13797,7 +13797,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 853
+      "views": 854
     }
   ]
 }
