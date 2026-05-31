@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780197024,
+  "generated_at": 1780197615,
   "scraped_count": 446,
   "products": [
     {
@@ -9395,7 +9395,7 @@
       "stock_count": 0,
       "popularity": 40,
       "added_at": 1714856095,
-      "views": 361
+      "views": 362
     },
     {
       "slug": "e5-olom-e-011",
@@ -10449,7 +10449,7 @@
       "stock_count": 0,
       "popularity": 918,
       "added_at": 1716836782,
-      "views": 321
+      "views": 322
     },
     {
       "slug": "2-provodnyj-ehlektroprivod-zamka-dverej-bm-02",
@@ -13828,7 +13828,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 851
+      "views": 852
     }
   ]
 }
