@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780220418,
-  "scraped_count": 446,
+  "generated_at": 1780221019,
+  "scraped_count": 445,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -437,37 +437,6 @@
       "popularity": 36,
       "added_at": 1752862854,
       "views": 345
-    },
-    {
-      "slug": "bos-mini-q70-6-64gb-7",
-      "url": "https://bosminiofficial.com/shop/2495/desc/bos-mini-q70-6-64gb-7",
-      "name": "BOS-MINI Q70 6+64Gb 7\"",
-      "sku": "",
-      "price_rub": 6500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-7 дюймов ✅Память-6+64Gb ✅Количество ядер-8 ✅CarPlay ✅Голосовое управление ✅Кулер охлаждения ✅HDMI выход ✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/24/2495.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/24/2495.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/24/2495.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/24/2495.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 66,
-      "added_at": 1753341610,
-      "views": 2703
     },
     {
       "slug": "bos-mini-q8-4-64gb-9",
@@ -2699,7 +2668,7 @@
       "stock_count": 0,
       "popularity": 2444,
       "added_at": 1753683801,
-      "views": 588
+      "views": 589
     },
     {
       "slug": "teyes-x5-dvr",
@@ -4156,7 +4125,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1779958996,
-      "views": 25
+      "views": 26
     },
     {
       "slug": "ar7-h4",
@@ -10821,7 +10790,7 @@
       "stock_count": 0,
       "popularity": 210,
       "added_at": 1753770937,
-      "views": 212
+      "views": 213
     },
     {
       "slug": "brelok-dlja-avtosignalizacii-tamahawk-x5",
@@ -13208,7 +13177,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1777715745,
-      "views": 102
+      "views": 103
     },
     {
       "slug": "komplekt-provodov-pro-series-4ga",
@@ -13239,7 +13208,7 @@
       "stock_count": 0,
       "popularity": 40,
       "added_at": 1765863510,
-      "views": 169
+      "views": 170
     },
     {
       "slug": "komplekt-provodov-vp04",
@@ -13270,7 +13239,7 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1765863602,
-      "views": 138
+      "views": 139
     },
     {
       "slug": "komplekt-provodov-x9",
@@ -13301,7 +13270,7 @@
       "stock_count": 0,
       "popularity": 839,
       "added_at": 1753516707,
-      "views": 189
+      "views": 190
     },
     {
       "slug": "sabvufer-syzx-yd-0108",
@@ -13332,7 +13301,7 @@
       "stock_count": 0,
       "popularity": 25,
       "added_at": 1719475285,
-      "views": 333
+      "views": 334
     },
     {
       "slug": "alpine-ap-45-1",
