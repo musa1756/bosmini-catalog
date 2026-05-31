@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780226458,
-  "scraped_count": 445,
+  "generated_at": 1780227021,
+  "scraped_count": 444,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2204,37 +2204,6 @@
       "popularity": 19,
       "added_at": 1752845497,
       "views": 500
-    },
-    {
-      "slug": "e5-olom-kk5-pro-2-32gb",
-      "url": "https://bosminiofficial.com/shop/2777/desc/e5-olom-kk5-pro-2-32gb",
-      "name": "E5-OLOM KK5 Pro 2+32Gb",
-      "sku": "",
-      "price_rub": 5200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9 дюймов\n✅Память-2+32Gb и 4+64G\n✅Поддержка сим карты\n✅Количество ядер-8\n✅CarPlay\n✅Кулер охлаждения\n✅Набор проводов для подключения и выносной микрофон в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2777.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2777.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2777.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2777.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 45,
-      "added_at": 1766641876,
-      "views": 234
     },
     {
       "slug": "e5-olom-e3-pro-6-64gb-9",
@@ -12309,7 +12278,7 @@
       "stock_count": 0,
       "popularity": 75,
       "added_at": 1726917366,
-      "views": 710
+      "views": 711
     },
     {
       "slug": "dv-100-komplekt-provodov",
@@ -12650,7 +12619,7 @@
       "stock_count": 0,
       "popularity": 38,
       "added_at": 1726917429,
-      "views": 330
+      "views": 331
     },
     {
       "slug": "pioneer-gb-mvh-3010u",
@@ -12681,7 +12650,7 @@
       "stock_count": 0,
       "popularity": 144,
       "added_at": 1766646329,
-      "views": 129
+      "views": 130
     },
     {
       "slug": "pioneer-gb-3080u",
@@ -12712,7 +12681,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1764221514,
-      "views": 148
+      "views": 149
     },
     {
       "slug": "syzx-v-us80",
