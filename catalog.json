@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780236022,
+  "generated_at": 1780236617,
   "scraped_count": 444,
   "products": [
     {
@@ -4249,7 +4249,7 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1716467831,
-      "views": 228
+      "views": 229
     },
     {
       "slug": "e4-9005-20000-lm",
@@ -4404,7 +4404,7 @@
       "stock_count": 0,
       "popularity": 39,
       "added_at": 1751463944,
-      "views": 133
+      "views": 134
     },
     {
       "slug": "led-headlights-n3-h4",
@@ -4993,7 +4993,7 @@
       "stock_count": 0,
       "popularity": 368,
       "added_at": 1734934654,
-      "views": 268
+      "views": 269
     },
     {
       "slug": "galogenovaja-lampa-h1",
@@ -9829,7 +9829,7 @@
       "stock_count": 0,
       "popularity": 397,
       "added_at": 1733727083,
-      "views": 372
+      "views": 374
     },
     {
       "slug": "pioneer-gb-mvh-767mbt",
@@ -10697,7 +10697,7 @@
       "stock_count": 0,
       "popularity": 79,
       "added_at": 1764621987,
-      "views": 281
+      "views": 282
     },
     {
       "slug": "starline-b9",
@@ -13487,7 +13487,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1753165880,
-      "views": 306
+      "views": 313
     },
     {
       "slug": "jbl-jb-480",
@@ -13766,7 +13766,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 856
+      "views": 857
     }
   ]
 }
