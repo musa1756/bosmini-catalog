@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780213219,
+  "generated_at": 1780213820,
   "scraped_count": 446,
   "products": [
     {
@@ -3009,7 +3009,7 @@
       "stock_count": 0,
       "popularity": 257,
       "added_at": 1776113206,
-      "views": 151
+      "views": 152
     },
     {
       "slug": "avtomobilnaja-ehlektrokruzhka-24v",
@@ -6016,7 +6016,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1768974626,
-      "views": 262
+      "views": 263
     },
     {
       "slug": "videoregistrator-dlja-android-magnitol-u1pro",
@@ -7783,7 +7783,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1763446753,
-      "views": 175
+      "views": 176
     },
     {
       "slug": "ok-kenwood-kfc-1358",
@@ -9984,7 +9984,7 @@
       "stock_count": 0,
       "popularity": 1223,
       "added_at": 1722584362,
-      "views": 492
+      "views": 493
     },
     {
       "slug": "magnitola-bos-mini-n970dsp",
@@ -13580,7 +13580,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1765657288,
-      "views": 623
+      "views": 624
     },
     {
       "slug": "kenwood-kw-a5314",
@@ -13797,7 +13797,7 @@
       "stock_count": 0,
       "popularity": 648,
       "added_at": 1714856095,
-      "views": 532
+      "views": 533
     },
     {
       "slug": "planior-pla-a25",
@@ -13828,7 +13828,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 852
+      "views": 853
     }
   ]
 }
