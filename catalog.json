@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780229419,
+  "generated_at": 1780230016,
   "scraped_count": 444,
   "products": [
     {
@@ -4094,7 +4094,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1779958996,
-      "views": 27
+      "views": 28
     },
     {
       "slug": "ar7-h4",
@@ -5086,7 +5086,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1778565823,
-      "views": 56
+      "views": 57
     },
     {
       "slug": "galogenovaja-lampa-h7",
@@ -5737,7 +5737,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1779788743,
-      "views": 23
+      "views": 24
     },
     {
       "slug": "tomboss-t20",
@@ -8620,7 +8620,7 @@
       "stock_count": 0,
       "popularity": 63,
       "added_at": 1752837291,
-      "views": 397
+      "views": 398
     },
     {
       "slug": "bos-mini-bos-n670dsp",
@@ -8961,7 +8961,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1772779859,
-      "views": 162
+      "views": 163
     },
     {
       "slug": "dv-pioneer-ok-deh-dv5850",
@@ -9147,7 +9147,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1767297093,
-      "views": 190
+      "views": 191
     },
     {
       "slug": "dv-pioneer-ok-mp372dsp",
@@ -12929,7 +12929,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1778922215,
-      "views": 67
+      "views": 68
     },
     {
       "slug": "kabel-2-2-rca-bl863",
@@ -13766,7 +13766,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 855
+      "views": 856
     }
   ]
 }
