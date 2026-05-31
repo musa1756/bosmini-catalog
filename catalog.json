@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780236617,
+  "generated_at": 1780237217,
   "scraped_count": 444,
   "products": [
     {
@@ -2668,7 +2668,7 @@
       "stock_count": 0,
       "popularity": 5067,
       "added_at": 1724219666,
-      "views": 797
+      "views": 798
     },
     {
       "slug": "datchik-davlenija-shin-teyes",
@@ -9178,7 +9178,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1767297118,
-      "views": 199
+      "views": 200
     },
     {
       "slug": "dv-pioneer-ok-217",
@@ -9829,7 +9829,7 @@
       "stock_count": 0,
       "popularity": 397,
       "added_at": 1733727083,
-      "views": 374
+      "views": 376
     },
     {
       "slug": "pioneer-gb-mvh-767mbt",
@@ -11007,7 +11007,7 @@
       "stock_count": 0,
       "popularity": 263,
       "added_at": 1738756168,
-      "views": 339
+      "views": 340
     },
     {
       "slug": "centralnyj-zamok-s-dvumja-pultami-686b",
@@ -11286,7 +11286,7 @@
       "stock_count": 0,
       "popularity": 105,
       "added_at": 1755667900,
-      "views": 136
+      "views": 137
     },
     {
       "slug": "hyundai-accent-2011-2016g-9-djum-chernyj",
@@ -12588,7 +12588,7 @@
       "stock_count": 0,
       "popularity": 108,
       "added_at": 1753518058,
-      "views": 183
+      "views": 184
     },
     {
       "slug": "pioneer-gb-11g",
@@ -13487,7 +13487,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1753165880,
-      "views": 313
+      "views": 320
     },
     {
       "slug": "jbl-jb-480",
@@ -13766,7 +13766,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 857
+      "views": 858
     }
   ]
 }
