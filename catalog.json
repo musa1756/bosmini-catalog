@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780224018,
+  "generated_at": 1780224617,
   "scraped_count": 445,
   "products": [
     {
@@ -2637,7 +2637,7 @@
       "stock_count": 0,
       "popularity": 1912,
       "added_at": 1753684369,
-      "views": 596
+      "views": 597
     },
     {
       "slug": "teyes-sony-ahd-1080p",
@@ -3319,7 +3319,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1775197935,
-      "views": 85
+      "views": 86
     },
     {
       "slug": "aromatizator-rh-045",
@@ -3350,7 +3350,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1775199067,
-      "views": 99
+      "views": 100
     },
     {
       "slug": "aromatizator-x-v-korobke",
@@ -3381,7 +3381,7 @@
       "stock_count": 0,
       "popularity": 81,
       "added_at": 1752661634,
-      "views": 301
+      "views": 302
     },
     {
       "slug": "aromatizator-diffuzory-rh-017",
@@ -8806,7 +8806,7 @@
       "stock_count": 0,
       "popularity": 68,
       "added_at": 1749968403,
-      "views": 319
+      "views": 320
     },
     {
       "slug": "bos-y950bt",
@@ -12185,7 +12185,7 @@
       "stock_count": 0,
       "popularity": 34,
       "added_at": 1777715674,
-      "views": 95
+      "views": 96
     },
     {
       "slug": "bos-4ga",
@@ -13797,7 +13797,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 854
+      "views": 855
     }
   ]
 }
