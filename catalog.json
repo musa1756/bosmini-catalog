@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780206617,
+  "generated_at": 1780207218,
   "scraped_count": 446,
   "products": [
     {
@@ -2644,7 +2644,7 @@
       "url": "https://bosminiofficial.com/shop/2517/desc/teyes-hs-sony-camera",
       "name": "Teyes HS Sony camera",
       "sku": "",
-      "price_rub": 1500,
+      "price_rub": 1250,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -2675,7 +2675,7 @@
       "url": "https://bosminiofficial.com/shop/2516/desc/teyes-sony-ahd-1080p",
       "name": "Teyes Sony AHD 1080P",
       "sku": "",
-      "price_rub": 1250,
+      "price_rub": 1050,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -2768,7 +2768,7 @@
       "url": "https://bosminiofficial.com/shop/815/desc/kamera-teyes-ahd-v-pakete",
       "name": "Камера - TEYES AHD (в пакете)",
       "sku": "",
-      "price_rub": 900,
+      "price_rub": 750,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -2823,7 +2823,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1732348103,
-      "views": 944
+      "views": 945
     },
     {
       "slug": "bos-mini-sd-128gb",
@@ -3908,7 +3908,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1766149772,
-      "views": 209
+      "views": 210
     },
     {
       "slug": "multimedijnaja-smart-pristavka-kpl070-4-64g",
@@ -4900,7 +4900,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1743145803,
-      "views": 133
+      "views": 134
     },
     {
       "slug": "zr-9005-hb3",
@@ -9333,7 +9333,7 @@
       "stock_count": 0,
       "popularity": 976,
       "added_at": 1723960791,
-      "views": 307
+      "views": 308
     },
     {
       "slug": "dv-pioneer-ok-220",
