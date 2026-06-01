@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780334424,
+  "generated_at": 1780335024,
   "scraped_count": 442,
   "products": [
     {
@@ -343,7 +343,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1779787001,
-      "views": 45
+      "views": 46
     },
     {
       "slug": "bos-mini-a7-4-64gb-7",
@@ -2079,7 +2079,7 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1765282134,
-      "views": 359
+      "views": 360
     },
     {
       "slug": "dv-pioneer-ok-z3-pro-4-64gb",
@@ -11162,7 +11162,7 @@
       "stock_count": 0,
       "popularity": 157,
       "added_at": 1752932250,
-      "views": 136
+      "views": 137
     },
     {
       "slug": "gazelle-business-2010-9-djujmov-seryj",
@@ -12216,7 +12216,7 @@
       "stock_count": 0,
       "popularity": 75,
       "added_at": 1726917366,
-      "views": 712
+      "views": 713
     },
     {
       "slug": "dv-100-komplekt-provodov",
@@ -12960,7 +12960,7 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1715363107,
-      "views": 286
+      "views": 287
     },
     {
       "slug": "komplekt-provodov-8ga",
@@ -13704,7 +13704,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 860
+      "views": 861
     }
   ]
 }
