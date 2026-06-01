@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780309222,
+  "generated_at": 1780309817,
   "scraped_count": 442,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 580
+      "views": 582
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -64,7 +64,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1752862193,
-      "views": 1163
+      "views": 1164
     },
     {
       "slug": "blaupunkt-ha900-b4-4-64g",
@@ -95,7 +95,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1763311652,
-      "views": 706
+      "views": 708
     },
     {
       "slug": "bos-mini-8701-2-32gb-7",
@@ -126,7 +126,7 @@
       "stock_count": 0,
       "popularity": 397,
       "added_at": 1752844839,
-      "views": 1280
+      "views": 1282
     },
     {
       "slug": "bos-mini-8702-2-32gb-7",
@@ -157,7 +157,7 @@
       "stock_count": 0,
       "popularity": 210,
       "added_at": 1752844861,
-      "views": 843
+      "views": 844
     },
     {
       "slug": "bos-mini-a1-pro-4-64gb-9",
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 600,
       "added_at": 1765176165,
-      "views": 1586
+      "views": 1587
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 972,
       "added_at": 1752844697,
-      "views": 1199
+      "views": 1200
     },
     {
       "slug": "bos-mini-a2-4-64gb-9",
@@ -250,7 +250,7 @@
       "stock_count": 0,
       "popularity": 3040,
       "added_at": 1752844676,
-      "views": 1628
+      "views": 1629
     },
     {
       "slug": "bos-mini-a42-6-64gb-9",
@@ -281,7 +281,7 @@
       "stock_count": 0,
       "popularity": 126,
       "added_at": 1753952536,
-      "views": 697
+      "views": 698
     },
     {
       "slug": "bos-mini-a6-wi-fi-4-64gb-10-djujm",
@@ -405,7 +405,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1752859489,
-      "views": 851
+      "views": 852
     },
     {
       "slug": "bos-mini-q2-9",
@@ -436,7 +436,7 @@
       "stock_count": 0,
       "popularity": 36,
       "added_at": 1752862854,
-      "views": 346
+      "views": 348
     },
     {
       "slug": "bos-mini-q8-4-64gb-9",
@@ -467,7 +467,7 @@
       "stock_count": 0,
       "popularity": 128,
       "added_at": 1765175893,
-      "views": 887
+      "views": 889
     },
     {
       "slug": "bos-mini-t2-4-64gb-9",
@@ -498,7 +498,7 @@
       "stock_count": 0,
       "popularity": 659,
       "added_at": 1752909494,
-      "views": 975
+      "views": 977
     },
     {
       "slug": "bos-mini-t6-4-64gb-9",
@@ -529,7 +529,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1754376021,
-      "views": 413
+      "views": 414
     },
     {
       "slug": "bos-mini-t7038-4-64gb",
@@ -560,7 +560,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1777460775,
-      "views": 193
+      "views": 194
     },
     {
       "slug": "bos-a658d-pro-4-64gb",
@@ -591,7 +591,7 @@
       "stock_count": 0,
       "popularity": 109,
       "added_at": 1764313794,
-      "views": 1432
+      "views": 1434
     },
     {
       "slug": "bos-a659d-pro-4-64gb",
@@ -622,7 +622,7 @@
       "stock_count": 0,
       "popularity": 46,
       "added_at": 1764313847,
-      "views": 1239
+      "views": 1241
     },
     {
       "slug": "bos-mini-a15-10-djujmov",
@@ -684,7 +684,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1772527002,
-      "views": 729
+      "views": 731
     },
     {
       "slug": "bos-mini-a1pro-10-4-64gb",
@@ -715,7 +715,7 @@
       "stock_count": 0,
       "popularity": 478,
       "added_at": 1764392614,
-      "views": 748
+      "views": 750
     },
     {
       "slug": "bos-mini-a628d-dsp-4-64gb",
@@ -746,7 +746,7 @@
       "stock_count": 0,
       "popularity": 83,
       "added_at": 1764494765,
-      "views": 1265
+      "views": 1266
     },
     {
       "slug": "bos-mini-a629d-4-64gb",
@@ -777,7 +777,7 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1764494672,
-      "views": 989
+      "views": 991
     },
     {
       "slug": "bos-mini-a8-plus-6-128gb-10-djujmov",
@@ -808,7 +808,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1772529067,
-      "views": 446
+      "views": 447
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-10-djujmov",
@@ -839,7 +839,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1772527567,
-      "views": 259
+      "views": 261
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-9-djujmov",
@@ -870,7 +870,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1772527820,
-      "views": 286
+      "views": 287
     },
     {
       "slug": "bos-mini-a8-pro-8-256gb-10-djujmov",
@@ -901,7 +901,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1772528022,
-      "views": 344
+      "views": 345
     },
     {
       "slug": "bos-mini-cc3-max-12-256gb-9",
@@ -932,7 +932,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1752852728,
-      "views": 1311
+      "views": 1312
     },
     {
       "slug": "bos-mini-cc3-max-2k-12-256gb-9",
@@ -963,7 +963,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752852789,
-      "views": 1648
+      "views": 1649
     },
     {
       "slug": "bos-mini-k68",
@@ -994,7 +994,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1765802757,
-      "views": 1415
+      "views": 1416
     },
     {
       "slug": "bos-mini-k69",
@@ -1025,7 +1025,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1765802832,
-      "views": 661
+      "views": 662
     },
     {
       "slug": "bos-mini-k71",
@@ -1056,7 +1056,7 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1765802523,
-      "views": 1039
+      "views": 1040
     },
     {
       "slug": "bos-mini-k72",
@@ -1087,7 +1087,7 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1765802621,
-      "views": 657
+      "views": 658
     },
     {
       "slug": "bos-mini-k76hg-4-64gb",
@@ -1118,7 +1118,7 @@
       "stock_count": 0,
       "popularity": 84,
       "added_at": 1767294203,
-      "views": 717
+      "views": 718
     },
     {
       "slug": "bos-mini-n776s-4-64gb",
@@ -1149,7 +1149,7 @@
       "stock_count": 0,
       "popularity": 63,
       "added_at": 1765630585,
-      "views": 811
+      "views": 812
     },
     {
       "slug": "bos-mini-q5-4-64gb-9",
@@ -1180,7 +1180,7 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1752853019,
-      "views": 1078
+      "views": 1079
     },
     {
       "slug": "bos-mini-t215-4-64gb",
@@ -1211,7 +1211,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1752912057,
-      "views": 1654
+      "views": 1656
     },
     {
       "slug": "bos-mini-t216-4-64gb",
@@ -1242,7 +1242,7 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1752912147,
-      "views": 1783
+      "views": 1785
     },
     {
       "slug": "bos-mini-t8-4-64gb-10",
@@ -1273,7 +1273,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1752853165,
-      "views": 352
+      "views": 353
     },
     {
       "slug": "bos-mini-t8-4-64gb-9",
@@ -1304,7 +1304,7 @@
       "stock_count": 0,
       "popularity": 58,
       "added_at": 1752853137,
-      "views": 816
+      "views": 818
     },
     {
       "slug": "bos-mini-t8705-4-64gb-7",
@@ -1335,7 +1335,7 @@
       "stock_count": 0,
       "popularity": 120,
       "added_at": 1752911964,
-      "views": 1770
+      "views": 1772
     },
     {
       "slug": "bos-mini-ts10-4-64gb-10",
@@ -1366,7 +1366,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1769577346,
-      "views": 315
+      "views": 316
     },
     {
       "slug": "bos-mini-ts10-4-64gb-9",
@@ -1397,7 +1397,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1769577324,
-      "views": 393
+      "views": 394
     },
     {
       "slug": "bos-mini-ts10-6-128gb-10",
@@ -1428,7 +1428,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1769577457,
-      "views": 412
+      "views": 413
     },
     {
       "slug": "bos-mini-ts18-10-4-64gb",
@@ -1459,7 +1459,7 @@
       "stock_count": 0,
       "popularity": 65,
       "added_at": 1764392333,
-      "views": 435
+      "views": 437
     },
     {
       "slug": "bos-mini-ts18-10-6-128gb",
@@ -1490,7 +1490,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1764392414,
-      "views": 722
+      "views": 724
     },
     {
       "slug": "bos-mini-ts18-9-4-64gb",
@@ -1521,7 +1521,7 @@
       "stock_count": 0,
       "popularity": 153,
       "added_at": 1764392312,
-      "views": 477
+      "views": 479
     },
     {
       "slug": "cc5-ultra-4-64gb-10",
@@ -1552,7 +1552,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1752860117,
-      "views": 601
+      "views": 603
     },
     {
       "slug": "cc5-ultra-4-64gb-9",
@@ -1583,7 +1583,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1752860064,
-      "views": 733
+      "views": 734
     },
     {
       "slug": "dv-pineer-ok-ahd-9115-10-3-32gb-10",
@@ -1614,7 +1614,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1752843688,
-      "views": 342
+      "views": 343
     },
     {
       "slug": "dv-pioneer-ok-6611",
@@ -1645,7 +1645,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1752841827,
-      "views": 523
+      "views": 524
     },
     {
       "slug": "dv-pioneer-ok-a2-pro-6-64",
@@ -1676,7 +1676,7 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1773035336,
-      "views": 304
+      "views": 305
     },
     {
       "slug": "dv-pioneer-ok-ac3-mini-4-64gb-7",
@@ -1707,7 +1707,7 @@
       "stock_count": 0,
       "popularity": 54,
       "added_at": 1752909105,
-      "views": 698
+      "views": 700
     },
     {
       "slug": "dv-pioneer-ok-bx4-6-128gb",
@@ -1738,7 +1738,7 @@
       "stock_count": 0,
       "popularity": 32,
       "added_at": 1770801359,
-      "views": 396
+      "views": 398
     },
     {
       "slug": "dv-pioneer-ok-d107-4-64gb",
@@ -1769,7 +1769,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1770637683,
-      "views": 412
+      "views": 413
     },
     {
       "slug": "dv-pioneer-ok-d3gold-4-64gb",
@@ -1800,7 +1800,7 @@
       "stock_count": 0,
       "popularity": 32,
       "added_at": 1770637548,
-      "views": 341
+      "views": 342
     },
     {
       "slug": "dv-pioneer-ok-e1-4-64gb",
@@ -1862,7 +1862,7 @@
       "stock_count": 0,
       "popularity": 173,
       "added_at": 1773035167,
-      "views": 220
+      "views": 222
     },
     {
       "slug": "dv-pioneer-ok-kk5-4-64gb-9",
@@ -1893,7 +1893,7 @@
       "stock_count": 0,
       "popularity": 253,
       "added_at": 1752909267,
-      "views": 571
+      "views": 573
     },
     {
       "slug": "dv-pioneer-ok-sx3s-mini-4-64g",
@@ -1924,7 +1924,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1776342307,
-      "views": 187
+      "views": 188
     },
     {
       "slug": "dv-pioneer-ok-z3s-4-64",
@@ -1955,7 +1955,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1776680345,
-      "views": 103
+      "views": 104
     },
     {
       "slug": "dv-pioneer-ok-a43-magic-4-64gb-9",
@@ -1986,7 +1986,7 @@
       "stock_count": 0,
       "popularity": 30,
       "added_at": 1765346513,
-      "views": 298
+      "views": 299
     },
     {
       "slug": "dv-pioneer-ok-cc2-4-64gb-9",
@@ -2017,7 +2017,7 @@
       "stock_count": 0,
       "popularity": 130,
       "added_at": 1764786444,
-      "views": 342
+      "views": 343
     },
     {
       "slug": "dv-pioneer-ok-d3-nano-4-64gb",
@@ -2048,7 +2048,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1765283275,
-      "views": 512
+      "views": 513
     },
     {
       "slug": "dv-pioneer-ok-z3-pro-6-64gb-9",
@@ -2079,7 +2079,7 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1765282134,
-      "views": 358
+      "views": 359
     },
     {
       "slug": "dv-pioneer-ok-z3-pro-4-64gb",
@@ -2110,7 +2110,7 @@
       "stock_count": 0,
       "popularity": 165,
       "added_at": 1754464305,
-      "views": 788
+      "views": 790
     },
     {
       "slug": "e5-olom-es4-flip-4-64gb",
@@ -2141,7 +2141,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1770801589,
-      "views": 476
+      "views": 478
     },
     {
       "slug": "e5-olom-es4-ultra-4-64gb-9",
@@ -2172,7 +2172,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1752845497,
-      "views": 501
+      "views": 502
     },
     {
       "slug": "e5-olom-e3-pro-6-64gb-9",
@@ -2203,7 +2203,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1776112985,
-      "views": 183
+      "views": 185
     },
     {
       "slug": "h1-pro-2-32gb",
@@ -2234,7 +2234,7 @@
       "stock_count": 0,
       "popularity": 93,
       "added_at": 1752907044,
-      "views": 209
+      "views": 210
     },
     {
       "slug": "multimedia-factory-f7d-pro-4-64gb-7",
@@ -2265,7 +2265,7 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1752866853,
-      "views": 774
+      "views": 776
     },
     {
       "slug": "pioneer-gb-f8-6-64gb-9",
@@ -2389,7 +2389,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1773476138,
-      "views": 301
+      "views": 302
     },
     {
       "slug": "sx4-pro-4-64gb",
@@ -2420,7 +2420,7 @@
       "stock_count": 0,
       "popularity": 194,
       "added_at": 1752864487,
-      "views": 546
+      "views": 547
     },
     {
       "slug": "tomboss-t123",
@@ -2513,7 +2513,7 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1776516888,
-      "views": 160
+      "views": 161
     },
     {
       "slug": "zx1-pro-plus-4-64gb-10",
@@ -2544,7 +2544,7 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1776517157,
-      "views": 110
+      "views": 112
     },
     {
       "slug": "teyes-hs-sony-camera",
@@ -5086,7 +5086,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1778565879,
-      "views": 63
+      "views": 64
     },
     {
       "slug": "galogenovaja-lampa-hb3-9005",
@@ -5365,7 +5365,7 @@
       "stock_count": 0,
       "popularity": 60,
       "added_at": 1739603510,
-      "views": 539
+      "views": 540
     },
     {
       "slug": "bos-mini-l-810",
@@ -8775,7 +8775,7 @@
       "stock_count": 0,
       "popularity": 111,
       "added_at": 1750255313,
-      "views": 513
+      "views": 514
     },
     {
       "slug": "bos-y957bt-12v-24v",
@@ -9736,7 +9736,7 @@
       "stock_count": 0,
       "popularity": 83,
       "added_at": 1753518362,
-      "views": 162
+      "views": 163
     },
     {
       "slug": "pioneer-gb-mvh-816dsp",
