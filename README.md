@@ -27,28 +27,14 @@ python sync_catalog.py --out catalog.json
 
 ## WooCommerce mirror (bosminiofficial.ru)
 
-The same `sync.yml` run also mirrors `catalog.json` into the WooCommerce
-store on **bosminiofficial.ru** via `sync_to_woo.py`, right after the
-catalog commit + Supabase trigger (so a reg.ru hiccup never blocks the
-app feed). It's **incremental**: `woo_state.json` tracks a content-hash
-of each product's last successfully-pushed payload, so a run only pushes
-the products that actually changed and force-deletes the ones that
-vanished from the catalog (matched by `sku=slug` — the client's manual
-blank-sku products are never touched; `--max-deletes` caps deletions).
+`catalog.json` is also mirrored into the **bosminiofficial.ru** WooCommerce
+store by `sync_to_woo.py`, **incrementally** (only changed products are
+pushed; products that vanished from the catalog are pruned). This does
+**not** run in GitHub Actions — reg.ru blocks GitHub's runner IPs — it runs
+from the Timeweb VPS on its own cron. See **[VPS.md](VPS.md)** for the full
+deployment.
 
-Requires two repo secrets (WooCommerce → Settings → Advanced → REST API →
-Add key, **Read/Write**); `WOO_SITE=bosminiofficial.ru` is set inline in
-the workflow:
-
-```
-WOO_CK   ck_…      # consumer key
-WOO_CS   cs_…      # consumer secret
-```
-
-Until `WOO_CK`/`WOO_CS` exist the WooCommerce steps self-skip, so the
-catalog + app sync keep working on their own.
-
-Manual / test runs:
+Manual / test runs (from a machine that can reach reg.ru, e.g. a Russian IP):
 
 ```sh
 python sync_to_woo.py --changed-only --prune              # dry-run, show the plan

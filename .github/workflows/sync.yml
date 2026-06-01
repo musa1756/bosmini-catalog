@@ -138,63 +138,12 @@ jobs:
             sleep 10
           done
 
-      - name: Sync catalog to WooCommerce (.ru)
-        # Push the just-committed catalog.json into the bosminiofficial.ru
-        # WooCommerce store, incrementally:
-        #   --changed-only  push only products whose content-hash changed since
-        #                   last run (tracked in woo_state.json) — re-writing all
-        #                   449 every 10 min would hammer the reg.ru shared host.
-        #   --prune         force-delete products that vanished from the catalog
-        #                   (matched by sku=slug, so the client's manual blank-sku
-        #                   products are never touched; --max-deletes caps it).
-        # Self-skips until WOO_CK/WOO_CS secrets exist, so this can land before
-        # the keys are wired. Runs AFTER the catalog commit + Supabase trigger so
-        # a reg.ru hiccup never blocks the app's own feed.
-        #
-        # KNOWN ISSUE (2026-06-01): reg.ru drops TCP connections from GitHub's
-        # runner IPs (httpx.ConnectTimeout), so this step can't reach the store
-        # from Actions — same block that forced the Timeweb VPS proxy in front of
-        # Supabase. Until the push is routed through a Russian-IP proxy/VPS this
-        # is continue-on-error + fail-fast (--timeout 20, single attempt): it
-        # tries each run but never fails the pipeline or fires the Telegram alert.
-        if: ${{ env.WOO_CK != '' && env.WOO_CS != '' }}
-        continue-on-error: true
-        env:
-          WOO_SITE: bosminiofficial.ru
-          WOO_CK: ${{ secrets.WOO_CK }}
-          WOO_CS: ${{ secrets.WOO_CS }}
-        run: |
-          python sync_to_woo.py --apply --changed-only --prune --timeout 20
-
-      - name: Commit woo_state if changed
-        # woo_state.json only advances for products that pushed OK, so committing
-        # it is what lets the next run skip unchanged products instead of
-        # re-pushing all 449. always() so a partial/failed WooCommerce sync still
-        # persists whatever progress it made (the rest retries next run).
-        if: ${{ always() && env.WOO_CK != '' }}
-        env:
-          WOO_CK: ${{ secrets.WOO_CK }}
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          if [ -n "$(git status --porcelain woo_state.json)" ]; then
-            git add woo_state.json
-            git commit -m "Auto-sync woo_state"
-            for attempt in 1 2 3; do
-              if git push; then
-                break
-              fi
-              if [ "$attempt" -eq 3 ]; then
-                echo "::error::git push (woo_state) failed after 3 attempts"
-                exit 1
-              fi
-              echo "Push attempt $attempt failed, retrying in 10s…"
-              sleep 10
-            done
-            echo "Committed woo_state update."
-          else
-            echo "woo_state unchanged — store already in sync."
-          fi
+      # NOTE: the .ru WooCommerce mirror is NOT done here. reg.ru drops TCP
+      # connections from GitHub's runner IPs (httpx.ConnectTimeout) — the same
+      # block that forced the Timeweb VPS proxy in front of Supabase. So the
+      # push runs from the Timeweb VPS (5.42.117.161, Russian IP) on its own
+      # cron: it pulls this committed catalog.json from raw.githubusercontent
+      # and runs `sync_to_woo.py --apply --changed-only --prune`. See VPS.md.
 
       - name: Notify Telegram on failure
         # Self-skips when secrets aren't set, so this can land before the user
