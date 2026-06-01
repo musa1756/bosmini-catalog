@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780332023,
+  "generated_at": 1780332623,
   "scraped_count": 442,
   "products": [
     {
@@ -9767,7 +9767,7 @@
       "stock_count": 0,
       "popularity": 397,
       "added_at": 1733727083,
-      "views": 395
+      "views": 396
     },
     {
       "slug": "pioneer-gb-mvh-767mbt",
@@ -9860,7 +9860,7 @@
       "stock_count": 0,
       "popularity": 1223,
       "added_at": 1722584362,
-      "views": 498
+      "views": 499
     },
     {
       "slug": "magnitola-bos-mini-n970dsp",
@@ -12030,7 +12030,7 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1718658908,
-      "views": 228
+      "views": 229
     },
     {
       "slug": "preobrazovateli-24v-12v-60a",
@@ -13332,7 +13332,7 @@
       "stock_count": 0,
       "popularity": 277,
       "added_at": 1754033937,
-      "views": 523
+      "views": 524
     },
     {
       "slug": "dv-pioneer-ok-414",
@@ -13673,7 +13673,7 @@
       "stock_count": 0,
       "popularity": 648,
       "added_at": 1714856095,
-      "views": 535
+      "views": 536
     },
     {
       "slug": "planior-pla-a25",
@@ -13704,7 +13704,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 858
+      "views": 860
     }
   ]
 }
