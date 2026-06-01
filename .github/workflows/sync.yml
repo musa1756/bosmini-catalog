@@ -150,23 +150,21 @@ jobs:
         # Self-skips until WOO_CK/WOO_CS secrets exist, so this can land before
         # the keys are wired. Runs AFTER the catalog commit + Supabase trigger so
         # a reg.ru hiccup never blocks the app's own feed.
+        #
+        # KNOWN ISSUE (2026-06-01): reg.ru drops TCP connections from GitHub's
+        # runner IPs (httpx.ConnectTimeout), so this step can't reach the store
+        # from Actions — same block that forced the Timeweb VPS proxy in front of
+        # Supabase. Until the push is routed through a Russian-IP proxy/VPS this
+        # is continue-on-error + fail-fast (--timeout 20, single attempt): it
+        # tries each run but never fails the pipeline or fires the Telegram alert.
         if: ${{ env.WOO_CK != '' && env.WOO_CS != '' }}
+        continue-on-error: true
         env:
           WOO_SITE: bosminiofficial.ru
           WOO_CK: ${{ secrets.WOO_CK }}
           WOO_CS: ${{ secrets.WOO_CS }}
         run: |
-          for attempt in 1 2 3; do
-            if python sync_to_woo.py --apply --changed-only --prune; then
-              break
-            fi
-            if [ "$attempt" -eq 3 ]; then
-              echo "::error::sync_to_woo.py failed after 3 attempts"
-              exit 1
-            fi
-            echo "Attempt $attempt failed, retrying in 20s…"
-            sleep 20
-          done
+          python sync_to_woo.py --apply --changed-only --prune --timeout 20
 
       - name: Commit woo_state if changed
         # woo_state.json only advances for products that pushed OK, so committing
