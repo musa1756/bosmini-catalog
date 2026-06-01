@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780303824,
-  "scraped_count": 443,
+  "generated_at": 1780304422,
+  "scraped_count": 442,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 579
+      "views": 580
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -1087,7 +1087,7 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1765802621,
-      "views": 656
+      "views": 657
     },
     {
       "slug": "bos-mini-k76hg-4-64gb",
@@ -1676,7 +1676,7 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1773035336,
-      "views": 303
+      "views": 304
     },
     {
       "slug": "dv-pioneer-ok-ac3-mini-4-64gb-7",
@@ -2110,7 +2110,7 @@
       "stock_count": 0,
       "popularity": 165,
       "added_at": 1754464305,
-      "views": 787
+      "views": 788
     },
     {
       "slug": "e5-olom-es4-flip-4-64gb",
@@ -2420,7 +2420,7 @@
       "stock_count": 0,
       "popularity": 194,
       "added_at": 1752864487,
-      "views": 544
+      "views": 545
     },
     {
       "slug": "tomboss-t123",
@@ -6760,7 +6760,7 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1779520353,
-      "views": 70
+      "views": 71
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -9398,37 +9398,6 @@
       "views": 91
     },
     {
-      "slug": "kenwood-ok-k-015",
-      "url": "https://bosminiofficial.com/shop/2835/desc/kenwood-ok-k-015",
-      "name": "KENWOOD.Ok K-015",
-      "sku": "",
-      "price_rub": 2000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅Bluetooth\n✅Aux, USB и Type-C\n✅Процессор DSP\n✅Цветной RGB экран\n✅Мощный радиатор охлаждения\n✅8 выходов RCA\n✅Пульт и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2835.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2835.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2835.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2835.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 18,
-      "added_at": 1770802213,
-      "views": 231
-    },
-    {
       "slug": "mvh-y8053mbt",
       "url": "https://bosminiofficial.com/shop/2701/desc/mvh-y8053mbt",
       "name": "MVH-Y8053MBT",
@@ -9798,7 +9767,7 @@
       "stock_count": 0,
       "popularity": 397,
       "added_at": 1733727083,
-      "views": 393
+      "views": 394
     },
     {
       "slug": "pioneer-gb-mvh-767mbt",
@@ -9984,7 +9953,7 @@
       "stock_count": 0,
       "popularity": 63,
       "added_at": 1714856095,
-      "views": 846
+      "views": 847
     },
     {
       "slug": "magnitola-bos-mini-n973dsp",
