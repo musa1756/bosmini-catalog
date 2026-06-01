@@ -138,6 +138,66 @@ jobs:
             sleep 10
           done
 
+      - name: Sync catalog to WooCommerce (.ru)
+        # Push the just-committed catalog.json into the bosminiofficial.ru
+        # WooCommerce store, incrementally:
+        #   --changed-only  push only products whose content-hash changed since
+        #                   last run (tracked in woo_state.json) — re-writing all
+        #                   449 every 10 min would hammer the reg.ru shared host.
+        #   --prune         force-delete products that vanished from the catalog
+        #                   (matched by sku=slug, so the client's manual blank-sku
+        #                   products are never touched; --max-deletes caps it).
+        # Self-skips until WOO_CK/WOO_CS secrets exist, so this can land before
+        # the keys are wired. Runs AFTER the catalog commit + Supabase trigger so
+        # a reg.ru hiccup never blocks the app's own feed.
+        if: ${{ env.WOO_CK != '' && env.WOO_CS != '' }}
+        env:
+          WOO_SITE: bosminiofficial.ru
+          WOO_CK: ${{ secrets.WOO_CK }}
+          WOO_CS: ${{ secrets.WOO_CS }}
+        run: |
+          for attempt in 1 2 3; do
+            if python sync_to_woo.py --apply --changed-only --prune; then
+              break
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              echo "::error::sync_to_woo.py failed after 3 attempts"
+              exit 1
+            fi
+            echo "Attempt $attempt failed, retrying in 20s…"
+            sleep 20
+          done
+
+      - name: Commit woo_state if changed
+        # woo_state.json only advances for products that pushed OK, so committing
+        # it is what lets the next run skip unchanged products instead of
+        # re-pushing all 449. always() so a partial/failed WooCommerce sync still
+        # persists whatever progress it made (the rest retries next run).
+        if: ${{ always() && env.WOO_CK != '' }}
+        env:
+          WOO_CK: ${{ secrets.WOO_CK }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain woo_state.json)" ]; then
+            git add woo_state.json
+            git commit -m "Auto-sync woo_state"
+            for attempt in 1 2 3; do
+              if git push; then
+                break
+              fi
+              if [ "$attempt" -eq 3 ]; then
+                echo "::error::git push (woo_state) failed after 3 attempts"
+                exit 1
+              fi
+              echo "Push attempt $attempt failed, retrying in 10s…"
+              sleep 10
+            done
+            echo "Committed woo_state update."
+          else
+            echo "woo_state unchanged — store already in sync."
+          fi
+
       - name: Notify Telegram on failure
         # Self-skips when secrets aren't set, so this can land before the user
         # finishes wiring the bot. Once TG_BOT_TOKEN+TG_CHAT_ID exist as repo
