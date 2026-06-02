@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780416621,
+  "generated_at": 1780417225,
   "scraped_count": 444,
   "products": [
     {
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 600,
       "added_at": 1765176165,
-      "views": 1591
+      "views": 1592
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -343,7 +343,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1779787001,
-      "views": 50
+      "views": 51
     },
     {
       "slug": "bos-mini-a7-4-64gb-7",
@@ -2482,7 +2482,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1780137341,
-      "views": 19
+      "views": 20
     },
     {
       "slug": "y2-pro-12-128gb",
