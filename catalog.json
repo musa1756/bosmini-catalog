@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780404636,
+  "generated_at": 1780405235,
   "scraped_count": 444,
   "products": [
     {
@@ -1428,7 +1428,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1769577324,
-      "views": 400
+      "views": 401
     },
     {
       "slug": "bos-mini-ts10-6-128gb-10",
@@ -7814,7 +7814,7 @@
       "stock_count": 0,
       "popularity": 54,
       "added_at": 1745502365,
-      "views": 172
+      "views": 173
     },
     {
       "slug": "pioneer-ts-1396s-480w",
@@ -8682,7 +8682,7 @@
       "stock_count": 0,
       "popularity": 201,
       "added_at": 1733822414,
-      "views": 1109
+      "views": 1110
     },
     {
       "slug": "bos-mini-bos-n671dsp",
@@ -8837,7 +8837,7 @@
       "stock_count": 0,
       "popularity": 111,
       "added_at": 1750255313,
-      "views": 520
+      "views": 521
     },
     {
       "slug": "bos-y957bt-12v-24v",
@@ -13766,7 +13766,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1738756387,
-      "views": 863
+      "views": 864
     }
   ]
 }
