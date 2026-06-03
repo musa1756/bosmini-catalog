@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780498827,
+  "generated_at": 1780499427,
   "scraped_count": 442,
   "products": [
     {
@@ -2947,7 +2947,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1730529840,
-      "views": 365
+      "views": 366
     },
     {
       "slug": "iso-bos-mini-e-05",
@@ -4590,7 +4590,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1778499441,
-      "views": 50
+      "views": 51
     },
     {
       "slug": "led-lampa-zw1-h4",
@@ -5210,7 +5210,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1778565614,
-      "views": 64
+      "views": 65
     },
     {
       "slug": "zvezdnoe-nebo",
@@ -9860,7 +9860,7 @@
       "stock_count": 0,
       "popularity": 1686,
       "added_at": 1722713624,
-      "views": 420
+      "views": 421
     },
     {
       "slug": "pioneer-gb-mvh-f899zbt",
@@ -13704,7 +13704,7 @@
       "stock_count": 0,
       "popularity": 128,
       "added_at": 1738756387,
-      "views": 867
+      "views": 868
     }
   ]
 }
