@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780489826,
-  "scraped_count": 444,
+  "generated_at": 1780490420,
+  "scraped_count": 442,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -64,7 +64,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1752862193,
-      "views": 1168
+      "views": 1169
     },
     {
       "slug": "blaupunkt-ha900-b4-4-64g",
@@ -1831,7 +1831,7 @@
       "stock_count": 0,
       "popularity": 32,
       "added_at": 1770637548,
-      "views": 348
+      "views": 349
     },
     {
       "slug": "dv-pioneer-ok-e1-4-64gb",
@@ -2482,7 +2482,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1780137341,
-      "views": 25
+      "views": 26
     },
     {
       "slug": "y2-pro-12-128gb",
@@ -9116,7 +9116,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1770802444,
-      "views": 121
+      "views": 122
     },
     {
       "slug": "dv-pioneer-ok-mp3567",
@@ -10078,37 +10078,6 @@
       "popularity": 378,
       "added_at": 1738048528,
       "views": 385
-    },
-    {
-      "slug": "bos-mini-n640dp5",
-      "url": "https://bosminiofficial.com/shop/2928/desc/bos-mini-n640dp5",
-      "name": "BOS-MINI N640DP5",
-      "sku": "",
-      "price_rub": 2900,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы с экраном"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-6,28 дюймов\n✅Типоразмер-1Din\n✅CarPlay/AndroidAuto\n✅Процессор DSP\n✅Type-c, USB, AUX\n✅Радиатор охлаждения\n✅Пульт управления, инструкция и фишки для подключения и в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2928.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2928.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2928.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2928.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 25,
-      "added_at": 1778219987,
-      "views": 213
     },
     {
       "slug": "bos-mini-n727hgp5",
@@ -12279,37 +12248,6 @@
       "popularity": 75,
       "added_at": 1726917366,
       "views": 716
-    },
-    {
-      "slug": "dv-100-komplekt-provodov",
-      "url": "https://bosminiofficial.com/shop/2574/desc/dv-100-komplekt-provodov",
-      "name": "DV-100 + комплект проводов",
-      "sku": "",
-      "price_rub": 3800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅️Размер 10 ✅️Максимальная мощность 3000W-Max ✅️С активным усилитеусилителем ✅️Провода в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2574.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2574.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2574.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2574.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 194,
-      "added_at": 1754806593,
-      "views": 220
     },
     {
       "slug": "dv-60-komplekt-provodov",
