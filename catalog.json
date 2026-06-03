@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780450818,
+  "generated_at": 1780451421,
   "scraped_count": 444,
   "products": [
     {
@@ -9085,7 +9085,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1770802367,
-      "views": 107
+      "views": 108
     },
     {
       "slug": "dv-pioneer-ok-mp3566",
@@ -10821,7 +10821,7 @@
       "stock_count": 0,
       "popularity": 148,
       "added_at": 1714856095,
-      "views": 336
+      "views": 337
     },
     {
       "slug": "lazernyj-datchik-otkryvanija-bagazhnika-ot-bos-mini-x-03",
@@ -13766,7 +13766,7 @@
       "stock_count": 0,
       "popularity": 127,
       "added_at": 1738756387,
-      "views": 864
+      "views": 865
     }
   ]
 }
