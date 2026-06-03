@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780454418,
+  "generated_at": 1780455015,
   "scraped_count": 444,
   "products": [
     {
@@ -1149,7 +1149,7 @@
       "stock_count": 0,
       "popularity": 84,
       "added_at": 1767294203,
-      "views": 725
+      "views": 726
     },
     {
       "slug": "bos-mini-n776s-4-64gb",
@@ -9643,7 +9643,7 @@
       "stock_count": 0,
       "popularity": 660,
       "added_at": 1764669603,
-      "views": 120
+      "views": 121
     },
     {
       "slug": "ok-jvc-kd-r592m",
@@ -13766,7 +13766,7 @@
       "stock_count": 0,
       "popularity": 127,
       "added_at": 1738756387,
-      "views": 865
+      "views": 866
     }
   ]
 }
