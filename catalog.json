@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780530017,
+  "generated_at": 1780530620,
   "scraped_count": 441,
   "products": [
     {
@@ -746,7 +746,7 @@
       "stock_count": 0,
       "popularity": 478,
       "added_at": 1764392614,
-      "views": 758
+      "views": 759
     },
     {
       "slug": "bos-mini-a628d-dsp-4-64gb",
@@ -1459,7 +1459,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1769577457,
-      "views": 421
+      "views": 422
     },
     {
       "slug": "bos-mini-ts18-10-4-64gb",
@@ -1738,7 +1738,7 @@
       "stock_count": 0,
       "popularity": 54,
       "added_at": 1752909105,
-      "views": 705
+      "views": 706
     },
     {
       "slug": "dv-pioneer-ok-bx4-6-128gb",
@@ -2017,7 +2017,7 @@
       "stock_count": 0,
       "popularity": 30,
       "added_at": 1765346513,
-      "views": 303
+      "views": 304
     },
     {
       "slug": "dv-pioneer-ok-cc2-4-64gb-9",
@@ -2141,7 +2141,7 @@
       "stock_count": 0,
       "popularity": 165,
       "added_at": 1754464305,
-      "views": 796
+      "views": 797
     },
     {
       "slug": "e5-olom-es4-flip-4-64gb",
@@ -9054,7 +9054,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1770802367,
-      "views": 108
+      "views": 109
     },
     {
       "slug": "dv-pioneer-ok-mp3566",
@@ -9581,7 +9581,7 @@
       "stock_count": 0,
       "popularity": 3125,
       "added_at": 1764669581,
-      "views": 174
+      "views": 175
     },
     {
       "slug": "mvh-y8059mbt",
@@ -11441,7 +11441,7 @@
       "stock_count": 0,
       "popularity": 113,
       "added_at": 1745134818,
-      "views": 261
+      "views": 262
     },
     {
       "slug": "lada-granta-2018",
@@ -13332,7 +13332,7 @@
       "stock_count": 0,
       "popularity": 26,
       "added_at": 1765802307,
-      "views": 149
+      "views": 150
     },
     {
       "slug": "dv-pioneer-ok-415",
