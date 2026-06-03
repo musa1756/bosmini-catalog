@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780513824,
-  "scraped_count": 442,
+  "generated_at": 1780514428,
+  "scraped_count": 441,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2235,37 +2235,6 @@
       "popularity": 6,
       "added_at": 1776112985,
       "views": 192
-    },
-    {
-      "slug": "h1-pro-2-32gb",
-      "url": "https://bosminiofficial.com/shop/2004/desc/h1-pro-2-32gb",
-      "name": "H1 Pro 2+32Gb",
-      "sku": "",
-      "price_rub": 5700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9 дюймов ✅Количество ядер-8 ✅Поддержка сим карты ✅CarPlay ✅Кулер охлаждения ✅Набор проводов для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/20/2004.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/20/2004.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/20/2004.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/20/2004.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 93,
-      "added_at": 1752907044,
-      "views": 216
     },
     {
       "slug": "multimedia-factory-f7d-pro-4-64gb-7",
