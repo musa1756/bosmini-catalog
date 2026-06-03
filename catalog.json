@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780480822,
+  "generated_at": 1780481418,
   "scraped_count": 444,
   "products": [
     {
@@ -374,7 +374,7 @@
       "stock_count": 0,
       "popularity": 108,
       "added_at": 1757144356,
-      "views": 1999
+      "views": 2000
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -2048,7 +2048,7 @@
       "stock_count": 0,
       "popularity": 164,
       "added_at": 1764786444,
-      "views": 353
+      "views": 354
     },
     {
       "slug": "dv-pioneer-ok-d3-nano-4-64gb",
@@ -2141,7 +2141,7 @@
       "stock_count": 0,
       "popularity": 165,
       "added_at": 1754464305,
-      "views": 795
+      "views": 796
     },
     {
       "slug": "e5-olom-es4-flip-4-64gb",
@@ -9426,7 +9426,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1770802124,
-      "views": 84
+      "views": 85
     },
     {
       "slug": "e5-olom-e-013",
@@ -9929,7 +9929,7 @@
       "url": "https://bosminiofficial.com/shop/88/desc/magnitola-bos-mini-n970dsp",
       "name": "Магнитола Bos-Mini-N970DSP",
       "sku": "TS00084",
-      "price_rub": 2500,
+      "price_rub": 2100,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -11565,7 +11565,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1721297725,
-      "views": 329
+      "views": 330
     },
     {
       "slug": "lada-xray",
@@ -12836,7 +12836,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1765863799,
-      "views": 165
+      "views": 166
     },
     {
       "slug": "bukhta-kabelja-model-200",
@@ -13115,7 +13115,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1777715840,
-      "views": 92
+      "views": 93
     },
     {
       "slug": "komplekt-provodov-bos-48",
