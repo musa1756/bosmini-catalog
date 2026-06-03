@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780482621,
+  "generated_at": 1780483217,
   "scraped_count": 444,
   "products": [
     {
@@ -2761,7 +2761,7 @@
       "stock_count": 0,
       "popularity": 5410,
       "added_at": 1722408772,
-      "views": 655
+      "views": 656
     },
     {
       "slug": "bos-mini-9602",
@@ -3908,7 +3908,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1763447077,
-      "views": 202
+      "views": 203
     },
     {
       "slug": "multirul-a01",
@@ -4776,7 +4776,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1743145576,
-      "views": 133
+      "views": 134
     },
     {
       "slug": "tech-king-h4",
@@ -12588,7 +12588,7 @@
       "stock_count": 0,
       "popularity": 108,
       "added_at": 1753518058,
-      "views": 185
+      "views": 186
     },
     {
       "slug": "pioneer-gb-11g",
@@ -13487,7 +13487,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1753165880,
-      "views": 375
+      "views": 376
     },
     {
       "slug": "jbl-jb-480",
