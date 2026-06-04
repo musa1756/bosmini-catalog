@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780576817,
-  "scraped_count": 438,
+  "generated_at": 1780577423,
+  "scraped_count": 437,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1924,7 +1924,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1776342307,
-      "views": 196
+      "views": 197
     },
     {
       "slug": "dv-pioneer-ok-z3s-4-64",
@@ -8096,37 +8096,6 @@
       "views": 112
     },
     {
-      "slug": "ts-a1696s-650w",
-      "url": "https://bosminiofficial.com/shop/2648/desc/ts-a1696s-650w",
-      "name": "TS-A1696S (650W)",
-      "sku": "",
-      "price_rub": 800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅️ Размер 16см ✅️ Максимальная мощность 650W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/26/2648.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2648.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/26/2648.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2648.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 233,
-      "added_at": 1759759078,
-      "views": 124
-    },
-    {
       "slug": "wt-580asp-22",
       "url": "https://bosminiofficial.com/shop/1191/desc/wt-580asp-22",
       "name": "WT-580ASP/22",
@@ -9643,7 +9612,7 @@
       "stock_count": 0,
       "popularity": 189,
       "added_at": 1753770414,
-      "views": 345
+      "views": 346
     },
     {
       "slug": "pioneer-gb-den-5806sbt",
