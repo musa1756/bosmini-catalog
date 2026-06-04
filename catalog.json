@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780558819,
+  "generated_at": 1780559417,
   "scraped_count": 438,
   "products": [
     {
@@ -653,7 +653,7 @@
       "stock_count": 0,
       "popularity": 27,
       "added_at": 1769583711,
-      "views": 1020
+      "views": 1021
     },
     {
       "slug": "bos-mini-a15-10-djujmov",
@@ -715,7 +715,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1772527002,
-      "views": 739
+      "views": 740
     },
     {
       "slug": "bos-mini-a1pro-10-4-64gb",
@@ -777,7 +777,7 @@
       "stock_count": 0,
       "popularity": 84,
       "added_at": 1764494765,
-      "views": 1275
+      "views": 1276
     },
     {
       "slug": "bos-mini-a629d-4-64gb",
@@ -932,7 +932,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1772528022,
-      "views": 356
+      "views": 357
     },
     {
       "slug": "bos-mini-cc3-max-12-256gb-9",
@@ -2482,7 +2482,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1776517259,
-      "views": 140
+      "views": 141
     },
     {
       "slug": "zx1-pro-plus-4-64gb-9",
@@ -10728,7 +10728,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1754137765,
-      "views": 312
+      "views": 313
     },
     {
       "slug": "odnostoronnjaja-signalizacija-bos-mini-g6099bt",
@@ -12130,9 +12130,9 @@
       "url": "https://bosminiofficial.com/shop/2575/desc/dv-60-komplekt-provodov",
       "name": "DV-60 + комплект проводов",
       "sku": "",
-      "price_rub": 0,
+      "price_rub": 2200,
       "old_price_rub": null,
-      "in_stock": false,
+      "in_stock": true,
       "categories": [
         "Сабвуферы и комплектующие"
       ],
