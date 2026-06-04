@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780558216,
+  "generated_at": 1780558819,
   "scraped_count": 438,
   "products": [
     {
@@ -1118,7 +1118,7 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1765802621,
-      "views": 664
+      "views": 665
     },
     {
       "slug": "bos-mini-k76hg-4-64gb",
@@ -10480,7 +10480,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1729676994,
-      "views": 337
+      "views": 338
     },
     {
       "slug": "ok-jvc-he-690-4",
@@ -12130,9 +12130,9 @@
       "url": "https://bosminiofficial.com/shop/2575/desc/dv-60-komplekt-provodov",
       "name": "DV-60 + комплект проводов",
       "sku": "",
-      "price_rub": 2500,
+      "price_rub": 0,
       "old_price_rub": null,
-      "in_stock": true,
+      "in_stock": false,
       "categories": [
         "Сабвуферы и комплектующие"
       ],
