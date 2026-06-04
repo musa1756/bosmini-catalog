@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780584620,
+  "generated_at": 1780585223,
   "scraped_count": 437,
   "products": [
     {
@@ -467,7 +467,7 @@
       "stock_count": 0,
       "popularity": 128,
       "added_at": 1765175893,
-      "views": 896
+      "views": 897
     },
     {
       "slug": "bos-mini-t2-4-64gb-9",
@@ -1831,7 +1831,7 @@
       "stock_count": 0,
       "popularity": 188,
       "added_at": 1773035266,
-      "views": 243
+      "views": 244
     },
     {
       "slug": "dv-pioneer-ok-e4-4-64gb",
@@ -2265,7 +2265,7 @@
       "stock_count": 0,
       "popularity": 36,
       "added_at": 1769575727,
-      "views": 346
+      "views": 347
     },
     {
       "slug": "pioneer-gb-f8-plus-12-128g-10",
@@ -3815,7 +3815,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1766149772,
-      "views": 218
+      "views": 219
     },
     {
       "slug": "multimedijnaja-smart-pristavka-kpl070-4-64g",
@@ -5055,7 +5055,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1778565823,
-      "views": 66
+      "views": 67
     },
     {
       "slug": "galogenovaja-lampa-h7",
@@ -10821,7 +10821,7 @@
       "stock_count": 0,
       "popularity": 263,
       "added_at": 1738756168,
-      "views": 348
+      "views": 349
     },
     {
       "slug": "centralnyj-zamok-s-dvumja-pultami-686b",
@@ -13394,7 +13394,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1765430470,
-      "views": 131
+      "views": 132
     },
     {
       "slug": "pioneer-424",
@@ -13549,7 +13549,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738756387,
-      "views": 868
+      "views": 870
     }
   ]
 }
