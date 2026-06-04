@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780553418,
+  "generated_at": 1780554024,
   "scraped_count": 438,
   "products": [
     {
@@ -412,7 +412,7 @@
       "url": "https://bosminiofficial.com/shop/1982/desc/bos-mini-q2-9",
       "name": "BOS-MINI Q2 9\"",
       "sku": "",
-      "price_rub": 5200,
+      "price_rub": 4900,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -839,7 +839,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1772529067,
-      "views": 456
+      "views": 457
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-10-djujmov",
