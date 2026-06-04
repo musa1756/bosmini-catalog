@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780550422,
-  "scraped_count": 441,
+  "generated_at": 1780551018,
+  "scraped_count": 438,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -560,7 +560,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1777460775,
-      "views": 202
+      "views": 203
     },
     {
       "slug": "bos-a658d-pro-4-64gb",
@@ -1708,37 +1708,6 @@
       "popularity": 42,
       "added_at": 1773035336,
       "views": 309
-    },
-    {
-      "slug": "dv-pioneer-ok-ac3-mini-4-64gb-7",
-      "url": "https://bosminiofficial.com/shop/2018/desc/dv-pioneer-ok-ac3-mini-4-64gb-7",
-      "name": "DV-Pioneer.Ok AC3 Mini 4+64Gb 7\"",
-      "sku": "",
-      "price_rub": 3700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-7 дюймов ✅Память-4+64G ( по факту 2+64G) ✅Кулер охлаждения ✅Набор проводов для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/20/2018.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/20/2018.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/20/2018.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/20/2018.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 54,
-      "added_at": 1752909105,
-      "views": 706
     },
     {
       "slug": "dv-pioneer-ok-bx4-6-128gb",
@@ -5055,7 +5024,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1778565956,
-      "views": 72
+      "views": 73
     },
     {
       "slug": "galogenovaja-lampa-h4",
@@ -10264,68 +10233,6 @@
       "popularity": 47,
       "added_at": 1714856095,
       "views": 640
-    },
-    {
-      "slug": "pioneergb-grs-881dp5",
-      "url": "https://bosminiofficial.com/shop/617/desc/pioneergb-grs-881dp5",
-      "name": "PioneerGB GRS-881DP5",
-      "sku": "",
-      "price_rub": 2200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы с экраном"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-7” ✅Bluetooth ✅Aux ✅Сенсорный экран ✅2 пульта управления ✅Mirror link ✅Возможность подключения камеры заднего вида",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/6/617.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/6/617.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/6/617.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/6/617.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 444,
-      "added_at": 1716836605,
-      "views": 743
-    },
-    {
-      "slug": "pioneergb-grs-882dp5",
-      "url": "https://bosminiofficial.com/shop/618/desc/pioneergb-grs-882dp5",
-      "name": "PioneerGB GRS-882DP5",
-      "sku": "",
-      "price_rub": 2200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы с экраном"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-7” ✅Bluetooth ✅Aux ✅Сенсорный экран ✅2 пульта управления ✅Mirror link ✅Возможность подключения камеры заднего вида",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/6/618.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/6/618.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/6/618.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/6/618.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 918,
-      "added_at": 1716836782,
-      "views": 330
     },
     {
       "slug": "2-provodnyj-ehlektroprivod-zamka-dverej-bm-02",
