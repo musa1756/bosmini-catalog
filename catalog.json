@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780670419,
+  "generated_at": 1780671019,
   "scraped_count": 437,
   "products": [
     {
@@ -1831,7 +1831,7 @@
       "stock_count": 0,
       "popularity": 188,
       "added_at": 1773035266,
-      "views": 245
+      "views": 246
     },
     {
       "slug": "dv-pioneer-ok-e4-4-64gb",
@@ -3226,7 +3226,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1775197632,
-      "views": 129
+      "views": 130
     },
     {
       "slug": "aromatizator-rh-044",
@@ -10077,7 +10077,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1773149681,
-      "views": 444
+      "views": 445
     },
     {
       "slug": "dv-pioneer-ok-7110",
@@ -13549,7 +13549,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738756387,
-      "views": 870
+      "views": 871
     }
   ]
 }
