@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780672821,
+  "generated_at": 1780673419,
   "scraped_count": 437,
   "products": [
     {
@@ -2513,7 +2513,7 @@
       "stock_count": 0,
       "popularity": 92,
       "added_at": 1776516888,
-      "views": 172
+      "views": 173
     },
     {
       "slug": "zx1-pro-plus-4-64gb-10",
@@ -3288,7 +3288,7 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1775199067,
-      "views": 107
+      "views": 108
     },
     {
       "slug": "aromatizator-x-v-korobke",
@@ -4032,7 +4032,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1773035946,
-      "views": 244
+      "views": 245
     },
     {
       "slug": "fizicheski-knopka-tmb-001",
@@ -10232,7 +10232,7 @@
       "stock_count": 0,
       "popularity": 36,
       "added_at": 1771312210,
-      "views": 137
+      "views": 138
     },
     {
       "slug": "5-provodnyj-ehlektroprivod-zamka-dverej-vm-05",
@@ -13549,7 +13549,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738756387,
-      "views": 871
+      "views": 872
     }
   ]
 }
