@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780674618,
+  "generated_at": 1780675220,
   "scraped_count": 437,
   "products": [
     {
@@ -3412,7 +3412,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1769494404,
-      "views": 116
+      "views": 117
     },
     {
       "slug": "aromatizator-sprej-rh-010",
@@ -5892,7 +5892,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1749455456,
-      "views": 268
+      "views": 269
     },
     {
       "slug": "videoregistrator-dlja-android-magnitol-u10",
@@ -6760,7 +6760,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1779520353,
-      "views": 88
+      "views": 89
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -10077,7 +10077,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1773149681,
-      "views": 446
+      "views": 447
     },
     {
       "slug": "dv-pioneer-ok-7110",
@@ -10542,7 +10542,7 @@
       "stock_count": 0,
       "popularity": 285,
       "added_at": 1722779686,
-      "views": 340
+      "views": 341
     },
     {
       "slug": "tomahawk-tw-9010",
@@ -13549,7 +13549,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738756387,
-      "views": 873
+      "views": 874
     }
   ]
 }
