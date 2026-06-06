@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780785620,
+  "generated_at": 1780786216,
   "scraped_count": 437,
   "products": [
     {
@@ -5055,7 +5055,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1778565823,
-      "views": 73
+      "views": 74
     },
     {
       "slug": "galogenovaja-lampa-h7",
@@ -13549,7 +13549,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738756387,
-      "views": 878
+      "views": 879
     }
   ]
 }
