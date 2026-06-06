@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780788617,
+  "generated_at": 1780789215,
   "scraped_count": 437,
   "products": [
     {
@@ -3164,7 +3164,7 @@
       "stock_count": 0,
       "popularity": 45,
       "added_at": 1769494185,
-      "views": 86
+      "views": 87
     },
     {
       "slug": "aromatizator-rh-039",
@@ -9457,7 +9457,7 @@
       "stock_count": 0,
       "popularity": 630,
       "added_at": 1765546343,
-      "views": 151
+      "views": 152
     },
     {
       "slug": "mvh-y8057mbt",
@@ -9736,7 +9736,7 @@
       "stock_count": 0,
       "popularity": 397,
       "added_at": 1733727083,
-      "views": 438
+      "views": 439
     },
     {
       "slug": "pioneer-gb-mvh-767mbt",
@@ -13549,7 +13549,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738756387,
-      "views": 879
+      "views": 880
     }
   ]
 }
