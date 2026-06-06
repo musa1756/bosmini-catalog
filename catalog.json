@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780719016,
+  "generated_at": 1780719618,
   "scraped_count": 437,
   "products": [
     {
@@ -10542,7 +10542,7 @@
       "stock_count": 0,
       "popularity": 285,
       "added_at": 1722779686,
-      "views": 342
+      "views": 343
     },
     {
       "slug": "tomahawk-tw-9010",
@@ -13549,7 +13549,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738756387,
-      "views": 876
+      "views": 877
     }
   ]
 }
