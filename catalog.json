@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780737015,
+  "generated_at": 1780737616,
   "scraped_count": 437,
   "products": [
     {
@@ -374,7 +374,7 @@
       "stock_count": 0,
       "popularity": 108,
       "added_at": 1757144356,
-      "views": 2003
+      "views": 2004
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -777,7 +777,7 @@
       "stock_count": 0,
       "popularity": 84,
       "added_at": 1764494765,
-      "views": 1278
+      "views": 1279
     },
     {
       "slug": "bos-mini-a629d-4-64gb",
@@ -1180,7 +1180,7 @@
       "stock_count": 0,
       "popularity": 64,
       "added_at": 1765630585,
-      "views": 822
+      "views": 823
     },
     {
       "slug": "bos-mini-q5-4-64gb-9",
@@ -2265,7 +2265,7 @@
       "stock_count": 0,
       "popularity": 36,
       "added_at": 1769575727,
-      "views": 348
+      "views": 349
     },
     {
       "slug": "pioneer-gb-f8-plus-12-128g-10",
@@ -2327,7 +2327,7 @@
       "stock_count": 0,
       "popularity": 239,
       "added_at": 1769577184,
-      "views": 1037
+      "views": 1038
     },
     {
       "slug": "s1-4-64gb",
@@ -3784,7 +3784,7 @@
       "stock_count": 0,
       "popularity": 359,
       "added_at": 1732270354,
-      "views": 396
+      "views": 397
     },
     {
       "slug": "multimedijnaja-smart-pristavka-a133-2-32g",
@@ -8527,7 +8527,7 @@
       "stock_count": 0,
       "popularity": 60,
       "added_at": 1752837333,
-      "views": 265
+      "views": 266
     },
     {
       "slug": "bos-mini-n871",
@@ -8992,7 +8992,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1770802367,
-      "views": 111
+      "views": 112
     },
     {
       "slug": "dv-pioneer-ok-mp3566",
@@ -9023,7 +9023,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1770802444,
-      "views": 124
+      "views": 125
     },
     {
       "slug": "dv-pioneer-ok-mp3567",
@@ -10852,7 +10852,7 @@
       "stock_count": 0,
       "popularity": 140,
       "added_at": 1727072278,
-      "views": 540
+      "views": 541
     },
     {
       "slug": "chevrolet-cobalt",
@@ -12433,7 +12433,7 @@
       "stock_count": 0,
       "popularity": 145,
       "added_at": 1766646329,
-      "views": 176
+      "views": 177
     },
     {
       "slug": "pioneer-gb-3080u",
@@ -13549,7 +13549,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738756387,
-      "views": 877
+      "views": 878
     }
   ]
 }
