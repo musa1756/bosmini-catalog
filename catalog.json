@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780861412,
+  "generated_at": 1780861814,
   "scraped_count": 438,
   "products": [
     {
@@ -1459,7 +1459,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1769577457,
-      "views": 428
+      "views": 429
     },
     {
       "slug": "bos-mini-ts18-10-4-64gb",
@@ -2327,7 +2327,7 @@
       "stock_count": 0,
       "popularity": 239,
       "added_at": 1769577184,
-      "views": 1038
+      "views": 1039
     },
     {
       "slug": "s1-4-64gb",
@@ -5086,7 +5086,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1778565879,
-      "views": 81
+      "views": 82
     },
     {
       "slug": "galogenovaja-lampa-hb3-9005",
@@ -9240,7 +9240,7 @@
       "stock_count": 0,
       "popularity": 121,
       "added_at": 1773034968,
-      "views": 220
+      "views": 221
     },
     {
       "slug": "dv-pioneer-ok-1605",
@@ -9581,7 +9581,7 @@
       "stock_count": 0,
       "popularity": 26,
       "added_at": 1772780396,
-      "views": 124
+      "views": 125
     },
     {
       "slug": "pioneer-pla-196sbt",
@@ -9829,7 +9829,7 @@
       "stock_count": 0,
       "popularity": 1223,
       "added_at": 1722584362,
-      "views": 523
+      "views": 524
     },
     {
       "slug": "magnitola-12v-24v-bos-mini-y956bt",
@@ -13580,7 +13580,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738756387,
-      "views": 880
+      "views": 881
     }
   ]
 }
