@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780827021,
-  "scraped_count": 437,
+  "generated_at": 1780827619,
+  "scraped_count": 438,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -343,7 +343,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1779787001,
-      "views": 67
+      "views": 68
     },
     {
       "slug": "bos-mini-a7-4-64gb-7",
@@ -6760,7 +6760,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1779520353,
-      "views": 91
+      "views": 92
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -7790,7 +7790,7 @@
       "url": "https://bosminiofficial.com/shop/964/desc/pioneer-ts-6975-v3-6-9-ovaly",
       "name": "Pioneer TS-6975 V3 6/9(овалы)",
       "sku": "",
-      "price_rub": 3300,
+      "price_rub": 3100,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -9832,6 +9832,37 @@
       "views": 523
     },
     {
+      "slug": "magnitola-12v-24v-bos-mini-y956bt",
+      "url": "https://bosminiofficial.com/shop/851/desc/magnitola-12v-24v-bos-mini-y956bt",
+      "name": "Магнитола 12V-24V Bos-Mini Y956BT",
+      "sku": "",
+      "price_rub": 900,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅Bluetooth ✅Aux ✅USB и SD карты ✅Цветной экран ✅Радиатор охлаждения ✅6 выходов RCA ✅Простой пульт,пульт на руль и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/8/851.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/8/851.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/8/851.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/8/851.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 420,
+      "added_at": 1722879275,
+      "views": 768
+    },
+    {
       "slug": "magnitola-bos-mini-n970dsp",
       "url": "https://bosminiofficial.com/shop/88/desc/magnitola-bos-mini-n970dsp",
       "name": "Магнитола Bos-Mini-N970DSP",
@@ -10573,7 +10604,7 @@
       "stock_count": 0,
       "popularity": 210,
       "added_at": 1753770937,
-      "views": 244
+      "views": 245
     },
     {
       "slug": "brelok-dlja-avtosignalizacii-tamahawk-x5",
