@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780884099,
+  "generated_at": 1780884616,
   "scraped_count": 438,
   "products": [
     {
@@ -13239,7 +13239,7 @@
       "stock_count": 0,
       "popularity": 26,
       "added_at": 1765802307,
-      "views": 154
+      "views": 155
     },
     {
       "slug": "dv-pioneer-ok-415",
@@ -13580,7 +13580,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738756387,
-      "views": 882
+      "views": 883
     }
   ]
 }
