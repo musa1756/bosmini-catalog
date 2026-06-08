@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780943418,
+  "generated_at": 1780944015,
   "scraped_count": 438,
   "products": [
     {
@@ -3443,7 +3443,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1769411297,
-      "views": 99
+      "views": 100
     },
     {
       "slug": "aromatizator-sprej-rh-011",
@@ -3474,7 +3474,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1769411412,
-      "views": 96
+      "views": 97
     },
     {
       "slug": "aromatizator-sprej-rh-012",
@@ -3691,7 +3691,7 @@
       "stock_count": 0,
       "popularity": 45,
       "added_at": 1731912601,
-      "views": 309
+      "views": 310
     },
     {
       "slug": "komplekt-provodov-dlja-podkljuchenija-android-magnitola",
@@ -5117,7 +5117,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1778565029,
-      "views": 93
+      "views": 94
     },
     {
       "slug": "galogenovaja-lampa-hb4-9006",
@@ -7318,7 +7318,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1765864015,
-      "views": 110
+      "views": 111
     },
     {
       "slug": "hx609",
@@ -10604,7 +10604,7 @@
       "stock_count": 0,
       "popularity": 210,
       "added_at": 1753770937,
-      "views": 247
+      "views": 248
     },
     {
       "slug": "brelok-dlja-avtosignalizacii-tamahawk-x5",
@@ -10790,7 +10790,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1714856095,
-      "views": 312
+      "views": 313
     },
     {
       "slug": "parktronik-bos-555",
@@ -12464,7 +12464,7 @@
       "stock_count": 0,
       "popularity": 145,
       "added_at": 1766646329,
-      "views": 217
+      "views": 218
     },
     {
       "slug": "pioneer-gb-3080u",
@@ -13239,7 +13239,7 @@
       "stock_count": 0,
       "popularity": 26,
       "added_at": 1765802307,
-      "views": 156
+      "views": 157
     },
     {
       "slug": "dv-pioneer-ok-415",
