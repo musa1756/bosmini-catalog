@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780960215,
+  "generated_at": 1780960814,
   "scraped_count": 438,
   "products": [
     {
@@ -2482,7 +2482,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1776517259,
-      "views": 145
+      "views": 146
     },
     {
       "slug": "zx1-pro-plus-4-64gb-9",
@@ -8496,7 +8496,7 @@
       "stock_count": 0,
       "popularity": 137,
       "added_at": 1716273290,
-      "views": 529
+      "views": 530
     },
     {
       "slug": "bos-mini-n870",
@@ -10666,7 +10666,7 @@
       "stock_count": 0,
       "popularity": 148,
       "added_at": 1714856095,
-      "views": 343
+      "views": 344
     },
     {
       "slug": "lazernyj-datchik-otkryvanija-bagazhnika-ot-bos-mini-x-03",
@@ -11131,7 +11131,7 @@
       "stock_count": 0,
       "popularity": 105,
       "added_at": 1755667900,
-      "views": 141
+      "views": 142
     },
     {
       "slug": "hyundai-accent-2011-2016g-9-djum-chernyj",
@@ -13580,7 +13580,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738756387,
-      "views": 883
+      "views": 884
     }
   ]
 }
