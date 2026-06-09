@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1780962615,
+  "generated_at": 1780963216,
   "scraped_count": 438,
   "products": [
     {
@@ -9395,7 +9395,7 @@
       "stock_count": 0,
       "popularity": 1106,
       "added_at": 1764669494,
-      "views": 149
+      "views": 150
     },
     {
       "slug": "mvh-y8055mbt",
@@ -9457,7 +9457,7 @@
       "stock_count": 0,
       "popularity": 630,
       "added_at": 1765546343,
-      "views": 155
+      "views": 156
     },
     {
       "slug": "mvh-y8057mbt",
@@ -9488,7 +9488,7 @@
       "stock_count": 0,
       "popularity": 58,
       "added_at": 1764669556,
-      "views": 142
+      "views": 143
     },
     {
       "slug": "mvh-y8058mbt",
@@ -9519,7 +9519,7 @@
       "stock_count": 0,
       "popularity": 3125,
       "added_at": 1764669581,
-      "views": 182
+      "views": 183
     },
     {
       "slug": "mvh-y8059mbt",
@@ -9550,7 +9550,7 @@
       "stock_count": 0,
       "popularity": 660,
       "added_at": 1764669603,
-      "views": 128
+      "views": 129
     },
     {
       "slug": "ok-jvc-kd-r592m",
@@ -13580,7 +13580,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738756387,
-      "views": 884
+      "views": 885
     }
   ]
 }
