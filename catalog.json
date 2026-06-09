@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781001021,
-  "scraped_count": 438,
+  "generated_at": 1781001617,
+  "scraped_count": 439,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1615,6 +1615,37 @@
       "popularity": 16,
       "added_at": 1752860064,
       "views": 748
+    },
+    {
+      "slug": "dhd-x1-4-64",
+      "url": "https://bosminiofficial.com/shop/2943/desc/dhd-x1-4-64",
+      "name": "DHD X1 4+64",
+      "sku": "",
+      "price_rub": 3900,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅️Размер экрана -9 дюймов\n✅️Память-4+64Gb\n✅️CarPlay/AndroidAuto\n✅️Кулер охлаждения\n✅️Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2943.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2943.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2943.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2943.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1781001046,
+      "views": 1
     },
     {
       "slug": "dv-pineer-ok-ahd-9115-10-3-32gb-10",
@@ -11379,7 +11410,7 @@
       "stock_count": 0,
       "popularity": 664,
       "added_at": 1721297076,
-      "views": 541
+      "views": 542
     },
     {
       "slug": "lada-priora-2013-2018",
