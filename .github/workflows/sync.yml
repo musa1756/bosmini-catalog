@@ -116,16 +116,17 @@ jobs:
       - name: Trigger Supabase sync-catalog
         # Chained off the back of the workflow (not pg_cron) so the Edge
         # Function always reads the catalog.json we just committed, not a
-        # stale copy from before this run. anon key is intentionally
-        # public — sync-catalog uses service_role internally.
+        # stale copy from before this run. Access is gated by the shared
+        # X-Sync-Secret header (verify_jwt is off on the function) — the repo
+        # secret must equal the function's SYNC_SECRET env.
+        env:
+          SYNC_SECRET: ${{ secrets.SYNC_SECRET }}
         run: |
-          # Edge Functions require Authorization: Bearer <jwt>; the apikey
-          # header alone is for PostgREST and returns 401 here.
           for attempt in 1 2 3; do
             if curl -fsS -X POST \
                 "https://bjcqaltwlblzqdkdujlu.supabase.co/functions/v1/sync-catalog" \
                 -H "Content-Type: application/json" \
-                -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJqY3FhbHR3bGJsenFka2R1amx1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzkyMDA0NzcsImV4cCI6MjA5NDc3NjQ3N30.wcQgMgba0OEW0vfDzXfhnC92Aqjd3ZPbBOQ_TGyc1qo" \
+                -H "X-Sync-Secret: ${SYNC_SECRET}" \
                 -d '{}'; then
               echo
               break
