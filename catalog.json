@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781086215,
+  "generated_at": 1781086817,
   "scraped_count": 439,
   "products": [
     {
@@ -1397,7 +1397,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1769577346,
-      "views": 331
+      "views": 332
     },
     {
       "slug": "bos-mini-ts10-4-64gb-9",
@@ -1862,7 +1862,7 @@
       "stock_count": 0,
       "popularity": 189,
       "added_at": 1773035266,
-      "views": 257
+      "views": 258
     },
     {
       "slug": "dv-pioneer-ok-e4-4-64gb",
@@ -13611,7 +13611,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738756387,
-      "views": 890
+      "views": 891
     }
   ]
 }
