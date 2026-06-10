@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781134818,
+  "generated_at": 1781135420,
   "scraped_count": 439,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 600
+      "views": 601
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -777,7 +777,7 @@
       "stock_count": 0,
       "popularity": 84,
       "added_at": 1764494765,
-      "views": 1290
+      "views": 1291
     },
     {
       "slug": "bos-mini-a629d-4-64gb",
@@ -1738,7 +1738,7 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1773035336,
-      "views": 322
+      "views": 323
     },
     {
       "slug": "dv-pioneer-ok-bx4-6-128gb",
@@ -8496,7 +8496,7 @@
       "stock_count": 0,
       "popularity": 65,
       "added_at": 1716273525,
-      "views": 973
+      "views": 974
     },
     {
       "slug": "1-din-pioneer-gb-mvn-5803sbt",
