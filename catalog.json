@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781157615,
-  "scraped_count": 439,
+  "generated_at": 1781158220,
+  "scraped_count": 438,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2265,7 +2265,7 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1752866853,
-      "views": 792
+      "views": 793
     },
     {
       "slug": "pioneer-gb-f8-6-64gb-9",
@@ -5179,7 +5179,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1778565614,
-      "views": 81
+      "views": 82
     },
     {
       "slug": "zvezdnoe-nebo",
@@ -10883,7 +10883,7 @@
       "stock_count": 0,
       "popularity": 263,
       "added_at": 1738756168,
-      "views": 360
+      "views": 361
     },
     {
       "slug": "centralnyj-zamok-s-dvumja-pultami-686b",
@@ -12465,37 +12465,6 @@
       "popularity": 38,
       "added_at": 1726917429,
       "views": 338
-    },
-    {
-      "slug": "pioneer-gb-mvh-3010u",
-      "url": "https://bosminiofficial.com/shop/2780/desc/pioneer-gb-mvh-3010u",
-      "name": "Pioneer.GB MVH-3010U",
-      "sku": "",
-      "price_rub": 3700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер динамикa: 10 дюймов\n✅Мощность-3200W Max\n✅Провода в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2780.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2780.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2780.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2780.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 145,
-      "added_at": 1766646329,
-      "views": 226
     },
     {
       "slug": "pioneer-gb-3080u",
