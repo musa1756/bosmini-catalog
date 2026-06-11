@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781176515,
+  "generated_at": 1781176819,
   "scraped_count": 435,
   "products": [
     {
@@ -2544,7 +2544,7 @@
       "stock_count": 0,
       "popularity": 1933,
       "added_at": 1753684369,
-      "views": 608
+      "views": 609
     },
     {
       "slug": "teyes-sony-ahd-1080p",
@@ -8496,7 +8496,7 @@
       "stock_count": 0,
       "popularity": 60,
       "added_at": 1752837333,
-      "views": 275
+      "views": 276
     },
     {
       "slug": "bos-mini-n871",
@@ -10542,7 +10542,7 @@
       "stock_count": 0,
       "popularity": 285,
       "added_at": 1722779686,
-      "views": 353
+      "views": 354
     },
     {
       "slug": "tomahawk-tw-9010",
@@ -13487,7 +13487,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738756387,
-      "views": 893
+      "views": 894
     }
   ]
 }
