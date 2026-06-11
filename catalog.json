@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781155215,
+  "generated_at": 1781155816,
   "scraped_count": 439,
   "products": [
     {
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 979,
       "added_at": 1752844697,
-      "views": 1215
+      "views": 1216
     },
     {
       "slug": "bos-mini-a2-4-64gb-9",
@@ -6264,7 +6264,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1771745664,
-      "views": 145
+      "views": 146
     },
     {
       "slug": "kamera-zad-vida-e034-ahd",
@@ -13611,7 +13611,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738756387,
-      "views": 891
+      "views": 892
     }
   ]
 }
