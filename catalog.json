@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781283023,
+  "generated_at": 1781283630,
   "scraped_count": 431,
   "products": [
     {
@@ -1738,7 +1738,7 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1773035336,
-      "views": 326
+      "views": 327
     },
     {
       "slug": "dv-pioneer-ok-bx4-6-128gb",
@@ -8527,7 +8527,7 @@
       "stock_count": 0,
       "popularity": 117,
       "added_at": 1765607730,
-      "views": 697
+      "views": 698
     },
     {
       "slug": "bos-mini-y958bt",
@@ -9984,7 +9984,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1773149681,
-      "views": 469
+      "views": 470
     },
     {
       "slug": "dv-pioneer-ok-7110",
@@ -13363,7 +13363,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738756387,
-      "views": 896
+      "views": 897
     }
   ]
 }
