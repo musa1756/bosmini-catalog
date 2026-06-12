@@ -92,6 +92,21 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          same_catalog_payload_as_origin() {
+            python - <<'PY'
+          import json
+          import subprocess
+
+          with open("catalog.json", encoding="utf-8") as f:
+              local = json.load(f)
+          remote_raw = subprocess.check_output(["git", "show", "origin/main:catalog.json"])
+          remote = json.loads(remote_raw)
+          local.pop("generated_at", None)
+          remote.pop("generated_at", None)
+          raise SystemExit(0 if local == remote else 1)
+          PY
+          }
+
           if [ -n "$(git status --porcelain catalog.json)" ]; then
             count=$(python -c "import json; print(json.load(open('catalog.json'))['scraped_count'])")
             git add catalog.json
@@ -100,11 +115,17 @@ jobs:
               if git push; then
                 break
               fi
+              git fetch origin main
+              if same_catalog_payload_as_origin; then
+                echo "Remote already has the same catalog payload; skipping stale timestamp push."
+                exit 0
+              fi
               if [ "$attempt" -eq 3 ]; then
                 echo "::error::git push failed after 3 attempts"
                 exit 1
               fi
-              echo "Push attempt $attempt failed, retrying in 10s…"
+              echo "Push attempt $attempt failed, rebasing on origin/main and retrying in 10s…"
+              git rebase origin/main
               sleep 10
             done
             echo "Committed update."
