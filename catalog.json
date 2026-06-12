@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781279425,
+  "generated_at": 1781280026,
   "scraped_count": 431,
   "products": [
     {
@@ -2203,7 +2203,7 @@
       "stock_count": 0,
       "popularity": 36,
       "added_at": 1769575727,
-      "views": 362
+      "views": 363
     },
     {
       "slug": "pioneer-gb-f8-plus-12-128g-10",
@@ -6636,7 +6636,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1779520353,
-      "views": 108
+      "views": 109
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -7783,7 +7783,7 @@
       "stock_count": 0,
       "popularity": 83,
       "added_at": 1767297338,
-      "views": 194
+      "views": 195
     },
     {
       "slug": "pioneer-ts-a1693",
@@ -13363,7 +13363,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738756387,
-      "views": 895
+      "views": 896
     }
   ]
 }
