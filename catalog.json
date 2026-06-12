@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781300424,
+  "generated_at": 1781301029,
   "scraped_count": 431,
   "products": [
     {
@@ -343,7 +343,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1779787001,
-      "views": 90
+      "views": 91
     },
     {
       "slug": "bos-mini-a7-4-64gb-7",
@@ -560,7 +560,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1777460775,
-      "views": 223
+      "views": 224
     },
     {
       "slug": "bos-a658d-pro-4-64gb",
@@ -5613,7 +5613,7 @@
       "stock_count": 0,
       "popularity": 135,
       "added_at": 1747484565,
-      "views": 336
+      "views": 337
     },
     {
       "slug": "tomboss-t16",
