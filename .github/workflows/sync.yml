@@ -1,11 +1,9 @@
 name: Sync catalog from uCoz uAPI
 
 on:
-  schedule:
-    # Off-the-hour offsets (:03,:13,:23…) — GitHub deprioritises schedule events
-    # at :00,:10,:20 under peak load and silently skips them. This is a fallback;
-    # primary trigger is a Supabase pg_cron job that hits workflow_dispatch.
-    - cron: "3,13,23,33,43,53 * * * *"
+  # Supabase pg_cron is the only timer: it calls workflow_dispatch every
+  # 10 minutes. A second GitHub schedule can be delayed and then collide with
+  # the primary run, which trips the stricter uAPI rate limit on the new VPS.
   workflow_dispatch: {}
 
 permissions:
@@ -50,7 +48,8 @@ jobs:
             exit 1
           fi
           # Retry to ride out transient uAPI 5xx / network blips before paging
-          # the operator. Telegram alert fires only after all 3 attempts fail.
+          # the operator. sync_catalog.py also retries each uAPI request with
+          # backoff for 429/5xx/timeouts, so this catches only whole-run errors.
           for attempt in 1 2 3; do
             if python sync_catalog.py --out catalog.json; then
               break
@@ -59,8 +58,8 @@ jobs:
               echo "::error::sync_catalog.py failed after 3 attempts"
               exit 1
             fi
-            echo "Attempt $attempt failed, retrying in 20s…"
-            sleep 20
+            echo "Attempt $attempt failed, retrying in 120s…"
+            sleep 120
           done
 
       - name: Sanity check (count not collapsed)

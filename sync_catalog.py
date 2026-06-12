@@ -49,6 +49,7 @@ UA = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 )
+RETRYABLE_STATUS_CODES = {408, 425, 429, 500, 502, 503, 504}
 
 
 def load_env(script_dir: Path) -> dict[str, str]:
@@ -76,7 +77,76 @@ def load_env(script_dir: Path) -> dict[str, str]:
     return {}
 
 
-def fetch_categories(client: httpx.Client, base: str) -> list[dict]:
+class UcozApiClient:
+    def __init__(
+        self,
+        client: httpx.Client,
+        base: str,
+        *,
+        request_delay: float,
+        max_retries: int,
+        retry_base_delay: float,
+        retry_max_delay: float,
+    ) -> None:
+        self.client = client
+        self.base = base.rstrip("/")
+        self.request_delay = max(0.0, request_delay)
+        self.max_retries = max(1, max_retries)
+        self.retry_base_delay = max(0.1, retry_base_delay)
+        self.retry_max_delay = max(self.retry_base_delay, retry_max_delay)
+        self._last_request_at = 0.0
+
+    def shop_request(self, params, *, label: str) -> dict:
+        url = f"{self.base}/shop/request"
+        for attempt in range(1, self.max_retries + 1):
+            self._wait_for_slot()
+            try:
+                response = self.client.get(url, params=params)
+                if response.status_code in RETRYABLE_STATUS_CODES and attempt < self.max_retries:
+                    delay = self._retry_delay(response, attempt)
+                    print(
+                        f"  [retry] {label}: HTTP {response.status_code}, "
+                        f"attempt {attempt}/{self.max_retries}, waiting {delay:.1f}s"
+                    )
+                    time.sleep(delay)
+                    continue
+                response.raise_for_status()
+                return response.json()
+            except (httpx.TimeoutException, httpx.TransportError) as exc:
+                if attempt >= self.max_retries:
+                    raise
+                delay = self._backoff_delay(attempt)
+                print(
+                    f"  [retry] {label}: {exc.__class__.__name__}, "
+                    f"attempt {attempt}/{self.max_retries}, waiting {delay:.1f}s"
+                )
+                time.sleep(delay)
+
+        raise RuntimeError(f"{label}: request failed after {self.max_retries} attempts")
+
+    def _wait_for_slot(self) -> None:
+        if self._last_request_at <= 0:
+            self._last_request_at = time.monotonic()
+            return
+        elapsed = time.monotonic() - self._last_request_at
+        if elapsed < self.request_delay:
+            time.sleep(self.request_delay - elapsed)
+        self._last_request_at = time.monotonic()
+
+    def _retry_delay(self, response: httpx.Response, attempt: int) -> float:
+        retry_after = response.headers.get("Retry-After")
+        if retry_after:
+            try:
+                return min(self.retry_max_delay, max(self.request_delay, float(retry_after)))
+            except ValueError:
+                pass
+        return self._backoff_delay(attempt)
+
+    def _backoff_delay(self, attempt: int) -> float:
+        return min(self.retry_max_delay, self.retry_base_delay * (2 ** (attempt - 1)))
+
+
+def fetch_categories(api: UcozApiClient) -> list[dict]:
     """Return flat list of every category (including children)."""
     flat: list[dict] = []
 
@@ -84,9 +154,7 @@ def fetch_categories(client: httpx.Client, base: str) -> list[dict]:
         params: dict = {"page": "categories"}
         if parent_id is not None:
             params["parent_id"] = parent_id
-        r = client.get(f"{base}/shop/request", params=params)
-        r.raise_for_status()
-        data = r.json()
+        data = api.shop_request(params, label=f"categories parent={parent_id or 'root'}")
         if "error" in data:
             raise RuntimeError(f"Categories error: {data['error']}")
         for cat in data.get("success", []):
@@ -99,22 +167,15 @@ def fetch_categories(client: httpx.Client, base: str) -> list[dict]:
     return flat
 
 
-def fetch_category_products(client: httpx.Client, base: str, cat_id: int) -> list[dict]:
+def fetch_category_products(api: UcozApiClient, cat_id: int) -> list[dict]:
     """Paginate through one category and return all goods_list items merged."""
     items: list[dict] = []
     page = 1
     while True:
-        r = client.get(
-            f"{base}/shop/request",
-            params={"page": "category", "cat_id": cat_id, "page": page},  # 'page' twice ok
+        data = api.shop_request(
+            [("page", "category"), ("cat_id", str(cat_id)), ("page", str(page))],
+            label=f"category {cat_id} page {page}",
         )
-        # The duplicate 'page' key above is wrong — httpx will keep last. Reset:
-        r = client.get(
-            f"{base}/shop/request",
-            params=[("page", "category"), ("cat_id", str(cat_id)), ("page", str(page))],
-        )
-        r.raise_for_status()
-        data = r.json()
         if "error" in data:
             err = data["error"]
             if err.get("code") == "INCORRECT_PARAMETERS":
@@ -134,7 +195,6 @@ def fetch_category_products(client: httpx.Client, base: str, cat_id: int) -> lis
         if cur >= total:
             break
         page = cur + 1
-        time.sleep(0.1)
     return items
 
 
@@ -256,7 +316,11 @@ def run() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true", help="Print stats without writing the file")
     ap.add_argument("--out", default=None, help="Override output path")
-    ap.add_argument("--timeout", type=float, default=30.0)
+    ap.add_argument("--timeout", type=float, default=60.0)
+    ap.add_argument("--request-delay", type=float, default=1.0, help="Minimum seconds between uAPI requests")
+    ap.add_argument("--max-retries", type=int, default=6, help="Attempts per uAPI request")
+    ap.add_argument("--retry-base-delay", type=float, default=10.0, help="Initial retry backoff in seconds")
+    ap.add_argument("--retry-max-delay", type=float, default=90.0, help="Maximum retry backoff in seconds")
     args = ap.parse_args()
 
     here = Path(__file__).resolve().parent
@@ -276,6 +340,11 @@ def run() -> int:
     print(f"Site:  {site}")
     print(f"Base:  {base}")
     print(f"Out:   {out_path}\n")
+    print(
+        "uAPI limits: "
+        f"timeout={args.timeout:.1f}s, delay={args.request_delay:.1f}s, "
+        f"retries={args.max_retries}, backoff={args.retry_base_delay:.1f}-{args.retry_max_delay:.1f}s\n"
+    )
 
     headers = {
         "Authorization": f"Bearer {token}",
@@ -283,8 +352,16 @@ def run() -> int:
         "User-Agent": UA,
     }
     with httpx.Client(timeout=args.timeout, headers=headers, follow_redirects=True) as client:
+        api = UcozApiClient(
+            client,
+            base,
+            request_delay=args.request_delay,
+            max_retries=args.max_retries,
+            retry_base_delay=args.retry_base_delay,
+            retry_max_delay=args.retry_max_delay,
+        )
         print("Fetching categories…")
-        cats = fetch_categories(client, base)
+        cats = fetch_categories(api)
         cat_lookup = {int(c["cat_id"]): c.get("cat_name", "") for c in cats}
         print(f"  found {len(cats)} categories")
 
@@ -296,7 +373,7 @@ def run() -> int:
             if goods_count == 0:
                 print(f"  [skip] cat {cid:>4} {name!r} (0 goods)")
                 continue
-            entries = fetch_category_products(client, base, cid)
+            entries = fetch_category_products(api, cid)
             new = 0
             for e in entries:
                 eid = e.get("entry_id")

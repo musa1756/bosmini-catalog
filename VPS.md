@@ -10,10 +10,12 @@ Russian IP the store answers in ~2 s, so the push runs on the **Timeweb VPS**
 ## What runs where
 
 - **GitHub Actions** (`.github/workflows/sync.yml`): `bosminiofficial.com`
-  (uCoz uAPI) → `catalog.json`, committed to `main`, every 10 min. Unchanged.
+  (uCoz uAPI) → `catalog.json`, committed to `main`, every 10 min via the
+  Supabase `workflow_dispatch` cron. Keep GitHub's own `schedule` trigger off;
+  delayed fallback runs can collide with the primary cron and hit uAPI `429`.
 - **Timeweb VPS** cron: pulls the committed `catalog.json` from
   `raw.githubusercontent.com` and pushes it into WooCommerce, every 10 min,
-  offset to `:06,:16,…` so it reads the catalog GitHub just committed at `:03`.
+  offset to `:06,:16,...` so it reads the catalog after GitHub has committed it.
 
 ## Layout on the VPS — `/opt/bosmini-woo-sync/`
 
