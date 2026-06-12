@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781243416,
-  "scraped_count": 435,
+  "generated_at": 1781244022,
+  "scraped_count": 431,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -777,7 +777,7 @@
       "stock_count": 0,
       "popularity": 84,
       "added_at": 1764494765,
-      "views": 1294
+      "views": 1295
     },
     {
       "slug": "bos-mini-a629d-4-64gb",
@@ -1832,37 +1832,6 @@
       "popularity": 33,
       "added_at": 1770637548,
       "views": 366
-    },
-    {
-      "slug": "dv-pioneer-ok-e4-4-64gb",
-      "url": "https://bosminiofficial.com/shop/2864/desc/dv-pioneer-ok-e4-4-64gb",
-      "name": "DV-Pioneer.Ok E4 4+64Gb",
-      "sku": "",
-      "price_rub": 4300,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9 дюймов\n✅Память-4+64Gb\n✅Carplay\n✅Кулер охлаждения\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2864.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2864.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2864.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2864.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 173,
-      "added_at": 1773035167,
-      "views": 245
     },
     {
       "slug": "dv-pioneer-ok-sx3s-mini-4-64g",
@@ -6112,37 +6081,6 @@
       "views": 204
     },
     {
-      "slug": "kamera-zad-vida-bos-mini-l-168",
-      "url": "https://bosminiofficial.com/shop/1088/desc/kamera-zad-vida-bos-mini-l-168",
-      "name": "Камера зад.вида Bos-Mini (L-168)",
-      "sku": "",
-      "price_rub": 350,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅ Камера зад.вида",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/10/1088.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1088.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/10/1088.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1088.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 1063,
-      "added_at": 1732039326,
-      "views": 504
-    },
-    {
       "slug": "kamera-zad-vida-bos-mini-e-267",
       "url": "https://bosminiofficial.com/shop/1087/desc/kamera-zad-vida-bos-mini-e-267",
       "name": "Камера зад.вида Bos-Mini E-267",
@@ -6389,37 +6327,6 @@
       "popularity": 601,
       "added_at": 1738414504,
       "views": 679
-    },
-    {
-      "slug": "kamera-zadnego-vida-l-162",
-      "url": "https://bosminiofficial.com/shop/1394/desc/kamera-zadnego-vida-l-162",
-      "name": "Камера заднего вида L-162",
-      "sku": "",
-      "price_rub": 350,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅ В комплекте провода 5 метров",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/13/1394.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/13/1394.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/13/1394.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/13/1394.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 281,
-      "added_at": 1746416891,
-      "views": 270
     },
     {
       "slug": "kamera-zadnego-vida-l-165",
@@ -13085,37 +12992,6 @@
       "popularity": 10,
       "added_at": 1771744690,
       "views": 199
-    },
-    {
-      "slug": "bos-mini-468d",
-      "url": "https://bosminiofficial.com/shop/2548/desc/bos-mini-468d",
-      "name": "BOS-MINI 468D",
-      "sku": "",
-      "price_rub": 1400,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Усилители"
-      ],
-      "brand_tags": [],
-      "description": "✅Управление через приложение ✅Мощность-1000W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2548.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2548.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2548.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2548.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 296,
-      "added_at": 1754033937,
-      "views": 550
     },
     {
       "slug": "dv-pioneer-ok-414",
