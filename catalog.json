@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781326225,
+  "generated_at": 1781326829,
   "scraped_count": 431,
   "products": [
     {
@@ -6481,7 +6481,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1771745453,
-      "views": 182
+      "views": 183
     },
     {
       "slug": "bos-5071-13cm-220w",
@@ -8620,7 +8620,7 @@
       "stock_count": 0,
       "popularity": 111,
       "added_at": 1750255313,
-      "views": 554
+      "views": 555
     },
     {
       "slug": "bos-y957bt-12v-24v",
@@ -9829,7 +9829,7 @@
       "stock_count": 0,
       "popularity": 64,
       "added_at": 1714856095,
-      "views": 876
+      "views": 877
     },
     {
       "slug": "magnitola-bos-mini-n973dsp",
@@ -10294,7 +10294,7 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1749112025,
-      "views": 273
+      "views": 274
     },
     {
       "slug": "bos-mini-a238",
@@ -13363,7 +13363,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738756387,
-      "views": 897
+      "views": 898
     }
   ]
 }
