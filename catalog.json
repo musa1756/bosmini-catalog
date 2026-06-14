@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781419221,
-  "scraped_count": 431,
+  "generated_at": 1781419823,
+  "scraped_count": 435,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -406,6 +406,37 @@
       "popularity": 8,
       "added_at": 1752859489,
       "views": 873
+    },
+    {
+      "slug": "bos-mini-q11",
+      "url": "https://bosminiofficial.com/shop/2025/desc/bos-mini-q11",
+      "name": "BOS-MINI Q11",
+      "sku": "",
+      "price_rub": 6000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Android-10\" ✅Память 2+64Gb ✅Размер экрана-10\" ✅Посадочное место-9\" ✅Количество ядер-8 ✅CarPlay ✅Кулер охлаждения ✅Рамки и набор для проводов в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/20/2025.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/20/2025.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/20/2025.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/20/2025.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 8,
+      "added_at": 1752910176,
+      "views": 436
     },
     {
       "slug": "bos-mini-q2-9",
@@ -6081,6 +6112,68 @@
       "views": 209
     },
     {
+      "slug": "kamera-zad-vida-bos-mini-l-168",
+      "url": "https://bosminiofficial.com/shop/1088/desc/kamera-zad-vida-bos-mini-l-168",
+      "name": "Камера зад.вида Bos-Mini (L-168)",
+      "sku": "",
+      "price_rub": 350,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅ Камера зад.вида",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/10/1088.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/10/1088.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/10/1088.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/10/1088.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 1063,
+      "added_at": 1732039326,
+      "views": 505
+    },
+    {
+      "slug": "kamera-zad-vida-bos-mini-e-266",
+      "url": "https://bosminiofficial.com/shop/1086/desc/kamera-zad-vida-bos-mini-e-266",
+      "name": "Камера зад.вида Bos-Mini E-266",
+      "sku": "",
+      "price_rub": 500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅ Камера зад.вида",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/10/1086.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/10/1086.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/10/1086.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/10/1086.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 1065,
+      "added_at": 1732038428,
+      "views": 474
+    },
+    {
       "slug": "kamera-zad-vida-bos-mini-e-267",
       "url": "https://bosminiofficial.com/shop/1087/desc/kamera-zad-vida-bos-mini-e-267",
       "name": "Камера зад.вида Bos-Mini E-267",
@@ -6327,6 +6420,37 @@
       "popularity": 601,
       "added_at": 1738414504,
       "views": 682
+    },
+    {
+      "slug": "kamera-zadnego-vida-l-162",
+      "url": "https://bosminiofficial.com/shop/1394/desc/kamera-zadnego-vida-l-162",
+      "name": "Камера заднего вида L-162",
+      "sku": "",
+      "price_rub": 350,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅ В комплекте провода 5 метров",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/13/1394.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/13/1394.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/13/1394.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/13/1394.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 281,
+      "added_at": 1746416891,
+      "views": 271
     },
     {
       "slug": "kamera-zadnego-vida-l-165",
@@ -8961,7 +9085,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1767297093,
-      "views": 217
+      "views": 218
     },
     {
       "slug": "dv-pioneer-ok-mp372dsp",
@@ -9643,7 +9767,7 @@
       "stock_count": 0,
       "popularity": 1686,
       "added_at": 1722713624,
-      "views": 454
+      "views": 455
     },
     {
       "slug": "pioneer-gb-mvh-f899zbt",
