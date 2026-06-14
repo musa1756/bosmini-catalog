@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781463021,
+  "generated_at": 1781463623,
   "scraped_count": 435,
   "products": [
     {
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 604,
       "added_at": 1765176165,
-      "views": 1633
+      "views": 1635
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -1366,7 +1366,7 @@
       "stock_count": 0,
       "popularity": 59,
       "added_at": 1752853137,
-      "views": 846
+      "views": 847
     },
     {
       "slug": "bos-mini-t8705-4-64gb-7",
@@ -1552,7 +1552,7 @@
       "stock_count": 0,
       "popularity": 36,
       "added_at": 1764392414,
-      "views": 755
+      "views": 756
     },
     {
       "slug": "bos-mini-ts18-9-4-64gb",
@@ -13084,7 +13084,7 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1765430230,
-      "views": 255
+      "views": 256
     },
     {
       "slug": "alpine-ap-a5204",
