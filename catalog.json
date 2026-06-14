@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781454023,
+  "generated_at": 1781454621,
   "scraped_count": 435,
   "products": [
     {
@@ -529,7 +529,7 @@
       "stock_count": 0,
       "popularity": 672,
       "added_at": 1752909494,
-      "views": 1021
+      "views": 1022
     },
     {
       "slug": "bos-mini-t6-4-64gb-9",
@@ -591,7 +591,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1777460775,
-      "views": 227
+      "views": 228
     },
     {
       "slug": "bos-a658d-pro-4-64gb",
@@ -839,7 +839,7 @@
       "stock_count": 0,
       "popularity": 32,
       "added_at": 1764494672,
-      "views": 1023
+      "views": 1024
     },
     {
       "slug": "bos-mini-a8-plus-6-128gb-10-djujmov",
@@ -963,7 +963,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1772528022,
-      "views": 388
+      "views": 389
     },
     {
       "slug": "bos-mini-cc3-max-12-256gb-9",
@@ -4404,7 +4404,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1716467260,
-      "views": 233
+      "views": 234
     },
     {
       "slug": "led-lampa-zw1-9005",
@@ -9395,7 +9395,7 @@
       "stock_count": 0,
       "popularity": 1108,
       "added_at": 1764669494,
-      "views": 160
+      "views": 161
     },
     {
       "slug": "mvh-y8055mbt",
@@ -10945,7 +10945,7 @@
       "stock_count": 0,
       "popularity": 36,
       "added_at": 1755667405,
-      "views": 218
+      "views": 219
     },
     {
       "slug": "ford-focus-9",
@@ -11813,7 +11813,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1732015908,
-      "views": 333
+      "views": 334
     },
     {
       "slug": "inverter-xbk-12v-220v-8000w",
@@ -13115,7 +13115,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1771744690,
-      "views": 203
+      "views": 204
     },
     {
       "slug": "dv-pioneer-ok-414",
