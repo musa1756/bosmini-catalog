@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781553631,
+  "generated_at": 1781554343,
   "scraped_count": 439,
   "products": [
     {
@@ -436,7 +436,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1752910176,
-      "views": 448
+      "views": 449
     },
     {
       "slug": "bos-mini-q2-9",
@@ -6946,7 +6946,7 @@
       "stock_count": 0,
       "popularity": 129,
       "added_at": 1738649729,
-      "views": 360
+      "views": 361
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -8744,7 +8744,7 @@
       "stock_count": 0,
       "popularity": 63,
       "added_at": 1752837291,
-      "views": 428
+      "views": 429
     },
     {
       "slug": "bos-mini-bos-n670dsp",
@@ -10759,7 +10759,7 @@
       "stock_count": 0,
       "popularity": 210,
       "added_at": 1753770937,
-      "views": 276
+      "views": 277
     },
     {
       "slug": "brelok-dlja-avtosignalizacii-tamahawk-x5",
@@ -13611,7 +13611,7 @@
       "stock_count": 0,
       "popularity": 139,
       "added_at": 1738756387,
-      "views": 899
+      "views": 900
     }
   ]
 }
