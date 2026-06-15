@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781519425,
-  "scraped_count": 436,
+  "generated_at": 1781520031,
+  "scraped_count": 440,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -436,7 +436,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1752910176,
-      "views": 443
+      "views": 444
     },
     {
       "slug": "bos-mini-q2-9",
@@ -2204,6 +2204,37 @@
       "popularity": 7,
       "added_at": 1776112985,
       "views": 226
+    },
+    {
+      "slug": "f7-4-64gb-7",
+      "url": "https://bosminiofficial.com/shop/2612/desc/f7-4-64gb-7",
+      "name": "F7 4+64Gb 7\"",
+      "sku": "",
+      "price_rub": 2900,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Память-4+64Gb ✅Размер экрана-7\" ✅Радиатор охлаждения ✅Carplay ✅Рамка и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/26/2612.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2612.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/26/2612.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2612.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 8,
+      "added_at": 1756026563,
+      "views": 119
     },
     {
       "slug": "multimedia-factory-f7d-pro-4-64gb-7",
@@ -5923,7 +5954,7 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1768974626,
-      "views": 291
+      "views": 292
     },
     {
       "slug": "videoregistrator-dlja-android-magnitol-u1pro",
@@ -6515,6 +6546,37 @@
       "views": 123
     },
     {
+      "slug": "kamera-krugovo-obzora-bos-mini-a360",
+      "url": "https://bosminiofficial.com/shop/2643/desc/kamera-krugovo-obzora-bos-mini-a360",
+      "name": "Камера кругово обзора BOS-MINI A360⁰",
+      "sku": "",
+      "price_rub": 1700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅️Полный комплект для установки",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/26/2643.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2643.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/26/2643.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2643.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 13,
+      "added_at": 1757406784,
+      "views": 319
+    },
+    {
       "slug": "monitor-s-4-mja-kamerami-jcs-7003-4",
       "url": "https://bosminiofficial.com/shop/414/desc/monitor-s-4-mja-kamerami-jcs-7003-4",
       "name": "Монитор с 4-мя камерами JCS-7003-4",
@@ -6763,6 +6825,37 @@
       "views": 944
     },
     {
+      "slug": "bos-mini-5088",
+      "url": "https://bosminiofficial.com/shop/1273/desc/bos-mini-5088",
+      "name": "BOS-MINI 5088",
+      "sku": "",
+      "price_rub": 1200,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер динамика-13 см ✅ vМощность-60W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/12/1273.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1273.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/12/1273.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1273.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 130,
+      "added_at": 1738649802,
+      "views": 783
+    },
+    {
       "slug": "bos-mini-6587",
       "url": "https://bosminiofficial.com/shop/2937/desc/bos-mini-6587",
       "name": "BOS-MINI 6587",
@@ -6792,6 +6885,37 @@
       "popularity": 12,
       "added_at": 1779520353,
       "views": 118
+    },
+    {
+      "slug": "bos-mini-6588",
+      "url": "https://bosminiofficial.com/shop/1272/desc/bos-mini-6588",
+      "name": "BOS-MINI 6588",
+      "sku": "",
+      "price_rub": 1500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер динамика-16 см ✅ Мощность-80W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/12/1272.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1272.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/12/1272.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1272.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 127,
+      "added_at": 1738649729,
+      "views": 359
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -13363,7 +13487,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1765430470,
-      "views": 151
+      "views": 152
     },
     {
       "slug": "pioneer-424",
