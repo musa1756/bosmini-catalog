@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781506826,
-  "scraped_count": 435,
+  "generated_at": 1781507422,
+  "scraped_count": 436,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1056,7 +1056,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1765802757,
-      "views": 1455
+      "views": 1456
     },
     {
       "slug": "bos-mini-k69",
@@ -1428,7 +1428,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1769577346,
-      "views": 337
+      "views": 338
     },
     {
       "slug": "bos-mini-ts10-4-64gb-9",
@@ -1491,6 +1491,37 @@
       "popularity": 13,
       "added_at": 1769577457,
       "views": 442
+    },
+    {
+      "slug": "bos-mini-ts10-6-128gb-9",
+      "url": "https://bosminiofficial.com/shop/2816/desc/bos-mini-ts10-6-128gb-9",
+      "name": "Bos-Mini TS10 6+128Gb 9\"",
+      "sku": "",
+      "price_rub": 13000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Память-6+128Gb\n✅Размер экрана- 9 дюймов\n✅Процессор TS10\n✅Оптический выход\n✅Поддержка сим карты\n✅Количество ядер-8\n✅Carplay\n✅Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/28/2816.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2816.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/28/2816.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2816.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 19,
+      "added_at": 1769577429,
+      "views": 565
     },
     {
       "slug": "bos-mini-ts18-10-4-64gb",
