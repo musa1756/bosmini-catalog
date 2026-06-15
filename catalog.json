@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781520031,
-  "scraped_count": 440,
+  "generated_at": 1781520626,
+  "scraped_count": 441,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1149,7 +1149,7 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1765802621,
-      "views": 686
+      "views": 687
     },
     {
       "slug": "bos-mini-k76hg-4-64gb",
@@ -1273,7 +1273,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1752912057,
-      "views": 1687
+      "views": 1688
     },
     {
       "slug": "bos-mini-t216-4-64gb",
@@ -1645,7 +1645,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1752860117,
-      "views": 631
+      "views": 632
     },
     {
       "slug": "cc5-ultra-4-64gb-9",
@@ -2210,7 +2210,7 @@
       "url": "https://bosminiofficial.com/shop/2612/desc/f7-4-64gb-7",
       "name": "F7 4+64Gb 7\"",
       "sku": "",
-      "price_rub": 2900,
+      "price_rub": 3600,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -2234,7 +2234,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1756026563,
-      "views": 119
+      "views": 120
     },
     {
       "slug": "multimedia-factory-f7d-pro-4-64gb-7",
@@ -3381,7 +3381,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1769493461,
-      "views": 116
+      "views": 117
     },
     {
       "slug": "aromatizator-diffuzory-rh-033",
@@ -5430,11 +5430,42 @@
       "views": 867
     },
     {
+      "slug": "bos-mini-a31-pro-wi-fi",
+      "url": "https://bosminiofficial.com/shop/2738/desc/bos-mini-a31-pro-wi-fi",
+      "name": "Bos-Mini A31 Pro Wi-Fi",
+      "sku": "",
+      "price_rub": 1200,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-3”\n✅Качество изображения-Full HD\n✅Угол обзора-170 градусов\n✅Поддержка флешки- до 32Gb",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/27/2738.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/27/2738.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/27/2738.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/27/2738.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 81,
+      "added_at": 1765628151,
+      "views": 467
+    },
+    {
       "slug": "bos-mini-a32-pro-wi-fi",
       "url": "https://bosminiofficial.com/shop/2739/desc/bos-mini-a32-pro-wi-fi",
       "name": "Bos-Mini A32 Pro Wi-Fi",
       "sku": "",
-      "price_rub": 1350,
+      "price_rub": 1200,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -5458,7 +5489,7 @@
       "stock_count": 0,
       "popularity": 118,
       "added_at": 1765628182,
-      "views": 339
+      "views": 340
     },
     {
       "slug": "bos-mini-l-369",
@@ -10666,7 +10697,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1729677208,
-      "views": 386
+      "views": 387
     },
     {
       "slug": "starline-a91",
@@ -13053,7 +13084,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1777715745,
-      "views": 128
+      "views": 129
     },
     {
       "slug": "komplekt-provodov-pro-series-4ga",
