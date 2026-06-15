@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781493025,
+  "generated_at": 1781493623,
   "scraped_count": 435,
   "products": [
     {
@@ -4528,7 +4528,7 @@
       "stock_count": 0,
       "popularity": 49,
       "added_at": 1752401332,
-      "views": 107
+      "views": 108
     },
     {
       "slug": "led-lampa-zw1-h7",
@@ -5024,7 +5024,7 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1778565823,
-      "views": 94
+      "views": 95
     },
     {
       "slug": "galogenovaja-lampa-h7",
@@ -9767,7 +9767,7 @@
       "stock_count": 0,
       "popularity": 1686,
       "added_at": 1722713624,
-      "views": 457
+      "views": 458
     },
     {
       "slug": "pioneer-gb-mvh-f899zbt",
@@ -13487,7 +13487,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738756387,
-      "views": 898
+      "views": 899
     }
   ]
 }
