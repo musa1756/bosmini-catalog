@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781523024,
+  "generated_at": 1781523624,
   "scraped_count": 440,
   "products": [
     {
@@ -405,7 +405,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1752859489,
-      "views": 879
+      "views": 880
     },
     {
       "slug": "bos-mini-q11",
@@ -2604,7 +2604,7 @@
         "https://bosminiofficial.com/_sh/25/2517.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1939,
+      "popularity": 1989,
       "added_at": 1753684369,
       "views": 613
     },
@@ -2697,7 +2697,7 @@
         "https://bosminiofficial.com/_sh/26/2666.jpg"
       ],
       "stock_count": 0,
-      "popularity": 676,
+      "popularity": 686,
       "added_at": 1763361207,
       "views": 320
     },
