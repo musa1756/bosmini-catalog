@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781602837,
+  "generated_at": 1781603433,
   "scraped_count": 446,
   "products": [
     {
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 604,
       "added_at": 1765176165,
-      "views": 1637
+      "views": 1638
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -436,7 +436,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1752910176,
-      "views": 452
+      "views": 453
     },
     {
       "slug": "bos-mini-q2-9",
@@ -467,7 +467,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1752862854,
-      "views": 386
+      "views": 387
     },
     {
       "slug": "bos-mini-q8-4-64gb-9",
@@ -498,7 +498,7 @@
       "stock_count": 0,
       "popularity": 128,
       "added_at": 1765175893,
-      "views": 921
+      "views": 922
     },
     {
       "slug": "bos-mini-t2-4-64gb-9",
@@ -591,7 +591,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1777460775,
-      "views": 232
+      "views": 233
     },
     {
       "slug": "bos-a658d-pro-4-64gb",
@@ -808,7 +808,7 @@
       "stock_count": 0,
       "popularity": 86,
       "added_at": 1764494765,
-      "views": 1308
+      "views": 1309
     },
     {
       "slug": "bos-mini-a629d-4-64gb",
@@ -839,7 +839,7 @@
       "stock_count": 0,
       "popularity": 32,
       "added_at": 1764494672,
-      "views": 1030
+      "views": 1031
     },
     {
       "slug": "bos-mini-a8-plus-6-128gb-10-djujmov",
@@ -1211,7 +1211,7 @@
       "stock_count": 0,
       "popularity": 65,
       "added_at": 1765630585,
-      "views": 843
+      "views": 844
     },
     {
       "slug": "bos-mini-q5-4-64gb-9",
@@ -1242,7 +1242,7 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1752853019,
-      "views": 1106
+      "views": 1107
     },
     {
       "slug": "bos-mini-t215-4-64gb",
@@ -1707,7 +1707,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1781001046,
-      "views": 40
+      "views": 41
     },
     {
       "slug": "dv-pineer-ok-ahd-9115-10-3-32gb-10",
@@ -2232,7 +2232,7 @@
         "https://bosminiofficial.com/_sh/26/2612.jpg"
       ],
       "stock_count": 0,
-      "popularity": 10,
+      "popularity": 45,
       "added_at": 1756026563,
       "views": 124
     },
@@ -2482,7 +2482,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1781589517,
-      "views": 7
+      "views": 8
     },
     {
       "slug": "x5-diamond-8-128gb",
@@ -7039,7 +7039,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1779520353,
-      "views": 119
+      "views": 120
     },
     {
       "slug": "bos-mini-6588",
@@ -10044,7 +10044,7 @@
         "https://bosminiofficial.com/_sh/13/1392.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1701,
+      "popularity": 1736,
       "added_at": 1746085618,
       "views": 278
     },
@@ -10418,7 +10418,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1781589992,
-      "views": 5
+      "views": 6
     },
     {
       "slug": "bos-mini-n727hgp5",
@@ -13425,7 +13425,7 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1765430230,
-      "views": 259
+      "views": 260
     },
     {
       "slug": "alpine-ap-a5204",
