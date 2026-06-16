@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781599233,
-  "scraped_count": 443,
+  "generated_at": 1781599833,
+  "scraped_count": 446,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1707,7 +1707,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1781001046,
-      "views": 39
+      "views": 40
     },
     {
       "slug": "dv-pineer-ok-ahd-9115-10-3-32gb-10",
@@ -2234,7 +2234,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1756026563,
-      "views": 123
+      "views": 124
     },
     {
       "slug": "multimedia-factory-f7d-pro-4-64gb-7",
@@ -6295,7 +6295,7 @@
       "stock_count": 0,
       "popularity": 280,
       "added_at": 1753683329,
-      "views": 754
+      "views": 755
     },
     {
       "slug": "zerkalo-videorgistrator-blaupunkt",
@@ -8964,6 +8964,99 @@
       "views": 710
     },
     {
+      "slug": "bos-mini-y8063mbt",
+      "url": "https://bosminiofficial.com/shop/2741/desc/bos-mini-y8063mbt",
+      "name": "Bos-Mini Y8063MBT",
+      "sku": "",
+      "price_rub": 800,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅Bluetooth\n✅Aux\n✅USB и SD карты\n✅Цветной экран\n✅Радиатор охлаждения\n✅6 выходов RCA\n✅Простой пульт,пульт на руль и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/27/2741.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/27/2741.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/27/2741.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/27/2741.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 41,
+      "added_at": 1765628595,
+      "views": 162
+    },
+    {
+      "slug": "bos-mini-y8064mbt",
+      "url": "https://bosminiofficial.com/shop/2742/desc/bos-mini-y8064mbt",
+      "name": "Bos-Mini Y8064MBT",
+      "sku": "",
+      "price_rub": 800,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅Bluetooth\n✅Aux\n✅USB и SD карты\n✅Цветной экран\n✅Радиатор охлаждения\n✅6 выходов RCA\n✅Простой пульт,пульт на руль и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/27/2742.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/27/2742.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/27/2742.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/27/2742.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 46,
+      "added_at": 1765628623,
+      "views": 193
+    },
+    {
+      "slug": "bos-mini-y8065mbt",
+      "url": "https://bosminiofficial.com/shop/2743/desc/bos-mini-y8065mbt",
+      "name": "Bos-Mini Y8065MBT",
+      "sku": "",
+      "price_rub": 800,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅Bluetooth\n✅Aux\n✅USB и SD карты\n✅Цветной экран\n✅Радиатор охлаждения\n✅6 выходов RCA\n✅Простой пульт,пульт на руль и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/27/2743.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/27/2743.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/27/2743.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/27/2743.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 39,
+      "added_at": 1765628646,
+      "views": 202
+    },
+    {
       "slug": "bos-mini-y958bt",
       "url": "https://bosminiofficial.com/shop/2740/desc/bos-mini-y958bt",
       "name": "Bos-Mini Y958BT",
@@ -9116,7 +9209,7 @@
       "stock_count": 0,
       "popularity": 45,
       "added_at": 1772781358,
-      "views": 238
+      "views": 239
     },
     {
       "slug": "dv-pioneer-ok-214",
@@ -9953,7 +10046,7 @@
       "stock_count": 0,
       "popularity": 1701,
       "added_at": 1746085618,
-      "views": 277
+      "views": 278
     },
     {
       "slug": "pinoeer-gb-mvh-815dsp",
@@ -13580,7 +13673,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1765430470,
-      "views": 152
+      "views": 153
     },
     {
       "slug": "pioneer-424",
