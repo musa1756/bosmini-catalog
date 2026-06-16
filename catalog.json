@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781590224,
-  "scraped_count": 442,
+  "generated_at": 1781590823,
+  "scraped_count": 443,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2265,7 +2265,7 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1752866853,
-      "views": 802
+      "views": 803
     },
     {
       "slug": "pioneer-gb-f8-6-64gb-9",
@@ -3505,7 +3505,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1769494404,
-      "views": 133
+      "views": 134
     },
     {
       "slug": "aromatizator-sprej-rh-010",
@@ -5492,6 +5492,37 @@
       "views": 868
     },
     {
+      "slug": "bos-mini-360s",
+      "url": "https://bosminiofficial.com/shop/2947/desc/bos-mini-360s",
+      "name": "Bos-Mini 360S",
+      "sku": "",
+      "price_rub": 2200,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅Изображение-Full HD\n✅4 камеры и полный комплект проводов для подключения",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2947.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2947.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2947.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2947.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1781590536,
+      "views": 1
+    },
+    {
       "slug": "bos-mini-a31-pro-wi-fi",
       "url": "https://bosminiofficial.com/shop/2738/desc/bos-mini-a31-pro-wi-fi",
       "name": "Bos-Mini A31 Pro Wi-Fi",
@@ -7070,7 +7101,7 @@
       "stock_count": 0,
       "popularity": 284,
       "added_at": 1733386143,
-      "views": 729
+      "views": 730
     },
     {
       "slug": "bos-6580",
