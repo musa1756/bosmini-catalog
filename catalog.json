@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781606425,
+  "generated_at": 1781607027,
   "scraped_count": 446,
   "products": [
     {
@@ -2482,7 +2482,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1781589517,
-      "views": 9
+      "views": 10
     },
     {
       "slug": "x5-diamond-8-128gb",
@@ -2513,7 +2513,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1781589373,
-      "views": 6
+      "views": 7
     },
     {
       "slug": "y2-pro-12-128gb",
@@ -9364,7 +9364,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1770802367,
-      "views": 128
+      "views": 129
     },
     {
       "slug": "dv-pioneer-ok-mp3566",
@@ -11255,7 +11255,7 @@
       "stock_count": 0,
       "popularity": 140,
       "added_at": 1727072278,
-      "views": 561
+      "views": 562
     },
     {
       "slug": "chevrolet-cobalt",
@@ -13363,7 +13363,7 @@
       "stock_count": 0,
       "popularity": 26,
       "added_at": 1719475285,
-      "views": 356
+      "views": 357
     },
     {
       "slug": "alpine-ap-45-1",
