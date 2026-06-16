@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781589626,
-  "scraped_count": 441,
+  "generated_at": 1781590224,
+  "scraped_count": 442,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2079,7 +2079,7 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1765282134,
-      "views": 383
+      "views": 384
     },
     {
       "slug": "dv-pioneer-ok-z3-pro-4-64gb",
@@ -2234,7 +2234,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1756026563,
-      "views": 122
+      "views": 123
     },
     {
       "slug": "multimedia-factory-f7d-pro-4-64gb-7",
@@ -9860,7 +9860,7 @@
       "stock_count": 0,
       "popularity": 198,
       "added_at": 1753770414,
-      "views": 366
+      "views": 367
     },
     {
       "slug": "pioneer-gb-den-5806sbt",
@@ -10264,6 +10264,37 @@
       "popularity": 378,
       "added_at": 1738048528,
       "views": 395
+    },
+    {
+      "slug": "bos-mini-bos-r6p5",
+      "url": "https://bosminiofficial.com/shop/2946/desc/bos-mini-bos-r6p5",
+      "name": "BOS-MINI BOS-R6P5",
+      "sku": "",
+      "price_rub": 2800,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана -7\" сенсорный\n✅Типоразмер-1Din\n✅Надежный ручной механизм\n✅RGB подсветка\n✅Bluetooth/Aux/2USB\n✅CarPlay/AndroidAuto\n✅Возможность подключения камеры заднего вида\n✅Пульт управления и провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2946.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2946.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2946.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2946.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1781589992,
+      "views": 1
     },
     {
       "slug": "bos-mini-n727hgp5",
