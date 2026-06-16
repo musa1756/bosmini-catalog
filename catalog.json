@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781589032,
-  "scraped_count": 438,
+  "generated_at": 1781589626,
+  "scraped_count": 441,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -653,7 +653,7 @@
       "stock_count": 0,
       "popularity": 46,
       "added_at": 1764313847,
-      "views": 1278
+      "views": 1279
     },
     {
       "slug": "bos-mini-a14-8-128gb-9",
@@ -2452,6 +2452,68 @@
       "popularity": 2,
       "added_at": 1780137341,
       "views": 79
+    },
+    {
+      "slug": "x3-diamond-4-64gb",
+      "url": "https://bosminiofficial.com/shop/2945/desc/x3-diamond-4-64gb",
+      "name": "X3 Diamond 4+64Gb",
+      "sku": "",
+      "price_rub": 5700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Память-4+64Gb\n✅Размер экрана-10\"\n✅Посадочное место-9\"\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅Рамка и набор для проводов в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2945.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2945.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2945.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2945.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1781589517,
+      "views": 1
+    },
+    {
+      "slug": "x5-diamond-8-128gb",
+      "url": "https://bosminiofficial.com/shop/2944/desc/x5-diamond-8-128gb",
+      "name": "X5 Diamond 8+128Gb",
+      "sku": "",
+      "price_rub": 7000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Память-8+128Gb\n✅Размер экрана-10\"\n✅Посадочное место-9\"\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅Рамка и набор для проводов в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2944.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2944.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2944.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2944.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1781589373,
+      "views": 1
     },
     {
       "slug": "y2-pro-12-128gb",
@@ -6174,6 +6236,37 @@
       "views": 426
     },
     {
+      "slug": "zerkalo-videoregistrator-p11l",
+      "url": "https://bosminiofficial.com/shop/2514/desc/zerkalo-videoregistrator-p11l",
+      "name": "Зеркало видеорегистратор P11L",
+      "sku": "",
+      "price_rub": 3500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-10’99 дюймов ✅Качество изображения- 4K ✅Сенсорный экран ✅Камера заднего вида, Азу, провода 5м. и фиксаторы в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/25/2514.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/25/2514.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/25/2514.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/25/2514.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 280,
+      "added_at": 1753683329,
+      "views": 753
+    },
+    {
       "slug": "zerkalo-videorgistrator-blaupunkt",
       "url": "https://bosminiofficial.com/shop/2841/desc/zerkalo-videorgistrator-blaupunkt",
       "name": "Зеркало-видеоргистратор Blaupunkt",
@@ -8186,7 +8279,7 @@
       "stock_count": 0,
       "popularity": 77,
       "added_at": 1767297425,
-      "views": 173
+      "views": 174
     },
     {
       "slug": "pioneer-ts6996a",
@@ -9767,7 +9860,7 @@
       "stock_count": 0,
       "popularity": 198,
       "added_at": 1753770414,
-      "views": 365
+      "views": 366
     },
     {
       "slug": "pioneer-gb-den-5806sbt",
