@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781594424,
+  "generated_at": 1781595032,
   "scraped_count": 443,
   "products": [
     {
@@ -374,7 +374,7 @@
       "stock_count": 0,
       "popularity": 108,
       "added_at": 1757144356,
-      "views": 2032
+      "views": 2033
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -2203,7 +2203,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1776112985,
-      "views": 228
+      "views": 229
     },
     {
       "slug": "f7-4-64gb-7",
@@ -2480,9 +2480,9 @@
         "https://bosminiofficial.com/_sh/29/2945.jpg"
       ],
       "stock_count": 0,
-      "popularity": 0,
+      "popularity": 10,
       "added_at": 1781589517,
-      "views": 3
+      "views": 4
     },
     {
       "slug": "x5-diamond-8-128gb",
@@ -2759,7 +2759,7 @@
         "https://bosminiofficial.com/_sh/26/2666.jpg"
       ],
       "stock_count": 0,
-      "popularity": 686,
+      "popularity": 689,
       "added_at": 1763361207,
       "views": 320
     },
@@ -3753,7 +3753,7 @@
       "stock_count": 0,
       "popularity": 192,
       "added_at": 1752176292,
-      "views": 329
+      "views": 330
     },
     {
       "slug": "vozdukhoduvka-s-funkciej-pylesosa",
@@ -6295,7 +6295,7 @@
       "stock_count": 0,
       "popularity": 280,
       "added_at": 1753683329,
-      "views": 753
+      "views": 754
     },
     {
       "slug": "zerkalo-videorgistrator-blaupunkt",
@@ -6698,7 +6698,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1774248473,
-      "views": 124
+      "views": 125
     },
     {
       "slug": "kamera-krugovo-obzora-bos-mini-a360",
@@ -8558,7 +8558,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1756469877,
-      "views": 245
+      "views": 246
     },
     {
       "slug": "kolonki-ot-bos-mini-5083",
@@ -10604,7 +10604,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1749455727,
-      "views": 283
+      "views": 284
     },
     {
       "slug": "bos-mini-233pke",
@@ -11284,7 +11284,7 @@
         "https://bosminiofficial.com/_sh/25/2599.jpg"
       ],
       "stock_count": 0,
-      "popularity": 106,
+      "popularity": 107,
       "added_at": 1755666788,
       "views": 114
     },
@@ -11658,7 +11658,7 @@
       "stock_count": 0,
       "popularity": 676,
       "added_at": 1721297076,
-      "views": 549
+      "views": 550
     },
     {
       "slug": "lada-priora-2013-2018",
@@ -11935,7 +11935,7 @@
         "https://bosminiofficial.com/_sh/28/2878.jpg"
       ],
       "stock_count": 0,
-      "popularity": 11,
+      "popularity": 12,
       "added_at": 1774597625,
       "views": 74
     },
@@ -11966,7 +11966,7 @@
         "https://bosminiofficial.com/_sh/28/2877.jpg"
       ],
       "stock_count": 0,
-      "popularity": 21,
+      "popularity": 22,
       "added_at": 1774597460,
       "views": 94
     },
