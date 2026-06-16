@@ -1,9 +1,10 @@
 name: Sync catalog from uCoz uAPI
 
 on:
-  # Supabase pg_cron is the only timer: it calls workflow_dispatch every
-  # 10 minutes. A second GitHub schedule can be delayed and then collide with
-  # the primary run, which trips the stricter uAPI rate limit on the new VPS.
+  # GitHub Actions is the only timer now (was Supabase pg_cron on the old
+  # Frankfurt project). Single timer => no dual-trigger collision.
+  schedule:
+    - cron: "*/10 * * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -144,7 +145,7 @@ jobs:
         run: |
           for attempt in 1 2 3; do
             if curl -fsS -X POST \
-                "https://bjcqaltwlblzqdkdujlu.supabase.co/functions/v1/sync-catalog" \
+                "https://mujafejeji.beget.app/functions/v1/sync-catalog" \
                 -H "Content-Type: application/json" \
                 -H "X-Sync-Secret: ${SYNC_SECRET}" \
                 -d '{}'; then
