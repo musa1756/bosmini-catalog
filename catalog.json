@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781612423,
+  "generated_at": 1781613024,
   "scraped_count": 446,
   "products": [
     {
@@ -64,7 +64,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1752862193,
-      "views": 1206
+      "views": 1207
     },
     {
       "slug": "blaupunkt-ha900-b4-4-64g",
@@ -1118,7 +1118,7 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1765802523,
-      "views": 1072
+      "views": 1073
     },
     {
       "slug": "bos-mini-k72",
@@ -5210,7 +5210,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1778565029,
-      "views": 109
+      "views": 110
     },
     {
       "slug": "galogenovaja-lampa-hb4-9006",
@@ -7194,7 +7194,7 @@
       "stock_count": 0,
       "popularity": 310,
       "added_at": 1733386378,
-      "views": 335
+      "views": 336
     },
     {
       "slug": "bos-mini-5500",
@@ -7473,7 +7473,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1733726084,
-      "views": 244
+      "views": 245
     },
     {
       "slug": "hertz-dsk165-3",
@@ -7504,7 +7504,7 @@
       "stock_count": 0,
       "popularity": 58,
       "added_at": 1753860068,
-      "views": 338
+      "views": 339
     },
     {
       "slug": "hertz-k165",
@@ -8093,7 +8093,7 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1733548229,
-      "views": 177
+      "views": 178
     },
     {
       "slug": "pioneer-ts-6975-v3-6-9-ovaly",
@@ -13828,7 +13828,7 @@
       "stock_count": 0,
       "popularity": 139,
       "added_at": 1738756387,
-      "views": 900
+      "views": 901
     }
   ]
 }
