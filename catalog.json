@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1781598093,
+  "generated_at": 1781598631,
   "scraped_count": 443,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 608
+      "views": 609
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -343,7 +343,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1779787001,
-      "views": 105
+      "views": 106
     },
     {
       "slug": "bos-mini-a7-4-64gb-7",
@@ -5520,7 +5520,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1781590536,
-      "views": 3
+      "views": 4
     },
     {
       "slug": "bos-mini-a31-pro-wi-fi",
