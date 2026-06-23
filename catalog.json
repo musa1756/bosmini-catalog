@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782221733,
+  "generated_at": 1782222031,
   "scraped_count": 463,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 622
+      "views": 623
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -343,7 +343,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1779787001,
-      "views": 133
+      "views": 134
     },
     {
       "slug": "bos-mini-a7-4-64gb-7",
@@ -1893,7 +1893,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1752843688,
-      "views": 376
+      "views": 377
     },
     {
       "slug": "dv-pioneer-ok-6611",
@@ -3660,7 +3660,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1769411527,
-      "views": 148
+      "views": 149
     },
     {
       "slug": "aromatizator-sprej-rh-014",
@@ -7783,7 +7783,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1765864139,
-      "views": 148
+      "views": 149
     },
     {
       "slug": "hz-405-360w-10sm",
@@ -8341,7 +8341,7 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1745502255,
-      "views": 154
+      "views": 155
     },
     {
       "slug": "pioneer-ts-a1694",
