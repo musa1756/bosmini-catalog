@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782216027,
-  "scraped_count": 464,
+  "generated_at": 1782216625,
+  "scraped_count": 463,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1803,37 +1803,6 @@
       "views": 28
     },
     {
-      "slug": "dhd-x1-4-64-9-djujmov",
-      "url": "https://bosminiofficial.com/shop/2943/desc/dhd-x1-4-64-9-djujmov",
-      "name": "DHD X1 4+64 \"9-Дюймов",
-      "sku": "",
-      "price_rub": 3900,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅️Размер экрана -9 дюймов\n✅️Память-4+64Gb\n✅️CarPlay/AndroidAuto\n✅️Кулер охлаждения\n✅️Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2943.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2943.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2943.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2943.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 256,
-      "added_at": 1781001046,
-      "views": 71
-    },
-    {
       "slug": "dhd-x1-plus-4-64gb-10-djujmov",
       "url": "https://bosminiofficial.com/shop/2948/desc/dhd-x1-plus-4-64gb-10-djujmov",
       "name": "DHD X1 Plus 4+64Gb \"10-Дюймов",
@@ -3350,7 +3319,7 @@
       "stock_count": 0,
       "popularity": 45,
       "added_at": 1769494185,
-      "views": 116
+      "views": 117
     },
     {
       "slug": "aromatizator-rh-039",
@@ -3598,7 +3567,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1769494404,
-      "views": 145
+      "views": 146
     },
     {
       "slug": "aromatizator-sprej-rh-010",
@@ -6295,7 +6264,7 @@
       "stock_count": 0,
       "popularity": 218,
       "added_at": 1765013878,
-      "views": 266
+      "views": 267
     },
     {
       "slug": "videoregistrator-na-3-kamery-c6",
