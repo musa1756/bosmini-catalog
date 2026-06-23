@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782204553,
-  "scraped_count": 461,
+  "generated_at": 1782214195,
+  "scraped_count": 464,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 621
+      "views": 622
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -126,7 +126,7 @@
       "stock_count": 0,
       "popularity": 419,
       "added_at": 1752844839,
-      "views": 1341
+      "views": 1342
     },
     {
       "slug": "bos-mini-8702-2-32gb-7",
@@ -157,7 +157,7 @@
       "stock_count": 0,
       "popularity": 218,
       "added_at": 1752844861,
-      "views": 891
+      "views": 892
     },
     {
       "slug": "bos-mini-a1-pro-4-64gb-9",
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 979,
       "added_at": 1752844697,
-      "views": 1248
+      "views": 1249
     },
     {
       "slug": "bos-mini-a2-4-64gb-9",
@@ -343,7 +343,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1779787001,
-      "views": 132
+      "views": 133
     },
     {
       "slug": "bos-mini-a7-4-64gb-7",
@@ -405,7 +405,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1752859489,
-      "views": 897
+      "views": 899
     },
     {
       "slug": "bos-mini-q11",
@@ -498,7 +498,7 @@
       "stock_count": 0,
       "popularity": 129,
       "added_at": 1765175893,
-      "views": 942
+      "views": 943
     },
     {
       "slug": "bos-mini-t2-4-64gb-9",
@@ -529,7 +529,7 @@
       "stock_count": 0,
       "popularity": 691,
       "added_at": 1752909494,
-      "views": 1044
+      "views": 1045
     },
     {
       "slug": "bos-mini-t3-4-64gb-9",
@@ -622,7 +622,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1777460775,
-      "views": 254
+      "views": 255
     },
     {
       "slug": "bos-a658d-pro-4-64gb",
@@ -653,7 +653,7 @@
       "stock_count": 0,
       "popularity": 111,
       "added_at": 1764313794,
-      "views": 1497
+      "views": 1498
     },
     {
       "slug": "bos-a659d-pro-4-64gb",
@@ -684,7 +684,7 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1764313847,
-      "views": 1298
+      "views": 1299
     },
     {
       "slug": "bos-mini-a14-8-128gb-9",
@@ -1056,7 +1056,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752852789,
-      "views": 1692
+      "views": 1693
     },
     {
       "slug": "bos-mini-k68",
@@ -1087,7 +1087,7 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1765802757,
-      "views": 1481
+      "views": 1483
     },
     {
       "slug": "bos-mini-k69",
@@ -1149,7 +1149,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1765802523,
-      "views": 1091
+      "views": 1093
     },
     {
       "slug": "bos-mini-k72",
@@ -1180,7 +1180,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1765802621,
-      "views": 718
+      "views": 719
     },
     {
       "slug": "bos-mini-k76hg-4-64gb",
@@ -1366,7 +1366,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1752853165,
-      "views": 392
+      "views": 393
     },
     {
       "slug": "bos-mini-t8-4-64gb-9",
@@ -1428,7 +1428,7 @@
       "stock_count": 0,
       "popularity": 127,
       "added_at": 1752911964,
-      "views": 1834
+      "views": 1835
     },
     {
       "slug": "bos-mini-ts10-4-64gb-10",
@@ -1490,7 +1490,7 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1769577324,
-      "views": 432
+      "views": 433
     },
     {
       "slug": "bos-mini-ts10-6-128gb-10",
@@ -1583,7 +1583,7 @@
       "stock_count": 0,
       "popularity": 66,
       "added_at": 1764392333,
-      "views": 477
+      "views": 478
     },
     {
       "slug": "bos-mini-ts18-10-6-128gb",
@@ -2017,7 +2017,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1770801359,
-      "views": 460
+      "views": 462
     },
     {
       "slug": "dv-pioneer-ok-d107-4-64gb",
@@ -2544,7 +2544,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1780137341,
-      "views": 110
+      "views": 111
     },
     {
       "slug": "x3-diamond-4-64gb",
@@ -3381,7 +3381,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1769493683,
-      "views": 150
+      "views": 151
     },
     {
       "slug": "aromatizator-rh-040",
@@ -3784,7 +3784,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1763447303,
-      "views": 184
+      "views": 185
     },
     {
       "slug": "besprovodnoj-karplehj-t1-dlja-populjarnykh-modelej-toyota",
@@ -3908,7 +3908,7 @@
       "stock_count": 0,
       "popularity": 1031,
       "added_at": 1718527601,
-      "views": 820
+      "views": 821
     },
     {
       "slug": "kompressor-3v1-y-qb01",
@@ -3939,7 +3939,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1761308770,
-      "views": 251
+      "views": 252
     },
     {
       "slug": "kompressor-v-chemodanchike",
@@ -3970,7 +3970,7 @@
       "stock_count": 0,
       "popularity": 360,
       "added_at": 1732270354,
-      "views": 428
+      "views": 429
     },
     {
       "slug": "multimedijnaja-smart-pristavka-a133-2-32g",
@@ -4125,7 +4125,7 @@
       "stock_count": 0,
       "popularity": 54,
       "added_at": 1765013957,
-      "views": 522
+      "views": 523
     },
     {
       "slug": "puskovoe-ustrojstvo-3-v-1-cjs-28",
@@ -4621,7 +4621,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1716467260,
-      "views": 244
+      "views": 245
     },
     {
       "slug": "led-lampa-zw1-9005",
@@ -5272,7 +5272,7 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1778565879,
-      "views": 114
+      "views": 115
     },
     {
       "slug": "galogenovaja-lampa-hb3-9005",
@@ -5551,7 +5551,7 @@
       "stock_count": 0,
       "popularity": 63,
       "added_at": 1739603510,
-      "views": 575
+      "views": 576
     },
     {
       "slug": "bos-mini-k15l-wi-fi",
@@ -5799,7 +5799,7 @@
       "stock_count": 0,
       "popularity": 39,
       "added_at": 1764785199,
-      "views": 220
+      "views": 221
     },
     {
       "slug": "carplay-pnd-7",
@@ -5892,7 +5892,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1734179124,
-      "views": 585
+      "views": 586
     },
     {
       "slug": "e5-olom-s1",
@@ -6047,7 +6047,7 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1753772523,
-      "views": 505
+      "views": 506
     },
     {
       "slug": "tomboss-t10",
@@ -6109,7 +6109,7 @@
       "stock_count": 0,
       "popularity": 69,
       "added_at": 1746085925,
-      "views": 1214
+      "views": 1215
     },
     {
       "slug": "videoregistrator-c8",
@@ -6202,7 +6202,7 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1768974626,
-      "views": 314
+      "views": 315
     },
     {
       "slug": "videoregistrator-dlja-android-magnitol-u1pro",
@@ -6419,7 +6419,7 @@
       "stock_count": 0,
       "popularity": 280,
       "added_at": 1753683329,
-      "views": 772
+      "views": 773
     },
     {
       "slug": "zerkalo-videorgistrator-blaupunkt",
@@ -6636,7 +6636,7 @@
       "stock_count": 0,
       "popularity": 8066,
       "added_at": 1735293007,
-      "views": 277
+      "views": 278
     },
     {
       "slug": "kamera-zadnego-vida-bos-f65",
@@ -6667,7 +6667,7 @@
       "stock_count": 0,
       "popularity": 121,
       "added_at": 1764398182,
-      "views": 438
+      "views": 439
     },
     {
       "slug": "kamera-zadnego-vida-bos-l370",
@@ -7070,7 +7070,7 @@
       "stock_count": 0,
       "popularity": 78,
       "added_at": 1749113356,
-      "views": 422
+      "views": 423
     },
     {
       "slug": "bos-6591",
@@ -7349,7 +7349,7 @@
       "stock_count": 0,
       "popularity": 73,
       "added_at": 1723527380,
-      "views": 532
+      "views": 533
     },
     {
       "slug": "bos-mini-5565",
@@ -7845,7 +7845,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1755665003,
-      "views": 124
+      "views": 125
     },
     {
       "slug": "hz-505-500w-13sm",
@@ -8248,7 +8248,7 @@
       "stock_count": 0,
       "popularity": 187,
       "added_at": 1728137074,
-      "views": 363
+      "views": 364
     },
     {
       "slug": "pioneer-ts-a1096a-450w",
@@ -8341,7 +8341,7 @@
       "stock_count": 0,
       "popularity": 89,
       "added_at": 1767297338,
-      "views": 213
+      "views": 214
     },
     {
       "slug": "pioneer-ts-a1693",
@@ -8775,7 +8775,7 @@
       "stock_count": 0,
       "popularity": 58,
       "added_at": 1717064941,
-      "views": 364
+      "views": 365
     },
     {
       "slug": "pishhalka-ht-25",
@@ -8995,6 +8995,99 @@
       "views": 440
     },
     {
+      "slug": "bos-mini-y1568mbt-12v-24v",
+      "url": "https://bosminiofficial.com/shop/2964/desc/bos-mini-y1568mbt-12v-24v",
+      "name": "BOS-MINI Y1568MBT 12V-24V",
+      "sku": "",
+      "price_rub": 900,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅Напряжение-12-24V\n✅Bluetooth/Aux/USB/SD/Type-C\n✅Цветной 7-ми цветный экран\n✅Радиатор охлаждения\n✅6 выходов RCA\n✅2 пульта управления и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2964.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2964.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2964.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2964.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1782205257,
+      "views": 4
+    },
+    {
+      "slug": "bos-mini-y956bt-12v-24v",
+      "url": "https://bosminiofficial.com/shop/851/desc/bos-mini-y956bt-12v-24v",
+      "name": "BOS-MINI Y956BT 12V-24V",
+      "sku": "",
+      "price_rub": 900,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅Bluetooth ✅Aux ✅USB и SD карты ✅Цветной экран ✅Радиатор охлаждения ✅6 выходов RCA ✅Простой пульт,пульт на руль и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/8/851.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/8/851.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/8/851.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/8/851.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 432,
+      "added_at": 1722879275,
+      "views": 814
+    },
+    {
+      "slug": "bos-mini-y957bt-12v-24v",
+      "url": "https://bosminiofficial.com/shop/2518/desc/bos-mini-y957bt-12v-24v",
+      "name": "BOS-MINI Y957BT 12V-24V",
+      "sku": "",
+      "price_rub": 1000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅Универсальные 12v-24v ✅Bluetooth ✅Type-C, USB, Aux, SD слоты ✅Цветной экран ✅Радиатор охлаждения ✅6 выходов RCA ✅Простой пульт,пульт на руль и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/25/2518.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/25/2518.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/25/2518.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/25/2518.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 261,
+      "added_at": 1753768718,
+      "views": 448
+    },
+    {
       "slug": "bos-mini-bos-n670dsp",
       "url": "https://bosminiofficial.com/shop/1162/desc/bos-mini-bos-n670dsp",
       "name": "Bos-Mini (Bos-N670DSP)",
@@ -9054,7 +9147,7 @@
       "stock_count": 0,
       "popularity": 29,
       "added_at": 1733822564,
-      "views": 1096
+      "views": 1097
     },
     {
       "slug": "bos-mini-940dsp",
@@ -9085,7 +9178,7 @@
       "stock_count": 0,
       "popularity": 118,
       "added_at": 1765607730,
-      "views": 730
+      "views": 732
     },
     {
       "slug": "bos-mini-y8063mbt",
@@ -9243,37 +9336,6 @@
       "views": 362
     },
     {
-      "slug": "bos-y957bt-12v-24v",
-      "url": "https://bosminiofficial.com/shop/2518/desc/bos-y957bt-12v-24v",
-      "name": "Bos-Y957BT 12v-24v",
-      "sku": "",
-      "price_rub": 1000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅Универсальные 12v-24v ✅Bluetooth ✅Type-C, USB, Aux, SD слоты ✅Цветной экран ✅Радиатор охлаждения ✅6 выходов RCA ✅Простой пульт,пульт на руль и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2518.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2518.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2518.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2518.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 261,
-      "added_at": 1753768718,
-      "views": 447
-    },
-    {
       "slug": "den-190hbt",
       "url": "https://bosminiofficial.com/shop/2561/desc/den-190hbt",
       "name": "DEN-190HBT",
@@ -9302,7 +9364,7 @@
       "stock_count": 0,
       "popularity": 1588,
       "added_at": 1754637220,
-      "views": 278
+      "views": 279
     },
     {
       "slug": "dv-pioneer-ok-212",
@@ -9798,7 +9860,7 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1714856095,
-      "views": 437
+      "views": 438
     },
     {
       "slug": "e5-olom-e-011",
@@ -10015,7 +10077,7 @@
       "stock_count": 0,
       "popularity": 60,
       "added_at": 1764669556,
-      "views": 162
+      "views": 163
     },
     {
       "slug": "mvh-y8058mbt",
@@ -10359,37 +10421,6 @@
       "views": 573
     },
     {
-      "slug": "magnitola-12v-24v-bos-mini-y956bt",
-      "url": "https://bosminiofficial.com/shop/851/desc/magnitola-12v-24v-bos-mini-y956bt",
-      "name": "Магнитола 12V-24V Bos-Mini Y956BT",
-      "sku": "",
-      "price_rub": 900,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅Bluetooth ✅Aux ✅USB и SD карты ✅Цветной экран ✅Радиатор охлаждения ✅6 выходов RCA ✅Простой пульт,пульт на руль и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/8/851.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/8/851.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/8/851.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/8/851.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 432,
-      "added_at": 1722879275,
-      "views": 813
-    },
-    {
       "slug": "magnitola-bos-mini-n970dsp",
       "url": "https://bosminiofficial.com/shop/88/desc/magnitola-bos-mini-n970dsp",
       "name": "Магнитола Bos-Mini-N970DSP",
@@ -10418,7 +10449,7 @@
       "stock_count": 0,
       "popularity": 149,
       "added_at": 1714856095,
-      "views": 1162
+      "views": 1164
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
@@ -10511,7 +10542,7 @@
       "stock_count": 0,
       "popularity": 65,
       "added_at": 1714856095,
-      "views": 1067
+      "views": 1068
     },
     {
       "slug": "7010b",
@@ -10542,7 +10573,38 @@
       "stock_count": 0,
       "popularity": 380,
       "added_at": 1738048528,
-      "views": 409
+      "views": 410
+    },
+    {
+      "slug": "b0s-mini-678dp5",
+      "url": "https://bosminiofficial.com/shop/2965/desc/b0s-mini-678dp5",
+      "name": "B0S-MINI 678DP5",
+      "sku": "",
+      "price_rub": 2100,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅\nРазмер экрана -6.86 дюймов сенсорный\n✅\nТипоразмер-1 Din\n✅\nCarPlay/AndroidAuto\n✅\nBluetooth/USB/Type-C\n✅\nВозможность подключения камеры заднего вида\n✅\nРадиатор охлаждения\n✅2 пульта управления и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2965.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2965.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2965.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2965.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1782205423,
+      "views": 4
     },
     {
       "slug": "bos-mini-bos-r6p5",
@@ -10638,6 +10700,37 @@
       "views": 292
     },
     {
+      "slug": "bos-mini-n640dp5",
+      "url": "https://bosminiofficial.com/shop/2928/desc/bos-mini-n640dp5",
+      "name": "BOS-MINI N640DP5",
+      "sku": "",
+      "price_rub": 2800,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-6,28 дюймов\n✅Типоразмер-1Din\n✅CarPlay/AndroidAuto\n✅Процессор DSP\n✅Type-c, USB, AUX\n✅Радиатор охлаждения\n✅Пульт управления, инструкция и фишки для подключения и в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2928.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2928.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2928.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2928.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 25,
+      "added_at": 1778219987,
+      "views": 238
+    },
+    {
       "slug": "bos-mini-n727hgp5",
       "url": "https://bosminiofficial.com/shop/2898/desc/bos-mini-n727hgp5",
       "name": "BOS-MINI N727HGP5",
@@ -10728,7 +10821,7 @@
       "stock_count": 0,
       "popularity": 111,
       "added_at": 1764658726,
-      "views": 560
+      "views": 561
     },
     {
       "slug": "e5-olom-e-707",
@@ -11162,7 +11255,7 @@
       "stock_count": 0,
       "popularity": 285,
       "added_at": 1722779686,
-      "views": 377
+      "views": 378
     },
     {
       "slug": "tomahawk-tw-9010",
@@ -11348,7 +11441,7 @@
       "stock_count": 0,
       "popularity": 75,
       "added_at": 1736253626,
-      "views": 741
+      "views": 742
     },
     {
       "slug": "odnostoronnjaja-signalizacija-dv-234",
@@ -11782,7 +11875,7 @@
       "stock_count": 0,
       "popularity": 33,
       "added_at": 1769508393,
-      "views": 132
+      "views": 133
     },
     {
       "slug": "hyundai-sonata-9-2011-2014g",
@@ -12092,7 +12185,7 @@
       "stock_count": 0,
       "popularity": 78,
       "added_at": 1738490935,
-      "views": 214
+      "views": 215
     },
     {
       "slug": "renault-logan-2009-2013",
@@ -12247,7 +12340,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1774597625,
-      "views": 82
+      "views": 83
     },
     {
       "slug": "uaz-patriot-2016-9-djumov",
@@ -13611,7 +13704,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1777715840,
-      "views": 124
+      "views": 125
     },
     {
       "slug": "komplekt-provodov-bos-48",
@@ -13890,7 +13983,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1771744690,
-      "views": 222
+      "views": 224
     },
     {
       "slug": "bos-mini-468d",
@@ -14014,7 +14107,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1753165880,
-      "views": 445
+      "views": 447
     },
     {
       "slug": "jbl-jb-480",
