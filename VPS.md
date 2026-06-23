@@ -1,21 +1,18 @@
-# .ru WooCommerce mirror — runs on the Timeweb VPS
+# .ru WooCommerce mirror — runs on the Beget VPS
 
 `catalog.json` is mirrored into the **bosminiofficial.ru** WooCommerce store
 by `sync_to_woo.py`. This **cannot** run from GitHub Actions: reg.ru drops TCP
-connections from GitHub's datacenter runner IPs (`httpx.ConnectTimeout`) — the
-same block that forced the Timeweb VPS proxy in front of Supabase. From a
-Russian IP the store answers in ~2 s, so the push runs on the **Timeweb VPS**
-(`5.42.117.161`) on its own cron.
+connections from GitHub's datacenter runner IPs (`httpx.ConnectTimeout`). From
+a Russian IP the store answers in ~2 s, so the push runs on the **Beget VPS**
+(`5.181.108.11`) on its own cron.
 
 ## What runs where
 
 - **GitHub Actions** (`.github/workflows/sync.yml`): `bosminiofficial.com`
-  (uCoz uAPI) → `catalog.json`, committed to `main`, every 10 min via the
-  Supabase `workflow_dispatch` cron. Keep GitHub's own `schedule` trigger off;
-  delayed fallback runs can collide with the primary cron and hit uAPI `429`.
-- **Timeweb VPS** cron: pulls the committed `catalog.json` from
-  `raw.githubusercontent.com` and pushes it into WooCommerce, every 10 min,
-  offset to `:06,:16,...` so it reads the catalog after GitHub has committed it.
+  (uCoz uAPI) → `catalog.json`, committed to `main`, every 5 min.
+- **Beget VPS** cron: pulls the committed `catalog.json` from
+  `raw.githubusercontent.com` and pushes it into WooCommerce, every 5 min,
+  offset to `:03,:08,...` so it reads the catalog after GitHub has committed it.
 
 ## Layout on the VPS — `/opt/bosmini-woo-sync/`
 
@@ -44,13 +41,13 @@ exec ./venv/bin/python sync_to_woo.py \
 crontab (`crontab -e` as root):
 
 ```
-6,16,26,36,46,56 * * * * /opt/bosmini-woo-sync/run.sh >> /opt/bosmini-woo-sync/sync.log 2>&1
+3,8,13,18,23,28,33,38,43,48,53,58 * * * * /opt/bosmini-woo-sync/run.sh >> /opt/bosmini-woo-sync/sync.log 2>&1
 ```
 
 ## Re-provisioning from scratch
 
 ```sh
-ssh root@5.42.117.161
+ssh root@5.181.108.11
 apt-get install -y python3.12-venv
 mkdir -p /opt/bosmini-woo-sync && cd /opt/bosmini-woo-sync
 python3 -m venv venv && ./venv/bin/pip install httpx

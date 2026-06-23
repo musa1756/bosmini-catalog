@@ -5,7 +5,7 @@ Live catalog feed for the **BOS·MINI** mobile app
 
 `catalog.json` is auto-synced from
 [bosminiofficial.com](https://bosminiofficial.com) via uCoz uAPI by
-[`.github/workflows/sync.yml`](.github/workflows/sync.yml) every 10
+[`.github/workflows/sync.yml`](.github/workflows/sync.yml) every 5
 minutes. The Flutter app fetches it from
 `https://raw.githubusercontent.com/musa1756/bosmini-catalog/main/catalog.json`
 at startup (and on pull-to-refresh), with a local cache and a bundled
@@ -31,7 +31,7 @@ python sync_catalog.py --out catalog.json
 store by `sync_to_woo.py`, **incrementally** (only changed products are
 pushed; products that vanished from the catalog are pruned). This does
 **not** run in GitHub Actions — reg.ru blocks GitHub's runner IPs — it runs
-from the Timeweb VPS on its own cron. See **[VPS.md](VPS.md)** for the full
+from the Beget VPS (`5.181.108.11`) on its own cron. See **[VPS.md](VPS.md)** for the full
 deployment.
 
 Manual / test runs (from a machine that can reach reg.ru, e.g. a Russian IP):

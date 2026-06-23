@@ -4,7 +4,7 @@ on:
   # GitHub Actions is the only timer now (was Supabase pg_cron on the old
   # Frankfurt project). Single timer => no dual-trigger collision.
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -134,7 +134,7 @@ jobs:
             echo "No changes — catalog already up to date."
           fi
 
-      - name: Trigger Supabase sync-catalog
+      - name: Trigger Beget sync-catalog Edge Function
         # Chained off the back of the workflow (not pg_cron) so the Edge
         # Function always reads the catalog.json we just committed, not a
         # stale copy from before this run. Access is gated by the shared
@@ -161,9 +161,8 @@ jobs:
           done
 
       # NOTE: the .ru WooCommerce mirror is NOT done here. reg.ru drops TCP
-      # connections from GitHub's runner IPs (httpx.ConnectTimeout) — the same
-      # block that forced the Timeweb VPS proxy in front of Supabase. So the
-      # push runs from the Timeweb VPS (5.42.117.161, Russian IP) on its own
+      # connections from GitHub's runner IPs (httpx.ConnectTimeout), so the
+      # push runs from the Beget VPS (5.181.108.11, Russian IP) on its own
       # cron: it pulls this committed catalog.json from raw.githubusercontent
       # and runs `sync_to_woo.py --apply --changed-only --prune`. See VPS.md.
 
