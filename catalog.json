@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782303925,
+  "generated_at": 1782304227,
   "scraped_count": 463,
   "products": [
     {
@@ -281,7 +281,7 @@
       "stock_count": 0,
       "popularity": 130,
       "added_at": 1753952536,
-      "views": 774
+      "views": 775
     },
     {
       "slug": "bos-mini-a6-wi-fi-4-64gb-10-djujm",
@@ -1707,7 +1707,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1752860064,
-      "views": 777
+      "views": 778
     },
     {
       "slug": "dhd-m1-4-64gb-9-djujmov",
@@ -13952,7 +13952,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1771744690,
-      "views": 227
+      "views": 228
     },
     {
       "slug": "bos-mini-468d",
@@ -14138,7 +14138,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1771744629,
-      "views": 218
+      "views": 219
     },
     {
       "slug": "pioneer-421",
@@ -14355,7 +14355,7 @@
       "stock_count": 0,
       "popularity": 139,
       "added_at": 1738756387,
-      "views": 920
+      "views": 921
     }
   ]
 }
