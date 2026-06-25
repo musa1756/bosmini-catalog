@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782366026,
-  "scraped_count": 463,
+  "generated_at": 1782366326,
+  "scraped_count": 465,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -7104,6 +7104,37 @@
       "views": 816
     },
     {
+      "slug": "bos-mini-6528",
+      "url": "https://bosminiofficial.com/shop/2967/desc/bos-mini-6528",
+      "name": "BOS-MINI 6528",
+      "sku": "",
+      "price_rub": 2200,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер динамика-16см\n✅Мощность-360 W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2967.webp"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2967.webp"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2967.webp"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2967.webp"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1782366266,
+      "views": 0
+    },
+    {
       "slug": "bos-mini-6587",
       "url": "https://bosminiofficial.com/shop/2937/desc/bos-mini-6587",
       "name": "BOS-MINI 6587",
@@ -7164,6 +7195,37 @@
       "popularity": 136,
       "added_at": 1738649729,
       "views": 375
+    },
+    {
+      "slug": "bos-mini-t225",
+      "url": "https://bosminiofficial.com/shop/2966/desc/bos-mini-t225",
+      "name": "BOS-MINI T225",
+      "sku": "",
+      "price_rub": 1100,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер динамика- 2 дюйма\n✅Мощность-40 W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2966.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2966.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2966.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2966.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1782366146,
+      "views": 1
     },
     {
       "slug": "bos-mini-6586-16sm",
