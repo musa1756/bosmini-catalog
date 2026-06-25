@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782376229,
-  "scraped_count": 468,
+  "generated_at": 1782376527,
+  "scraped_count": 467,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -7846,37 +7846,6 @@
       "popularity": 0,
       "added_at": 1765864015,
       "views": 127
-    },
-    {
-      "slug": "hx609",
-      "url": "https://bosminiofficial.com/shop/2768/desc/hx609",
-      "name": "HX609",
-      "sku": "",
-      "price_rub": 1700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер-16см\n✅Максимальная мощность-1200w",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2768.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2768.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2768.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2768.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 2,
-      "added_at": 1765864079,
-      "views": 131
     },
     {
       "slug": "hx699",
