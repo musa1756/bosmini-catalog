@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782389126,
-  "scraped_count": 468,
+  "generated_at": 1782389360,
+  "scraped_count": 469,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -13302,6 +13302,37 @@
       "popularity": 69,
       "added_at": 1755617714,
       "views": 167
+    },
+    {
+      "slug": "gb-sw10",
+      "url": "https://bosminiofficial.com/shop/2972/desc/gb-sw10",
+      "name": "GB-SW10",
+      "sku": "GB-SW10",
+      "price_rub": 2000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Сабвуферы и комплектующие"
+      ],
+      "brand_tags": [],
+      "description": "☑️Размер Динамика 10\n☑️Мощность  1100 W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2972.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2972.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2972.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2972.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1782389313,
+      "views": 1
     },
     {
       "slug": "pioneer-gb-801a",
