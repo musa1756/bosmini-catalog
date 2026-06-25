@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782388825,
-  "scraped_count": 470,
+  "generated_at": 1782389126,
+  "scraped_count": 468,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -7225,7 +7225,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1782366396,
-      "views": 3
+      "views": 4
     },
     {
       "slug": "bos-mini-6528",
@@ -7256,7 +7256,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1782366266,
-      "views": 3
+      "views": 4
     },
     {
       "slug": "bos-mini-6587",
@@ -7349,7 +7349,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1782366146,
-      "views": 4
+      "views": 5
     },
     {
       "slug": "bos-mini-x651",
@@ -9426,7 +9426,7 @@
       "stock_count": 0,
       "popularity": 39,
       "added_at": 1765628646,
-      "views": 235
+      "views": 236
     },
     {
       "slug": "bos-mini-y958bt",
@@ -9953,7 +9953,7 @@
       "stock_count": 0,
       "popularity": 984,
       "added_at": 1723960791,
-      "views": 359
+      "views": 360
     },
     {
       "slug": "dv-pioneer-ok-220",
@@ -10604,7 +10604,7 @@
       "stock_count": 0,
       "popularity": 149,
       "added_at": 1714856095,
-      "views": 1171
+      "views": 1172
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
@@ -10759,7 +10759,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782205423,
-      "views": 18
+      "views": 19
     },
     {
       "slug": "bos-mini-bos-r6p5",
@@ -13302,68 +13302,6 @@
       "popularity": 69,
       "added_at": 1755617714,
       "views": 167
-    },
-    {
-      "slug": "gb-sw10",
-      "url": "https://bosminiofficial.com/shop/2970/desc/gb-sw10",
-      "name": "GB-SW10",
-      "sku": "",
-      "price_rub": 2000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер динамика 10-Дюймов\n✅Мощность 1100W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2970.webp"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2970.webp"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2970.webp"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2970.webp"
-      ],
-      "stock_count": 0,
-      "popularity": 1,
-      "added_at": 1782366822,
-      "views": 4
-    },
-    {
-      "slug": "gb-sw12",
-      "url": "https://bosminiofficial.com/shop/2971/desc/gb-sw12",
-      "name": "GB-SW12",
-      "sku": "",
-      "price_rub": 2300,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер динамика 12-Дюймов\n✅Мощность 270 W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2971.webp"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2971.webp"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2971.webp"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2971.webp"
-      ],
-      "stock_count": 0,
-      "popularity": 1,
-      "added_at": 1782366966,
-      "views": 5
     },
     {
       "slug": "pioneer-gb-801a",
