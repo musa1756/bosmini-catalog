@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782390629,
-  "scraped_count": 471,
+  "generated_at": 1782390997,
+  "scraped_count": 472,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -186,7 +186,7 @@
         "https://bosminiofficial.com/_sh/27/2717.jpg"
       ],
       "stock_count": 0,
-      "popularity": 616,
+      "popularity": 618,
       "added_at": 1765176165,
       "views": 1683
     },
@@ -219,6 +219,37 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782390552,
+      "views": 0
+    },
+    {
+      "slug": "bos-mini-a1206-4g",
+      "url": "https://bosminiofficial.com/shop/2978/desc/bos-mini-a1206-4g",
+      "name": "BOS-MINI A1206+ 4G",
+      "sku": "",
+      "price_rub": 12700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-12,3 дюйма\n✅Количество ядер-8\n✅Голосовой помощник\n✅Подержка сим_карты\n✅DSP процессор\n✅CarPlay/AndroidAuto\n✅Разделение экрана\n✅Кулер охлаждения\n✅2 рамки и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2978.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2978.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2978.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2978.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1782390686,
       "views": 0
     },
     {
@@ -7223,7 +7254,7 @@
         "https://bosminiofficial.com/_sh/12/1273.jpg"
       ],
       "stock_count": 0,
-      "popularity": 134,
+      "popularity": 138,
       "added_at": 1738649802,
       "views": 817
     },
@@ -7347,7 +7378,7 @@
         "https://bosminiofficial.com/_sh/12/1272.jpg"
       ],
       "stock_count": 0,
-      "popularity": 138,
+      "popularity": 142,
       "added_at": 1738649729,
       "views": 377
     },
@@ -7411,7 +7442,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1782390093,
-      "views": 1
+      "views": 2
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -9207,7 +9238,7 @@
         "https://bosminiofficial.com/_sh/29/2964.jpg"
       ],
       "stock_count": 0,
-      "popularity": 2,
+      "popularity": 4,
       "added_at": 1782205257,
       "views": 14
     },
@@ -9238,7 +9269,7 @@
         "https://bosminiofficial.com/_sh/8/851.jpg"
       ],
       "stock_count": 0,
-      "popularity": 432,
+      "popularity": 433,
       "added_at": 1722879275,
       "views": 822
     },
@@ -9641,7 +9672,7 @@
         "https://bosminiofficial.com/_sh/29/2955.jpg"
       ],
       "stock_count": 0,
-      "popularity": 5,
+      "popularity": 6,
       "added_at": 1782024976,
       "views": 21
     },
@@ -13051,7 +13082,7 @@
         "https://bosminiofficial.com/_sh/29/2961.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1,
+      "popularity": 2,
       "added_at": 1782111672,
       "views": 16
     },
@@ -13299,7 +13330,7 @@
         "https://bosminiofficial.com/_sh/7/730.jpg"
       ],
       "stock_count": 0,
-      "popularity": 107,
+      "popularity": 108,
       "added_at": 1719655536,
       "views": 361
     },
@@ -14136,7 +14167,7 @@
         "https://bosminiofficial.com/_sh/6/647.jpg"
       ],
       "stock_count": 0,
-      "popularity": 33,
+      "popularity": 34,
       "added_at": 1717502009,
       "views": 397
     },
