@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782398130,
+  "generated_at": 1782398424,
   "scraped_count": 472,
   "products": [
     {
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782390552,
-      "views": 2
+      "views": 3
     },
     {
       "slug": "bos-mini-a1206-4g",
@@ -7442,7 +7442,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1782390093,
-      "views": 4
+      "views": 5
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -7504,7 +7504,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1750255621,
-      "views": 362
+      "views": 363
     },
     {
       "slug": "bos-mini-6581-260w",
@@ -12309,7 +12309,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1721297725,
-      "views": 360
+      "views": 361
     },
     {
       "slug": "lada-xray",
@@ -14262,7 +14262,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1771744690,
-      "views": 229
+      "views": 230
     },
     {
       "slug": "bos-mini-468d",
