@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782390327,
-  "scraped_count": 469,
+  "generated_at": 1782390629,
+  "scraped_count": 471,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -189,6 +189,37 @@
       "popularity": 616,
       "added_at": 1765176165,
       "views": 1683
+    },
+    {
+      "slug": "bos-mini-a1206",
+      "url": "https://bosminiofficial.com/shop/2977/desc/bos-mini-a1206",
+      "name": "BOS-MINI A1206",
+      "sku": "",
+      "price_rub": 11700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-12,3 дюйма\n✅Количество ядер-8\n✅Голосовой помощник\n✅DSP процессор\n✅CarPlay/AndroidAuto\n✅Разделение экрана\n✅Кулер охлаждения\n✅2 рамки и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2977.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2977.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2977.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2977.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1782390552,
+      "views": 0
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -1583,7 +1614,7 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1769577324,
-      "views": 436
+      "views": 437
     },
     {
       "slug": "bos-mini-ts10-6-128gb-10",
@@ -1769,7 +1800,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1752860117,
-      "views": 656
+      "views": 657
     },
     {
       "slug": "cc5-ultra-4-64gb-9",
@@ -1800,7 +1831,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1752860064,
-      "views": 782
+      "views": 783
     },
     {
       "slug": "dhd-m1-4-64gb-9-djujmov",
@@ -1829,7 +1860,7 @@
         "https://bosminiofficial.com/_sh/29/2951.jpg"
       ],
       "stock_count": 0,
-      "popularity": 111,
+      "popularity": 112,
       "added_at": 1781700641,
       "views": 41
     },
@@ -1860,7 +1891,7 @@
         "https://bosminiofficial.com/_sh/29/2949.jpg"
       ],
       "stock_count": 0,
-      "popularity": 8,
+      "popularity": 9,
       "added_at": 1781700207,
       "views": 47
     },
@@ -1891,7 +1922,7 @@
         "https://bosminiofficial.com/_sh/29/2950.jpg"
       ],
       "stock_count": 0,
-      "popularity": 3,
+      "popularity": 4,
       "added_at": 1781700561,
       "views": 35
     },
@@ -1922,7 +1953,7 @@
         "https://bosminiofficial.com/_sh/29/2948.jpg"
       ],
       "stock_count": 0,
-      "popularity": 50,
+      "popularity": 51,
       "added_at": 1781699833,
       "views": 32
     },
@@ -1953,7 +1984,7 @@
         "https://bosminiofficial.com/_sh/29/2954.jpg"
       ],
       "stock_count": 0,
-      "popularity": 20,
+      "popularity": 21,
       "added_at": 1782024662,
       "views": 21
     },
@@ -2327,7 +2358,7 @@
       "stock_count": 0,
       "popularity": 165,
       "added_at": 1754464305,
-      "views": 845
+      "views": 846
     },
     {
       "slug": "e5-olom-es4-flip-4-64gb",
@@ -2604,7 +2635,7 @@
         "https://bosminiofficial.com/_sh/29/2942.jpg"
       ],
       "stock_count": 0,
-      "popularity": 3,
+      "popularity": 4,
       "added_at": 1780137341,
       "views": 119
     },
@@ -2635,7 +2666,7 @@
         "https://bosminiofficial.com/_sh/29/2945.jpg"
       ],
       "stock_count": 0,
-      "popularity": 11,
+      "popularity": 12,
       "added_at": 1781589517,
       "views": 40
     },
@@ -2666,7 +2697,7 @@
         "https://bosminiofficial.com/_sh/29/2944.jpg"
       ],
       "stock_count": 0,
-      "popularity": 2,
+      "popularity": 3,
       "added_at": 1781589373,
       "views": 45
     },
@@ -5642,7 +5673,7 @@
         "https://bosminiofficial.com/_sh/29/2952.jpg"
       ],
       "stock_count": 0,
-      "popularity": 0,
+      "popularity": 1,
       "added_at": 1781946848,
       "views": 20
     },
@@ -5673,7 +5704,7 @@
         "https://bosminiofficial.com/_sh/29/2953.jpg"
       ],
       "stock_count": 0,
-      "popularity": 0,
+      "popularity": 1,
       "added_at": 1781947054,
       "views": 19
     },
@@ -5735,7 +5766,7 @@
         "https://bosminiofficial.com/_sh/29/2947.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1,
+      "popularity": 2,
       "added_at": 1781590536,
       "views": 49
     },
@@ -7132,7 +7163,7 @@
       "stock_count": 0,
       "popularity": 78,
       "added_at": 1749113356,
-      "views": 426
+      "views": 427
     },
     {
       "slug": "bos-6591",
@@ -7197,6 +7228,37 @@
       "views": 817
     },
     {
+      "slug": "bos-mini-52xd",
+      "url": "https://bosminiofficial.com/shop/2976/desc/bos-mini-52xd",
+      "name": "BOS-MINI 52XD",
+      "sku": "",
+      "price_rub": 1250,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "☑️Размер Динамика 13см\n☑️Мощность 180 W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2976.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2976.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2976.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2976.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 1,
+      "added_at": 1782390337,
+      "views": 0
+    },
+    {
       "slug": "bos-mini-6528",
       "url": "https://bosminiofficial.com/shop/2975/desc/bos-mini-6528",
       "name": "BOS-MINI 6528",
@@ -7223,7 +7285,7 @@
         "https://bosminiofficial.com/_sh/29/2975.jpg"
       ],
       "stock_count": 0,
-      "popularity": 0,
+      "popularity": 1,
       "added_at": 1782390251,
       "views": 0
     },
@@ -7256,7 +7318,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1779520353,
-      "views": 151
+      "views": 152
     },
     {
       "slug": "bos-mini-6588",
@@ -7316,7 +7378,7 @@
         "https://bosminiofficial.com/_sh/29/2966.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1,
+      "popularity": 2,
       "added_at": 1782366146,
       "views": 5
     },
@@ -7347,9 +7409,9 @@
         "https://bosminiofficial.com/_sh/29/2974.jpg"
       ],
       "stock_count": 0,
-      "popularity": 5,
+      "popularity": 6,
       "added_at": 1782390093,
-      "views": 0
+      "views": 1
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -7535,7 +7597,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1752041968,
-      "views": 363
+      "views": 364
     },
     {
       "slug": "bos-mini-6515",
@@ -9145,7 +9207,7 @@
         "https://bosminiofficial.com/_sh/29/2964.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1,
+      "popularity": 2,
       "added_at": 1782205257,
       "views": 14
     },
@@ -9579,7 +9641,7 @@
         "https://bosminiofficial.com/_sh/29/2955.jpg"
       ],
       "stock_count": 0,
-      "popularity": 4,
+      "popularity": 5,
       "added_at": 1782024976,
       "views": 21
     },
@@ -10726,7 +10788,7 @@
         "https://bosminiofficial.com/_sh/29/2965.jpg"
       ],
       "stock_count": 0,
-      "popularity": 0,
+      "popularity": 1,
       "added_at": 1782205423,
       "views": 19
     },
@@ -10757,7 +10819,7 @@
         "https://bosminiofficial.com/_sh/29/2946.jpg"
       ],
       "stock_count": 0,
-      "popularity": 5,
+      "popularity": 6,
       "added_at": 1781589992,
       "views": 51
     },
@@ -12958,7 +13020,7 @@
         "https://bosminiofficial.com/_sh/29/2962.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1,
+      "popularity": 2,
       "added_at": 1782111754,
       "views": 15
     },
@@ -12989,7 +13051,7 @@
         "https://bosminiofficial.com/_sh/29/2961.jpg"
       ],
       "stock_count": 0,
-      "popularity": 0,
+      "popularity": 1,
       "added_at": 1782111672,
       "views": 16
     },
@@ -13020,9 +13082,9 @@
         "https://bosminiofficial.com/_sh/29/2963.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1,
+      "popularity": 2,
       "added_at": 1782111823,
-      "views": 18
+      "views": 19
     },
     {
       "slug": "bos-mini-6016",
@@ -13299,9 +13361,9 @@
         "https://bosminiofficial.com/_sh/29/2972.jpg"
       ],
       "stock_count": 0,
-      "popularity": 4,
+      "popularity": 5,
       "added_at": 1782389313,
-      "views": 1
+      "views": 2
     },
     {
       "slug": "gb-sw12",
@@ -13330,9 +13392,9 @@
         "https://bosminiofficial.com/_sh/29/2973.jpg"
       ],
       "stock_count": 0,
-      "popularity": 4,
+      "popularity": 5,
       "added_at": 1782389416,
-      "views": 1
+      "views": 2
     },
     {
       "slug": "pioneer-gb-801a",
