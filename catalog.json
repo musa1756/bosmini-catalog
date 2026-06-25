@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782366925,
-  "scraped_count": 468,
+  "generated_at": 1782367225,
+  "scraped_count": 469,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -7008,7 +7008,7 @@
       "stock_count": 0,
       "popularity": 67,
       "added_at": 1749113253,
-      "views": 294
+      "views": 295
     },
     {
       "slug": "bos-6589-16cm-380w",
@@ -7132,7 +7132,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782366396,
-      "views": 0
+      "views": 1
     },
     {
       "slug": "bos-mini-6528",
@@ -7163,7 +7163,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782366266,
-      "views": 0
+      "views": 1
     },
     {
       "slug": "bos-mini-6587",
@@ -7256,7 +7256,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782366146,
-      "views": 1
+      "views": 2
     },
     {
       "slug": "bos-mini-x651",
@@ -7287,7 +7287,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782366536,
-      "views": 0
+      "views": 1
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -10759,7 +10759,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1773903123,
-      "views": 255
+      "views": 256
     },
     {
       "slug": "bos-mini-n639dp5",
@@ -13270,6 +13270,37 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782366822,
+      "views": 2
+    },
+    {
+      "slug": "gb-sw12",
+      "url": "https://bosminiofficial.com/shop/2971/desc/gb-sw12",
+      "name": "GB-SW12",
+      "sku": "",
+      "price_rub": 2300,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Сабвуферы и комплектующие"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер динамика 12-Дюймов\n✅Мощность 270 W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2971.webp"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2971.webp"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2971.webp"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2971.webp"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1782366966,
       "views": 1
     },
     {
