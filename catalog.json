@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782376527,
-  "scraped_count": 467,
+  "generated_at": 1782376826,
+  "scraped_count": 470,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -470,6 +470,37 @@
       "views": 412
     },
     {
+      "slug": "bos-mini-q70-6-64gb-7",
+      "url": "https://bosminiofficial.com/shop/2495/desc/bos-mini-q70-6-64gb-7",
+      "name": "BOS-MINI Q70 6+64Gb 7\"",
+      "sku": "",
+      "price_rub": 6500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-7 дюймов ✅Память-6+64Gb ✅Количество ядер-8 ✅CarPlay ✅Голосовое управление ✅Кулер охлаждения ✅HDMI выход ✅Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/24/2495.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/24/2495.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/24/2495.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/24/2495.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 66,
+      "added_at": 1753341610,
+      "views": 2732
+    },
+    {
       "slug": "bos-mini-q8-4-64gb-9",
       "url": "https://bosminiofficial.com/shop/2715/desc/bos-mini-q8-4-64gb-9",
       "name": "BOS-MINI Q8 4+64Gb 9\"",
@@ -809,6 +840,68 @@
       "popularity": 510,
       "added_at": 1764392614,
       "views": 801
+    },
+    {
+      "slug": "bos-mini-a5-6-128gb-10",
+      "url": "https://bosminiofficial.com/shop/2810/desc/bos-mini-a5-6-128gb-10",
+      "name": "Bos-Mini A5+ 6+128Gb 10\"",
+      "sku": "",
+      "price_rub": 9500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Память-6+128Gb\n✅Размер экрана- 10 дюймов\n✅Поддержка сим карты\n✅Поддержка камеры кругового обзора 360 градусов\n✅Количество ядер-8\n✅Оптический выход\n✅Процессор DSP\n✅Carplay\n✅Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/28/2810.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2810.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/28/2810.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2810.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 35,
+      "added_at": 1769575588,
+      "views": 632
+    },
+    {
+      "slug": "bos-mini-a5-6-128gb-9",
+      "url": "https://bosminiofficial.com/shop/2809/desc/bos-mini-a5-6-128gb-9",
+      "name": "Bos-Mini A5+ 6+128Gb 9\"",
+      "sku": "",
+      "price_rub": 9500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Память-6+128Gb\n✅Размер экрана- 9 дюймов\n✅Поддержка камеры кругового обзора 360 градусов\n✅Поддержка сим карты\n✅Оптический выход\n✅Количество ядер-8\n✅Процессор DSP\n✅Carplay\n✅Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/28/2809.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2809.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/28/2809.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2809.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 570,
+      "added_at": 1769575545,
+      "views": 831
     },
     {
       "slug": "bos-mini-a628d-dsp-4-64gb",
