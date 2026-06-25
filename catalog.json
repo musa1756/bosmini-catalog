@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782389360,
-  "scraped_count": 469,
+  "generated_at": 1782389426,
+  "scraped_count": 470,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -13332,6 +13332,37 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782389313,
+      "views": 1
+    },
+    {
+      "slug": "gb-sw12",
+      "url": "https://bosminiofficial.com/shop/2973/desc/gb-sw12",
+      "name": "GB-SW12",
+      "sku": "GB-SW12",
+      "price_rub": 2300,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Сабвуферы и комплектующие"
+      ],
+      "brand_tags": [],
+      "description": "☑️Размер Динамика 12\n☑️Мощность  270 W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2973.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2973.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2973.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2973.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1782389416,
       "views": 1
     },
     {
