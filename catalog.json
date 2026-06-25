@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782371429,
+  "generated_at": 1782371725,
   "scraped_count": 468,
   "products": [
     {
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 980,
       "added_at": 1752844697,
-      "views": 1253
+      "views": 1254
     },
     {
       "slug": "bos-mini-a2-4-64gb-9",
@@ -10354,7 +10354,7 @@
         "https://bosminiofficial.com/_sh/13/1392.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1774,
+      "popularity": 1809,
       "added_at": 1746085618,
       "views": 291
     },
@@ -10697,7 +10697,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782205423,
-      "views": 16
+      "views": 17
     },
     {
       "slug": "bos-mini-bos-r6p5",
