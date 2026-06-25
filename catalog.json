@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782389725,
-  "scraped_count": 470,
+  "generated_at": 1782390024,
+  "scraped_count": 467,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -3288,7 +3288,7 @@
       "stock_count": 0,
       "popularity": 64,
       "added_at": 1775198471,
-      "views": 173
+      "views": 174
     },
     {
       "slug": "aromatizator-rh-002",
@@ -6264,7 +6264,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1768974626,
-      "views": 318
+      "views": 319
     },
     {
       "slug": "videoregistrator-dlja-android-magnitol-u1pro",
@@ -7197,68 +7197,6 @@
       "views": 817
     },
     {
-      "slug": "bos-mini-52xd",
-      "url": "https://bosminiofficial.com/shop/2968/desc/bos-mini-52xd",
-      "name": "BOS-MINI 52XD",
-      "sku": "",
-      "price_rub": 1250,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер динамика-13см\n✅Мощность-180 W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2968.webp"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2968.webp"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2968.webp"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2968.webp"
-      ],
-      "stock_count": 0,
-      "popularity": 2,
-      "added_at": 1782366396,
-      "views": 4
-    },
-    {
-      "slug": "bos-mini-6528",
-      "url": "https://bosminiofficial.com/shop/2967/desc/bos-mini-6528",
-      "name": "BOS-MINI 6528",
-      "sku": "",
-      "price_rub": 2200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер динамика-16см\n✅Мощность-360 W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2967.webp"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2967.webp"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2967.webp"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2967.webp"
-      ],
-      "stock_count": 0,
-      "popularity": 2,
-      "added_at": 1782366266,
-      "views": 4
-    },
-    {
       "slug": "bos-mini-6587",
       "url": "https://bosminiofficial.com/shop/2937/desc/bos-mini-6587",
       "name": "BOS-MINI 6587",
@@ -7350,37 +7288,6 @@
       "popularity": 1,
       "added_at": 1782366146,
       "views": 5
-    },
-    {
-      "slug": "bos-mini-x651",
-      "url": "https://bosminiofficial.com/shop/2969/desc/bos-mini-x651",
-      "name": "BOS-MINI X651",
-      "sku": "",
-      "price_rub": 4300,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер динамика-16см\n✅Мощность 400W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2969.webp"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2969.webp"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2969.webp"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2969.webp"
-      ],
-      "stock_count": 0,
-      "popularity": 2,
-      "added_at": 1782366536,
-      "views": 4
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -7628,7 +7535,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1723529449,
-      "views": 441
+      "views": 442
     },
     {
       "slug": "dv-pioneer-ok-1015",
@@ -7845,7 +7752,7 @@
       "stock_count": 0,
       "popularity": 80,
       "added_at": 1753859805,
-      "views": 256
+      "views": 257
     },
     {
       "slug": "hertz-x165",
@@ -12433,7 +12340,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1775026980,
-      "views": 120
+      "views": 121
     },
     {
       "slug": "uaz-patriot-2016",
