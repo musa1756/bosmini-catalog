@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782366326,
-  "scraped_count": 465,
+  "generated_at": 1782366624,
+  "scraped_count": 467,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -808,7 +808,7 @@
       "stock_count": 0,
       "popularity": 510,
       "added_at": 1764392614,
-      "views": 800
+      "views": 801
     },
     {
       "slug": "bos-mini-a628d-dsp-4-64gb",
@@ -1180,7 +1180,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1765802621,
-      "views": 726
+      "views": 727
     },
     {
       "slug": "bos-mini-k76hg-4-64gb",
@@ -5985,7 +5985,7 @@
       "stock_count": 0,
       "popularity": 64,
       "added_at": 1753772635,
-      "views": 872
+      "views": 873
     },
     {
       "slug": "tomboss-t30",
@@ -7070,7 +7070,7 @@
       "stock_count": 0,
       "popularity": 46,
       "added_at": 1753599089,
-      "views": 966
+      "views": 967
     },
     {
       "slug": "bos-mini-5088",
@@ -7102,6 +7102,37 @@
       "popularity": 132,
       "added_at": 1738649802,
       "views": 816
+    },
+    {
+      "slug": "bos-mini-52xd",
+      "url": "https://bosminiofficial.com/shop/2968/desc/bos-mini-52xd",
+      "name": "BOS-MINI 52XD",
+      "sku": "",
+      "price_rub": 1250,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер динамика-13см\n✅Мощность-180 W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2968.webp"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2968.webp"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2968.webp"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2968.webp"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1782366396,
+      "views": 0
     },
     {
       "slug": "bos-mini-6528",
@@ -7226,6 +7257,37 @@
       "popularity": 0,
       "added_at": 1782366146,
       "views": 1
+    },
+    {
+      "slug": "bos-mini-x651",
+      "url": "https://bosminiofficial.com/shop/2969/desc/bos-mini-x651",
+      "name": "BOS-MINI X651",
+      "sku": "",
+      "price_rub": 4300,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер динамика-16см\n✅Мощность 400W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2969.webp"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2969.webp"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2969.webp"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2969.webp"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1782366536,
+      "views": 0
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -9395,7 +9457,7 @@
       "stock_count": 0,
       "popularity": 1588,
       "added_at": 1754637220,
-      "views": 281
+      "views": 282
     },
     {
       "slug": "dv-pioneer-ok-212",
@@ -10635,7 +10697,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782205423,
-      "views": 15
+      "views": 16
     },
     {
       "slug": "bos-mini-bos-r6p5",
@@ -10852,7 +10914,7 @@
       "stock_count": 0,
       "popularity": 111,
       "added_at": 1764658726,
-      "views": 561
+      "views": 562
     },
     {
       "slug": "e5-olom-e-707",
@@ -11255,7 +11317,7 @@
       "stock_count": 0,
       "popularity": 82,
       "added_at": 1764621987,
-      "views": 353
+      "views": 354
     },
     {
       "slug": "starline-b9",
