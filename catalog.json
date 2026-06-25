@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782390024,
-  "scraped_count": 467,
+  "generated_at": 1782390327,
+  "scraped_count": 469,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 616,
       "added_at": 1765176165,
-      "views": 1682
+      "views": 1683
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -4807,7 +4807,7 @@
       "stock_count": 0,
       "popularity": 49,
       "added_at": 1752401332,
-      "views": 123
+      "views": 124
     },
     {
       "slug": "led-lampa-zw1-h7",
@@ -7197,6 +7197,37 @@
       "views": 817
     },
     {
+      "slug": "bos-mini-6528",
+      "url": "https://bosminiofficial.com/shop/2975/desc/bos-mini-6528",
+      "name": "BOS-MINI 6528",
+      "sku": "",
+      "price_rub": 2200,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "☑️Размер Динамика 16см\n☑️Мощность 360 W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2975.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2975.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2975.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2975.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1782390251,
+      "views": 0
+    },
+    {
       "slug": "bos-mini-6587",
       "url": "https://bosminiofficial.com/shop/2937/desc/bos-mini-6587",
       "name": "BOS-MINI 6587",
@@ -7288,6 +7319,37 @@
       "popularity": 1,
       "added_at": 1782366146,
       "views": 5
+    },
+    {
+      "slug": "bos-mini-x651",
+      "url": "https://bosminiofficial.com/shop/2974/desc/bos-mini-x651",
+      "name": "BOS-MINI X651",
+      "sku": "",
+      "price_rub": 4300,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "☑️Размер Динамика 16см\n☑️Мощность 400 W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2974.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2974.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2974.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2974.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 5,
+      "added_at": 1782390093,
+      "views": 0
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -12030,7 +12092,7 @@
       "stock_count": 0,
       "popularity": 248,
       "added_at": 1754039103,
-      "views": 244
+      "views": 245
     },
     {
       "slug": "laba-niva-1993-2020",
@@ -13518,7 +13580,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1765863730,
-      "views": 164
+      "views": 165
     },
     {
       "slug": "aktivnyj-sabvufer-px120",
