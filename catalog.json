@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782367225,
-  "scraped_count": 469,
+  "generated_at": 1782367523,
+  "scraped_count": 468,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -7101,7 +7101,7 @@
       "stock_count": 0,
       "popularity": 132,
       "added_at": 1738649802,
-      "views": 816
+      "views": 817
     },
     {
       "slug": "bos-mini-52xd",
@@ -7721,7 +7721,7 @@
       "stock_count": 0,
       "popularity": 58,
       "added_at": 1753860068,
-      "views": 356
+      "views": 357
     },
     {
       "slug": "hertz-k165",
@@ -13022,7 +13022,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1757143405,
-      "views": 206
+      "views": 207
     },
     {
       "slug": "bos-mini-8066f",
@@ -13208,7 +13208,7 @@
       "stock_count": 0,
       "popularity": 106,
       "added_at": 1719655536,
-      "views": 360
+      "views": 361
     },
     {
       "slug": "fs56-8ga",
@@ -14045,7 +14045,7 @@
       "stock_count": 0,
       "popularity": 33,
       "added_at": 1717502009,
-      "views": 396
+      "views": 397
     },
     {
       "slug": "alpine-ap-45-1",
@@ -14511,37 +14511,6 @@
       "popularity": 673,
       "added_at": 1714856095,
       "views": 581
-    },
-    {
-      "slug": "planior-pla-a25",
-      "url": "https://bosminiofficial.com/shop/1285/desc/planior-pla-a25",
-      "name": "Planior PLA-A25",
-      "sku": "PLA-25",
-      "price_rub": 1050,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Усилители"
-      ],
-      "brand_tags": [],
-      "description": "✅Максимальная мощность 600W\n✅Встроенный эквалайзер\n✅4 канала\n✅\nУправление с телефона",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/12/1285.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1285.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/12/1285.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1285.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 139,
-      "added_at": 1738756387,
-      "views": 922
     }
   ]
 }
