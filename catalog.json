@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782454226,
+  "generated_at": 1782454526,
   "scraped_count": 472,
   "products": [
     {
@@ -777,7 +777,7 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1764313847,
-      "views": 1306
+      "views": 1307
     },
     {
       "slug": "bos-mini-a14-8-128gb-9",
@@ -901,7 +901,7 @@
       "stock_count": 0,
       "popularity": 512,
       "added_at": 1764392614,
-      "views": 806
+      "views": 807
     },
     {
       "slug": "bos-mini-a5-6-128gb-10",
@@ -1056,7 +1056,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1772529067,
-      "views": 500
+      "views": 501
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-10-djujmov",
@@ -1087,7 +1087,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1772527567,
-      "views": 318
+      "views": 319
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-9-djujmov",
@@ -1304,7 +1304,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1765802523,
-      "views": 1105
+      "views": 1106
     },
     {
       "slug": "bos-mini-k72",
@@ -1552,7 +1552,7 @@
       "stock_count": 0,
       "popularity": 60,
       "added_at": 1752853137,
-      "views": 873
+      "views": 874
     },
     {
       "slug": "bos-mini-t8705-4-64gb-7",
@@ -1831,7 +1831,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1752860117,
-      "views": 659
+      "views": 660
     },
     {
       "slug": "cc5-ultra-4-64gb-9",
@@ -1862,7 +1862,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1752860064,
-      "views": 783
+      "views": 784
     },
     {
       "slug": "dhd-m1-4-64gb-9-djujmov",
@@ -1924,7 +1924,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1781700207,
-      "views": 47
+      "views": 48
     },
     {
       "slug": "dhd-s1-plus-4-64gb-10-djujmov",
@@ -2327,7 +2327,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1765283275,
-      "views": 574
+      "views": 575
     },
     {
       "slug": "dv-pioneer-ok-z3-pro-6-64gb-9",
@@ -2606,7 +2606,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1773476138,
-      "views": 351
+      "views": 352
     },
     {
       "slug": "sx4-pro-4-64gb",
@@ -2854,7 +2854,7 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1776517157,
-      "views": 162
+      "views": 163
     },
     {
       "slug": "teyes-hs-sony-camera",
@@ -3722,7 +3722,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1769494404,
-      "views": 147
+      "views": 148
     },
     {
       "slug": "aromatizator-sprej-rh-010",
@@ -3784,7 +3784,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1769411412,
-      "views": 122
+      "views": 123
     },
     {
       "slug": "aromatizator-sprej-rh-012",
@@ -3815,7 +3815,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1769411527,
-      "views": 152
+      "views": 154
     },
     {
       "slug": "aromatizator-sprej-rh-014",
@@ -4342,7 +4342,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1773035946,
-      "views": 290
+      "views": 291
     },
     {
       "slug": "fizicheski-knopka-tmb-001",
@@ -5303,7 +5303,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1778564901,
-      "views": 115
+      "views": 116
     },
     {
       "slug": "galogenovaja-lampa-h11",
@@ -6481,7 +6481,7 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1773035549,
-      "views": 177
+      "views": 178
     },
     {
       "slug": "zerkala-videoregistratory-4k-wif-x12",
@@ -6574,7 +6574,7 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1771148869,
-      "views": 224
+      "views": 226
     },
     {
       "slug": "kamera-zad-vida-bos-mini-l-168",
@@ -8124,7 +8124,7 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1755665591,
-      "views": 261
+      "views": 262
     },
     {
       "slug": "hertz-401-10sm",
@@ -8248,7 +8248,7 @@
       "stock_count": 0,
       "popularity": 51,
       "added_at": 1732391667,
-      "views": 244
+      "views": 245
     },
     {
       "slug": "jvc-cs-610",
@@ -9302,7 +9302,7 @@
       "stock_count": 0,
       "popularity": 261,
       "added_at": 1753768718,
-      "views": 463
+      "views": 464
     },
     {
       "slug": "bos-mini-bos-n670dsp",
@@ -9643,7 +9643,7 @@
       "stock_count": 0,
       "popularity": 673,
       "added_at": 1723960647,
-      "views": 397
+      "views": 398
     },
     {
       "slug": "dv-pioneer-ok-3360",
@@ -9736,7 +9736,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1772779884,
-      "views": 173
+      "views": 174
     },
     {
       "slug": "dv-pioneer-ok-mp3564",
@@ -9891,7 +9891,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1767297093,
-      "views": 237
+      "views": 238
     },
     {
       "slug": "dv-pioneer-ok-mp372dsp",
@@ -9953,7 +9953,7 @@
       "stock_count": 0,
       "popularity": 737,
       "added_at": 1723960692,
-      "views": 416
+      "views": 417
     },
     {
       "slug": "dv-pioneer-ok-218",
@@ -10232,7 +10232,7 @@
       "stock_count": 0,
       "popularity": 1244,
       "added_at": 1764669521,
-      "views": 229
+      "views": 230
     },
     {
       "slug": "mvh-y8056mbt",
@@ -10356,7 +10356,7 @@
       "stock_count": 0,
       "popularity": 663,
       "added_at": 1764669603,
-      "views": 161
+      "views": 162
     },
     {
       "slug": "ok-jvc-kd-r592m",
@@ -10635,7 +10635,7 @@
       "stock_count": 0,
       "popularity": 1238,
       "added_at": 1722584362,
-      "views": 586
+      "views": 587
     },
     {
       "slug": "magnitola-bos-mini-n970dsp",
@@ -11224,7 +11224,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1749455727,
-      "views": 295
+      "views": 297
     },
     {
       "slug": "bos-mini-233pke",
@@ -11286,7 +11286,7 @@
       "stock_count": 0,
       "popularity": 65,
       "added_at": 1749111958,
-      "views": 643
+      "views": 644
     },
     {
       "slug": "bos-08g",
@@ -11627,7 +11627,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1754137765,
-      "views": 353
+      "views": 355
     },
     {
       "slug": "odnostoronnjaja-signalizacija-bos-mini-g6099bt",
@@ -11782,7 +11782,7 @@
       "stock_count": 0,
       "popularity": 140,
       "added_at": 1727072278,
-      "views": 593
+      "views": 594
     },
     {
       "slug": "chevrolet-cobalt",
@@ -11875,7 +11875,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1774859909,
-      "views": 145
+      "views": 146
     },
     {
       "slug": "ford-transit-2015g",
@@ -11937,7 +11937,7 @@
       "stock_count": 0,
       "popularity": 105,
       "added_at": 1721251344,
-      "views": 347
+      "views": 348
     },
     {
       "slug": "gazel-next-2016",
@@ -12557,7 +12557,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1774597625,
-      "views": 87
+      "views": 88
     },
     {
       "slug": "uaz-patriot-2016-9-djumov",
