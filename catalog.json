@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782470426,
-  "scraped_count": 479,
+  "generated_at": 1782470727,
+  "scraped_count": 480,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -251,6 +251,37 @@
       "popularity": 0,
       "added_at": 1782390686,
       "views": 15
+    },
+    {
+      "slug": "bos-mini-a1213",
+      "url": "https://bosminiofficial.com/shop/2980/desc/bos-mini-a1213",
+      "name": "BOS-MINI A1213",
+      "sku": "",
+      "price_rub": 15500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-12,3 дюйма\n✅Количество ядер-8\n✅Поддержка сим карты\n✅Поддержка камеры на 360 градусов\n✅Голосовой помощник\n✅DSP процессор\n✅CarPlay/AndroidAuto\n✅Разделение экрана\n✅Кулер охлаждения\n✅2 рамки и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2980.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2980.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2980.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2980.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1782470618,
+      "views": 1
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -3567,7 +3598,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1775197632,
-      "views": 159
+      "views": 160
     },
     {
       "slug": "aromatizator-rh-044",
@@ -5706,7 +5737,7 @@
       "stock_count": 0,
       "popularity": 65,
       "added_at": 1739603510,
-      "views": 580
+      "views": 581
     },
     {
       "slug": "bos-mini-k15l-wi-fi",
@@ -8031,7 +8062,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1765863961,
-      "views": 119
+      "views": 120
     },
     {
       "slug": "hx509",
