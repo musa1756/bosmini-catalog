@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782501025,
+  "generated_at": 1782501325,
   "scraped_count": 478,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 629
+      "views": 631
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -12466,7 +12466,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1721297725,
-      "views": 361
+      "views": 362
     },
     {
       "slug": "lada-xray",
@@ -12869,7 +12869,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1732020182,
-      "views": 280
+      "views": 281
     },
     {
       "slug": "inverter-red-12v-220v-2200w",
