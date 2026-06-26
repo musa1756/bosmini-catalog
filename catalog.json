@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782470727,
-  "scraped_count": 480,
+  "generated_at": 1782471025,
+  "scraped_count": 478,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -9798,7 +9798,7 @@
       "stock_count": 0,
       "popularity": 51,
       "added_at": 1772781358,
-      "views": 270
+      "views": 271
     },
     {
       "slug": "dv-pioneer-ok-214",
@@ -9863,68 +9863,6 @@
       "views": 24
     },
     {
-      "slug": "dv-pioneer-ok-deh-dv3850",
-      "url": "https://bosminiofficial.com/shop/2858/desc/dv-pioneer-ok-deh-dv3850",
-      "name": "DV-Pioneer.Ok DEH-DV3850",
-      "sku": "",
-      "price_rub": 2000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅CD проигрыватель\n✅Bluetooth\n✅Aux\n✅USB и SD карты\n✅Цветной экран\n✅Мощный радиатор охлаждения\n✅6 выходов RCA\n✅Пульт и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2858.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2858.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2858.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2858.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 3,
-      "added_at": 1772779859,
-      "views": 201
-    },
-    {
-      "slug": "dv-pioneer-ok-deh-dv5850",
-      "url": "https://bosminiofficial.com/shop/2859/desc/dv-pioneer-ok-deh-dv5850",
-      "name": "DV-Pioneer.Ok DEH-DV5850",
-      "sku": "",
-      "price_rub": 2000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅CD проигрыватель\n✅Bluetooth\n✅Aux\n✅USB и SD карты\n✅Цветной экран\n✅Мощный радиатор охлаждения\n✅6 выходов RCA\n✅Пульт и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2859.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2859.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2859.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2859.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 6,
-      "added_at": 1772779884,
-      "views": 175
-    },
-    {
       "slug": "dv-pioneer-ok-mp3564",
       "url": "https://bosminiofficial.com/shop/2836/desc/dv-pioneer-ok-mp3564",
       "name": "DV-Pioneer.Ok MP3564",
@@ -9984,7 +9922,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1770802367,
-      "views": 145
+      "views": 146
     },
     {
       "slug": "dv-pioneer-ok-mp3566",
@@ -10759,7 +10697,7 @@
       "stock_count": 0,
       "popularity": 1688,
       "added_at": 1722713624,
-      "views": 490
+      "views": 491
     },
     {
       "slug": "pioneer-gb-mvh-f899zbt",
