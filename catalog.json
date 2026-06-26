@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782481528,
-  "scraped_count": 477,
+  "generated_at": 1782481831,
+  "scraped_count": 478,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -932,7 +932,7 @@
       "stock_count": 0,
       "popularity": 44,
       "added_at": 1772527002,
-      "views": 798
+      "views": 799
     },
     {
       "slug": "bos-mini-a1pro-10-4-64gb",
@@ -1552,7 +1552,7 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1752912147,
-      "views": 1848
+      "views": 1849
     },
     {
       "slug": "bos-mini-t8-4-64gb-10",
@@ -2020,6 +2020,37 @@
       "views": 35
     },
     {
+      "slug": "dhd-x1-mini-4-46gb",
+      "url": "https://bosminiofficial.com/shop/2981/desc/dhd-x1-mini-4-46gb",
+      "name": "DHD X1 MINI 4+46Gb",
+      "sku": "",
+      "price_rub": 3800,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅️Размер экрана 7 дюймов\n✅️Память 4+64Gb\n✅️CarPlay/AndroidAuto\n✅️Кулер охлаждения\n✅️Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2981.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2981.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2981.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2981.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1782481680,
+      "views": 0
+    },
+    {
       "slug": "dhd-x1-plus-4-64gb-10-djujmov",
       "url": "https://bosminiofficial.com/shop/2948/desc/dhd-x1-plus-4-64gb-10-djujmov",
       "name": "DHD X1 Plus 4+64Gb \"10-Дюймов",
@@ -2048,7 +2079,7 @@
       "stock_count": 0,
       "popularity": 51,
       "added_at": 1781699833,
-      "views": 33
+      "views": 34
     },
     {
       "slug": "dhd-x31-4-64gb",
@@ -4807,7 +4838,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1716467260,
-      "views": 252
+      "views": 253
     },
     {
       "slug": "led-lampa-zw1-9005",
@@ -6481,7 +6512,7 @@
       "stock_count": 0,
       "popularity": 218,
       "added_at": 1765013878,
-      "views": 270
+      "views": 271
     },
     {
       "slug": "videoregistrator-na-3-kamery-c6",
@@ -6698,7 +6729,7 @@
       "stock_count": 0,
       "popularity": 1076,
       "added_at": 1732038428,
-      "views": 486
+      "views": 487
     },
     {
       "slug": "kamera-zad-vida-bos-mini-e-267",
@@ -10232,7 +10263,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1770802084,
-      "views": 139
+      "views": 140
     },
     {
       "slug": "e5-olom-e-012",
@@ -11567,7 +11598,7 @@
       "stock_count": 0,
       "popularity": 82,
       "added_at": 1764621987,
-      "views": 357
+      "views": 358
     },
     {
       "slug": "starline-b9",
@@ -13303,7 +13334,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1757143405,
-      "views": 212
+      "views": 213
     },
     {
       "slug": "bos-mini-8066f",
