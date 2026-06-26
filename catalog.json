@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782460823,
-  "scraped_count": 476,
+  "generated_at": 1782461126,
+  "scraped_count": 479,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -7693,6 +7693,37 @@
       "views": 237
     },
     {
+      "slug": "bos-mini-6516kit",
+      "url": "https://bosminiofficial.com/shop/1525/desc/bos-mini-6516kit",
+      "name": "Bos-Mini 6516KIT",
+      "sku": "",
+      "price_rub": 2500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅Компонетная с двумя кроссоверами для срезов частот ✅Размер Динамика 16см",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/15/1525.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/15/1525.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/15/1525.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/15/1525.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 58,
+      "added_at": 1752176079,
+      "views": 980
+    },
+    {
       "slug": "bos-mini-6985-6-9",
       "url": "https://bosminiofficial.com/shop/865/desc/bos-mini-6985-6-9",
       "name": "Bos-Mini 6985 6/9",
@@ -10762,6 +10793,39 @@
       "views": 588
     },
     {
+      "slug": "1-din-bos-mini-n770",
+      "url": "https://bosminiofficial.com/shop/577/desc/1-din-bos-mini-n770",
+      "name": "Автомагнитола Bos-Mini - N770",
+      "sku": "",
+      "price_rub": 3400,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [
+        "Bos-Mini"
+      ],
+      "description": "✅Bluetooth ✅Aux, USB и Type-C ✅Процессор DSP ✅Цветной RGB экран ✅Мощный радиатор охлаждения ✅9 выходов RCA ✅Пульт и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/5/577.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/5/577.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/5/577.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/5/577.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 69,
+      "added_at": 1716273411,
+      "views": 1209
+    },
+    {
       "slug": "magnitola-bos-mini-n970dsp",
       "url": "https://bosminiofficial.com/shop/88/desc/magnitola-bos-mini-n970dsp",
       "name": "Магнитола Bos-Mini-N970DSP",
@@ -12713,6 +12777,37 @@
       "popularity": 23,
       "added_at": 1774597460,
       "views": 113
+    },
+    {
+      "slug": "vw-polo-2012-2017",
+      "url": "https://bosminiofficial.com/shop/611/desc/vw-polo-2012-2017",
+      "name": "VW POLO 2012-2017",
+      "sku": "",
+      "price_rub": 1050,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер рамки-9\" ✅ Провода в комплекте.",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/6/611.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/6/611.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/6/611.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/6/611.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 181,
+      "added_at": 1716587994,
+      "views": 296
     },
     {
       "slug": "red-24v-220v-1000w",
