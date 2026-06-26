@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782474624,
-  "scraped_count": 478,
+  "generated_at": 1782474923,
+  "scraped_count": 477,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -5861,7 +5861,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1781590536,
-      "views": 50
+      "views": 51
     },
     {
       "slug": "bos-mini-a31-pro-wi-fi",
@@ -7318,7 +7318,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738649802,
-      "views": 820
+      "views": 821
     },
     {
       "slug": "bos-mini-52xd",
@@ -10950,37 +10950,6 @@
       "views": 415
     },
     {
-      "slug": "b0s-mini-678dp5",
-      "url": "https://bosminiofficial.com/shop/2965/desc/b0s-mini-678dp5",
-      "name": "B0S-MINI 678DP5",
-      "sku": "",
-      "price_rub": 2100,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы с экраном"
-      ],
-      "brand_tags": [],
-      "description": "✅\nРазмер экрана -6.86 дюймов сенсорный\n✅\nТипоразмер-1 Din\n✅\nCarPlay/AndroidAuto\n✅\nBluetooth/USB/Type-C\n✅\nВозможность подключения камеры заднего вида\n✅\nРадиатор охлаждения\n✅2 пульта управления и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2965.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2965.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2965.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2965.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 2,
-      "added_at": 1782205423,
-      "views": 20
-    },
-    {
       "slug": "bos-mini-bos-r6p5",
       "url": "https://bosminiofficial.com/shop/2946/desc/bos-mini-bos-r6p5",
       "name": "BOS-MINI BOS-R6P5",
@@ -12776,7 +12745,7 @@
       "stock_count": 0,
       "popularity": 181,
       "added_at": 1716587994,
-      "views": 296
+      "views": 297
     },
     {
       "slug": "red-24v-220v-1000w",
