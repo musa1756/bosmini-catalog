@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782434125,
+  "generated_at": 1782434424,
   "scraped_count": 472,
   "products": [
     {
@@ -9736,7 +9736,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1772779884,
-      "views": 172
+      "views": 173
     },
     {
       "slug": "dv-pioneer-ok-mp3564",
@@ -12898,7 +12898,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1777715674,
-      "views": 159
+      "views": 160
     },
     {
       "slug": "bos-4ga",
@@ -13828,7 +13828,7 @@
       "stock_count": 0,
       "popularity": 80,
       "added_at": 1715363607,
-      "views": 320
+      "views": 321
     },
     {
       "slug": "kabel-rca-the-poem",
@@ -14634,7 +14634,7 @@
       "stock_count": 0,
       "popularity": 673,
       "added_at": 1714856095,
-      "views": 583
+      "views": 584
     }
   ]
 }
