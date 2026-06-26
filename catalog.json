@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782456024,
-  "scraped_count": 472,
+  "generated_at": 1782456329,
+  "scraped_count": 473,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -684,7 +684,7 @@
       "stock_count": 0,
       "popularity": 29,
       "added_at": 1754376021,
-      "views": 477
+      "views": 478
     },
     {
       "slug": "bos-mini-t7038-4-64gb",
@@ -716,6 +716,37 @@
       "popularity": 24,
       "added_at": 1777460775,
       "views": 266
+    },
+    {
+      "slug": "bos-mini-a1105",
+      "url": "https://bosminiofficial.com/shop/2979/desc/bos-mini-a1105",
+      "name": "BOS-MINI А1105",
+      "sku": "",
+      "price_rub": 11700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-11,5 дюймов\n✅Количество ядер-8\n✅Поддержка сим карты\n✅Голосовой помощник\n✅DSP процессор\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅2 рамки и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2979.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2979.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2979.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2979.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1782456237,
+      "views": 1
     },
     {
       "slug": "bos-a658d-pro-4-64gb",
@@ -7380,7 +7411,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1738649729,
-      "views": 378
+      "views": 379
     },
     {
       "slug": "bos-mini-t225",
@@ -9271,7 +9302,7 @@
       "stock_count": 0,
       "popularity": 433,
       "added_at": 1722879275,
-      "views": 828
+      "views": 829
     },
     {
       "slug": "bos-mini-y957bt-12v-24v",
