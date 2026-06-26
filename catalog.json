@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782457231,
-  "scraped_count": 473,
+  "generated_at": 1782457525,
+  "scraped_count": 476,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1273,7 +1273,7 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1765802757,
-      "views": 1492
+      "views": 1493
     },
     {
       "slug": "bos-mini-k69",
@@ -4063,7 +4063,7 @@
       "stock_count": 0,
       "popularity": 1031,
       "added_at": 1718527601,
-      "views": 828
+      "views": 829
     },
     {
       "slug": "kompressor-3v1-y-qb01",
@@ -7287,7 +7287,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1738649802,
-      "views": 819
+      "views": 820
     },
     {
       "slug": "bos-mini-52xd",
@@ -7349,7 +7349,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1782390251,
-      "views": 6
+      "views": 10
     },
     {
       "slug": "bos-mini-6587",
@@ -8933,6 +8933,99 @@
       "views": 267
     },
     {
+      "slug": "kolonki-gb-v-512",
+      "url": "https://bosminiofficial.com/shop/674/desc/kolonki-gb-v-512",
+      "name": "Колонки GB / V-512",
+      "sku": "",
+      "price_rub": 1150,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер колонки-13см ✅Мощность-140W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/6/674.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/6/674.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/6/674.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/6/674.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 34,
+      "added_at": 1718304718,
+      "views": 156
+    },
+    {
+      "slug": "kolonki-gb-v-612",
+      "url": "https://bosminiofficial.com/shop/673/desc/kolonki-gb-v-612",
+      "name": "Колонки GB / V-612",
+      "sku": "",
+      "price_rub": 1350,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер колонки-16см ✅Мощность-160W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/6/673.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/6/673.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/6/673.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/6/673.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 34,
+      "added_at": 1718304602,
+      "views": 72
+    },
+    {
+      "slug": "kolonki-gb-v-6912",
+      "url": "https://bosminiofficial.com/shop/672/desc/kolonki-gb-v-6912",
+      "name": "Колонки GB / V-6912",
+      "sku": "",
+      "price_rub": 2150,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер колонки-6/9 овалы ✅Мощность-360W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/6/672.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/6/672.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/6/672.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/6/672.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 26,
+      "added_at": 1718304499,
+      "views": 216
+    },
+    {
       "slug": "kolonki-ot-bos-mini-5083",
       "url": "https://bosminiofficial.com/shop/639/desc/kolonki-ot-bos-mini-5083",
       "name": "Колонки от Bos Mini 5083",
@@ -9209,7 +9302,7 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1752837333,
-      "views": 297
+      "views": 298
     },
     {
       "slug": "bos-mini-n871",
@@ -9240,7 +9333,7 @@
       "stock_count": 0,
       "popularity": 64,
       "added_at": 1752837291,
-      "views": 445
+      "views": 446
     },
     {
       "slug": "bos-mini-y1568mbt-12v-24v",
@@ -9798,7 +9891,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1770802347,
-      "views": 158
+      "views": 159
     },
     {
       "slug": "dv-pioneer-ok-mp3565",
@@ -9891,7 +9984,7 @@
       "stock_count": 0,
       "popularity": 33,
       "added_at": 1770802487,
-      "views": 200
+      "views": 201
     },
     {
       "slug": "dv-pioneer-ok-mp371dsp",
@@ -10015,7 +10108,7 @@
       "stock_count": 0,
       "popularity": 1228,
       "added_at": 1723960739,
-      "views": 373
+      "views": 374
     },
     {
       "slug": "dv-pioneer-ok-219",
@@ -10046,7 +10139,7 @@
       "stock_count": 0,
       "popularity": 984,
       "added_at": 1723960791,
-      "views": 361
+      "views": 362
     },
     {
       "slug": "dv-pioneer-ok-220",
@@ -10759,7 +10852,7 @@
       "stock_count": 0,
       "popularity": 65,
       "added_at": 1714856095,
-      "views": 929
+      "views": 930
     },
     {
       "slug": "magnitola-bos-mini-n973dsp",
