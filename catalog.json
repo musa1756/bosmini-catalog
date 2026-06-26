@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782503728,
+  "generated_at": 1782504023,
   "scraped_count": 478,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 637
+      "views": 638
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -560,7 +560,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1752862854,
-      "views": 416
+      "views": 417
     },
     {
       "slug": "bos-mini-q70-6-64gb-7",
@@ -13799,7 +13799,7 @@
       "stock_count": 0,
       "popularity": 39,
       "added_at": 1747294154,
-      "views": 156
+      "views": 157
     },
     {
       "slug": "syzx-v-1310-10",
@@ -14450,7 +14450,7 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1771744690,
-      "views": 235
+      "views": 236
     },
     {
       "slug": "bos-mini-468d",
