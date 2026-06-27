@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782527124,
+  "generated_at": 1782527424,
   "scraped_count": 478,
   "products": [
     {
@@ -3319,7 +3319,7 @@
       "stock_count": 0,
       "popularity": 342,
       "added_at": 1776113206,
-      "views": 218
+      "views": 219
     },
     {
       "slug": "avtomobilnaja-ehlektrokruzhka-24v",
@@ -10666,7 +10666,7 @@
       "stock_count": 0,
       "popularity": 85,
       "added_at": 1753518362,
-      "views": 198
+      "views": 199
     },
     {
       "slug": "pioneer-gb-mvh-816dsp",
@@ -14822,7 +14822,7 @@
       "stock_count": 0,
       "popularity": 673,
       "added_at": 1714856095,
-      "views": 584
+      "views": 585
     }
   ]
 }
