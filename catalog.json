@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782559228,
+  "generated_at": 1782559523,
   "scraped_count": 483,
   "products": [
     {
@@ -529,7 +529,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782540010,
-      "views": 7
+      "views": 8
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -1676,7 +1676,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1752853165,
-      "views": 403
+      "views": 404
     },
     {
       "slug": "bos-mini-t8-4-64gb-9",
@@ -8155,7 +8155,7 @@
       "stock_count": 0,
       "popularity": 58,
       "added_at": 1753860068,
-      "views": 359
+      "views": 360
     },
     {
       "slug": "hertz-k165",
@@ -13365,7 +13365,7 @@
       "stock_count": 0,
       "popularity": 76,
       "added_at": 1726917366,
-      "views": 727
+      "views": 728
     },
     {
       "slug": "bos-mini-1510-10-2600w",
