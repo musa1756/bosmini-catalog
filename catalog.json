@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782592826,
+  "generated_at": 1782593129,
   "scraped_count": 477,
   "products": [
     {
@@ -9209,7 +9209,7 @@
       "stock_count": 0,
       "popularity": 159,
       "added_at": 1717065094,
-      "views": 445
+      "views": 446
     },
     {
       "slug": "kolonki-ot-bos-mini-6983",
@@ -12342,7 +12342,7 @@
       "stock_count": 0,
       "popularity": 248,
       "added_at": 1754039103,
-      "views": 247
+      "views": 248
     },
     {
       "slug": "laba-niva-1993-2020",
@@ -14326,7 +14326,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1717502009,
-      "views": 400
+      "views": 401
     },
     {
       "slug": "alpine-ap-45-1",
@@ -14791,7 +14791,7 @@
       "stock_count": 0,
       "popularity": 678,
       "added_at": 1714856095,
-      "views": 587
+      "views": 588
     }
   ]
 }
