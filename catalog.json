@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782540026,
-  "scraped_count": 482,
+  "generated_at": 1782540328,
+  "scraped_count": 483,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -687,6 +687,37 @@
       "views": 956
     },
     {
+      "slug": "bos-mini-s1203-mersedes-style",
+      "url": "https://bosminiofficial.com/shop/2987/desc/bos-mini-s1203-mersedes-style",
+      "name": "BOS-MINI S1203 Mersedes Style",
+      "sku": "",
+      "price_rub": 13500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "☑️Размер экрана-12,3 дима\n☑️Количество ядер-8\n☑️Поддержка сим карты\n☑️Голосовой помощник\n☑️DSP процессор\n☑️CarPlay/AndroidAuto\n☑️Разделение экрана\n☑️Кулер охлаждения\n☑️2 рамки и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2987.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2987.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2987.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2987.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1782540190,
+      "views": 0
+    },
+    {
       "slug": "bos-mini-t2-4-64gb-9",
       "url": "https://bosminiofficial.com/shop/2021/desc/bos-mini-t2-4-64gb-9",
       "name": "BOS-MINI T2 4+64Gb 9\"",
@@ -1118,7 +1149,7 @@
       "stock_count": 0,
       "popularity": 86,
       "added_at": 1764494765,
-      "views": 1356
+      "views": 1357
     },
     {
       "slug": "bos-mini-a629d-4-64gb",
@@ -7721,7 +7752,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1750255621,
-      "views": 364
+      "views": 365
     },
     {
       "slug": "bos-mini-6581-260w",
@@ -10947,7 +10978,7 @@
       "stock_count": 0,
       "popularity": 69,
       "added_at": 1716273411,
-      "views": 1209
+      "views": 1210
     },
     {
       "slug": "magnitola-bos-mini-n970dsp",
@@ -14419,7 +14450,7 @@
       "stock_count": 0,
       "popularity": 857,
       "added_at": 1753516707,
-      "views": 209
+      "views": 210
     },
     {
       "slug": "sabvufer-syzx-yd-0108",
