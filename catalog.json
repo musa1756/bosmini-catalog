@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782543926,
+  "generated_at": 1782544224,
   "scraped_count": 483,
   "products": [
     {
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782539919,
-      "views": 3
+      "views": 4
     },
     {
       "slug": "bos-mini-a1206",
@@ -250,7 +250,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782390552,
-      "views": 8
+      "views": 9
     },
     {
       "slug": "bos-mini-a1206-4g",
@@ -281,7 +281,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782390686,
-      "views": 18
+      "views": 19
     },
     {
       "slug": "bos-mini-a1213",
@@ -312,7 +312,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782470618,
-      "views": 11
+      "views": 12
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -529,7 +529,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782540010,
-      "views": 1
+      "views": 2
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -715,7 +715,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782540190,
-      "views": 0
+      "views": 1
     },
     {
       "slug": "bos-mini-t2-4-64gb-9",
@@ -1087,7 +1087,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1769575588,
-      "views": 638
+      "views": 639
     },
     {
       "slug": "bos-mini-a5-6-128gb-9",
@@ -1118,7 +1118,7 @@
       "stock_count": 0,
       "popularity": 574,
       "added_at": 1769575545,
-      "views": 837
+      "views": 838
     },
     {
       "slug": "bos-mini-a628d-dsp-4-64gb",
@@ -2141,7 +2141,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782481680,
-      "views": 9
+      "views": 11
     },
     {
       "slug": "dhd-x1-plus-4-64gb-10-djujmov",
@@ -8403,7 +8403,7 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1755665591,
-      "views": 267
+      "views": 268
     },
     {
       "slug": "hertz-401-10sm",
@@ -13520,7 +13520,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1757143602,
-      "views": 149
+      "views": 150
     },
     {
       "slug": "bos-mini-x808",
@@ -14512,7 +14512,7 @@
       "stock_count": 0,
       "popularity": 34,
       "added_at": 1717502009,
-      "views": 399
+      "views": 400
     },
     {
       "slug": "alpine-ap-45-1",
