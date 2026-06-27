@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782576023,
+  "generated_at": 1782576326,
   "scraped_count": 477,
   "products": [
     {
@@ -374,7 +374,7 @@
       "stock_count": 0,
       "popularity": 3057,
       "added_at": 1752844676,
-      "views": 1693
+      "views": 1694
     },
     {
       "slug": "bos-mini-a42-6-64gb-9",
@@ -7535,7 +7535,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1782538583,
-      "views": 7
+      "views": 8
     },
     {
       "slug": "bos-mini-x651",
@@ -11133,7 +11133,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1776253023,
-      "views": 312
+      "views": 313
     },
     {
       "slug": "bos-mini-n636dp5",
@@ -11939,7 +11939,7 @@
       "stock_count": 0,
       "popularity": 140,
       "added_at": 1727072278,
-      "views": 598
+      "views": 599
     },
     {
       "slug": "chevrolet-cobalt",
@@ -14791,7 +14791,7 @@
       "stock_count": 0,
       "popularity": 678,
       "added_at": 1714856095,
-      "views": 586
+      "views": 587
     }
   ]
 }
