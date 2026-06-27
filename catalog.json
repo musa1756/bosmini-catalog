@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782562524,
-  "scraped_count": 479,
+  "generated_at": 1782562827,
+  "scraped_count": 477,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1927,37 +1927,6 @@
       "views": 780
     },
     {
-      "slug": "bos-mini-ts18-9-4-64gb",
-      "url": "https://bosminiofficial.com/shop/2682/desc/bos-mini-ts18-9-4-64gb",
-      "name": "Bos-Mini TS18 9\" 4+64Gb",
-      "sku": "",
-      "price_rub": 9500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9\n✅Память-4+64Gb\n✅Количество ядер-8\n✅Поддержка сим-карты\n✅Кулер охлаждения\n✅Версия андроида-13\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/26/2682.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2682.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/26/2682.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2682.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 156,
-      "added_at": 1764392312,
-      "views": 524
-    },
-    {
       "slug": "cc5-ultra-4-64gb-10",
       "url": "https://bosminiofficial.com/shop/1969/desc/cc5-ultra-4-64gb-10",
       "name": "CC5 Ultra 4+64Gb 10\"",
@@ -3195,7 +3164,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1732348103,
-      "views": 999
+      "views": 1000
     },
     {
       "slug": "bos-mini-sd-128gb",
@@ -3412,7 +3381,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1732003598,
-      "views": 274
+      "views": 275
     },
     {
       "slug": "avtonomnyj-otopitel-bos-l22",
@@ -4219,37 +4188,6 @@
       "popularity": 8,
       "added_at": 1761308770,
       "views": 257
-    },
-    {
-      "slug": "kompressor-v-chemodanchike",
-      "url": "https://bosminiofficial.com/shop/1104/desc/kompressor-v-chemodanchike",
-      "name": "Компрессор в чемоданчике",
-      "sku": "",
-      "price_rub": 1500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Автоаксессуары"
-      ],
-      "brand_tags": [],
-      "description": "Двухцилиндровый с фонариком!!! ✅Количество цилиндров-2 ✅Набор инструментов для заделки проколов шины в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/11/1104.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/11/1104.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/11/1104.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/11/1104.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 361,
-      "added_at": 1732270354,
-      "views": 435
     },
     {
       "slug": "multimedijnaja-smart-pristavka-a133-2-32g",
@@ -6047,7 +5985,7 @@
       "stock_count": 0,
       "popularity": 928,
       "added_at": 1740736611,
-      "views": 654
+      "views": 655
     },
     {
       "slug": "bos-mini-l-817",
@@ -6667,7 +6605,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1732085020,
-      "views": 456
+      "views": 457
     },
     {
       "slug": "zerkalo-videoregistrator-p11l",
@@ -7008,7 +6946,7 @@
       "stock_count": 0,
       "popularity": 621,
       "added_at": 1738414504,
-      "views": 705
+      "views": 706
     },
     {
       "slug": "kamera-zadnego-vida-l-162",
@@ -10759,7 +10697,7 @@
       "stock_count": 0,
       "popularity": 409,
       "added_at": 1733727083,
-      "views": 512
+      "views": 513
     },
     {
       "slug": "pioneer-gb-mvh-767mbt",
@@ -11939,7 +11877,7 @@
       "stock_count": 0,
       "popularity": 79,
       "added_at": 1738756089,
-      "views": 406
+      "views": 407
     },
     {
       "slug": "parktronik-bos-666",
@@ -11970,7 +11908,7 @@
       "stock_count": 0,
       "popularity": 264,
       "added_at": 1738756168,
-      "views": 384
+      "views": 385
     },
     {
       "slug": "centralnyj-zamok-s-dvumja-pultami-686b",
@@ -12838,7 +12776,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1732022622,
-      "views": 285
+      "views": 286
     },
     {
       "slug": "red-24v-220v-1600w",
@@ -12869,7 +12807,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1732022421,
-      "views": 240
+      "views": 241
     },
     {
       "slug": "inverter-red-12v-220v-1000w",
@@ -12900,7 +12838,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1732020182,
-      "views": 281
+      "views": 282
     },
     {
       "slug": "inverter-red-12v-220v-2200w",
@@ -12931,7 +12869,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1732015908,
-      "views": 359
+      "views": 360
     },
     {
       "slug": "inverter-xbk-12v-220v-8000w",
@@ -12993,7 +12931,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1732015314,
-      "views": 239
+      "views": 240
     },
     {
       "slug": "inverter-khvk-12v-220v-5000w",
@@ -13024,7 +12962,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1732015518,
-      "views": 261
+      "views": 262
     },
     {
       "slug": "preobrazovateli-24v-12v-45a",
@@ -13086,7 +13024,7 @@
       "stock_count": 0,
       "popularity": 65,
       "added_at": 1718659006,
-      "views": 240
+      "views": 241
     },
     {
       "slug": "bos-404-4-ch-rca",
