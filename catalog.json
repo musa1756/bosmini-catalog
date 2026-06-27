@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782556522,
+  "generated_at": 1782556827,
   "scraped_count": 483,
   "products": [
     {
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782539919,
-      "views": 6
+      "views": 7
     },
     {
       "slug": "bos-mini-a1206",
@@ -963,7 +963,7 @@
       "stock_count": 0,
       "popularity": 38,
       "added_at": 1769583711,
-      "views": 1150
+      "views": 1151
     },
     {
       "slug": "bos-mini-a15-10-djujmov",
@@ -5985,7 +5985,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1781590536,
-      "views": 54
+      "views": 55
     },
     {
       "slug": "bos-mini-a31-pro-wi-fi",
