@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782540927,
-  "scraped_count": 484,
+  "generated_at": 1782541224,
+  "scraped_count": 483,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2203,7 +2203,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1782024662,
-      "views": 24
+      "views": 25
     },
     {
       "slug": "dv-pineer-ok-ahd-9115-10-3-32gb-10",
@@ -3536,7 +3536,7 @@
       "stock_count": 0,
       "popularity": 64,
       "added_at": 1775198471,
-      "views": 183
+      "views": 184
     },
     {
       "slug": "aromatizator-rh-002",
@@ -4435,7 +4435,7 @@
       "stock_count": 0,
       "popularity": 57,
       "added_at": 1765013957,
-      "views": 527
+      "views": 528
     },
     {
       "slug": "puskovoe-ustrojstvo-3-v-1-cjs-28",
@@ -6978,37 +6978,6 @@
       "popularity": 121,
       "added_at": 1764398182,
       "views": 451
-    },
-    {
-      "slug": "kamera-zadnego-vida-bos-l370",
-      "url": "https://bosminiofficial.com/shop/2881/desc/kamera-zadnego-vida-bos-l370",
-      "name": "Камера заднего вида BOS-L370",
-      "sku": "",
-      "price_rub": 900,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅ С подсветкой \"Задний ход”\n✅ В комплекте провода 5-метров",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2881.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2881.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2881.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2881.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 8,
-      "added_at": 1775026590,
-      "views": 276
     },
     {
       "slug": "kamera-zadnego-vida-bos-l210",
@@ -10511,7 +10480,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1770802147,
-      "views": 131
+      "views": 132
     },
     {
       "slug": "mvh-y8053mbt",
@@ -12125,7 +12094,7 @@
       "stock_count": 0,
       "popularity": 140,
       "added_at": 1727072278,
-      "views": 597
+      "views": 598
     },
     {
       "slug": "chevrolet-cobalt",
@@ -13179,7 +13148,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1732015518,
-      "views": 260
+      "views": 261
     },
     {
       "slug": "preobrazovateli-24v-12v-45a",
