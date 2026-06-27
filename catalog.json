@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782539726,
-  "scraped_count": 480,
+  "generated_at": 1782540026,
+  "scraped_count": 482,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -189,6 +189,37 @@
       "popularity": 618,
       "added_at": 1765176165,
       "views": 1694
+    },
+    {
+      "slug": "bos-mini-a1203-bmw-style",
+      "url": "https://bosminiofficial.com/shop/2985/desc/bos-mini-a1203-bmw-style",
+      "name": "BOS-MINI A1203 BMW Style",
+      "sku": "",
+      "price_rub": 13500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "☑️Размер экрана-12,3 дима\n☑️Количество ядер-8\n☑️Поддержка сим карты\n☑️Голосовой помощник\n☑️DSP процессор\n☑️CarPlay/AndroidAuto\n☑️Разделение экрана\n☑️Кулер охлаждения\n☑️2 рамки и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2985.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2985.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2985.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2985.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1782539919,
+      "views": 0
     },
     {
       "slug": "bos-mini-a1206",
@@ -468,6 +499,37 @@
       "popularity": 109,
       "added_at": 1757144356,
       "views": 2092
+    },
+    {
+      "slug": "bos-mini-b1203-audi-style",
+      "url": "https://bosminiofficial.com/shop/2986/desc/bos-mini-b1203-audi-style",
+      "name": "BOS-MINI B1203 BMW Style",
+      "sku": "",
+      "price_rub": 13500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "☑️Размер экрана-12,3 дима\n☑️Количество ядер-8\n☑️Поддержка сим карты\n☑️Голосовой помощник\n☑️DSP процессор\n☑️CarPlay/AndroidAuto\n☑️Разделение экрана\n☑️Кулер охлаждения\n☑️2 рамки и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2986.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2986.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2986.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2986.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1782540010,
+      "views": 0
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -2637,7 +2699,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1769575727,
-      "views": 388
+      "views": 389
     },
     {
       "slug": "pioneer-gb-f8-plus-12-128g-9",
@@ -4249,7 +4311,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1763447077,
-      "views": 255
+      "views": 256
     },
     {
       "slug": "multirul-a01",
@@ -6946,7 +7008,7 @@
       "stock_count": 0,
       "popularity": 725,
       "added_at": 1738414405,
-      "views": 479
+      "views": 480
     },
     {
       "slug": "kamera-zadnego-vida-bos-l310",
@@ -11846,7 +11908,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1754137765,
-      "views": 359
+      "views": 360
     },
     {
       "slug": "odnostoronnjaja-signalizacija-bos-mini-g6099bt",
@@ -14264,7 +14326,7 @@
       "stock_count": 0,
       "popularity": 25,
       "added_at": 1777715745,
-      "views": 141
+      "views": 142
     },
     {
       "slug": "komplekt-provodov-pro-series-4ga",
@@ -14884,7 +14946,7 @@
       "stock_count": 0,
       "popularity": 673,
       "added_at": 1714856095,
-      "views": 585
+      "views": 586
     }
   ]
 }
