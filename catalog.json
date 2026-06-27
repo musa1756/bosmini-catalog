@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782538526,
-  "scraped_count": 479,
+  "generated_at": 1782538824,
+  "scraped_count": 480,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -467,7 +467,7 @@
       "stock_count": 0,
       "popularity": 109,
       "added_at": 1757144356,
-      "views": 2091
+      "views": 2092
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -7535,6 +7535,37 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782538463,
+      "views": 0
+    },
+    {
+      "slug": "bos-mini-t2965",
+      "url": "https://bosminiofficial.com/shop/2983/desc/bos-mini-t2965",
+      "name": "BOS-MINI T2965",
+      "sku": "",
+      "price_rub": 1300,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "☑️Размер Динамика 16 см\n☑️Мощность 120W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2983.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2983.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2983.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2983.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1782538583,
       "views": 0
     },
     {
