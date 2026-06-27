@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782539127,
-  "scraped_count": 480,
+  "generated_at": 1782539424,
+  "scraped_count": 481,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -189,6 +189,37 @@
       "popularity": 618,
       "added_at": 1765176165,
       "views": 1694
+    },
+    {
+      "slug": "bos-mini-a1203-bmw-style",
+      "url": "https://bosminiofficial.com/shop/2984/desc/bos-mini-a1203-bmw-style",
+      "name": "BOS-MINI A1203 BMW Style",
+      "sku": "",
+      "price_rub": 13500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "☑️Размер экрана-12,3 дима\n☑️Количество ядер-8\n☑️Поддержка сим карты\n☑️Голосовой помощник\n☑️DSP процессор\n☑️CarPlay/AndroidAuto\n☑️Разделение экрана\n☑️Кулер охлаждения\n☑️2 рамки и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2984.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2984.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2984.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2984.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1782539369,
+      "views": 0
     },
     {
       "slug": "bos-mini-a1206",
@@ -6698,7 +6729,7 @@
       "stock_count": 0,
       "popularity": 1077,
       "added_at": 1732039326,
-      "views": 522
+      "views": 523
     },
     {
       "slug": "kamera-zad-vida-bos-mini-e-266",
@@ -8868,7 +8899,7 @@
       "stock_count": 0,
       "popularity": 55,
       "added_at": 1753519209,
-      "views": 131
+      "views": 132
     },
     {
       "slug": "pioneer-ts6997a",
