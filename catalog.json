@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782561623,
-  "scraped_count": 482,
+  "generated_at": 1782561924,
+  "scraped_count": 480,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -529,7 +529,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782540010,
-      "views": 9
+      "views": 10
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -1087,7 +1087,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1769575588,
-      "views": 639
+      "views": 640
     },
     {
       "slug": "bos-mini-a5-6-128gb-9",
@@ -1335,7 +1335,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1752852728,
-      "views": 1364
+      "views": 1365
     },
     {
       "slug": "bos-mini-cc3-max-2k-12-256gb-9",
@@ -1738,7 +1738,7 @@
       "stock_count": 0,
       "popularity": 128,
       "added_at": 1752911964,
-      "views": 1859
+      "views": 1860
     },
     {
       "slug": "bos-mini-ts10-4-64gb-10",
@@ -2265,7 +2265,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1752841827,
-      "views": 579
+      "views": 580
     },
     {
       "slug": "dv-pioneer-ok-a2-pro-6-64",
@@ -2513,7 +2513,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1765283275,
-      "views": 579
+      "views": 580
     },
     {
       "slug": "dv-pioneer-ok-z3-pro-6-64gb-9",
@@ -2544,7 +2544,7 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1765282134,
-      "views": 400
+      "views": 401
     },
     {
       "slug": "dv-pioneer-ok-z3-pro-4-64gb",
@@ -2730,7 +2730,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1769575727,
-      "views": 389
+      "views": 390
     },
     {
       "slug": "pioneer-gb-f8-plus-12-128g-9",
@@ -2917,37 +2917,6 @@
       "popularity": 3,
       "added_at": 1781589373,
       "views": 49
-    },
-    {
-      "slug": "y2-pro-12-128gb",
-      "url": "https://bosminiofficial.com/shop/2863/desc/y2-pro-12-128gb",
-      "name": "Y2 Pro 12+128Gb",
-      "sku": "",
-      "price_rub": 8000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9 дюймов\n✅Количество ядер-8\n✅Поддержка сим карты\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2863.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2863.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2863.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2863.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 69,
-      "added_at": 1773035061,
-      "views": 335
     },
     {
       "slug": "zx1-4-64gb-9",
@@ -3660,7 +3629,7 @@
       "stock_count": 0,
       "popularity": 45,
       "added_at": 1769494185,
-      "views": 123
+      "views": 124
     },
     {
       "slug": "aromatizator-rh-039",
@@ -3691,7 +3660,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1769493683,
-      "views": 156
+      "views": 157
     },
     {
       "slug": "aromatizator-rh-040",
@@ -3846,7 +3815,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1769493461,
-      "views": 135
+      "views": 136
     },
     {
       "slug": "aromatizator-diffuzory-rh-033",
@@ -3908,7 +3877,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1769494404,
-      "views": 149
+      "views": 150
     },
     {
       "slug": "aromatizator-sprej-rh-010",
@@ -3939,7 +3908,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1769411297,
-      "views": 122
+      "views": 123
     },
     {
       "slug": "aromatizator-sprej-rh-011",
@@ -3970,7 +3939,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1769411412,
-      "views": 125
+      "views": 126
     },
     {
       "slug": "aromatizator-sprej-rh-012",
@@ -4001,7 +3970,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1769411527,
-      "views": 156
+      "views": 157
     },
     {
       "slug": "aromatizator-sprej-rh-014",
@@ -4032,7 +4001,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1769411604,
-      "views": 124
+      "views": 125
     },
     {
       "slug": "aromatizator-sprej-rh-031",
@@ -4063,7 +4032,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1769411698,
-      "views": 115
+      "views": 116
     },
     {
       "slug": "besprovodnoj-usb-adapter-carplay",
@@ -6388,7 +6357,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1771148839,
-      "views": 262
+      "views": 263
     },
     {
       "slug": "videoregistrator-4-1-ok-dhd-4",
@@ -6512,7 +6481,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1768974626,
-      "views": 325
+      "views": 326
     },
     {
       "slug": "videoregistrator-dlja-android-magnitol-u1pro",
@@ -6760,7 +6729,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1771148869,
-      "views": 228
+      "views": 229
     },
     {
       "slug": "kamera-zad-vida-bos-mini-l-168",
@@ -6884,7 +6853,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1771745664,
-      "views": 167
+      "views": 168
     },
     {
       "slug": "kamera-zad-vida-e034-ahd",
@@ -6915,7 +6884,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1765777713,
-      "views": 211
+      "views": 212
     },
     {
       "slug": "kamera-zadnego-vida-l606",
@@ -7226,37 +7195,6 @@
       "popularity": 98,
       "added_at": 1735020490,
       "views": 264
-    },
-    {
-      "slug": "radar-detektor-3v1-a1",
-      "url": "https://bosminiofficial.com/shop/2845/desc/radar-detektor-3v1-a1",
-      "name": "Радар-детектор 3в1 A1",
-      "sku": "",
-      "price_rub": 7300,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅Радар-детектор\n✅Видеорегистратор\n✅GPS-информатор",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2845.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2845.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2845.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2845.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 6,
-      "added_at": 1771745453,
-      "views": 208
     },
     {
       "slug": "bos-5071-13cm-220w",
@@ -11443,7 +11381,7 @@
       "stock_count": 0,
       "popularity": 36,
       "added_at": 1771312210,
-      "views": 181
+      "views": 182
     },
     {
       "slug": "5-provodnyj-ehlektroprivod-zamka-dverej-vm-05",
@@ -14419,7 +14357,7 @@
       "stock_count": 0,
       "popularity": 872,
       "added_at": 1753516707,
-      "views": 210
+      "views": 211
     },
     {
       "slug": "sabvufer-syzx-yd-0108",
