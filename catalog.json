@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782540328,
+  "generated_at": 1782540624,
   "scraped_count": 483,
   "products": [
     {
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782539919,
-      "views": 0
+      "views": 2
     },
     {
       "slug": "bos-mini-a1206",
@@ -503,7 +503,7 @@
     {
       "slug": "bos-mini-b1203-audi-style",
       "url": "https://bosminiofficial.com/shop/2986/desc/bos-mini-b1203-audi-style",
-      "name": "BOS-MINI B1203 BMW Style",
+      "name": "BOS-MINI B1203 AUDI Style",
       "sku": "",
       "price_rub": 13500,
       "old_price_rub": null,
@@ -529,7 +529,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782540010,
-      "views": 0
+      "views": 1
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -2141,7 +2141,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782481680,
-      "views": 8
+      "views": 9
     },
     {
       "slug": "dhd-x1-plus-4-64gb-10-djujmov",
@@ -3412,7 +3412,7 @@
       "stock_count": 0,
       "popularity": 342,
       "added_at": 1776113206,
-      "views": 219
+      "views": 220
     },
     {
       "slug": "avtomobilnaja-ehlektrokruzhka-24v",
@@ -7628,7 +7628,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782538463,
-      "views": 0
+      "views": 1
     },
     {
       "slug": "bos-mini-t2965",
@@ -7659,7 +7659,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782538583,
-      "views": 0
+      "views": 2
     },
     {
       "slug": "bos-mini-x651",
