@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782543322,
+  "generated_at": 1782543624,
   "scraped_count": 483,
   "products": [
     {
@@ -374,7 +374,7 @@
       "stock_count": 0,
       "popularity": 3057,
       "added_at": 1752844676,
-      "views": 1691
+      "views": 1692
     },
     {
       "slug": "bos-mini-a42-6-64gb-9",
@@ -3131,7 +3131,7 @@
         "https://bosminiofficial.com/_sh/8/884.jpg"
       ],
       "stock_count": 0,
-      "popularity": 5126,
+      "popularity": 5306,
       "added_at": 1724219666,
       "views": 837
     },
