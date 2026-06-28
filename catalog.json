@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782631527,
+  "generated_at": 1782631824,
   "scraped_count": 479,
   "products": [
     {
@@ -6202,7 +6202,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1779788743,
-      "views": 90
+      "views": 91
     },
     {
       "slug": "tomboss-t20",
@@ -9674,7 +9674,7 @@
       "stock_count": 0,
       "popularity": 119,
       "added_at": 1765607730,
-      "views": 755
+      "views": 756
     },
     {
       "slug": "bos-mini-y8063mbt",
@@ -11012,35 +11012,35 @@
       "views": 417
     },
     {
-      "slug": "bos-mini-bos-r6p5",
-      "url": "https://bosminiofficial.com/shop/2946/desc/bos-mini-bos-r6p5",
-      "name": "BOS-MINI BOS-R6P5",
+      "slug": "b0s-mini-678dp5",
+      "url": "https://bosminiofficial.com/shop/2965/desc/b0s-mini-678dp5",
+      "name": "B0S-MINI 678DP5",
       "sku": "",
-      "price_rub": 2800,
+      "price_rub": 2100,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
         "Магнитолы с экраном"
       ],
       "brand_tags": [],
-      "description": "✅Размер экрана -7\" сенсорный\n✅Типоразмер-1Din\n✅Надежный ручной механизм\n✅RGB подсветка\n✅Bluetooth/Aux/2USB\n✅CarPlay/AndroidAuto\n✅Возможность подключения камеры заднего вида\n✅Пульт управления и провода в комплекте",
+      "description": "✅\nРазмер экрана -6.86 дюймов сенсорный\n✅\nТипоразмер-1 Din\n✅\nCarPlay/AndroidAuto\n✅\nBluetooth/USB/Type-C\n✅\nВозможность подключения камеры заднего вида\n✅\nРадиатор охлаждения\n✅2 пульта управления и провода для подключения в комплекте",
       "specs": [],
       "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2946.jpg"
+        "https://bosminiofficial.com/_sh/29/2965.jpg"
       ],
       "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2946.jpg"
+        "https://bosminiofficial.com/_sh/29/2965.jpg"
       ],
       "local_images": [
-        "https://bosminiofficial.com/_sh/29/2946.jpg"
+        "https://bosminiofficial.com/_sh/29/2965.jpg"
       ],
       "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2946.jpg"
+        "https://bosminiofficial.com/_sh/29/2965.jpg"
       ],
       "stock_count": 0,
-      "popularity": 6,
-      "added_at": 1781589992,
-      "views": 59
+      "popularity": 2,
+      "added_at": 1782205423,
+      "views": 26
     },
     {
       "slug": "bos-mini-n637dp5",
