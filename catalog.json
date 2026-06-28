@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782633323,
-  "scraped_count": 479,
+  "generated_at": 1782633623,
+  "scraped_count": 477,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -5087,37 +5087,6 @@
       "popularity": 17,
       "added_at": 1743145190,
       "views": 130
-    },
-    {
-      "slug": "tech-king-h11",
-      "url": "https://bosminiofficial.com/shop/1357/desc/tech-king-h11",
-      "name": "Tech-King H11",
-      "sku": "",
-      "price_rub": 1500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Автосвет"
-      ],
-      "brand_tags": [],
-      "description": "✅ Цоколь-Н11 ✅ Цветовая температура:4300K ✅ Срок службы <50000 часов ✅ Цвет лимонный ✅ Напряжение DC 12-24",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/13/1357.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/13/1357.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/13/1357.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/13/1357.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 9,
-      "added_at": 1743145576,
-      "views": 142
     },
     {
       "slug": "tech-king-h4",
@@ -14668,37 +14637,6 @@
       "popularity": 4,
       "added_at": 1771744629,
       "views": 223
-    },
-    {
-      "slug": "pioneer-421",
-      "url": "https://bosminiofficial.com/shop/2730/desc/pioneer-421",
-      "name": "Pioneer 421",
-      "sku": "",
-      "price_rub": 1500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Усилители"
-      ],
-      "brand_tags": [],
-      "description": "✅️Количество каналов-4\n✅️ Мощность 3800W-Max",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2730.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2730.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2730.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2730.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 10,
-      "added_at": 1765430447,
-      "views": 139
     },
     {
       "slug": "pioneer-423",
