@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782626424,
+  "generated_at": 1782626728,
   "scraped_count": 477,
   "products": [
     {
@@ -343,7 +343,7 @@
       "stock_count": 0,
       "popularity": 980,
       "added_at": 1752844697,
-      "views": 1262
+      "views": 1263
     },
     {
       "slug": "bos-mini-a2-4-64gb-9",
@@ -713,7 +713,7 @@
         "https://bosminiofficial.com/_sh/29/2987.jpg"
       ],
       "stock_count": 0,
-      "popularity": 4,
+      "popularity": 6,
       "added_at": 1782540190,
       "views": 10
     },
@@ -1862,7 +1862,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1769577429,
-      "views": 586
+      "views": 587
     },
     {
       "slug": "bos-mini-ts18-10-4-64gb",
@@ -2017,7 +2017,7 @@
       "stock_count": 0,
       "popularity": 112,
       "added_at": 1781700641,
-      "views": 46
+      "views": 47
     },
     {
       "slug": "dhd-s1-4-64gb-9-djujmov",
@@ -7566,7 +7566,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1782390093,
-      "views": 12
+      "views": 13
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -9643,7 +9643,7 @@
       "stock_count": 0,
       "popularity": 118,
       "added_at": 1765607730,
-      "views": 754
+      "views": 755
     },
     {
       "slug": "bos-mini-y8063mbt",
