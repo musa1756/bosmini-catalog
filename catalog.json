@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782634826,
+  "generated_at": 1782635124,
   "scraped_count": 477,
   "products": [
     {
@@ -1521,7 +1521,7 @@
       "stock_count": 0,
       "popularity": 90,
       "added_at": 1767294203,
-      "views": 796
+      "views": 797
     },
     {
       "slug": "bos-mini-n776s-4-64gb",
@@ -2730,7 +2730,7 @@
       "stock_count": 0,
       "popularity": 239,
       "added_at": 1769577184,
-      "views": 1102
+      "views": 1103
     },
     {
       "slug": "s1-4-64gb",
@@ -2792,7 +2792,7 @@
       "stock_count": 0,
       "popularity": 199,
       "added_at": 1752864487,
-      "views": 597
+      "views": 598
     },
     {
       "slug": "tomboss-t123",
@@ -7535,7 +7535,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1782538583,
-      "views": 10
+      "views": 11
     },
     {
       "slug": "bos-mini-x651",
@@ -14791,7 +14791,7 @@
       "stock_count": 0,
       "popularity": 678,
       "added_at": 1714856095,
-      "views": 588
+      "views": 589
     }
   ]
 }
