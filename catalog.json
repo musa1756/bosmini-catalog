@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782721825,
-  "scraped_count": 474,
+  "generated_at": 1782722125,
+  "scraped_count": 473,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1088,37 +1088,6 @@
       "popularity": 35,
       "added_at": 1769575588,
       "views": 642
-    },
-    {
-      "slug": "bos-mini-a5-6-128gb-9",
-      "url": "https://bosminiofficial.com/shop/2809/desc/bos-mini-a5-6-128gb-9",
-      "name": "Bos-Mini A5+ 6+128Gb 9\"",
-      "sku": "",
-      "price_rub": 9500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Память-6+128Gb\n✅Размер экрана- 9 дюймов\n✅Поддержка камеры кругового обзора 360 градусов\n✅Поддержка сим карты\n✅Оптический выход\n✅Количество ядер-8\n✅Процессор DSP\n✅Carplay\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2809.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2809.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2809.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2809.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 576,
-      "added_at": 1769575545,
-      "views": 842
     },
     {
       "slug": "bos-mini-a628d-dsp-4-64gb",
@@ -6760,7 +6729,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1771745664,
-      "views": 170
+      "views": 171
     },
     {
       "slug": "kamera-zad-vida-e034-ahd",
@@ -8217,7 +8186,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1755665003,
-      "views": 130
+      "views": 131
     },
     {
       "slug": "hz-505-500w-13sm",
@@ -10108,7 +10077,7 @@
       "stock_count": 0,
       "popularity": 1231,
       "added_at": 1723960739,
-      "views": 384
+      "views": 385
     },
     {
       "slug": "dv-pioneer-ok-219",
@@ -13520,7 +13489,7 @@
       "stock_count": 0,
       "popularity": 57,
       "added_at": 1753518032,
-      "views": 205
+      "views": 206
     },
     {
       "slug": "pioneer-gb-802a",
