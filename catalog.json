@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782714024,
-  "scraped_count": 476,
+  "generated_at": 1782714337,
+  "scraped_count": 475,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1459,7 +1459,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1765802523,
-      "views": 1119
+      "views": 1120
     },
     {
       "slug": "bos-mini-k72",
@@ -2327,7 +2327,7 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1770637683,
-      "views": 495
+      "views": 496
     },
     {
       "slug": "dv-pioneer-ok-d3gold-4-64gb",
@@ -2916,7 +2916,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1776517259,
-      "views": 191
+      "views": 192
     },
     {
       "slug": "zx1-pro-plus-4-64gb-9",
@@ -6667,7 +6667,7 @@
       "stock_count": 0,
       "popularity": 1077,
       "added_at": 1732039326,
-      "views": 525
+      "views": 526
     },
     {
       "slug": "kamera-zad-vida-bos-mini-e-266",
@@ -10545,37 +10545,6 @@
       "views": 411
     },
     {
-      "slug": "pioneer-gb-den-5806sbt",
-      "url": "https://bosminiofficial.com/shop/2521/desc/pioneer-gb-den-5806sbt",
-      "name": "PIoneer.GB DEN-XY5806",
-      "sku": "",
-      "price_rub": 1000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅Bluetooth ✅Aux ✅️Цветной экран ✅USB и SD карты ✅4 выхода RCA ✅Радиатор охлаждения ✅️4-выхода RCA ✅Пульт управления и фишки для подключения в комплекте!!!",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2521.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2521.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2521.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2521.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 62,
-      "added_at": 1753770698,
-      "views": 218
-    },
-    {
       "slug": "pioneer-gb-mvh-341-12-24v",
       "url": "https://bosminiofficial.com/shop/1392/desc/pioneer-gb-mvh-341-12-24v",
       "name": "Pinoeer.GB MVH-341 12-24V",
@@ -11009,7 +10978,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1773903123,
-      "views": 265
+      "views": 266
     },
     {
       "slug": "bos-mini-n639dp5",
