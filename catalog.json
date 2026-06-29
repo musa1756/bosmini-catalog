@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782744029,
+  "generated_at": 1782744326,
   "scraped_count": 472,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 640
+      "views": 641
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -312,7 +312,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782470618,
-      "views": 19
+      "views": 20
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -1614,7 +1614,7 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1752912147,
-      "views": 1862
+      "views": 1863
     },
     {
       "slug": "bos-mini-t8-4-64gb-10",
@@ -2141,7 +2141,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1782024662,
-      "views": 33
+      "views": 34
     },
     {
       "slug": "dv-pineer-ok-ahd-9115-10-3-32gb-10",
@@ -2761,7 +2761,7 @@
       "stock_count": 0,
       "popularity": 199,
       "added_at": 1752864487,
-      "views": 598
+      "views": 599
     },
     {
       "slug": "tomboss-t123",
@@ -7535,7 +7535,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1782390093,
-      "views": 17
+      "views": 18
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -10761,7 +10761,7 @@
       "stock_count": 0,
       "popularity": 157,
       "added_at": 1714856095,
-      "views": 1129
+      "views": 1130
     },
     {
       "slug": "magnitola-bos-mini-n972dsp",
