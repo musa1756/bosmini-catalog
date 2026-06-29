@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782710429,
-  "scraped_count": 477,
+  "generated_at": 1782711145,
+  "scraped_count": 476,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -343,7 +343,7 @@
       "stock_count": 0,
       "popularity": 980,
       "added_at": 1752844697,
-      "views": 1268
+      "views": 1269
     },
     {
       "slug": "bos-mini-a2-4-64gb-9",
@@ -2079,7 +2079,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1781700561,
-      "views": 39
+      "views": 40
     },
     {
       "slug": "dhd-x1-mini-4-46gb",
@@ -9336,37 +9336,6 @@
       "views": 149
     },
     {
-      "slug": "1-din-bos-mini-n771",
-      "url": "https://bosminiofficial.com/shop/578/desc/1-din-bos-mini-n771",
-      "name": "1-Din Bos-Mini - N771",
-      "sku": "",
-      "price_rub": 3400,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅Bluetooth ✅Aux, USB и Type-C ✅Процессор DSP ✅Цветной RGB экран ✅Мощный радиатор охлаждения ✅9 выходов RCA ✅Пульт и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/5/578.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/5/578.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/5/578.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/5/578.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 67,
-      "added_at": 1716273525,
-      "views": 1018
-    },
-    {
       "slug": "1-din-pioneer-gb-mvn-5803sbt",
       "url": "https://bosminiofficial.com/shop/576/desc/1-din-pioneer-gb-mvn-5803sbt",
       "name": "1-Din Pioneer.Gb / MVN-5803SBT",
@@ -10418,7 +10387,7 @@
       "stock_count": 0,
       "popularity": 1244,
       "added_at": 1764669521,
-      "views": 233
+      "views": 234
     },
     {
       "slug": "mvh-y8056mbt",
@@ -10823,7 +10792,7 @@
       "stock_count": 0,
       "popularity": 69,
       "added_at": 1716273411,
-      "views": 1214
+      "views": 1215
     },
     {
       "slug": "magnitola-bos-mini-n970dsp",
@@ -12342,7 +12311,7 @@
       "stock_count": 0,
       "popularity": 248,
       "added_at": 1754039103,
-      "views": 249
+      "views": 250
     },
     {
       "slug": "laba-niva-1993-2020",
@@ -14078,7 +14047,7 @@
       "stock_count": 0,
       "popularity": 49,
       "added_at": 1715363107,
-      "views": 305
+      "views": 306
     },
     {
       "slug": "komplekt-provodov-8ga",
