@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782741327,
+  "generated_at": 1782741624,
   "scraped_count": 472,
   "products": [
     {
@@ -744,7 +744,7 @@
         "https://bosminiofficial.com/_sh/20/2021.jpg"
       ],
       "stock_count": 0,
-      "popularity": 700,
+      "popularity": 703,
       "added_at": 1752909494,
       "views": 1067
     },
@@ -806,7 +806,7 @@
         "https://bosminiofficial.com/_sh/25/2557.jpg"
       ],
       "stock_count": 0,
-      "popularity": 31,
+      "popularity": 32,
       "added_at": 1754376021,
       "views": 486
     },
@@ -2418,7 +2418,7 @@
         "https://bosminiofficial.com/_sh/27/2726.jpg"
       ],
       "stock_count": 0,
-      "popularity": 31,
+      "popularity": 37,
       "added_at": 1765346513,
       "views": 363
     },
@@ -11319,7 +11319,7 @@
       "stock_count": 0,
       "popularity": 65,
       "added_at": 1749111958,
-      "views": 653
+      "views": 654
     },
     {
       "slug": "bos-08g",
@@ -11815,7 +11815,7 @@
       "stock_count": 0,
       "popularity": 140,
       "added_at": 1727072278,
-      "views": 600
+      "views": 601
     },
     {
       "slug": "chevrolet-cobalt",
