@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782724224,
+  "generated_at": 1782724529,
   "scraped_count": 472,
   "products": [
     {
@@ -64,7 +64,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1752862193,
-      "views": 1252
+      "views": 1253
     },
     {
       "slug": "blaupunkt-ha900-b4-4-64g",
@@ -684,7 +684,7 @@
       "stock_count": 0,
       "popularity": 129,
       "added_at": 1765175893,
-      "views": 965
+      "views": 966
     },
     {
       "slug": "bos-mini-s1203-mersedes-style",
@@ -6853,7 +6853,7 @@
       "stock_count": 0,
       "popularity": 755,
       "added_at": 1738414405,
-      "views": 483
+      "views": 484
     },
     {
       "slug": "kamera-zadnego-vida-bos-l310",
