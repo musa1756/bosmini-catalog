@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782717923,
+  "generated_at": 1782718228,
   "scraped_count": 474,
   "products": [
     {
@@ -1676,7 +1676,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1752853165,
-      "views": 407
+      "views": 409
     },
     {
       "slug": "bos-mini-t8-4-64gb-9",
@@ -4032,7 +4032,7 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1763447303,
-      "views": 201
+      "views": 202
     },
     {
       "slug": "besprovodnoj-karplehj-t1-dlja-populjarnykh-modelej-toyota",
@@ -6078,7 +6078,7 @@
       "stock_count": 0,
       "popularity": 36,
       "added_at": 1734179124,
-      "views": 592
+      "views": 593
     },
     {
       "slug": "e5-olom-s1",
@@ -10854,7 +10854,7 @@
       "stock_count": 0,
       "popularity": 67,
       "added_at": 1714856095,
-      "views": 1089
+      "views": 1090
     },
     {
       "slug": "7010b",
@@ -13117,7 +13117,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1782111754,
-      "views": 24
+      "views": 25
     },
     {
       "slug": "bos-mini-1512-12-3600w",
@@ -14698,7 +14698,7 @@
       "stock_count": 0,
       "popularity": 678,
       "added_at": 1714856095,
-      "views": 590
+      "views": 591
     }
   ]
 }
