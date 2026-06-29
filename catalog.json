@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782723927,
-  "scraped_count": 473,
+  "generated_at": 1782724224,
+  "scraped_count": 472,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -498,7 +498,7 @@
       "stock_count": 0,
       "popularity": 109,
       "added_at": 1757144356,
-      "views": 2099
+      "views": 2100
     },
     {
       "slug": "bos-mini-b1203-audi-style",
@@ -13366,37 +13366,6 @@
       "popularity": 108,
       "added_at": 1719655536,
       "views": 366
-    },
-    {
-      "slug": "fs56-8ga",
-      "url": "https://bosminiofficial.com/shop/2584/desc/fs56-8ga",
-      "name": "FS56 8GA",
-      "sku": "",
-      "price_rub": 600,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Сечение кабеля 8GA ✅2-х канальный",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2584.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2584.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2584.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2584.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 71,
-      "added_at": 1755617714,
-      "views": 172
     },
     {
       "slug": "gb-sw10",
