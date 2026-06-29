@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782732328,
+  "generated_at": 1782732625,
   "scraped_count": 472,
   "products": [
     {
@@ -6047,7 +6047,7 @@
       "stock_count": 0,
       "popularity": 36,
       "added_at": 1734179124,
-      "views": 593
+      "views": 594
     },
     {
       "slug": "e5-olom-s1",
@@ -10354,7 +10354,7 @@
         "https://bosminiofficial.com/_sh/27/2736.jpg"
       ],
       "stock_count": 0,
-      "popularity": 753,
+      "popularity": 893,
       "added_at": 1765546343,
       "views": 192
     },
