@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782707125,
+  "generated_at": 1782707424,
   "scraped_count": 477,
   "products": [
     {
@@ -157,7 +157,7 @@
       "stock_count": 0,
       "popularity": 221,
       "added_at": 1752844861,
-      "views": 905
+      "views": 906
     },
     {
       "slug": "bos-mini-a1-pro-4-64gb-9",
@@ -994,7 +994,7 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1772526981,
-      "views": 566
+      "views": 567
     },
     {
       "slug": "bos-mini-a15-9-djujmov",
@@ -4838,7 +4838,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1716467260,
-      "views": 255
+      "views": 256
     },
     {
       "slug": "led-lampa-zw1-9005",
@@ -9457,7 +9457,7 @@
       "stock_count": 0,
       "popularity": 64,
       "added_at": 1752837291,
-      "views": 458
+      "views": 459
     },
     {
       "slug": "bos-mini-y1568mbt-12v-24v",
@@ -14791,7 +14791,7 @@
       "stock_count": 0,
       "popularity": 678,
       "added_at": 1714856095,
-      "views": 589
+      "views": 590
     }
   ]
 }
