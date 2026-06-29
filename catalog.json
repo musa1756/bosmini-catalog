@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782714337,
-  "scraped_count": 475,
+  "generated_at": 1782714624,
+  "scraped_count": 474,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -126,7 +126,7 @@
       "stock_count": 0,
       "popularity": 432,
       "added_at": 1752844839,
-      "views": 1356
+      "views": 1357
     },
     {
       "slug": "bos-mini-8702-2-32gb-7",
@@ -1273,7 +1273,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1772527820,
-      "views": 365
+      "views": 366
     },
     {
       "slug": "bos-mini-a8-pro-8-256gb-10-djujmov",
@@ -1893,7 +1893,7 @@
       "stock_count": 0,
       "popularity": 68,
       "added_at": 1764392333,
-      "views": 485
+      "views": 486
     },
     {
       "slug": "bos-mini-ts18-10-6-128gb",
@@ -4156,7 +4156,7 @@
       "stock_count": 0,
       "popularity": 1034,
       "added_at": 1718527601,
-      "views": 841
+      "views": 842
     },
     {
       "slug": "kompressor-3v1-y-qb01",
@@ -6543,7 +6543,7 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1773035549,
-      "views": 182
+      "views": 183
     },
     {
       "slug": "zerkala-videoregistratory-4k-wif-x12",
@@ -9336,37 +9336,6 @@
       "views": 149
     },
     {
-      "slug": "1-din-pioneer-gb-mvn-5803sbt",
-      "url": "https://bosminiofficial.com/shop/576/desc/1-din-pioneer-gb-mvn-5803sbt",
-      "name": "1-Din Pioneer.Gb / MVN-5803SBT",
-      "sku": "",
-      "price_rub": 1000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅Цветной экран ✅Bluetooth ✅Aux ✅USB и SD карты ✅4 выхода RCA ✅Радиатор охлаждения ✅Пульт управления и фишки для подключения в комплекте!!!",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/5/576.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/5/576.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/5/576.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/5/576.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 139,
-      "added_at": 1716273290,
-      "views": 564
-    },
-    {
       "slug": "bos-mini-n870",
       "url": "https://bosminiofficial.com/shop/1924/desc/bos-mini-n870",
       "name": "BOS-MINI N870",
@@ -9612,7 +9581,7 @@
       "stock_count": 0,
       "popularity": 119,
       "added_at": 1765607730,
-      "views": 763
+      "views": 764
     },
     {
       "slug": "bos-mini-y8063mbt",
@@ -9736,7 +9705,7 @@
       "stock_count": 0,
       "popularity": 87,
       "added_at": 1765628462,
-      "views": 282
+      "views": 283
     },
     {
       "slug": "bos-n974dsp",
@@ -10077,7 +10046,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1767297118,
-      "views": 259
+      "views": 260
     },
     {
       "slug": "dv-pioneer-ok-217",
@@ -10666,7 +10635,7 @@
       "stock_count": 0,
       "popularity": 1695,
       "added_at": 1722713624,
-      "views": 502
+      "views": 503
     },
     {
       "slug": "pioneer-gb-mvh-f899zbt",
@@ -13737,7 +13706,7 @@
       "stock_count": 0,
       "popularity": 39,
       "added_at": 1747294154,
-      "views": 160
+      "views": 161
     },
     {
       "slug": "syzx-v-1310-10",
