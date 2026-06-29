@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782711648,
+  "generated_at": 1782711928,
   "scraped_count": 476,
   "products": [
     {
@@ -746,7 +746,7 @@
       "stock_count": 0,
       "popularity": 700,
       "added_at": 1752909494,
-      "views": 1065
+      "views": 1066
     },
     {
       "slug": "bos-mini-t3-4-64gb-9",
@@ -4466,7 +4466,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1779958996,
-      "views": 152
+      "views": 153
     },
     {
       "slug": "ar7-h4",
@@ -6605,7 +6605,7 @@
       "stock_count": 0,
       "popularity": 280,
       "added_at": 1753683329,
-      "views": 784
+      "views": 785
     },
     {
       "slug": "zerkalo-videorgistrator-blaupunkt",
@@ -9486,7 +9486,7 @@
         "https://bosminiofficial.com/_sh/8/851.jpg"
       ],
       "stock_count": 0,
-      "popularity": 437,
+      "popularity": 447,
       "added_at": 1722879275,
       "views": 847
     },
@@ -9796,7 +9796,7 @@
         "https://bosminiofficial.com/_sh/25/2561.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1588,
+      "popularity": 1591,
       "added_at": 1754637220,
       "views": 290
     },
@@ -9827,7 +9827,7 @@
         "https://bosminiofficial.com/_sh/28/2861.jpg"
       ],
       "stock_count": 0,
-      "popularity": 51,
+      "popularity": 53,
       "added_at": 1772781358,
       "views": 275
     },
@@ -9858,7 +9858,7 @@
         "https://bosminiofficial.com/_sh/8/875.jpg"
       ],
       "stock_count": 0,
-      "popularity": 673,
+      "popularity": 676,
       "added_at": 1723960647,
       "views": 401
     },
@@ -9920,7 +9920,7 @@
         "https://bosminiofficial.com/_sh/28/2836.jpg"
       ],
       "stock_count": 0,
-      "popularity": 6,
+      "popularity": 9,
       "added_at": 1770802347,
       "views": 169
     },
@@ -9951,7 +9951,7 @@
         "https://bosminiofficial.com/_sh/28/2837.jpg"
       ],
       "stock_count": 0,
-      "popularity": 28,
+      "popularity": 30,
       "added_at": 1770802367,
       "views": 154
     },
@@ -9982,7 +9982,7 @@
         "https://bosminiofficial.com/_sh/28/2838.jpg"
       ],
       "stock_count": 0,
-      "popularity": 10,
+      "popularity": 12,
       "added_at": 1770802444,
       "views": 163
     },
@@ -10013,7 +10013,7 @@
         "https://bosminiofficial.com/_sh/28/2839.jpg"
       ],
       "stock_count": 0,
-      "popularity": 33,
+      "popularity": 36,
       "added_at": 1770802487,
       "views": 208
     },
@@ -10106,7 +10106,7 @@
         "https://bosminiofficial.com/_sh/8/876.jpg"
       ],
       "stock_count": 0,
-      "popularity": 737,
+      "popularity": 740,
       "added_at": 1723960692,
       "views": 421
     },
@@ -10137,7 +10137,7 @@
         "https://bosminiofficial.com/_sh/8/877.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1228,
+      "popularity": 1231,
       "added_at": 1723960739,
       "views": 381
     },
@@ -10199,7 +10199,7 @@
         "https://bosminiofficial.com/_sh/28/2862.jpg"
       ],
       "stock_count": 0,
-      "popularity": 123,
+      "popularity": 126,
       "added_at": 1773034968,
       "views": 280
     },
@@ -10540,7 +10540,7 @@
         "https://bosminiofficial.com/_sh/25/2520.jpg"
       ],
       "stock_count": 0,
-      "popularity": 200,
+      "popularity": 203,
       "added_at": 1753770414,
       "views": 411
     },
@@ -10571,7 +10571,7 @@
         "https://bosminiofficial.com/_sh/25/2521.jpg"
       ],
       "stock_count": 0,
-      "popularity": 52,
+      "popularity": 62,
       "added_at": 1753770698,
       "views": 218
     },
@@ -10602,7 +10602,7 @@
         "https://bosminiofficial.com/_sh/13/1392.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1809,
+      "popularity": 1824,
       "added_at": 1746085618,
       "views": 293
     },
@@ -10695,7 +10695,7 @@
         "https://bosminiofficial.com/_sh/8/824.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1688,
+      "popularity": 1695,
       "added_at": 1722713624,
       "views": 502
     },
@@ -10757,7 +10757,7 @@
         "https://bosminiofficial.com/_sh/8/821.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1258,
+      "popularity": 1265,
       "added_at": 1722584362,
       "views": 600
     },
@@ -12690,7 +12690,7 @@
       "url": "https://bosminiofficial.com/shop/611/desc/vw-polo-2012-2017",
       "name": "VW POLO 2012-2017",
       "sku": "",
-      "price_rub": 1050,
+      "price_rub": 950,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
