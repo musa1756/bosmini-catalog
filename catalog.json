@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782734726,
+  "generated_at": 1782735027,
   "scraped_count": 472,
   "products": [
     {
@@ -3660,7 +3660,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1775197935,
-      "views": 134
+      "views": 135
     },
     {
       "slug": "aromatizator-rh-045",
@@ -14636,7 +14636,7 @@
       "stock_count": 0,
       "popularity": 678,
       "added_at": 1714856095,
-      "views": 591
+      "views": 592
     }
   ]
 }
