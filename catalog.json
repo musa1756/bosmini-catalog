@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782849327,
+  "generated_at": 1782849624,
   "scraped_count": 472,
   "products": [
     {
@@ -467,7 +467,7 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1779787001,
-      "views": 160
+      "views": 161
     },
     {
       "slug": "bos-mini-a7-4-64gb-7",
@@ -6481,7 +6481,7 @@
       "stock_count": 0,
       "popularity": 102,
       "added_at": 1721755869,
-      "views": 463
+      "views": 464
     },
     {
       "slug": "vreznaja-kamera-zadnego-vida-e1241",
@@ -8620,7 +8620,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1767297276,
-      "views": 184
+      "views": 185
     },
     {
       "slug": "pioneer-ts-a1394",
@@ -14636,7 +14636,7 @@
       "stock_count": 0,
       "popularity": 678,
       "added_at": 1714856095,
-      "views": 593
+      "views": 594
     }
   ]
 }
