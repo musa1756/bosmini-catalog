@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782804923,
+  "generated_at": 1782805227,
   "scraped_count": 472,
   "products": [
     {
@@ -3195,7 +3195,7 @@
       "stock_count": 0,
       "popularity": 382,
       "added_at": 1724488803,
-      "views": 266
+      "views": 267
     },
     {
       "slug": "carplay-5-4-64gb",
@@ -11319,7 +11319,7 @@
       "stock_count": 0,
       "popularity": 65,
       "added_at": 1749111958,
-      "views": 655
+      "views": 656
     },
     {
       "slug": "bos-08g",
@@ -12001,7 +12001,7 @@
       "stock_count": 0,
       "popularity": 164,
       "added_at": 1752932250,
-      "views": 178
+      "views": 179
     },
     {
       "slug": "gazelle-business-2010-9-djujmov-seryj",
@@ -14636,7 +14636,7 @@
       "stock_count": 0,
       "popularity": 678,
       "added_at": 1714856095,
-      "views": 592
+      "views": 593
     }
   ]
 }
