@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782827123,
+  "generated_at": 1782827423,
   "scraped_count": 472,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 643
+      "views": 644
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -870,7 +870,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782456237,
-      "views": 26
+      "views": 27
     },
     {
       "slug": "bos-a658d-pro-4-64gb",
@@ -10323,7 +10323,7 @@
         "https://bosminiofficial.com/_sh/27/2702.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1244,
+      "popularity": 1364,
       "added_at": 1764669521,
       "views": 235
     },
@@ -13055,7 +13055,7 @@
       "stock_count": 0,
       "popularity": 76,
       "added_at": 1726917366,
-      "views": 731
+      "views": 732
     },
     {
       "slug": "bos-mini-1510-10-2600w",
@@ -14543,7 +14543,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1765430493,
-      "views": 174
+      "views": 175
     },
     {
       "slug": "pioneer-427",
