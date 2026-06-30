@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782832527,
+  "generated_at": 1782832823,
   "scraped_count": 472,
   "products": [
     {
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782539919,
-      "views": 20
+      "views": 21
     },
     {
       "slug": "bos-mini-a1206",
@@ -1707,7 +1707,7 @@
       "stock_count": 0,
       "popularity": 128,
       "added_at": 1752911964,
-      "views": 1868
+      "views": 1869
     },
     {
       "slug": "bos-mini-ts10-4-64gb-10",
@@ -9796,7 +9796,7 @@
         "https://bosminiofficial.com/_sh/8/875.jpg"
       ],
       "stock_count": 0,
-      "popularity": 676,
+      "popularity": 691,
       "added_at": 1723960647,
       "views": 403
     },
@@ -9860,7 +9860,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1770802347,
-      "views": 172
+      "views": 173
     },
     {
       "slug": "dv-pioneer-ok-mp3565",
@@ -10664,7 +10664,7 @@
         "https://bosminiofficial.com/_sh/8/821.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1265,
+      "popularity": 1280,
       "added_at": 1722584362,
       "views": 604
     },
@@ -13549,7 +13549,7 @@
         "https://bosminiofficial.com/_sh/27/2780.jpg"
       ],
       "stock_count": 0,
-      "popularity": 145,
+      "popularity": 146,
       "added_at": 1766646329,
       "views": 252
     },
