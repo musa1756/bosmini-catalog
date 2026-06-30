@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782844225,
+  "generated_at": 1782844524,
   "scraped_count": 472,
   "products": [
     {
@@ -1962,7 +1962,7 @@
       "url": "https://bosminiofficial.com/shop/2951/desc/dhd-m1-4-64gb-9-djujmov",
       "name": "DHD M1 4+64Gb ,, 9-Дюймов",
       "sku": "",
-      "price_rub": 4000,
+      "price_rub": 4400,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -6109,7 +6109,7 @@
       "stock_count": 0,
       "popularity": 139,
       "added_at": 1747484565,
-      "views": 360
+      "views": 361
     },
     {
       "slug": "tomboss-t16",
