@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782873025,
+  "generated_at": 1782873329,
   "scraped_count": 472,
   "products": [
     {
@@ -6357,7 +6357,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1768974626,
-      "views": 332
+      "views": 333
     },
     {
       "slug": "videoregistrator-dlja-android-magnitol-u1pro",
@@ -14636,7 +14636,7 @@
       "stock_count": 0,
       "popularity": 678,
       "added_at": 1714856095,
-      "views": 594
+      "views": 595
     }
   ]
 }
