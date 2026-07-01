@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782887124,
-  "scraped_count": 472,
+  "generated_at": 1782887427,
+  "scraped_count": 471,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1490,7 +1490,7 @@
       "stock_count": 0,
       "popularity": 91,
       "added_at": 1767294203,
-      "views": 805
+      "views": 806
     },
     {
       "slug": "bos-mini-n776s-4-64gb",
@@ -2048,7 +2048,7 @@
       "stock_count": 0,
       "popularity": 65,
       "added_at": 1781700561,
-      "views": 43
+      "views": 44
     },
     {
       "slug": "dhd-x1-mini-4-46gb",
@@ -2730,7 +2730,7 @@
       "stock_count": 0,
       "popularity": 29,
       "added_at": 1773476138,
-      "views": 361
+      "views": 362
     },
     {
       "slug": "sx4-pro-4-64gb",
@@ -8003,37 +8003,6 @@
       "views": 366
     },
     {
-      "slug": "hertz-k165",
-      "url": "https://bosminiofficial.com/shop/2530/desc/hertz-k165",
-      "name": "HERTZ K165",
-      "sku": "",
-      "price_rub": 2850,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер Динамика 16см ✅Мощность- 300W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2530.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2530.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2530.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2530.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 80,
-      "added_at": 1753859805,
-      "views": 262
-    },
-    {
       "slug": "hertz-x165",
       "url": "https://bosminiofficial.com/shop/2531/desc/hertz-x165",
       "name": "HERTZ X165",
@@ -10480,7 +10449,7 @@
       "stock_count": 0,
       "popularity": 207,
       "added_at": 1753770414,
-      "views": 415
+      "views": 416
     },
     {
       "slug": "pioneer-gb-mvh-341-12-24v",
