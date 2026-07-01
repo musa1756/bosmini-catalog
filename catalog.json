@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782947725,
+  "generated_at": 1782948024,
   "scraped_count": 473,
   "products": [
     {
@@ -529,7 +529,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782540010,
-      "views": 24
+      "views": 25
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -1769,7 +1769,7 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1769577324,
-      "views": 452
+      "views": 453
     },
     {
       "slug": "bos-mini-ts10-6-128gb-10",
@@ -6016,7 +6016,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1750599476,
-      "views": 307
+      "views": 308
     },
     {
       "slug": "e5-olim-s2",
@@ -14667,7 +14667,7 @@
       "stock_count": 0,
       "popularity": 678,
       "added_at": 1714856095,
-      "views": 595
+      "views": 596
     }
   ]
 }
