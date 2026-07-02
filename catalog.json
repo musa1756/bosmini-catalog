@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782961526,
+  "generated_at": 1782961826,
   "scraped_count": 473,
   "products": [
     {
@@ -250,7 +250,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782390552,
-      "views": 25
+      "views": 26
     },
     {
       "slug": "bos-mini-a1206-4g",
@@ -374,7 +374,7 @@
       "stock_count": 0,
       "popularity": 3057,
       "added_at": 1752844676,
-      "views": 1698
+      "views": 1699
     },
     {
       "slug": "bos-mini-a42-6-64gb-9",
@@ -5458,7 +5458,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1778565029,
-      "views": 138
+      "views": 139
     },
     {
       "slug": "galogenovaja-lampa-hb4-9006",
@@ -5768,7 +5768,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1781947054,
-      "views": 27
+      "views": 28
     },
     {
       "slug": "bos-mini-l-810",
@@ -11753,7 +11753,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1714856095,
-      "views": 351
+      "views": 353
     },
     {
       "slug": "parktronik-bos-555",
@@ -13830,7 +13830,7 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1715671990,
-      "views": 324
+      "views": 325
     },
     {
       "slug": "kabel-2-2-rca-sinij",
@@ -14667,7 +14667,7 @@
       "stock_count": 0,
       "popularity": 678,
       "added_at": 1714856095,
-      "views": 596
+      "views": 597
     }
   ]
 }
