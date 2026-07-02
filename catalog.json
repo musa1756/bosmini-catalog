@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782987031,
+  "generated_at": 1782987326,
   "scraped_count": 473,
   "products": [
     {
@@ -95,7 +95,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1763311652,
-      "views": 768
+      "views": 769
     },
     {
       "slug": "bos-mini-8701-2-32gb-7",
@@ -124,7 +124,7 @@
         "https://bosminiofficial.com/_sh/19/1942.jpg"
       ],
       "stock_count": 0,
-      "popularity": 432,
+      "popularity": 440,
       "added_at": 1752844839,
       "views": 1365
     },
@@ -5613,7 +5613,7 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1751353443,
-      "views": 258
+      "views": 259
     },
     {
       "slug": "svetodiodnye-linzy-gt3",
@@ -12342,7 +12342,7 @@
       "stock_count": 0,
       "popularity": 680,
       "added_at": 1721297076,
-      "views": 570
+      "views": 571
     },
     {
       "slug": "lada-priora-2013-2018",
