@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1782994827,
+  "generated_at": 1782995125,
   "scraped_count": 473,
   "products": [
     {
@@ -529,7 +529,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782540010,
-      "views": 25
+      "views": 26
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -653,7 +653,7 @@
       "stock_count": 0,
       "popularity": 69,
       "added_at": 1753341610,
-      "views": 2757
+      "views": 2758
     },
     {
       "slug": "bos-mini-q8-4-64gb-9",
@@ -963,7 +963,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1769583711,
-      "views": 1170
+      "views": 1171
     },
     {
       "slug": "bos-mini-a15-10-djujmov",
@@ -994,7 +994,7 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1772526981,
-      "views": 576
+      "views": 580
     },
     {
       "slug": "bos-mini-a15-9-djujmov",
@@ -1056,7 +1056,7 @@
       "stock_count": 0,
       "popularity": 513,
       "added_at": 1764392614,
-      "views": 822
+      "views": 823
     },
     {
       "slug": "bos-mini-a5-6-128gb-10",
@@ -1180,7 +1180,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1772529067,
-      "views": 514
+      "views": 518
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-10-djujmov",
@@ -1211,7 +1211,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1772527567,
-      "views": 327
+      "views": 328
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-9-djujmov",
@@ -1645,7 +1645,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1752853165,
-      "views": 416
+      "views": 417
     },
     {
       "slug": "bos-mini-t8-4-64gb-9",
@@ -1800,7 +1800,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1769577457,
-      "views": 477
+      "views": 478
     },
     {
       "slug": "bos-mini-ts10-6-128gb-9",
@@ -6357,7 +6357,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1768974626,
-      "views": 338
+      "views": 339
     },
     {
       "slug": "videoregistrator-dlja-android-magnitol-u1pro",
@@ -7194,7 +7194,7 @@
       "stock_count": 0,
       "popularity": 46,
       "added_at": 1753599089,
-      "views": 994
+      "views": 995
     },
     {
       "slug": "bos-mini-5088",
@@ -9984,7 +9984,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1767297118,
-      "views": 267
+      "views": 268
     },
     {
       "slug": "dv-pioneer-ok-217",
@@ -14667,7 +14667,7 @@
       "stock_count": 0,
       "popularity": 678,
       "added_at": 1714856095,
-      "views": 597
+      "views": 598
     }
   ]
 }
