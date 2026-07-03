@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783061426,
-  "scraped_count": 476,
+  "generated_at": 1783061725,
+  "scraped_count": 474,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1738,7 +1738,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1769577346,
-      "views": 370
+      "views": 371
     },
     {
       "slug": "bos-mini-ts10-4-64gb-9",
@@ -3381,7 +3381,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1730529840,
-      "views": 415
+      "views": 416
     },
     {
       "slug": "iso-bos-mini-e-05",
@@ -6791,7 +6791,7 @@
       "stock_count": 0,
       "popularity": 427,
       "added_at": 1732038503,
-      "views": 512
+      "views": 513
     },
     {
       "slug": "kamera-zad-vida-e-3218",
@@ -8807,37 +8807,6 @@
       "popularity": 84,
       "added_at": 1745558815,
       "views": 263
-    },
-    {
-      "slug": "pioneer-ts-a1696a-650w",
-      "url": "https://bosminiofficial.com/shop/2795/desc/pioneer-ts-a1696a-650w",
-      "name": "Pioneer TS-A1696A 650W",
-      "sku": "",
-      "price_rub": 800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅размер-16см\n✅максимальная мощность-650w",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2795.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2795.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2795.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2795.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 95,
-      "added_at": 1767297425,
-      "views": 206
     },
     {
       "slug": "pioneer-ts6996a",
@@ -13213,37 +13182,6 @@
       "views": 30
     },
     {
-      "slug": "bos-mini-1512-12-3600w",
-      "url": "https://bosminiofficial.com/shop/2961/desc/bos-mini-1512-12-3600w",
-      "name": "BOS-MINI 1512 (12\", 3600W)",
-      "sku": "BOS-1512",
-      "price_rub": 6500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Сабвуфер активный\n✅Размер-12\"\n✅Максимальная Мощность: 3600W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2961.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2961.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2961.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2961.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 8,
-      "added_at": 1782111672,
-      "views": 27
-    },
-    {
       "slug": "bos-mini-1580-8-2600w",
       "url": "https://bosminiofficial.com/shop/2963/desc/bos-mini-1580-8-2600w",
       "name": "BOS-MINI 1580 (8\", 2600W)",
@@ -13737,7 +13675,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1741171685,
-      "views": 203
+      "views": 204
     },
     {
       "slug": "syzx-d-8310",
@@ -14357,7 +14295,7 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1753952020,
-      "views": 255
+      "views": 256
     },
     {
       "slug": "alpine-ap-47-1",
