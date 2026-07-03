@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783059924,
-  "scraped_count": 474,
+  "generated_at": 1783060227,
+  "scraped_count": 476,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2175,6 +2175,37 @@
       "views": 1
     },
     {
+      "slug": "dhd-y2-pro-8-64gb-9",
+      "url": "https://bosminiofficial.com/shop/2991/desc/dhd-y2-pro-8-64gb-9",
+      "name": "DHD Y2 PRO 8+64Gb 9\"",
+      "sku": "",
+      "price_rub": 6500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-9 дюймов\n✅Количество ядер-8\n✅Поддержка сим карты\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2991.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2991.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2991.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2991.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1783060101,
+      "views": 0
+    },
+    {
       "slug": "dv-pineer-ok-ahd-9115-10-3-32gb-10",
       "url": "https://bosminiofficial.com/shop/1936/desc/dv-pineer-ok-ahd-9115-10-3-32gb-10",
       "name": "DV-Pineer.OK AHD-9115-10 3+32Gb 9\"",
@@ -2886,6 +2917,37 @@
       "popularity": 3,
       "added_at": 1781589373,
       "views": 59
+    },
+    {
+      "slug": "y2-pro-12-128gb",
+      "url": "https://bosminiofficial.com/shop/2863/desc/y2-pro-12-128gb",
+      "name": "Y2 Pro 12+128Gb",
+      "sku": "",
+      "price_rub": 8000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-9 дюймов\n✅Количество ядер-8\n✅Поддержка сим карты\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/28/2863.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2863.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/28/2863.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2863.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 69,
+      "added_at": 1773035061,
+      "views": 349
     },
     {
       "slug": "zx1-4-64gb-9",
@@ -13675,7 +13737,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1741171685,
-      "views": 202
+      "views": 203
     },
     {
       "slug": "syzx-d-8310",
