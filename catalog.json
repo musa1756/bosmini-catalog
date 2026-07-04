@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783161924,
+  "generated_at": 1783162225,
   "scraped_count": 474,
   "products": [
     {
@@ -2978,7 +2978,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1776517259,
-      "views": 210
+      "views": 211
     },
     {
       "slug": "zx1-pro-plus-4-64gb-9",
@@ -14140,7 +14140,7 @@
       "stock_count": 0,
       "popularity": 40,
       "added_at": 1765863510,
-      "views": 202
+      "views": 203
     },
     {
       "slug": "komplekt-provodov-vp04",
@@ -14388,7 +14388,7 @@
       "stock_count": 0,
       "popularity": 308,
       "added_at": 1754033937,
-      "views": 595
+      "views": 596
     },
     {
       "slug": "dv-pioneer-ok-414",
@@ -14698,7 +14698,7 @@
       "stock_count": 0,
       "popularity": 678,
       "added_at": 1714856095,
-      "views": 599
+      "views": 600
     }
   ]
 }
