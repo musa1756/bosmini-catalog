@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783177828,
+  "generated_at": 1783178126,
   "scraped_count": 468,
   "products": [
     {
@@ -8186,7 +8186,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1755665003,
-      "views": 138
+      "views": 139
     },
     {
       "slug": "hz-505-500w-13sm",
@@ -11753,7 +11753,7 @@
       "stock_count": 0,
       "popularity": 140,
       "added_at": 1727072278,
-      "views": 617
+      "views": 618
     },
     {
       "slug": "chevrolet-cobalt",
@@ -14512,7 +14512,7 @@
       "stock_count": 0,
       "popularity": 678,
       "added_at": 1714856095,
-      "views": 600
+      "views": 601
     }
   ]
 }
