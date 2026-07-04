@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783164323,
-  "scraped_count": 474,
+  "generated_at": 1783164624,
+  "scraped_count": 468,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -811,37 +811,6 @@
       "views": 498
     },
     {
-      "slug": "bos-mini-t7038-4-64gb",
-      "url": "https://bosminiofficial.com/shop/2924/desc/bos-mini-t7038-4-64gb",
-      "name": "BOS-MINI T7038 4+64Gb",
-      "sku": "",
-      "price_rub": 4600,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-7 дюймов\n✅Память-4+64Gb\n✅Количество ядер-4+4\n✅Процессор DSP\n✅Carplay/AndroidAuto\n✅Кулер охлаждения\n✅Набор проводов для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2924.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2924.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2924.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2924.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 26,
-      "added_at": 1777460775,
-      "views": 289
-    },
-    {
       "slug": "bos-mini-a1105",
       "url": "https://bosminiofficial.com/shop/2979/desc/bos-mini-a1105",
       "name": "BOS-MINI А1105",
@@ -933,37 +902,6 @@
       "popularity": 47,
       "added_at": 1764313847,
       "views": 1323
-    },
-    {
-      "slug": "bos-mini-a14-8-128gb-9",
-      "url": "https://bosminiofficial.com/shop/2818/desc/bos-mini-a14-8-128gb-9",
-      "name": "Bos-Mini A14 8+128Gb 9\"",
-      "sku": "",
-      "price_rub": 9500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Память 8+128Gb\n✅Размер экрана- 9 дюймов\n✅Оптический выход\n✅Поддержка сим карты\n✅Количество ядер-8\n✅Carplay\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2818.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2818.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2818.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2818.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 48,
-      "added_at": 1769583711,
-      "views": 1174
     },
     {
       "slug": "bos-mini-a15-10-djujmov",
@@ -6791,7 +6729,7 @@
       "stock_count": 0,
       "popularity": 427,
       "added_at": 1732038503,
-      "views": 513
+      "views": 514
     },
     {
       "slug": "kamera-zad-vida-e-3218",
@@ -11291,37 +11229,6 @@
       "views": 226
     },
     {
-      "slug": "bos-a231bt",
-      "url": "https://bosminiofficial.com/shop/1466/desc/bos-a231bt",
-      "name": "BOS-A231BT",
-      "sku": "",
-      "price_rub": 1050,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Охранные системы"
-      ],
-      "brand_tags": [],
-      "description": "✅ Управление с телефона ✅ Все провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/14/1466.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/14/1466.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/14/1466.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/14/1466.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 23,
-      "added_at": 1749455727,
-      "views": 313
-    },
-    {
       "slug": "bos-mini-a235pke",
       "url": "https://bosminiofficial.com/shop/902/desc/bos-mini-a235pke",
       "name": "BOS-A235PKE",
@@ -11475,68 +11382,6 @@
       "popularity": 9,
       "added_at": 1765013663,
       "views": 279
-    },
-    {
-      "slug": "ok-jvc-he-670",
-      "url": "https://bosminiofficial.com/shop/1007/desc/ok-jvc-he-670",
-      "name": "OK-JVC (HE-670)",
-      "sku": "",
-      "price_rub": 1100,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Охранные системы"
-      ],
-      "brand_tags": [],
-      "description": "✅2 пульта ✅Блок управления ✅Сирена ✅Провода для подключения",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/10/1007.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1007.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/10/1007.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1007.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 9,
-      "added_at": 1729676994,
-      "views": 381
-    },
-    {
-      "slug": "ok-jvc-he-690-4",
-      "url": "https://bosminiofficial.com/shop/1009/desc/ok-jvc-he-690-4",
-      "name": "OK-JVC (HE-690-4)",
-      "sku": "",
-      "price_rub": 1100,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Охранные системы"
-      ],
-      "brand_tags": [],
-      "description": "✅2 пульта ✅Блок управления ✅Сирена ✅Провода для подключения",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/10/1009.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1009.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/10/1009.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1009.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 18,
-      "added_at": 1729677208,
-      "views": 411
     },
     {
       "slug": "starline-a91",
@@ -13768,7 +13613,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1765863730,
-      "views": 188
+      "views": 189
     },
     {
       "slug": "aktivnyj-sabvufer-px120",
@@ -14575,37 +14420,6 @@
       "popularity": 3,
       "added_at": 1765430470,
       "views": 181
-    },
-    {
-      "slug": "pioneer-424",
-      "url": "https://bosminiofficial.com/shop/2732/desc/pioneer-424",
-      "name": "Pioneer 424",
-      "sku": "",
-      "price_rub": 1500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Усилители"
-      ],
-      "brand_tags": [],
-      "description": "✅️Количество каналов-4\n✅️ Мощность 3800W-Max",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2732.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2732.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2732.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2732.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 8,
-      "added_at": 1765430493,
-      "views": 185
     },
     {
       "slug": "pioneer-427",
