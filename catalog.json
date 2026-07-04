@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783162225,
+  "generated_at": 1783162526,
   "scraped_count": 474,
   "products": [
     {
@@ -6915,7 +6915,7 @@
       "stock_count": 0,
       "popularity": 121,
       "added_at": 1764398182,
-      "views": 467
+      "views": 468
     },
     {
       "slug": "kamera-zadnego-vida-bos-l210",
@@ -7380,7 +7380,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782540803,
-      "views": 24
+      "views": 25
     },
     {
       "slug": "bos-mini-6528",
@@ -7504,7 +7504,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782627140,
-      "views": 16
+      "views": 17
     },
     {
       "slug": "bos-mini-t225",
@@ -14169,7 +14169,7 @@
         "https://bosminiofficial.com/_sh/27/2762.jpg"
       ],
       "stock_count": 0,
-      "popularity": 30,
+      "popularity": 40,
       "added_at": 1765863602,
       "views": 164
     },
