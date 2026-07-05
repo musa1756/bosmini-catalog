@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783231224,
-  "scraped_count": 469,
+  "generated_at": 1783231526,
+  "scraped_count": 468,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -563,37 +563,6 @@
       "views": 926
     },
     {
-      "slug": "bos-mini-q11",
-      "url": "https://bosminiofficial.com/shop/2025/desc/bos-mini-q11",
-      "name": "BOS-MINI Q11",
-      "sku": "",
-      "price_rub": 6000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Android-10\"\n✅Память 4+64Gb\n✅Размер экрана-10\"\n✅Посадочное место-9\"\n✅Количество ядер-4\n✅CarPlay\n✅Кулер охлаждения\n✅Рамки и набор для проводов в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/20/2025.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/20/2025.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/20/2025.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/20/2025.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 14,
-      "added_at": 1752910176,
-      "views": 517
-    },
-    {
       "slug": "bos-mini-q2-9",
       "url": "https://bosminiofficial.com/shop/1982/desc/bos-mini-q2-9",
       "name": "BOS-MINI Q2 9\"",
@@ -870,7 +839,7 @@
       "stock_count": 0,
       "popularity": 111,
       "added_at": 1764313794,
-      "views": 1560
+      "views": 1561
     },
     {
       "slug": "bos-a659d-pro-4-64gb",
@@ -1800,7 +1769,7 @@
       "stock_count": 0,
       "popularity": 71,
       "added_at": 1764392333,
-      "views": 495
+      "views": 496
     },
     {
       "slug": "bos-mini-ts18-10-6-128gb",
@@ -11536,7 +11505,7 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1727081099,
-      "views": 262
+      "views": 263
     },
     {
       "slug": "dvukhstoronnjaja-signalizacija-s-avtozapuskom-x5",
@@ -14016,7 +13985,7 @@
       "stock_count": 0,
       "popularity": 40,
       "added_at": 1765863510,
-      "views": 203
+      "views": 204
     },
     {
       "slug": "komplekt-provodov-vp04",
@@ -14543,7 +14512,7 @@
       "stock_count": 0,
       "popularity": 678,
       "added_at": 1714856095,
-      "views": 601
+      "views": 602
     }
   ]
 }
