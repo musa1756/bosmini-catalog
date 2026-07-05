@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783284928,
+  "generated_at": 1783285222,
   "scraped_count": 468,
   "products": [
     {
@@ -157,7 +157,7 @@
       "stock_count": 0,
       "popularity": 221,
       "added_at": 1752844861,
-      "views": 922
+      "views": 923
     },
     {
       "slug": "bos-mini-a1-pro-4-64gb-9",
@@ -279,7 +279,7 @@
         "https://bosminiofficial.com/_sh/29/2978.jpg"
       ],
       "stock_count": 0,
-      "popularity": 0,
+      "popularity": 1,
       "added_at": 1782390686,
       "views": 39
     },
@@ -312,7 +312,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782470618,
-      "views": 39
+      "views": 42
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -1335,7 +1335,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1765802523,
-      "views": 1143
+      "views": 1144
     },
     {
       "slug": "bos-mini-k72",
@@ -2079,7 +2079,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1783059576,
-      "views": 10
+      "views": 11
     },
     {
       "slug": "dhd-y2-pro-8-64gb-9",
@@ -2203,7 +2203,7 @@
       "stock_count": 0,
       "popularity": 49,
       "added_at": 1773035336,
-      "views": 396
+      "views": 397
     },
     {
       "slug": "dv-pioneer-ok-bx4-6-128gb",
@@ -2823,7 +2823,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1781589373,
-      "views": 62
+      "views": 63
     },
     {
       "slug": "y2-pro-12-128gb",
@@ -5923,7 +5923,7 @@
       "stock_count": 0,
       "popularity": 118,
       "added_at": 1765628182,
-      "views": 385
+      "views": 386
     },
     {
       "slug": "bos-mini-l-369",
@@ -10730,7 +10730,7 @@
       "stock_count": 0,
       "popularity": 150,
       "added_at": 1714856095,
-      "views": 1208
+      "views": 1209
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
@@ -14078,7 +14078,7 @@
       "stock_count": 0,
       "popularity": 26,
       "added_at": 1719475285,
-      "views": 399
+      "views": 400
     },
     {
       "slug": "saby-bos-mini-k-120",
