@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783242623,
+  "generated_at": 1783242925,
   "scraped_count": 468,
   "products": [
     {
@@ -2110,7 +2110,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1783060101,
-      "views": 13
+      "views": 14
     },
     {
       "slug": "dv-pineer-ok-ahd-9115-10-3-32gb-10",
@@ -8589,7 +8589,7 @@
       "stock_count": 0,
       "popularity": 187,
       "added_at": 1728137074,
-      "views": 384
+      "views": 385
     },
     {
       "slug": "pioneer-ts-a1096a-450w",
@@ -14512,7 +14512,7 @@
       "stock_count": 0,
       "popularity": 678,
       "added_at": 1714856095,
-      "views": 602
+      "views": 603
     }
   ]
 }
