@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783253724,
+  "generated_at": 1783254025,
   "scraped_count": 468,
   "products": [
     {
@@ -1583,7 +1583,7 @@
       "stock_count": 0,
       "popularity": 64,
       "added_at": 1752853137,
-      "views": 893
+      "views": 894
     },
     {
       "slug": "bos-mini-t8705-4-64gb-7",
@@ -6202,7 +6202,7 @@
       "stock_count": 0,
       "popularity": 64,
       "added_at": 1753772635,
-      "views": 889
+      "views": 890
     },
     {
       "slug": "tomboss-t30",
@@ -6853,7 +6853,7 @@
       "stock_count": 0,
       "popularity": 121,
       "added_at": 1764398182,
-      "views": 470
+      "views": 471
     },
     {
       "slug": "kamera-zadnego-vida-bos-l210",
@@ -8620,7 +8620,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1767297276,
-      "views": 189
+      "views": 190
     },
     {
       "slug": "pioneer-ts-a1394",
@@ -14233,7 +14233,7 @@
       "stock_count": 0,
       "popularity": 308,
       "added_at": 1754033937,
-      "views": 597
+      "views": 598
     },
     {
       "slug": "dv-pioneer-ok-414",
@@ -14512,7 +14512,7 @@
       "stock_count": 0,
       "popularity": 678,
       "added_at": 1714856095,
-      "views": 603
+      "views": 604
     }
   ]
 }
