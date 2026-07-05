@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783230626,
-  "scraped_count": 468,
+  "generated_at": 1783230925,
+  "scraped_count": 469,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -4653,6 +4653,37 @@
       "popularity": 29,
       "added_at": 1730967246,
       "views": 244
+    },
+    {
+      "slug": "e4-h4-15000-lm",
+      "url": "https://bosminiofficial.com/shop/1040/desc/e4-h4-15000-lm",
+      "name": "E4-H4 (15000 Lm)",
+      "sku": "",
+      "price_rub": 2200,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Автосвет"
+      ],
+      "brand_tags": [],
+      "description": "✅Светоотдача: 15000 Lm ✅Цветовая температура: 6500K ✅ Срок службы: <30000 часов ✅Влагозащищенность: IP68 ✅ Рабочая тем-ра: -40C~+80С ✅Напряжение: DC 12-24V",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/10/1040.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/10/1040.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/10/1040.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/10/1040.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 47,
+      "added_at": 1730967347,
+      "views": 215
     },
     {
       "slug": "k15-9005-hb3",
@@ -11505,7 +11536,7 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1727081099,
-      "views": 261
+      "views": 262
     },
     {
       "slug": "dvukhstoronnjaja-signalizacija-s-avtozapuskom-x5",
