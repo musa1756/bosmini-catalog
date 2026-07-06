@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783335626,
-  "scraped_count": 465,
+  "generated_at": 1783335820,
+  "scraped_count": 466,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1900,7 +1900,7 @@
       "url": "https://bosminiofficial.com/shop/2949/desc/dhd-s1-4-64gb-9-djujmov",
       "name": "DHD S1 4+64Gb \"9-Дюймов",
       "sku": "",
-      "price_rub": 4000,
+      "price_rub": 4100,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -1931,7 +1931,7 @@
       "url": "https://bosminiofficial.com/shop/2950/desc/dhd-s1-plus-4-64gb-10-djujmov",
       "name": "DHD S1 Plus 4+64Gb \"10-Дюймов",
       "sku": "",
-      "price_rub": 4000,
+      "price_rub": 4100,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -1956,6 +1956,37 @@
       "popularity": 65,
       "added_at": 1781700561,
       "views": 51
+    },
+    {
+      "slug": "dhd-x1-4-64-9-djujmov",
+      "url": "https://bosminiofficial.com/shop/2943/desc/dhd-x1-4-64-9-djujmov",
+      "name": "DHD X1 4+64 \"9-Дюймов",
+      "sku": "",
+      "price_rub": 4100,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅️Размер экрана -9 дюймов\n✅️Память-4+64Gb\n✅️CarPlay/AndroidAuto\n✅️Кулер охлаждения\n✅️Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2943.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2943.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2943.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2943.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 256,
+      "added_at": 1781001046,
+      "views": 104
     },
     {
       "slug": "dhd-x1-mini-4-46gb",
@@ -1993,7 +2024,7 @@
       "url": "https://bosminiofficial.com/shop/2948/desc/dhd-x1-plus-4-64gb-10-djujmov",
       "name": "DHD X1 Plus 4+64Gb \"10-Дюймов",
       "sku": "",
-      "price_rub": 4000,
+      "price_rub": 4100,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
