@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783330525,
-  "scraped_count": 468,
+  "generated_at": 1783330825,
+  "scraped_count": 465,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -3167,37 +3167,6 @@
       "views": 212
     },
     {
-      "slug": "bos-mini-sd-64gb",
-      "url": "https://bosminiofficial.com/shop/890/desc/bos-mini-sd-64gb",
-      "name": "Bos-Mini SD 64Gb",
-      "sku": "",
-      "price_rub": 400,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Автоаксессуары"
-      ],
-      "brand_tags": [],
-      "description": "✅ Тип олеш карты - SD ✅ Память-64Gb",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/8/890.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/8/890.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/8/890.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/8/890.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 417,
-      "added_at": 1724488803,
-      "views": 272
-    },
-    {
       "slug": "carplay-5-4-64gb",
       "url": "https://bosminiofficial.com/shop/1033/desc/carplay-5-4-64gb",
       "name": "CarPlay 5 (4+64Gb)",
@@ -4280,7 +4249,7 @@
       "stock_count": 0,
       "popularity": 125,
       "added_at": 1732270639,
-      "views": 532
+      "views": 533
     },
     {
       "slug": "multirul-bos-mini-a03",
@@ -6174,37 +6143,6 @@
       "views": 103
     },
     {
-      "slug": "tomboss-t20",
-      "url": "https://bosminiofficial.com/shop/2529/desc/tomboss-t20",
-      "name": "TOMBOSS T20",
-      "sku": "",
-      "price_rub": 3000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅Камера вперед и назад ✅Система ADAS ✅Wi-Fi ✅Полный сенсорный экран 4K",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2529.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2529.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2529.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2529.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 65,
-      "added_at": 1753772635,
-      "views": 891
-    },
-    {
       "slug": "tomboss-t30",
       "url": "https://bosminiofficial.com/shop/2528/desc/tomboss-t30",
       "name": "TOMBOSS T30",
@@ -6794,37 +6732,6 @@
       "views": 224
     },
     {
-      "slug": "kamera-zadnego-vida-l606",
-      "url": "https://bosminiofficial.com/shop/1205/desc/kamera-zadnego-vida-l606",
-      "name": "Камера заднего вида (L606)",
-      "sku": "",
-      "price_rub": 150,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅ В комплекте 5м",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/12/1205.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1205.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/12/1205.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1205.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 8566,
-      "added_at": 1735293007,
-      "views": 296
-    },
-    {
       "slug": "kamera-zadnego-vida-bos-f65",
       "url": "https://bosminiofficial.com/shop/2690/desc/kamera-zadnego-vida-bos-f65",
       "name": "Камера заднего вида BOS-F65",
@@ -7225,7 +7132,7 @@
       "stock_count": 0,
       "popularity": 46,
       "added_at": 1753599089,
-      "views": 1008
+      "views": 1009
     },
     {
       "slug": "bos-mini-5088",
@@ -10916,7 +10823,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1773903123,
-      "views": 289
+      "views": 290
     },
     {
       "slug": "bos-mini-n639dp5",
