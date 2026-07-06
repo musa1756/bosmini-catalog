@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783354838,
+  "generated_at": 1783355124,
   "scraped_count": 466,
   "products": [
     {
@@ -1614,7 +1614,7 @@
       "stock_count": 0,
       "popularity": 128,
       "added_at": 1752911964,
-      "views": 1888
+      "views": 1889
     },
     {
       "slug": "bos-mini-ts10-4-64gb-10",
@@ -4311,7 +4311,7 @@
       "stock_count": 0,
       "popularity": 57,
       "added_at": 1765013957,
-      "views": 544
+      "views": 545
     },
     {
       "slug": "puskovoe-ustrojstvo-3-v-1-cjs-28",
@@ -14450,7 +14450,7 @@
       "stock_count": 0,
       "popularity": 679,
       "added_at": 1714856095,
-      "views": 605
+      "views": 606
     }
   ]
 }
