@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783348828,
+  "generated_at": 1783349127,
   "scraped_count": 466,
   "products": [
     {
@@ -1056,7 +1056,7 @@
       "stock_count": 0,
       "popularity": 32,
       "added_at": 1764494672,
-      "views": 1116
+      "views": 1117
     },
     {
       "slug": "bos-mini-a8-plus-6-128gb-10-djujmov",
@@ -14450,7 +14450,7 @@
       "stock_count": 0,
       "popularity": 679,
       "added_at": 1714856095,
-      "views": 604
+      "views": 605
     }
   ]
 }
