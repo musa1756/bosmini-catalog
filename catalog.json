@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783367128,
+  "generated_at": 1783367423,
   "scraped_count": 466,
   "products": [
     {
@@ -2699,7 +2699,7 @@
       "stock_count": 0,
       "popularity": 245,
       "added_at": 1769577184,
-      "views": 1127
+      "views": 1128
     },
     {
       "slug": "s1-4-64gb",
@@ -3164,7 +3164,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1732348103,
-      "views": 1015
+      "views": 1016
     },
     {
       "slug": "bos-mini-sd-128gb",
@@ -9240,7 +9240,7 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1752837333,
-      "views": 313
+      "views": 314
     },
     {
       "slug": "bos-mini-n871",
