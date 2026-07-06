@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783349435,
+  "generated_at": 1783349729,
   "scraped_count": 466,
   "products": [
     {
@@ -1955,7 +1955,7 @@
       "stock_count": 0,
       "popularity": 65,
       "added_at": 1781700561,
-      "views": 52
+      "views": 53
     },
     {
       "slug": "dhd-x1-4-64-9-djujmov",
@@ -7380,7 +7380,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1782627140,
-      "views": 27
+      "views": 28
     },
     {
       "slug": "bos-mini-t225",
@@ -7504,7 +7504,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1782390093,
-      "views": 34
+      "views": 35
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -7566,7 +7566,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1750255621,
-      "views": 379
+      "views": 380
     },
     {
       "slug": "bos-mini-6581-260w",
@@ -9891,7 +9891,7 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1767297093,
-      "views": 266
+      "views": 267
     },
     {
       "slug": "dv-pioneer-ok-mp372dsp",
@@ -10261,7 +10261,7 @@
         "https://bosminiofficial.com/_sh/27/2736.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1053,
+      "popularity": 1173,
       "added_at": 1765546343,
       "views": 202
     },
