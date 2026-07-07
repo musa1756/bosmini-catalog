@@ -35,7 +35,13 @@
 set -uo pipefail
 
 ENV_FILE="${ENV_FILE:-/etc/bos-catalog-sync.env}"
-[ -f "$ENV_FILE" ] && . "$ENV_FILE"
+# set -a: sync_catalog.py reads UCOZ_SITE/UCOZ_TOKEN from the environment, so
+# everything sourced here must be exported, not just shell-local.
+if [ -f "$ENV_FILE" ]; then
+  set -a
+  . "$ENV_FILE"
+  set +a
+fi
 
 DIR="${DIR:-/opt/bosmini-catalog-sync}"
 FUNCTIONS_URL="${FUNCTIONS_URL:-https://mujafejeji.beget.app/functions/v1}"
