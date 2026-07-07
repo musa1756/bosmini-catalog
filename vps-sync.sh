@@ -50,6 +50,11 @@ FAILS_FILE="$STATE_DIR/fails"
 LOCK_FILE="${LOCK_FILE:-/var/lock/bos-catalog-sync.lock}"
 THRESH="${THRESH:-3}"
 MIN_RATIO="${MIN_RATIO:-0.8}"
+# Hard cap on one scrape. A healthy run is minutes; a degraded uAPI must fail
+# this run (next cron tick retries) instead of holding the flock for hours.
+# Generous on purpose: unlike GitHub's 10-min job timeout, a slow-but-moving
+# run is still better than no catalog at all.
+SCRAPE_TIMEOUT="${SCRAPE_TIMEOUT:-2700}"
 GIT_PUSH="${GIT_PUSH:-1}"
 GIT_SSH_KEY="${GIT_SSH_KEY:-/root/.ssh/bosmini_catalog_deploy}"
 export GIT_SSH_COMMAND="ssh -i $GIT_SSH_KEY -o BatchMode=yes -o ConnectTimeout=10"
@@ -107,7 +112,7 @@ fi
 #    retry, not grind for an hour.
 #    -u: stream stdout to the temp log unbuffered so a long run can be
 #    watched live (tail -f /tmp/bos-catalog-sync.out).
-if ! ./venv/bin/python -u sync_catalog.py --out catalog.json.new \
+if ! timeout "$SCRAPE_TIMEOUT" ./venv/bin/python -u sync_catalog.py --out catalog.json.new \
     --timeout 30 --max-retries 3 --retry-max-delay 30 \
     >/tmp/bos-catalog-sync.out 2>&1; then
   tail -3 /tmp/bos-catalog-sync.out | while IFS= read -r l; do log "  $l"; done
