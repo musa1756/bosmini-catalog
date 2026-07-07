@@ -12,11 +12,19 @@ permissions:
 
 concurrency:
   group: sync-catalog
-  cancel-in-progress: false
+  # GitHub Actions is now the only timer (the old Frankfurt pg_cron is gone),
+  # so the dual-trigger collision that once justified `false` can't happen.
+  # `true` makes the queue self-heal: a new scheduled run evicts a stuck one
+  # instead of queuing behind it and being cancelled itself.
+  cancel-in-progress: true
 
 jobs:
   sync:
     runs-on: ubuntu-latest
+    # Hard ceiling: a healthy run finishes in ~30s. If the uAPI degrades and a
+    # request stalls, fail the run at 10 min rather than let it hold the
+    # concurrency lock for GitHub's 6h max and starve every scheduled run.
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v5
 
@@ -52,7 +60,11 @@ jobs:
           # the operator. sync_catalog.py also retries each uAPI request with
           # backoff for 429/5xx/timeouts, so this catches only whole-run errors.
           for attempt in 1 2 3; do
-            if python sync_catalog.py --out catalog.json; then
+            # Tight per-request timeout + fewer retries so a degraded uAPI
+            # fails this attempt fast instead of grinding ~15 min/request
+            # (was 60s timeout x 6 retries x 90s backoff).
+            if python sync_catalog.py --out catalog.json \
+                --timeout 30 --max-retries 3 --retry-max-delay 30; then
               break
             fi
             if [ "$attempt" -eq 3 ]; then
