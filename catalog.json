@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783407626,
-  "scraped_count": 467,
+  "generated_at": 1783407926,
+  "scraped_count": 468,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -561,6 +561,37 @@
       "popularity": 8,
       "added_at": 1752859489,
       "views": 927
+    },
+    {
+      "slug": "bos-mini-q17",
+      "url": "https://bosminiofficial.com/shop/2992/desc/bos-mini-q17",
+      "name": "BOS-MINI Q17",
+      "sku": "",
+      "price_rub": 6700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана- 10,33\"\n.\n(275мм*140мм)\n✅Память-4+128\n✅Поддержка сим карты\n✅Голосовое управление\n✅Qled экран\n✅Универсальная рамка и провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2992.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2992.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2992.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2992.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1783407884,
+      "views": 1
     },
     {
       "slug": "bos-mini-q2-9",
@@ -2613,7 +2644,7 @@
       "url": "https://bosminiofficial.com/shop/2612/desc/f7-4-64gb-7",
       "name": "F7 4+64Gb 7\"",
       "sku": "",
-      "price_rub": 3600,
+      "price_rub": 3800,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -7008,7 +7039,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1714856095,
-      "views": 670
+      "views": 671
     },
     {
       "slug": "provoda-dlja-kamery-zadnego-vida-20m",
