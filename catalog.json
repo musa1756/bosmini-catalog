@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783408823,
-  "scraped_count": 469,
+  "generated_at": 1783409124,
+  "scraped_count": 470,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1955,7 +1955,7 @@
       "stock_count": 0,
       "popularity": 152,
       "added_at": 1781700641,
-      "views": 64
+      "views": 65
     },
     {
       "slug": "dhd-s1-4-64gb-9-djujmov",
@@ -7380,7 +7380,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1782390251,
-      "views": 26
+      "views": 27
     },
     {
       "slug": "bos-mini-6587",
@@ -7567,6 +7567,37 @@
       "popularity": 6,
       "added_at": 1782538583,
       "views": 37
+    },
+    {
+      "slug": "bos-mini-t3155",
+      "url": "https://bosminiofficial.com/shop/2993/desc/bos-mini-t3155",
+      "name": "BOS-MINI T3155",
+      "sku": "",
+      "price_rub": 1400,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "☑️Размер Динамика 13см\n☑️Мощность 200 W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2993.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2993.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2993.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2993.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1783409105,
+      "views": 1
     },
     {
       "slug": "bos-mini-x651",
