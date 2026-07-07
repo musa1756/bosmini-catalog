@@ -18,6 +18,8 @@ import os
 import re
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import TimeoutError as FutureTimeout
 from pathlib import Path
 
 import httpx
@@ -87,6 +89,7 @@ class UcozApiClient:
         max_retries: int,
         retry_base_delay: float,
         retry_max_delay: float,
+        request_deadline: float = 0.0,
     ) -> None:
         self.client = client
         self.base = base.rstrip("/")
@@ -94,14 +97,38 @@ class UcozApiClient:
         self.max_retries = max(1, max_retries)
         self.retry_base_delay = max(0.1, retry_base_delay)
         self.retry_max_delay = max(self.retry_base_delay, retry_max_delay)
+        self.request_deadline = max(0.0, request_deadline)
+        # Workers for _get_with_deadline: an abandoned (timed-out) call keeps
+        # its thread blocked on the socket, so keep a few spares. The process
+        # is short-lived (one sync run), leaked threads die with it.
+        self._executor = ThreadPoolExecutor(max_workers=4)
         self._last_request_at = 0.0
+
+    def _get_with_deadline(self, url: str, params) -> httpx.Response:
+        """GET with a hard wall-clock cap on the WHOLE request.
+
+        httpx's read timeout is per-chunk: a server that drips one byte every
+        few seconds resets it forever and can hold a request open for hours
+        (observed on the uCoz uAPI, 2026-07-07). The future timeout below is
+        total elapsed time, which such tarpits cannot defeat.
+        """
+        if self.request_deadline <= 0:
+            return self.client.get(url, params=params)
+        future = self._executor.submit(self.client.get, url, params=params)
+        try:
+            return future.result(timeout=self.request_deadline)
+        except FutureTimeout:
+            future.cancel()
+            raise httpx.ReadTimeout(
+                f"no complete response within {self.request_deadline:.0f}s"
+            )
 
     def shop_request(self, params, *, label: str) -> dict:
         url = f"{self.base}/shop/request"
         for attempt in range(1, self.max_retries + 1):
             self._wait_for_slot()
             try:
-                response = self.client.get(url, params=params)
+                response = self._get_with_deadline(url, params)
                 if response.status_code in RETRYABLE_STATUS_CODES and attempt < self.max_retries:
                     delay = self._retry_delay(response, attempt)
                     print(
@@ -321,6 +348,11 @@ def run() -> int:
     ap.add_argument("--max-retries", type=int, default=6, help="Attempts per uAPI request")
     ap.add_argument("--retry-base-delay", type=float, default=10.0, help="Initial retry backoff in seconds")
     ap.add_argument("--retry-max-delay", type=float, default=90.0, help="Maximum retry backoff in seconds")
+    ap.add_argument(
+        "--request-deadline", type=float, default=0.0,
+        help="Hard wall-clock cap per uAPI request in seconds (0 = off). "
+        "Catches drip-feed responses that never trip the read timeout.",
+    )
     args = ap.parse_args()
 
     here = Path(__file__).resolve().parent
@@ -357,6 +389,7 @@ def run() -> int:
             base,
             request_delay=args.request_delay,
             max_retries=args.max_retries,
+            request_deadline=args.request_deadline,
             retry_base_delay=args.retry_base_delay,
             retry_max_delay=args.retry_max_delay,
         )

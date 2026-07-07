@@ -113,7 +113,7 @@ fi
 #    -u: stream stdout to the temp log unbuffered so a long run can be
 #    watched live (tail -f /tmp/bos-catalog-sync.out).
 if ! timeout "$SCRAPE_TIMEOUT" ./venv/bin/python -u sync_catalog.py --out catalog.json.new \
-    --timeout 30 --max-retries 3 --retry-max-delay 30 \
+    --timeout 30 --max-retries 3 --retry-max-delay 30 --request-deadline 75 \
     >/tmp/bos-catalog-sync.out 2>&1; then
   tail -3 /tmp/bos-catalog-sync.out | while IFS= read -r l; do log "  $l"; done
   fail "sync_catalog.py failed (details: /tmp/bos-catalog-sync.out)"
