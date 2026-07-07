@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783408223,
+  "generated_at": 1783408527,
   "scraped_count": 468,
   "products": [
     {
@@ -13062,7 +13062,7 @@
       "url": "https://bosminiofficial.com/shop/2626/desc/bos-mini-6016",
       "name": "BOS-MINI 6016",
       "sku": "",
-      "price_rub": 3000,
+      "price_rub": 3500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -13089,35 +13089,35 @@
       "views": 241
     },
     {
-      "slug": "bos-mini-8066f",
-      "url": "https://bosminiofficial.com/shop/2628/desc/bos-mini-8066f",
-      "name": "BOS-MINI-8066F",
+      "slug": "bos-mini-8016",
+      "url": "https://bosminiofficial.com/shop/2893/desc/bos-mini-8016",
+      "name": "BOS-MINI 8016",
       "sku": "",
-      "price_rub": 5500,
+      "price_rub": 5300,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
         "Сабвуферы и комплектующие"
       ],
       "brand_tags": [],
-      "description": "✅️Размер динамика 8 ✅️Мощность 3200W",
+      "description": "✅Сабвуфер активный\n✅Размер-8\"\n✅Мощность-1500W",
       "specs": [],
       "image_urls": [
-        "https://bosminiofficial.com/_sh/26/2628.jpg"
+        "https://bosminiofficial.com/_sh/28/2893.jpg"
       ],
       "full_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2628.jpg"
+        "https://bosminiofficial.com/_sh/28/2893.jpg"
       ],
       "local_images": [
-        "https://bosminiofficial.com/_sh/26/2628.jpg"
+        "https://bosminiofficial.com/_sh/28/2893.jpg"
       ],
       "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2628.jpg"
+        "https://bosminiofficial.com/_sh/28/2893.jpg"
       ],
       "stock_count": 0,
-      "popularity": 16,
-      "added_at": 1757143602,
-      "views": 161
+      "popularity": 2,
+      "added_at": 1776112831,
+      "views": 33
     },
     {
       "slug": "bos-mini-x808",
