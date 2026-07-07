@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783407327,
-  "scraped_count": 466,
+  "generated_at": 1783407626,
+  "scraped_count": 467,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 622,
       "added_at": 1765176165,
-      "views": 1740
+      "views": 1741
     },
     {
       "slug": "bos-mini-a1203-bmw-style",
@@ -2358,7 +2358,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1776342307,
-      "views": 254
+      "views": 255
     },
     {
       "slug": "dv-pioneer-ok-z3s-4-64",
@@ -2607,6 +2607,37 @@
       "popularity": 9,
       "added_at": 1776112985,
       "views": 275
+    },
+    {
+      "slug": "f7-4-64gb-7",
+      "url": "https://bosminiofficial.com/shop/2612/desc/f7-4-64gb-7",
+      "name": "F7 4+64Gb 7\"",
+      "sku": "",
+      "price_rub": 3600,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Память-4+64Gb ✅Размер экрана-7\" ✅Радиатор охлаждения ✅Carplay ✅Рамка и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/26/2612.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2612.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/26/2612.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2612.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 80,
+      "added_at": 1756026563,
+      "views": 156
     },
     {
       "slug": "multimedia-factory-f7d-pro-4-64gb-7",
@@ -10916,7 +10947,7 @@
       "stock_count": 0,
       "popularity": 26,
       "added_at": 1778219987,
-      "views": 275
+      "views": 276
     },
     {
       "slug": "bos-mini-n727hgp5",
@@ -11784,7 +11815,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1774859909,
-      "views": 161
+      "views": 162
     },
     {
       "slug": "ford-transit-2015g",
