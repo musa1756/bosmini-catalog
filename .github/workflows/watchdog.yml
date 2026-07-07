@@ -73,15 +73,18 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           SUMMARY: ${{ steps.age.outputs.summary }}
         run: |
-          text="🚨 *BOS·MINI catalog watchdog*%0A%0A${SUMMARY}.%0AVPS cron looks dead — check https://github.com/${GITHUB_REPOSITORY}"
+          # No parse_mode: SUMMARY is dynamic (uCoz/product/file names can
+          # contain a lone "_" or "*"), and Telegram's legacy Markdown mode
+          # 400s the whole send on any unpaired entity marker — confirmed via
+          # a live test where "workflow_dispatch" alone broke it. Plain text
+          # can't be rejected this way.
+          text="🚨 BOS·MINI catalog watchdog"$'\n\n'"${SUMMARY}."$'\n'"VPS cron looks dead — check https://github.com/${GITHUB_REPOSITORY}"
           http_code=$(curl -sS -o /tmp/tg_resp.json -w '%{http_code}' -X POST "https://api.telegram.org/bot${TG_BOT_TOKEN}/sendMessage" \
-            -d "chat_id=${TG_CHAT_ID}" -d "parse_mode=Markdown" \
-            -d "disable_web_page_preview=true" -d "text=${text}")
-          echo "HTTP $http_code"
-          cat /tmp/tg_resp.json
-          echo
+            --data-urlencode "chat_id=${TG_CHAT_ID}" \
+            --data-urlencode "disable_web_page_preview=true" \
+            --data-urlencode "text=${text}")
           if [ "$http_code" -ge 400 ]; then
-            echo "::error::Telegram API rejected the alert (HTTP $http_code) — see response body above"
+            echo "::error::Telegram API rejected the alert (HTTP $http_code): $(cat /tmp/tg_resp.json)"
             exit 1
           fi
           gh variable set WATCHDOG_ALERTED --repo "${GITHUB_REPOSITORY}" --body "1"
@@ -94,10 +97,15 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           SUMMARY: ${{ steps.age.outputs.summary }}
         run: |
-          text="✅ *BOS·MINI catalog watchdog*%0A%0ARecovered — ${SUMMARY}."
-          curl -fsS -X POST "https://api.telegram.org/bot${TG_BOT_TOKEN}/sendMessage" \
-            -d "chat_id=${TG_CHAT_ID}" -d "parse_mode=Markdown" \
-            -d "disable_web_page_preview=true" -d "text=${text}"
+          text="✅ BOS·MINI catalog watchdog"$'\n\n'"Recovered — ${SUMMARY}."
+          http_code=$(curl -sS -o /tmp/tg_resp.json -w '%{http_code}' -X POST "https://api.telegram.org/bot${TG_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TG_CHAT_ID}" \
+            --data-urlencode "disable_web_page_preview=true" \
+            --data-urlencode "text=${text}")
+          if [ "$http_code" -ge 400 ]; then
+            echo "::error::Telegram API rejected the recovery ping (HTTP $http_code): $(cat /tmp/tg_resp.json)"
+            exit 1
+          fi
           gh variable set WATCHDOG_ALERTED --repo "${GITHUB_REPOSITORY}" --body "0"
 
       - name: Summary
