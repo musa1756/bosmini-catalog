@@ -199,10 +199,14 @@ def fetch_category_products(api: UcozApiClient, cat_id: int) -> list[dict]:
     items: list[dict] = []
     page = 1
     while True:
-        data = api.shop_request(
-            [("page", "category"), ("cat_id", str(cat_id)), ("page", str(page))],
-            label=f"category {cat_id} page {page}",
-        )
+        # Page number goes in `pnum`: uAPI uses `page` as the module selector
+        # and silently ignores a duplicate `page` key, so paginating via a
+        # second `page=N` re-fetched page 1 forever (2026-07-07: first category
+        # to outgrow one page hung the sync in an infinite loop).
+        params = [("page", "category"), ("cat_id", str(cat_id))]
+        if page > 1:
+            params.append(("pnum", str(page)))
+        data = api.shop_request(params, label=f"category {cat_id} page {page}")
         if "error" in data:
             err = data["error"]
             if err.get("code") == "INCORRECT_PARAMETERS":
@@ -225,7 +229,11 @@ def fetch_category_products(api: UcozApiClient, cat_id: int) -> list[dict]:
             print(f"    [page] cat {cat_id}: {cur}/{total} ({len(items)} items so far)")
         if cur >= total:
             break
-        page = cur + 1
+        if cur != page:
+            # Server ignored the requested page — stop instead of looping.
+            print(f"    [warn] cat {cat_id}: asked page {page}, got {cur}; stopping pagination early")
+            break
+        page += 1
     return items
 
 
