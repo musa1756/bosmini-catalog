@@ -1,0 +1,97 @@
+name: Catalog freshness watchdog
+
+# Dead man's switch for the VPS cron. sync.yml only alerts when a GitHub
+# Actions run itself fails — if the Beget VPS cron dies outright (box down,
+# crontab wiped, disk full), nothing ever runs there to raise that alarm and
+# catalog.json quietly goes stale. This workflow is independent of the VPS:
+# it just checks the age of committed catalog.json's generated_at and pages
+# if it's too old, with the same 3-in-a-row-style hysteresis as vps-sync.sh
+# (alert once on going stale, ping once on recovery — no spam during a long
+# outage).
+on:
+  schedule:
+    - cron: "*/20 * * * *"
+  workflow_dispatch:
+    inputs:
+      force_stale:
+        description: "Pretend the catalog is stale (test the alert path)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  actions: write # read/write the WATCHDOG_ALERTED repo variable
+
+concurrency:
+  group: catalog-watchdog
+  cancel-in-progress: true
+
+env:
+  # VPS cron runs every 5 min; a single degraded scrape can legitimately take
+  # up to SCRAPE_TIMEOUT=45 min (see vps-sync.sh). 60 min gives that a full
+  # cycle of slack before paging anyone.
+  STALE_MINUTES: "60"
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Check catalog age
+        id: age
+        run: |
+          if [ "${{ inputs.force_stale }}" = "true" ]; then
+            echo "stale=true" >> "$GITHUB_OUTPUT"
+            echo "summary=forced stale via workflow_dispatch (test)" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, os, time
+          limit = float(os.environ["STALE_MINUTES"])
+          data = json.load(open("catalog.json"))
+          age_min = (time.time() - data["generated_at"]) / 60
+          stale = age_min > limit
+          print(f"stale={'true' if stale else 'false'}")
+          print(f"summary=catalog.json is {age_min:.0f} min old (limit {limit:.0f} min)")
+          PY
+
+      - name: Load previous alert state
+        id: state
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          val=$(gh variable get WATCHDOG_ALERTED --repo "${GITHUB_REPOSITORY}" 2>/dev/null || echo "0")
+          echo "alerted=$val" >> "$GITHUB_OUTPUT"
+
+      - name: Alert on newly-stale catalog
+        if: steps.age.outputs.stale == 'true' && steps.state.outputs.alerted != '1' && env.TG_BOT_TOKEN != '' && env.TG_CHAT_ID != ''
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          GH_TOKEN: ${{ github.token }}
+          SUMMARY: ${{ steps.age.outputs.summary }}
+        run: |
+          text="🚨 *BOS·MINI catalog watchdog*%0A%0A${SUMMARY}.%0AVPS cron looks dead — check https://github.com/${GITHUB_REPOSITORY}"
+          curl -fsS -X POST "https://api.telegram.org/bot${TG_BOT_TOKEN}/sendMessage" \
+            -d "chat_id=${TG_CHAT_ID}" -d "parse_mode=Markdown" \
+            -d "disable_web_page_preview=true" -d "text=${text}"
+          gh variable set WATCHDOG_ALERTED --repo "${GITHUB_REPOSITORY}" --body "1"
+
+      - name: Recovery ping
+        if: steps.age.outputs.stale == 'false' && steps.state.outputs.alerted == '1' && env.TG_BOT_TOKEN != '' && env.TG_CHAT_ID != ''
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          GH_TOKEN: ${{ github.token }}
+          SUMMARY: ${{ steps.age.outputs.summary }}
+        run: |
+          text="✅ *BOS·MINI catalog watchdog*%0A%0ARecovered — ${SUMMARY}."
+          curl -fsS -X POST "https://api.telegram.org/bot${TG_BOT_TOKEN}/sendMessage" \
+            -d "chat_id=${TG_CHAT_ID}" -d "parse_mode=Markdown" \
+            -d "disable_web_page_preview=true" -d "text=${text}"
+          gh variable set WATCHDOG_ALERTED --repo "${GITHUB_REPOSITORY}" --body "0"
+
+      - name: Summary
+        run: echo "${{ steps.age.outputs.summary }} (stale=${{ steps.age.outputs.stale }}, previously alerted=${{ steps.state.outputs.alerted }})"

@@ -26,6 +26,13 @@
 #   SYNC_SECRET=...           # must equal the Edge Function's SYNC_SECRET
 #   TG_BOT_TOKEN=...          # optional; alerts are silent when unset
 #   ALERT_CHAT_ID=...
+#   HC_PING_URL=...           # optional dead man's switch, e.g. a
+#                             # https://hc-ping.com/<uuid> check from
+#                             # healthchecks.io set to "every 5 min, grace
+#                             # 15 min". Catches the case this whole script
+#                             # stops running (box down, crontab wiped) that
+#                             # .github/workflows/watchdog.yml's 60-min
+#                             # catalog-age check is slower to notice.
 #   EOF
 #   chmod 600 /etc/bos-catalog-sync.env
 #   ssh-keygen -t ed25519 -N '' -f /root/.ssh/bosmini_catalog_deploy
@@ -180,3 +187,8 @@ if [ "$prev" -ge "$THRESH" ]; then
   send_alert "✅ BOS-MINI catalog sync восстановился: опубликовано ${count} товаров."
 fi
 log "ok: published ${count} products (github replica: ${replica})"
+
+# 6. Dead man's switch: tell healthchecks.io (or similar) this run made it to
+# the end. Best-effort — a ping failure must never fail an otherwise-good
+# sync. Silent no-op when HC_PING_URL isn't set.
+[ -n "${HC_PING_URL:-}" ] && curl -fsS --max-time 10 "$HC_PING_URL" >/dev/null 2>&1 || true

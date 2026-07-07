@@ -21,6 +21,23 @@ VPS is the reliable place to run.
   (`workflow_dispatch`, no schedule). Use it when the VPS is down and GitHub
   can reach uCoz. The old external dispatcher
   (`bos-catalog-dispatch.sh` + its crontab line) is retired.
+- **GitHub Actions — watchdog** (`.github/workflows/watchdog.yml`, every 20
+  min): a dead man's switch for the VPS cron. `vps-sync.sh`'s own Telegram
+  alert only fires when the script *runs and fails* — if the box dies, the
+  crontab gets wiped, or the disk fills up, nothing runs there to raise that
+  alarm and `catalog.json` quietly goes stale. This workflow instead checks
+  `generated_at` on the committed `catalog.json` and pages Telegram if it's
+  older than 60 min (VPS cron is every 5 min; one degraded scrape can
+  legitimately take up to `SCRAPE_TIMEOUT`=45 min), with the same
+  alert-once / recover-once hysteresis as `vps-sync.sh`'s own alerting
+  (tracked in the `WATCHDOG_ALERTED` repo variable). Reuses the same
+  `TG_BOT_TOKEN`/`TG_CHAT_ID` repo secrets as `sync.yml` — no extra setup if
+  those are already configured. Test the alert path with
+  `gh workflow run watchdog.yml -f force_stale=true`.
+  For faster detection (minutes, not up to 60), optionally also set
+  `HC_PING_URL` in `/etc/bos-catalog-sync.env` to a
+  [healthchecks.io](https://healthchecks.io) check URL (or similar); the
+  script pings it at the end of every successful run.
 - **Beget VPS cron — Woo mirror**: copies the local
   `/opt/bosmini-catalog-sync/catalog.json` (falls back to
   `raw.githubusercontent.com` if missing) and pushes it into WooCommerce,
