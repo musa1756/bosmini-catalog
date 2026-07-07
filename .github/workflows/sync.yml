@@ -1,10 +1,11 @@
-name: Sync catalog from uCoz uAPI
+name: Sync catalog from uCoz uAPI (manual fallback)
 
 on:
-  # GitHub Actions is the only timer now (was Supabase pg_cron on the old
-  # Frankfurt project). Single timer => no dual-trigger collision.
-  schedule:
-    - cron: "*/5 * * * *"
+  # MANUAL FALLBACK ONLY. The primary sync runs on the Beget VPS
+  # (vps-sync.sh, cron */5) — uCoz intermittently drops GitHub's runner IPs
+  # (2026-07-07: ~10 h outage with every run stuck in "Pull catalog"), so
+  # Actions can't be the timer. Dispatch this by hand when the VPS is down
+  # AND GitHub can reach uCoz. See VPS.md.
   workflow_dispatch: {}
 
 permissions:
@@ -13,10 +14,9 @@ permissions:
 concurrency:
   group: sync-catalog
   # Keep `false`: a healthy run can take a few minutes when the uAPI is slow,
-  # and we want it to FINISH and commit rather than be evicted by the next
-  # 5-min cron tick (which `true` would do, starving the catalog forever).
-  # Zombie runs that hold this lock are bounded instead by timeout-minutes
-  # below, so `false` no longer risks the hours-long queue stall we saw.
+  # and we want a dispatched run to FINISH and commit rather than be evicted
+  # by a second manual dispatch. Zombie runs that hold this lock are bounded
+  # by timeout-minutes below.
   cancel-in-progress: false
 
 jobs:
@@ -181,10 +181,10 @@ jobs:
 
       - name: Notify Telegram on failure
         # Self-skips when secrets aren't set, so this can land before the user
-        # finishes wiring the bot. Once TG_BOT_TOKEN+TG_CHAT_ID exist as repo
-        # secrets, any failed run (uAPI 5xx, sanity check trip, token expiry…)
-        # pings the chat with a link to the failed run.
-        if: ${{ failure() && env.TG_BOT_TOKEN != '' && env.TG_CHAT_ID != '' }}
+        # finishes wiring the bot. `!success()` (not `failure()`): a job killed
+        # by timeout-minutes ends as `cancelled`, which failure() ignores —
+        # that's how the 2026-07-07 outage ran ~10 h without a single ping.
+        if: ${{ always() && !success() && env.TG_BOT_TOKEN != '' && env.TG_CHAT_ID != '' }}
         env:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}

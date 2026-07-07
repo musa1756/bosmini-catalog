@@ -1,18 +1,31 @@
-# .ru WooCommerce mirror — runs on the Beget VPS
+# Catalog sync + .ru WooCommerce mirror — runs on the Beget VPS
 
-`catalog.json` is mirrored into the **bosminiofficial.ru** WooCommerce store
-by `sync_to_woo.py`. This **cannot** run from GitHub Actions: reg.ru drops TCP
-connections from GitHub's datacenter runner IPs (`httpx.ConnectTimeout`). From
-a Russian IP the store answers in ~2 s, so the push runs on the **Beget VPS**
-(`5.181.108.11`) on its own cron.
+Both pipelines live on the **Beget VPS** (`5.181.108.11`) because RU services
+(uCoz, reg.ru) intermittently drop/throttle GitHub's datacenter runner IPs —
+2026-07-07 uCoz stopped answering GitHub runners entirely for ~10 h while
+answering RU IPs in ~1 s. From a Russian IP everything responds fast, so the
+VPS is the reliable place to run.
 
 ## What runs where
 
-- **GitHub Actions** (`.github/workflows/sync.yml`): `bosminiofficial.com`
-  (uCoz uAPI) → `catalog.json`, committed to `main`, every 5 min.
-- **Beget VPS** cron: pulls the committed `catalog.json` from
-  `raw.githubusercontent.com` and pushes it into WooCommerce, every 5 min,
-  offset to `:03,:08,...` so it reads the catalog after GitHub has committed it.
+- **Beget VPS cron — catalog sync** (`/opt/bosmini-catalog-sync/vps-sync.sh`,
+  every 5 min): `bosminiofficial.com` (uCoz uAPI) → `catalog.json` → sanity
+  check → POST inline to the `sync-catalog` Edge Function (self-hosted
+  Supabase on the same box) → `catalog_products` + `catalog_snapshot` → app.
+  Afterwards it commits `catalog.json` to this repo as a best-effort replica
+  (history, bundled-asset source, WooCommerce input). Install instructions are
+  in the header of `vps-sync.sh`; state lives in `/var/lib/bos-catalog-sync/`,
+  log in `/var/log/bos-catalog-sync.log`, Telegram alert after 3 consecutive
+  failures + recovery ping.
+- **GitHub Actions** (`.github/workflows/sync.yml`): **manual fallback only**
+  (`workflow_dispatch`, no schedule). Use it when the VPS is down and GitHub
+  can reach uCoz. The old external dispatcher
+  (`bos-catalog-dispatch.sh` + its crontab line) is retired.
+- **Beget VPS cron — Woo mirror**: copies the local
+  `/opt/bosmini-catalog-sync/catalog.json` (falls back to
+  `raw.githubusercontent.com` if missing) and pushes it into WooCommerce,
+  every 5 min, offset to `:03,:08,...` so it reads the catalog after the sync
+  has finished.
 
 ## Layout on the VPS — `/opt/bosmini-woo-sync/`
 
@@ -31,9 +44,15 @@ sync.log           # cron output
 #!/usr/bin/env bash
 set -euo pipefail
 cd /opt/bosmini-woo-sync
-curl -fsSL --max-time 30 \
-  https://raw.githubusercontent.com/musa1756/bosmini-catalog/main/catalog.json \
-  -o catalog.json
+# Prefer the locally built catalog (no GitHub in the path); fall back to the
+# committed copy on raw.githubusercontent if the local sync dir is missing.
+if [ -s /opt/bosmini-catalog-sync/catalog.json ]; then
+  cp /opt/bosmini-catalog-sync/catalog.json catalog.json
+else
+  curl -fsSL --max-time 30 \
+    https://raw.githubusercontent.com/musa1756/bosmini-catalog/main/catalog.json \
+    -o catalog.json
+fi
 exec ./venv/bin/python sync_to_woo.py \
   --apply --changed-only --prune --catalog catalog.json --timeout 60
 ```

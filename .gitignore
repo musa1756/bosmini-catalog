@@ -3,4 +3,9 @@
 *.env
 __pycache__/
 .venv/
+venv/
 *.pyc
+# vps-sync.sh working files (the VPS runs from a clone of this repo)
+catalog.json.new
+*.log
+woo_state.json
