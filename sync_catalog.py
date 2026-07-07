@@ -219,6 +219,10 @@ def fetch_category_products(api: UcozApiClient, cat_id: int) -> list[dict]:
         paginator = success.get("paginator") or {}
         cur = int(paginator.get("cur_page", 1))
         total = int(paginator.get("num_pages", 1))
+        # Per-page progress: on a degraded uAPI one page can take a minute+,
+        # and the per-category [ok] line alone reads as a hang in the log.
+        if total > 1:
+            print(f"    [page] cat {cat_id}: {cur}/{total} ({len(items)} items so far)")
         if cur >= total:
             break
         page = cur + 1
