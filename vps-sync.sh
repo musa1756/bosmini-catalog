@@ -105,7 +105,9 @@ fi
 # 1. Pull the catalog from uCoz (RU→RU). Tight timeouts: a healthy run takes
 #    ~30 s; a degraded uAPI should fail this run fast and let the next tick
 #    retry, not grind for an hour.
-if ! ./venv/bin/python sync_catalog.py --out catalog.json.new \
+#    -u: stream stdout to the temp log unbuffered so a long run can be
+#    watched live (tail -f /tmp/bos-catalog-sync.out).
+if ! ./venv/bin/python -u sync_catalog.py --out catalog.json.new \
     --timeout 30 --max-retries 3 --retry-max-delay 30 \
     >/tmp/bos-catalog-sync.out 2>&1; then
   tail -3 /tmp/bos-catalog-sync.out | while IFS= read -r l; do log "  $l"; done
