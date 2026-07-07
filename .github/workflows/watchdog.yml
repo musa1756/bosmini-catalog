@@ -8,6 +8,14 @@ name: Catalog freshness watchdog
 # if it's too old, with the same 3-in-a-row-style hysteresis as vps-sync.sh
 # (alert once on going stale, ping once on recovery — no spam during a long
 # outage).
+#
+# Alert-state hysteresis is tracked via a marker file
+# (.github/watchdog-alerted) committed with the default GITHUB_TOKEN, NOT a
+# repo Actions variable: GitHub deliberately blocks GITHUB_TOKEN from
+# managing repo secrets/variables via API regardless of the `permissions:`
+# block ("Resource not accessible by integration", confirmed live) — that's
+# a self-escalation guard, not a config bug to route around. contents:write
+# is the same permission sync.yml already uses to commit catalog.json.
 on:
   schedule:
     - cron: "*/20 * * * *"
@@ -19,8 +27,7 @@ on:
         default: false
 
 permissions:
-  contents: read
-  actions: write # read/write the WATCHDOG_ALERTED repo variable
+  contents: write
 
 concurrency:
   group: catalog-watchdog
@@ -31,6 +38,7 @@ env:
   # up to SCRAPE_TIMEOUT=45 min (see vps-sync.sh). 60 min gives that a full
   # cycle of slack before paging anyone.
   STALE_MINUTES: "60"
+  MARKER: .github/watchdog-alerted
 
 jobs:
   check:
@@ -59,54 +67,74 @@ jobs:
 
       - name: Load previous alert state
         id: state
-        env:
-          GH_TOKEN: ${{ github.token }}
         run: |
-          val=$(gh variable get WATCHDOG_ALERTED --repo "${GITHUB_REPOSITORY}" 2>/dev/null || echo "0")
-          echo "alerted=$val" >> "$GITHUB_OUTPUT"
+          if [ -f "$MARKER" ]; then
+            echo "alerted=1" >> "$GITHUB_OUTPUT"
+          else
+            echo "alerted=0" >> "$GITHUB_OUTPUT"
+          fi
 
-      - name: Alert on newly-stale catalog
-        if: steps.age.outputs.stale == 'true' && steps.state.outputs.alerted != '1' && env.TG_BOT_TOKEN != '' && env.TG_CHAT_ID != ''
+      - name: Send Telegram message
+        id: send
+        if: (steps.age.outputs.stale == 'true') != (steps.state.outputs.alerted == '1')
         env:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
-          GH_TOKEN: ${{ github.token }}
           SUMMARY: ${{ steps.age.outputs.summary }}
+          GOING_STALE: ${{ steps.age.outputs.stale }}
         run: |
+          if [ -z "$TG_BOT_TOKEN" ] || [ -z "$TG_CHAT_ID" ]; then
+            echo "TG_BOT_TOKEN/TG_CHAT_ID not set — skipping notification (state still updates below)."
+            exit 0
+          fi
+          if [ "$GOING_STALE" = "true" ]; then
+            text="🚨 BOS·MINI catalog watchdog"$'\n\n'"${SUMMARY}."$'\n'"VPS cron looks dead — check https://github.com/${GITHUB_REPOSITORY}"
+          else
+            text="✅ BOS·MINI catalog watchdog"$'\n\n'"Recovered — ${SUMMARY}."
+          fi
           # No parse_mode: SUMMARY is dynamic (uCoz/product/file names can
           # contain a lone "_" or "*"), and Telegram's legacy Markdown mode
           # 400s the whole send on any unpaired entity marker — confirmed via
           # a live test where "workflow_dispatch" alone broke it. Plain text
           # can't be rejected this way.
-          text="🚨 BOS·MINI catalog watchdog"$'\n\n'"${SUMMARY}."$'\n'"VPS cron looks dead — check https://github.com/${GITHUB_REPOSITORY}"
           http_code=$(curl -sS -o /tmp/tg_resp.json -w '%{http_code}' -X POST "https://api.telegram.org/bot${TG_BOT_TOKEN}/sendMessage" \
             --data-urlencode "chat_id=${TG_CHAT_ID}" \
             --data-urlencode "disable_web_page_preview=true" \
             --data-urlencode "text=${text}")
           if [ "$http_code" -ge 400 ]; then
-            echo "::error::Telegram API rejected the alert (HTTP $http_code): $(cat /tmp/tg_resp.json)"
+            echo "::error::Telegram API rejected the message (HTTP $http_code): $(cat /tmp/tg_resp.json)"
             exit 1
           fi
-          gh variable set WATCHDOG_ALERTED --repo "${GITHUB_REPOSITORY}" --body "1"
 
-      - name: Recovery ping
-        if: steps.age.outputs.stale == 'false' && steps.state.outputs.alerted == '1' && env.TG_BOT_TOKEN != '' && env.TG_CHAT_ID != ''
+      - name: Persist alert state
+        # Runs whenever the state actually flips, independent of whether the
+        # Telegram send above succeeded — an unset/broken TG secret must not
+        # leave the watchdog stuck re-declaring the same transition forever.
+        if: (steps.age.outputs.stale == 'true') != (steps.state.outputs.alerted == '1')
         env:
-          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
-          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
-          GH_TOKEN: ${{ github.token }}
-          SUMMARY: ${{ steps.age.outputs.summary }}
+          GOING_STALE: ${{ steps.age.outputs.stale }}
         run: |
-          text="✅ BOS·MINI catalog watchdog"$'\n\n'"Recovered — ${SUMMARY}."
-          http_code=$(curl -sS -o /tmp/tg_resp.json -w '%{http_code}' -X POST "https://api.telegram.org/bot${TG_BOT_TOKEN}/sendMessage" \
-            --data-urlencode "chat_id=${TG_CHAT_ID}" \
-            --data-urlencode "disable_web_page_preview=true" \
-            --data-urlencode "text=${text}")
-          if [ "$http_code" -ge 400 ]; then
-            echo "::error::Telegram API rejected the recovery ping (HTTP $http_code): $(cat /tmp/tg_resp.json)"
-            exit 1
+          git config user.name  "bos-catalog-watchdog"
+          git config user.email "bos-catalog-watchdog@users.noreply.github.com"
+          if [ "$GOING_STALE" = "true" ]; then
+            mkdir -p "$(dirname "$MARKER")"
+            : > "$MARKER"
+            git add "$MARKER"
+            msg="watchdog: catalog went stale"
+          else
+            git rm -q "$MARKER"
+            msg="watchdog: catalog recovered"
           fi
-          gh variable set WATCHDOG_ALERTED --repo "${GITHUB_REPOSITORY}" --body "0"
+          git commit -q -m "$msg"
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            [ "$attempt" -eq 3 ] && { echo "::error::couldn't push watchdog state after 3 attempts"; exit 1; }
+            git fetch -q origin main
+            git rebase -q origin/main
+            sleep 5
+          done
 
       - name: Summary
         run: echo "${{ steps.age.outputs.summary }} (stale=${{ steps.age.outputs.stale }}, previously alerted=${{ steps.state.outputs.alerted }})"
