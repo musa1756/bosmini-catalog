@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783408527,
-  "scraped_count": 468,
+  "generated_at": 1783408823,
+  "scraped_count": 469,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -809,6 +809,37 @@
       "popularity": 37,
       "added_at": 1754376021,
       "views": 503
+    },
+    {
+      "slug": "bos-mini-t7038-4-64gb",
+      "url": "https://bosminiofficial.com/shop/2924/desc/bos-mini-t7038-4-64gb",
+      "name": "BOS-MINI T7038 4+64Gb",
+      "sku": "",
+      "price_rub": 4600,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-7 дюймов\n✅Память-4+64Gb\n✅Количество ядер-4+4\n✅Процессор DSP\n✅Carplay/AndroidAuto\n✅Кулер охлаждения\n✅Набор проводов для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2924.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2924.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2924.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2924.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 26,
+      "added_at": 1777460775,
+      "views": 292
     },
     {
       "slug": "bos-mini-a1105",
