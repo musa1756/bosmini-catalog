@@ -12,11 +12,12 @@ permissions:
 
 concurrency:
   group: sync-catalog
-  # GitHub Actions is now the only timer (the old Frankfurt pg_cron is gone),
-  # so the dual-trigger collision that once justified `false` can't happen.
-  # `true` makes the queue self-heal: a new scheduled run evicts a stuck one
-  # instead of queuing behind it and being cancelled itself.
-  cancel-in-progress: true
+  # Keep `false`: a healthy run can take a few minutes when the uAPI is slow,
+  # and we want it to FINISH and commit rather than be evicted by the next
+  # 5-min cron tick (which `true` would do, starving the catalog forever).
+  # Zombie runs that hold this lock are bounded instead by timeout-minutes
+  # below, so `false` no longer risks the hours-long queue stall we saw.
+  cancel-in-progress: false
 
 jobs:
   sync:
