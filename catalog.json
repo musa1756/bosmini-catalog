@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783475117,
+  "generated_at": 1783475418,
   "scraped_count": 476,
   "products": [
     {
@@ -715,7 +715,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1782540190,
-      "views": 40
+      "views": 41
     },
     {
       "slug": "bos-mini-t2-4-64gb-9",
@@ -870,7 +870,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782456237,
-      "views": 49
+      "views": 50
     },
     {
       "slug": "bos-a658d-pro-4-64gb",
@@ -1056,7 +1056,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1769575588,
-      "views": 660
+      "views": 661
     },
     {
       "slug": "bos-mini-a628d-dsp-4-64gb",
