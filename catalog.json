@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783495218,
+  "generated_at": 1783495518,
   "scraped_count": 476,
   "products": [
     {
@@ -1211,7 +1211,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1772527820,
-      "views": 383
+      "views": 384
     },
     {
       "slug": "bos-mini-a8-pro-8-256gb-10-djujmov",
@@ -1676,7 +1676,7 @@
       "stock_count": 0,
       "popularity": 129,
       "added_at": 1752911964,
-      "views": 1898
+      "views": 1900
     },
     {
       "slug": "bos-mini-ts10-4-64gb-10",
@@ -11257,7 +11257,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1783495187,
-      "views": 0
+      "views": 1
     },
     {
       "slug": "dv-pioneer-ok-7110",
