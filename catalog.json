@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783494917,
+  "generated_at": 1783495218,
   "scraped_count": 476,
   "products": [
     {
@@ -1676,7 +1676,7 @@
       "stock_count": 0,
       "popularity": 129,
       "added_at": 1752911964,
-      "views": 1895
+      "views": 1898
     },
     {
       "slug": "bos-mini-ts10-4-64gb-10",
@@ -11229,9 +11229,9 @@
       "views": 564
     },
     {
-      "slug": "dv-pioneer-ok-5504",
-      "url": "https://bosminiofficial.com/shop/1481/desc/dv-pioneer-ok-5504",
-      "name": "DV-Pioneer.Ok 5504",
+      "slug": "dv-pioneer-ok-5505",
+      "url": "https://bosminiofficial.com/shop/2995/desc/dv-pioneer-ok-5505",
+      "name": "DV-Pioneer.Ok 5505",
       "sku": "",
       "price_rub": 3000,
       "old_price_rub": null,
@@ -11240,24 +11240,24 @@
         "Магнитолы с экраном"
       ],
       "brand_tags": [],
-      "description": "✅Размер экрана -7\" сенсорный ✅Автоматический механизм ✅7-цветная подсветка ✅Bluetooth, 2 USB, Aux ✅8 выходов RCA ✅Возможность подключения камеры заднего вида ✅Пульт управления и провода в комплекте",
+      "description": "✅Размер экрана -7\" сенсорный\n✅Автоматический механизм\n✅7-цветная подсветка\n✅Bluetooth, 2 USB, Aux\n✅8 выходов RCA\n✅Возможность подключения камеры заднего вида\n✅Пульт управления и провода в комплекте",
       "specs": [],
       "image_urls": [
-        "https://bosminiofficial.com/_sh/14/1481.jpg"
+        "https://bosminiofficial.com/_sh/29/2995.jpg"
       ],
       "full_image_urls": [
-        "https://bosminiofficial.com/_sh/14/1481.jpg"
+        "https://bosminiofficial.com/_sh/29/2995.jpg"
       ],
       "local_images": [
-        "https://bosminiofficial.com/_sh/14/1481.jpg"
+        "https://bosminiofficial.com/_sh/29/2995.jpg"
       ],
       "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/14/1481.jpg"
+        "https://bosminiofficial.com/_sh/29/2995.jpg"
       ],
       "stock_count": 0,
-      "popularity": 19,
-      "added_at": 1750255975,
-      "views": 553
+      "popularity": 0,
+      "added_at": 1783495187,
+      "views": 0
     },
     {
       "slug": "dv-pioneer-ok-7110",
