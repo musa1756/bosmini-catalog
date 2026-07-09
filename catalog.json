@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783582816,
-  "scraped_count": 470,
+  "generated_at": 1783583117,
+  "scraped_count": 471,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -13151,6 +13151,37 @@
       "views": 869
     },
     {
+      "slug": "dv-100-komplekt-provodov",
+      "url": "https://bosminiofficial.com/shop/2574/desc/dv-100-komplekt-provodov",
+      "name": "DV-100 + комплект проводов",
+      "sku": "",
+      "price_rub": 3600,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Сабвуферы и комплектующие"
+      ],
+      "brand_tags": [],
+      "description": "✅️Размер 10 ✅️Максимальная мощность 3000W-Max ✅️С активным усилитеусилителем ✅️Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/25/2574.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/25/2574.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/25/2574.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/25/2574.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 194,
+      "added_at": 1754806593,
+      "views": 222
+    },
+    {
       "slug": "dv-60-komplekt-provodov",
       "url": "https://bosminiofficial.com/shop/2575/desc/dv-60-komplekt-provodov",
       "name": "DV-60 + комплект проводов",
@@ -13186,7 +13217,7 @@
       "url": "https://bosminiofficial.com/shop/2573/desc/dv-80-komplekt-provodov",
       "name": "DV-80 + комплект проводов",
       "sku": "",
-      "price_rub": 3200,
+      "price_rub": 3000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -13210,7 +13241,7 @@
       "stock_count": 0,
       "popularity": 66,
       "added_at": 1754806553,
-      "views": 111
+      "views": 112
     },
     {
       "slug": "e5-olom-p-08",
