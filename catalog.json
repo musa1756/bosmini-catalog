@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783574416,
-  "scraped_count": 473,
+  "generated_at": 1783574716,
+  "scraped_count": 471,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -5926,37 +5926,6 @@
       "views": 910
     },
     {
-      "slug": "bos-mini-360s",
-      "url": "https://bosminiofficial.com/shop/2947/desc/bos-mini-360s",
-      "name": "Bos-Mini 360S",
-      "sku": "",
-      "price_rub": 2200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅Изображение-Full HD\n✅4 камеры и полный комплект проводов для подключения",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2947.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2947.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2947.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2947.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 5,
-      "added_at": 1781590536,
-      "views": 80
-    },
-    {
       "slug": "bos-mini-a31-pro-wi-fi",
       "url": "https://bosminiofficial.com/shop/2738/desc/bos-mini-a31-pro-wi-fi",
       "name": "Bos-Mini A31 Pro Wi-Fi",
@@ -6512,7 +6481,7 @@
       "stock_count": 0,
       "popularity": 168,
       "added_at": 1765285796,
-      "views": 264
+      "views": 265
     },
     {
       "slug": "videoregistrator-dlja-android-magnitol-u2",
@@ -6605,7 +6574,7 @@
       "stock_count": 0,
       "popularity": 104,
       "added_at": 1721755869,
-      "views": 476
+      "views": 477
     },
     {
       "slug": "vreznaja-kamera-zadnego-vida-e1241",
@@ -7039,38 +7008,7 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1774248473,
-      "views": 157
-    },
-    {
-      "slug": "kamera-krugovo-obzora-bos-mini-a360",
-      "url": "https://bosminiofficial.com/shop/2643/desc/kamera-krugovo-obzora-bos-mini-a360",
-      "name": "Камера кругово обзора BOS-MINI A360⁰",
-      "sku": "",
-      "price_rub": 1700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅️Полный комплект для установки",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/26/2643.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2643.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/26/2643.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2643.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 14,
-      "added_at": 1757406784,
-      "views": 365
+      "views": 158
     },
     {
       "slug": "monitor-s-4-mja-kamerami-jcs-7003-4",
@@ -7101,7 +7039,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1714856095,
-      "views": 674
+      "views": 675
     },
     {
       "slug": "provoda-dlja-kamery-zadnego-vida-20m",
@@ -7132,7 +7070,7 @@
       "stock_count": 0,
       "popularity": 242,
       "added_at": 1731883338,
-      "views": 287
+      "views": 288
     },
     {
       "slug": "provoda-dlja-kamery-zadnego-vida-6m",
@@ -7163,7 +7101,7 @@
       "stock_count": 0,
       "popularity": 99,
       "added_at": 1735020490,
-      "views": 280
+      "views": 281
     },
     {
       "slug": "bos-5071-13cm-220w",
