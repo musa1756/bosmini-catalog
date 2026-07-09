@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783579517,
-  "scraped_count": 471,
+  "generated_at": 1783579816,
+  "scraped_count": 469,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -7166,37 +7166,6 @@
       "views": 324
     },
     {
-      "slug": "bos-6589-16cm-380w",
-      "url": "https://bosminiofficial.com/shop/1459/desc/bos-6589-16cm-380w",
-      "name": "BOS-6589 (16cm,380W)",
-      "sku": "",
-      "price_rub": 1600,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅️ Размер Динамика 16см ✅️ Максимальная мощность 380W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/14/1459.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/14/1459.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/14/1459.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/14/1459.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 80,
-      "added_at": 1749113356,
-      "views": 465
-    },
-    {
       "slug": "bos-6591",
       "url": "https://bosminiofficial.com/shop/2513/desc/bos-6591",
       "name": "BOS-6591",
@@ -9024,37 +8993,6 @@
       "popularity": 3,
       "added_at": 1734507022,
       "views": 225
-    },
-    {
-      "slug": "kolonki-bos-mini-4083",
-      "url": "https://bosminiofficial.com/shop/2619/desc/kolonki-bos-mini-4083",
-      "name": "Колонки Bos-Mini 4083",
-      "sku": "",
-      "price_rub": 1350,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅️ В комплекте по 2шт ✅️ Максимальная мощность 220W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/26/2619.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2619.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/26/2619.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2619.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 19,
-      "added_at": 1756469877,
-      "views": 294
     },
     {
       "slug": "kolonki-gb-v-512",
