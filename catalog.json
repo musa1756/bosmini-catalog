@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783583117,
+  "generated_at": 1783583417,
   "scraped_count": 471,
   "products": [
     {
@@ -589,7 +589,7 @@
         "https://bosminiofficial.com/_sh/19/1982.jpg"
       ],
       "stock_count": 0,
-      "popularity": 43,
+      "popularity": 44,
       "added_at": 1752862854,
       "views": 440
     },
@@ -713,9 +713,9 @@
         "https://bosminiofficial.com/_sh/20/2021.jpg"
       ],
       "stock_count": 0,
-      "popularity": 708,
+      "popularity": 710,
       "added_at": 1752909494,
-      "views": 1093
+      "views": 1094
     },
     {
       "slug": "bos-mini-t3-4-64gb-9",
@@ -1953,7 +1953,7 @@
         "https://bosminiofficial.com/_sh/29/2949.jpg"
       ],
       "stock_count": 0,
-      "popularity": 241,
+      "popularity": 242,
       "added_at": 1781700207,
       "views": 75
     },
