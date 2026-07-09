@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783574117,
-  "scraped_count": 475,
+  "generated_at": 1783574416,
+  "scraped_count": 473,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2482,7 +2482,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1765283275,
-      "views": 606
+      "views": 607
     },
     {
       "slug": "dv-pioneer-ok-z3-pro-6-64gb-9",
@@ -5954,7 +5954,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1781590536,
-      "views": 79
+      "views": 80
     },
     {
       "slug": "bos-mini-a31-pro-wi-fi",
@@ -10576,37 +10576,6 @@
       "views": 441
     },
     {
-      "slug": "pioneer-gb-mvh-341-12-24v",
-      "url": "https://bosminiofficial.com/shop/1392/desc/pioneer-gb-mvh-341-12-24v",
-      "name": "Pinoeer.GB MVH-341 12-24V",
-      "sku": "",
-      "price_rub": 650,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅ 12-24V ✅ Bluetooth ✅ AUX ✅ 2-USB и SD-Карты ✅ 4-Выхода RCA ✅ Радиатор охлаждения ✅ Пульт управления и фишки для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/13/1392.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/13/1392.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/13/1392.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/13/1392.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 1830,
-      "added_at": 1746085618,
-      "views": 299
-    },
-    {
       "slug": "pinoeer-gb-mvh-815dsp",
       "url": "https://bosminiofficial.com/shop/2504/desc/pinoeer-gb-mvh-815dsp",
       "name": "Pinoeer.GB MVH-815DSP",
@@ -10916,7 +10885,7 @@
       "stock_count": 0,
       "popularity": 66,
       "added_at": 1714856095,
-      "views": 990
+      "views": 991
     },
     {
       "slug": "magnitola-bos-mini-n973dsp",
@@ -11134,37 +11103,6 @@
       "popularity": 16,
       "added_at": 1776253023,
       "views": 344
-    },
-    {
-      "slug": "bos-mini-n636dp5",
-      "url": "https://bosminiofficial.com/shop/2723/desc/bos-mini-n636dp5",
-      "name": "Bos-Mini N636DP5",
-      "sku": "",
-      "price_rub": 2500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы с экраном"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-6,36\", сенсорный\n✅Типоразмер-1Din\n✅Type-c, USB, AUX\n✅Радиатор охлаждения\n✅Пульт управления, инструкция и фишки для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2723.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2723.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2723.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2723.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 48,
-      "added_at": 1765285531,
-      "views": 1051
     },
     {
       "slug": "dv-pioneer-ok-5503",
