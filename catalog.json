@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783665916,
-  "scraped_count": 476,
+  "generated_at": 1783666518,
+  "scraped_count": 477,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1026,6 +1026,37 @@
       "popularity": 37,
       "added_at": 1769575588,
       "views": 665
+    },
+    {
+      "slug": "bos-mini-a5-6-128gb-9",
+      "url": "https://bosminiofficial.com/shop/2809/desc/bos-mini-a5-6-128gb-9",
+      "name": "Bos-Mini A5+ 6+128Gb 9\"",
+      "sku": "",
+      "price_rub": 9500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Память-6+128Gb\n✅Размер экрана- 9 дюймов\n✅Поддержка камеры кругового обзора 360 градусов\n✅Поддержка сим карты\n✅Оптический выход\n✅Количество ядер-8\n✅Процессор DSP\n✅Carplay\n✅Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/28/2809.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2809.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/28/2809.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2809.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 576,
+      "added_at": 1769575545,
+      "views": 851
     },
     {
       "slug": "bos-mini-a628d-dsp-4-64gb",
@@ -6388,7 +6419,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1783665902,
-      "views": 1
+      "views": 2
     },
     {
       "slug": "videoregistrator-c8",
