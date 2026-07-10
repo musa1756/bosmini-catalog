@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783665017,
-  "scraped_count": 472,
+  "generated_at": 1783665317,
+  "scraped_count": 475,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -7011,6 +7011,37 @@
       "views": 159
     },
     {
+      "slug": "kamera-zadnego-vida-l-606",
+      "url": "https://bosminiofficial.com/shop/2996/desc/kamera-zadnego-vida-l-606",
+      "name": "Камера заднего вида L-606",
+      "sku": "",
+      "price_rub": 180,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅Провода 5м. В комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2996.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2996.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2996.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2996.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1783665077,
+      "views": 1
+    },
+    {
       "slug": "kamera-krugovo-obzora-bos-mini-a360",
       "url": "https://bosminiofficial.com/shop/2643/desc/kamera-krugovo-obzora-bos-mini-a360",
       "name": "Камера кругово обзора BOS-MINI A360⁰",
@@ -9147,7 +9178,7 @@
       "stock_count": 0,
       "popularity": 69,
       "added_at": 1717065242,
-      "views": 468
+      "views": 469
     },
     {
       "slug": "kolonki-ot-bos-mini-6583",
@@ -9178,7 +9209,7 @@
       "stock_count": 0,
       "popularity": 161,
       "added_at": 1717065094,
-      "views": 463
+      "views": 464
     },
     {
       "slug": "kolonki-ot-bos-mini-6983",
@@ -9303,6 +9334,37 @@
       "popularity": 68,
       "added_at": 1752047244,
       "views": 163
+    },
+    {
+      "slug": "1-din-bos-mini-n771",
+      "url": "https://bosminiofficial.com/shop/578/desc/1-din-bos-mini-n771",
+      "name": "1-Din Bos-Mini - N771",
+      "sku": "",
+      "price_rub": 3400,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅Bluetooth ✅Aux, USB и Type-C ✅Процессор DSP ✅Цветной RGB экран ✅Мощный радиатор охлаждения ✅9 выходов RCA ✅Пульт и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/5/578.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/5/578.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/5/578.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/5/578.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 67,
+      "added_at": 1716273525,
+      "views": 1037
     },
     {
       "slug": "bos-mini-n870",
@@ -14637,6 +14699,37 @@
       "popularity": 680,
       "added_at": 1714856095,
       "views": 609
+    },
+    {
+      "slug": "planior-pla-a25",
+      "url": "https://bosminiofficial.com/shop/1285/desc/planior-pla-a25",
+      "name": "Planior PLA-A25",
+      "sku": "PLA-25",
+      "price_rub": 1050,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Усилители"
+      ],
+      "brand_tags": [],
+      "description": "✅Максимальная мощность 600W\n✅Встроенный эквалайзер\n✅4 канала\n✅\nУправление с телефона",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/12/1285.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1285.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/12/1285.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1285.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 139,
+      "added_at": 1738756387,
+      "views": 942
     }
   ]
 }
