@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783663517,
-  "scraped_count": 471,
+  "generated_at": 1783663816,
+  "scraped_count": 472,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -7011,6 +7011,37 @@
       "views": 158
     },
     {
+      "slug": "kamera-krugovo-obzora-bos-mini-a360",
+      "url": "https://bosminiofficial.com/shop/2643/desc/kamera-krugovo-obzora-bos-mini-a360",
+      "name": "Камера кругово обзора BOS-MINI A360⁰",
+      "sku": "",
+      "price_rub": 1700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅️Полный комплект для установки",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/26/2643.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2643.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/26/2643.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2643.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 14,
+      "added_at": 1757406784,
+      "views": 366
+    },
+    {
       "slug": "monitor-s-4-mja-kamerami-jcs-7003-4",
       "url": "https://bosminiofficial.com/shop/414/desc/monitor-s-4-mja-kamerami-jcs-7003-4",
       "name": "Монитор с 4-мя камерами JCS-7003-4",
@@ -7504,7 +7535,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1782538583,
-      "views": 42
+      "views": 43
     },
     {
       "slug": "bos-mini-t3155",
@@ -7597,7 +7628,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1782390093,
-      "views": 43
+      "views": 44
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -7690,7 +7721,7 @@
       "stock_count": 0,
       "popularity": 34,
       "added_at": 1738564421,
-      "views": 283
+      "views": 284
     },
     {
       "slug": "bos-mini-5086-13sm",
