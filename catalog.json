@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783664716,
+  "generated_at": 1783665017,
   "scraped_count": 472,
   "products": [
     {
@@ -2761,7 +2761,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1769577216,
-      "views": 530
+      "views": 531
     },
     {
       "slug": "pioneer-gb-f8-plus-12-128g-9",
@@ -6171,7 +6171,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1734179124,
-      "views": 609
+      "views": 610
     },
     {
       "slug": "e5-olom-s1",
@@ -7008,7 +7008,7 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1774248473,
-      "views": 158
+      "views": 159
     },
     {
       "slug": "kamera-krugovo-obzora-bos-mini-a360",
@@ -14357,7 +14357,7 @@
       "stock_count": 0,
       "popularity": 310,
       "added_at": 1754033937,
-      "views": 606
+      "views": 607
     },
     {
       "slug": "dv-pioneer-ok-414",
@@ -14636,7 +14636,7 @@
       "stock_count": 0,
       "popularity": 680,
       "added_at": 1714856095,
-      "views": 608
+      "views": 609
     }
   ]
 }
