@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783665616,
-  "scraped_count": 475,
+  "generated_at": 1783665916,
+  "scraped_count": 476,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -6358,6 +6358,37 @@
       "popularity": 70,
       "added_at": 1746085925,
       "views": 1235
+    },
+    {
+      "slug": "videoregistrator-bos-mini-v8",
+      "url": "https://bosminiofficial.com/shop/2997/desc/videoregistrator-bos-mini-v8",
+      "name": "Видеорегистратор BOS-MINI V8",
+      "sku": "",
+      "price_rub": 1100,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅\nВидеорегистратор для андроид магнитолы\n✅\nМаксимальное разрешение видео:\n1920 × 1080 (Full HD).\n✅\nУгол обзора:\n170° (по диагонали / ширине).\n✅\nБеспроводное подключение:\nWi-Fi (позволяет подключаться к смартфону и просматривать записи в реальном времени)\n✅\nПоддержка карт памяти:\nmicroSD (microSDHC, microSDXC). Максимальный объём — 64 ГБ.",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2997.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2997.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2997.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2997.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1783665902,
+      "views": 1
     },
     {
       "slug": "videoregistrator-c8",
