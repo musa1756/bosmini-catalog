@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783665317,
+  "generated_at": 1783665616,
   "scraped_count": 475,
   "products": [
     {
@@ -6112,37 +6112,6 @@
       "views": 318
     },
     {
-      "slug": "e5-0lom-lmt8",
-      "url": "https://bosminiofficial.com/shop/1241/desc/e5-0lom-lmt8",
-      "name": "E5-0lom LMT8",
-      "sku": "",
-      "price_rub": 3800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅ Разрешение-полный экран 4к+1080 ✅ Интеллектуальный датчик движения ✅ Ночная съемка ✅ Передняя и задняя запись ✅ Функция ADAS ✅ АЗУ, провод 5 м., камера заднего вида и фиксаторы в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/12/1241.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1241.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/12/1241.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1241.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 78,
-      "added_at": 1737099829,
-      "views": 341
-    },
-    {
       "slug": "e5-olim-s2",
       "url": "https://bosminiofficial.com/shop/1177/desc/e5-olim-s2",
       "name": "E5-OLIM S2",
@@ -6172,6 +6141,37 @@
       "popularity": 37,
       "added_at": 1734179124,
       "views": 610
+    },
+    {
+      "slug": "e5-olom-lmt-8",
+      "url": "https://bosminiofficial.com/shop/1241/desc/e5-olom-lmt-8",
+      "name": "E5-OLOM LMT-8",
+      "sku": "",
+      "price_rub": 3800,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅ Разрешение-полный экран 4к+1080 ✅ Интеллектуальный датчик движения ✅ Ночная съемка ✅ Передняя и задняя запись ✅ Функция ADAS ✅ АЗУ, провод 5 м., камера заднего вида и фиксаторы в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/12/1241.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1241.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/12/1241.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1241.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 78,
+      "added_at": 1737099829,
+      "views": 341
     },
     {
       "slug": "e5-olom-s1",
@@ -6450,7 +6450,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1768974626,
-      "views": 352
+      "views": 353
     },
     {
       "slug": "videoregistrator-dlja-android-magnitol-u1pro",
@@ -10666,7 +10666,7 @@
       "stock_count": 0,
       "popularity": 1706,
       "added_at": 1722713624,
-      "views": 536
+      "views": 537
     },
     {
       "slug": "pioneer-gb-mvh-f899zbt",
