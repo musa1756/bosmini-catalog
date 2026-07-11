@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783761920,
+  "generated_at": 1783762217,
   "scraped_count": 477,
   "products": [
     {
@@ -95,7 +95,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1763311652,
-      "views": 782
+      "views": 784
     },
     {
       "slug": "bos-mini-8701-2-32gb-7",
@@ -374,7 +374,7 @@
       "stock_count": 0,
       "popularity": 3067,
       "added_at": 1752844676,
-      "views": 1709
+      "views": 1711
     },
     {
       "slug": "bos-mini-a42-6-64gb-9",
@@ -405,7 +405,7 @@
       "stock_count": 0,
       "popularity": 136,
       "added_at": 1753952536,
-      "views": 828
+      "views": 830
     },
     {
       "slug": "bos-mini-a6-wi-fi-4-64gb-10-djujm",
@@ -2513,7 +2513,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1765283275,
-      "views": 608
+      "views": 609
     },
     {
       "slug": "dv-pioneer-ok-z3-pro-6-64gb-9",
@@ -3722,7 +3722,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1769493683,
-      "views": 171
+      "views": 172
     },
     {
       "slug": "aromatizator-rh-040",
@@ -6419,7 +6419,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1783665902,
-      "views": 13
+      "views": 14
     },
     {
       "slug": "videoregistrator-c8",
