@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783799718,
+  "generated_at": 1783800018,
   "scraped_count": 477,
   "products": [
     {
@@ -7442,7 +7442,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1782390251,
-      "views": 34
+      "views": 35
     },
     {
       "slug": "bos-mini-6587",
@@ -7504,7 +7504,7 @@
       "stock_count": 0,
       "popularity": 156,
       "added_at": 1738649729,
-      "views": 398
+      "views": 400
     },
     {
       "slug": "bos-mini-6990-6-9-800w",
@@ -7535,7 +7535,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1782627140,
-      "views": 45
+      "views": 47
     },
     {
       "slug": "bos-mini-t225",
@@ -7597,7 +7597,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1782538463,
-      "views": 30
+      "views": 32
     },
     {
       "slug": "bos-mini-t2965",
@@ -11660,7 +11660,7 @@
       "stock_count": 0,
       "popularity": 212,
       "added_at": 1753770937,
-      "views": 369
+      "views": 370
     },
     {
       "slug": "brelok-dlja-avtosignalizacii-tamahawk-x5",
@@ -12125,7 +12125,7 @@
       "stock_count": 0,
       "popularity": 222,
       "added_at": 1755667861,
-      "views": 197
+      "views": 198
     },
     {
       "slug": "gazelle-business-2010-9-djujmov-chjornyj",
@@ -13427,7 +13427,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1719655304,
-      "views": 197
+      "views": 198
     },
     {
       "slug": "e5-olom-p-10",
@@ -14791,7 +14791,7 @@
       "stock_count": 0,
       "popularity": 139,
       "added_at": 1738756387,
-      "views": 943
+      "views": 944
     }
   ]
 }
