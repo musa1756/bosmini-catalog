@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783781118,
-  "scraped_count": 477,
+  "generated_at": 1783781417,
+  "scraped_count": 478,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1273,7 +1273,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1752852728,
-      "views": 1386
+      "views": 1387
     },
     {
       "slug": "bos-mini-cc3-max-2k-12-256gb-9",
@@ -6419,7 +6419,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1783665902,
-      "views": 15
+      "views": 16
     },
     {
       "slug": "videoregistrator-c8",
@@ -7876,7 +7876,7 @@
       "stock_count": 0,
       "popularity": 78,
       "added_at": 1723527380,
-      "views": 578
+      "views": 579
     },
     {
       "slug": "bos-mini-5565",
@@ -9489,6 +9489,37 @@
       "popularity": 64,
       "added_at": 1752837291,
       "views": 480
+    },
+    {
+      "slug": "bos-mini-n88dsp",
+      "url": "https://bosminiofficial.com/shop/2998/desc/bos-mini-n88dsp",
+      "name": "BOS-MINI N88DSP",
+      "sku": "",
+      "price_rub": 9500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅Bluetooth\n✅Цветной RGB экран\n✅Оптический выход\n✅Процессор DSP\n✅Управление через приложение\n✅Мощный радиатор охлаждения\n✅Предусилитель 8 каналов х 5В\n✅Пульт и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2998.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2998.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2998.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2998.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1783781333,
+      "views": 1
     },
     {
       "slug": "bos-mini-y1568mbt-12v-24v",
@@ -11505,7 +11536,7 @@
       "stock_count": 0,
       "popularity": 51,
       "added_at": 1749112025,
-      "views": 315
+      "views": 316
     },
     {
       "slug": "bos-mini-a238",
@@ -11908,7 +11939,7 @@
       "stock_count": 0,
       "popularity": 140,
       "added_at": 1727072278,
-      "views": 634
+      "views": 635
     },
     {
       "slug": "chevrolet-cobalt",
