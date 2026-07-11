@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783779617,
+  "generated_at": 1783779918,
   "scraped_count": 477,
   "products": [
     {
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782539919,
-      "views": 60
+      "views": 61
     },
     {
       "slug": "bos-mini-a1206",
@@ -281,7 +281,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1782390686,
-      "views": 47
+      "views": 48
     },
     {
       "slug": "bos-mini-a1213",
@@ -3040,7 +3040,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1776517259,
-      "views": 222
+      "views": 223
     },
     {
       "slug": "zx1-pro-plus-4-64gb-9",
