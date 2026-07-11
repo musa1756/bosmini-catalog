@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783781417,
-  "scraped_count": 478,
+  "generated_at": 1783781717,
+  "scraped_count": 477,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -4714,7 +4714,7 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1716467831,
-      "views": 242
+      "views": 243
     },
     {
       "slug": "e4-9005-20000-lm",
@@ -6394,7 +6394,7 @@
       "slug": "videoregistrator-bos-mini-v8",
       "url": "https://bosminiofficial.com/shop/2997/desc/videoregistrator-bos-mini-v8",
       "name": "Видеорегистратор BOS-MINI V8",
-      "sku": "",
+      "sku": "BOS-V8",
       "price_rub": 1100,
       "old_price_rub": null,
       "in_stock": true,
@@ -6402,7 +6402,7 @@
         "Камеры и регистраторы"
       ],
       "brand_tags": [],
-      "description": "✅\nВидеорегистратор для андроид магнитолы\n✅\nМаксимальное разрешение видео:\n1920 × 1080 (Full HD).\n✅\nУгол обзора:\n170° (по диагонали / ширине).\n✅\nБеспроводное подключение:\nWi-Fi (позволяет подключаться к смартфону и просматривать записи в реальном времени)\n✅\nПоддержка карт памяти:\nmicroSD (microSDHC, microSDXC). Максимальный объём — 64 ГБ.",
+      "description": "✅Максимальное разрешение видео: 1920 × 1080 (Full HD)\n✅Угол обзора: 160°\n✅Wi-Fi соединение\n✅Система ADAS\n✅Поддержка карт памяти от 32Gb до 128Gb",
       "specs": [],
       "image_urls": [
         "https://bosminiofficial.com/_sh/29/2997.jpg"
@@ -6419,7 +6419,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1783665902,
-      "views": 16
+      "views": 17
     },
     {
       "slug": "videoregistrator-c8",
@@ -7132,7 +7132,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1757406784,
-      "views": 367
+      "views": 368
     },
     {
       "slug": "monitor-s-4-mja-kamerami-jcs-7003-4",
@@ -9519,7 +9519,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1783781333,
-      "views": 1
+      "views": 2
     },
     {
       "slug": "bos-mini-y1568mbt-12v-24v",
@@ -11973,37 +11973,6 @@
       "views": 205
     },
     {
-      "slug": "chevrolet-cruze-2013g-9-chjornyj",
-      "url": "https://bosminiofficial.com/shop/2606/desc/chevrolet-cruze-2013g-9-chjornyj",
-      "name": "Chevrolet Cruze 2013г 9\" Чёрный",
-      "sku": "",
-      "price_rub": 1200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Переходные рамки"
-      ],
-      "brand_tags": [],
-      "description": "✅️ Размер рамки 9 ✅️ Провода в комплекте ✅️ Кан-блок в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/26/2606.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2606.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/26/2606.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2606.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 37,
-      "added_at": 1755667405,
-      "views": 268
-    },
-    {
       "slug": "ford-focus-9",
       "url": "https://bosminiofficial.com/shop/2879/desc/ford-focus-9",
       "name": "Ford Focus 9\"",
@@ -13465,7 +13434,7 @@
       "url": "https://bosminiofficial.com/shop/729/desc/e5-olom-p-10",
       "name": "E5-OLOM P-10",
       "sku": "",
-      "price_rub": 7200,
+      "price_rub": 6800,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -13496,7 +13465,7 @@
       "url": "https://bosminiofficial.com/shop/730/desc/e5-olom-p-12",
       "name": "E5-OLOM P-12",
       "sku": "",
-      "price_rub": 8200,
+      "price_rub": 7200,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
