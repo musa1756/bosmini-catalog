@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783940117,
+  "generated_at": 1783940417,
   "scraped_count": 477,
   "products": [
     {
@@ -467,7 +467,7 @@
       "stock_count": 0,
       "popularity": 26,
       "added_at": 1779787001,
-      "views": 184
+      "views": 185
     },
     {
       "slug": "bos-mini-a7-4-64gb-7",
@@ -14791,7 +14791,7 @@
       "stock_count": 0,
       "popularity": 683,
       "added_at": 1714856095,
-      "views": 614
+      "views": 615
     }
   ]
 }
