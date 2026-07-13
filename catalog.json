@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783950917,
-  "scraped_count": 477,
+  "generated_at": 1783951217,
+  "scraped_count": 479,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 665
+      "views": 666
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -157,7 +157,7 @@
       "stock_count": 0,
       "popularity": 225,
       "added_at": 1752844861,
-      "views": 932
+      "views": 933
     },
     {
       "slug": "bos-mini-a1-pro-4-64gb-9",
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782539919,
-      "views": 67
+      "views": 68
     },
     {
       "slug": "bos-mini-a1206",
@@ -343,7 +343,7 @@
       "stock_count": 0,
       "popularity": 987,
       "added_at": 1752844697,
-      "views": 1296
+      "views": 1297
     },
     {
       "slug": "bos-mini-a2-4-64gb-9",
@@ -684,7 +684,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1782540190,
-      "views": 61
+      "views": 62
     },
     {
       "slug": "bos-mini-t2-4-64gb-9",
@@ -1273,7 +1273,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1752852728,
-      "views": 1389
+      "views": 1390
     },
     {
       "slug": "bos-mini-cc3-max-2k-12-256gb-9",
@@ -1304,7 +1304,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752852789,
-      "views": 1729
+      "views": 1730
     },
     {
       "slug": "bos-mini-k68",
@@ -1335,7 +1335,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1765802757,
-      "views": 1533
+      "views": 1534
     },
     {
       "slug": "bos-mini-k69",
@@ -1366,7 +1366,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1765802832,
-      "views": 742
+      "views": 743
     },
     {
       "slug": "bos-mini-k71",
@@ -2234,7 +2234,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1752843688,
-      "views": 403
+      "views": 404
     },
     {
       "slug": "dv-pioneer-ok-6611",
@@ -2265,7 +2265,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1752841827,
-      "views": 601
+      "views": 602
     },
     {
       "slug": "dv-pioneer-ok-a2-pro-6-64",
@@ -2637,7 +2637,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1752845497,
-      "views": 567
+      "views": 568
     },
     {
       "slug": "e5-olom-e3-pro-6-64gb-9",
@@ -2916,7 +2916,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1780137341,
-      "views": 157
+      "views": 158
     },
     {
       "slug": "x3-diamond-4-64gb",
@@ -10790,7 +10790,7 @@
       "stock_count": 0,
       "popularity": 1711,
       "added_at": 1722713624,
-      "views": 547
+      "views": 548
     },
     {
       "slug": "pioneer-gb-mvh-f899zbt",
@@ -11078,7 +11078,7 @@
       "url": "https://bosminiofficial.com/shop/2874/desc/bos-mini-n637dp5",
       "name": "BOS-MINI N637DP5",
       "sku": "",
-      "price_rub": 2300,
+      "price_rub": 2500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -11109,7 +11109,7 @@
       "url": "https://bosminiofficial.com/shop/2875/desc/bos-mini-n639dp5",
       "name": "BOS-MINI N639DP5",
       "sku": "",
-      "price_rub": 2300,
+      "price_rub": 2500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -11164,7 +11164,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1778219987,
-      "views": 297
+      "views": 298
     },
     {
       "slug": "bos-mini-n727hgp5",
@@ -11196,6 +11196,68 @@
       "popularity": 16,
       "added_at": 1776253023,
       "views": 351
+    },
+    {
+      "slug": "bos-mini-n728dzp5",
+      "url": "https://bosminiofficial.com/shop/2897/desc/bos-mini-n728dzp5",
+      "name": "BOS-MINI N728DZP5",
+      "sku": "MP5",
+      "price_rub": 5000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-7 дюймов\n✅CarPlay/AndroidAuto\n✅Радиатор охлаждения\n✅9 выходов RCA\n✅Канблок и провода для подключения и в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/28/2897.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2897.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/28/2897.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2897.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 85,
+      "added_at": 1776113389,
+      "views": 726
+    },
+    {
+      "slug": "bos-mini-n636dp5",
+      "url": "https://bosminiofficial.com/shop/2723/desc/bos-mini-n636dp5",
+      "name": "Bos-Mini N636DP5",
+      "sku": "",
+      "price_rub": 2500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-6,36\", сенсорный\n✅Типоразмер-1Din\n✅Type-c, USB, AUX\n✅Радиатор охлаждения\n✅Пульт управления, инструкция и фишки для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/27/2723.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/27/2723.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/27/2723.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/27/2723.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 48,
+      "added_at": 1765285531,
+      "views": 1053
     },
     {
       "slug": "dv-pioneer-ok-5503",
@@ -14512,7 +14574,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1783923577,
-      "views": 5
+      "views": 6
     },
     {
       "slug": "dv-pioneer-ok-414",
