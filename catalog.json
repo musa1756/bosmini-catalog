@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783923918,
-  "scraped_count": 477,
+  "generated_at": 1783924218,
+  "scraped_count": 478,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -64,7 +64,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1752862193,
-      "views": 1280
+      "views": 1281
     },
     {
       "slug": "blaupunkt-ha900-b4-4-64g",
@@ -6763,6 +6763,37 @@
       "views": 252
     },
     {
+      "slug": "kamera-360-full-hd",
+      "url": "https://bosminiofficial.com/shop/3000/desc/kamera-360-full-hd",
+      "name": "Камера 360’ Full HD",
+      "sku": "",
+      "price_rub": 3000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅4 камеры и провода для подключения в комплекте!!",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3000.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3000.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3000.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3000.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1783923958,
+      "views": 1
+    },
+    {
       "slug": "kamera-zad-vida-bos-mini-l-168",
       "url": "https://bosminiofficial.com/shop/1088/desc/kamera-zad-vida-bos-mini-l-168",
       "name": "Камера зад.вида Bos-Mini (L-168)",
@@ -10947,7 +10978,7 @@
       "stock_count": 0,
       "popularity": 66,
       "added_at": 1714856095,
-      "views": 1000
+      "views": 1001
     },
     {
       "slug": "magnitola-bos-mini-n973dsp",
@@ -11040,7 +11071,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1782205423,
-      "views": 63
+      "views": 64
     },
     {
       "slug": "bos-mini-n637dp5",
@@ -11226,7 +11257,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1783495187,
-      "views": 25
+      "views": 26
     },
     {
       "slug": "dv-pioneer-ok-7110",
@@ -14512,7 +14543,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1783923577,
-      "views": 1
+      "views": 2
     },
     {
       "slug": "dv-pioneer-ok-414",
