@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1783926617,
-  "scraped_count": 478,
+  "generated_at": 1783926917,
+  "scraped_count": 477,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -6791,7 +6791,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1783923958,
-      "views": 1
+      "views": 2
     },
     {
       "slug": "kamera-zad-vida-bos-mini-l-168",
@@ -13769,37 +13769,6 @@
       "popularity": 19,
       "added_at": 1741171685,
       "views": 215
-    },
-    {
-      "slug": "syzx-d-8310",
-      "url": "https://bosminiofficial.com/shop/1421/desc/syzx-d-8310",
-      "name": "SYZX D-8310",
-      "sku": "",
-      "price_rub": 6000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Сабвуфер активный ✅Размер-10\" ✅В комплекте с проводами",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/14/1421.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/14/1421.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/14/1421.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/14/1421.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 41,
-      "added_at": 1747294154,
-      "views": 173
     },
     {
       "slug": "syzx-v-1310-10",
