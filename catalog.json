@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784010918,
+  "generated_at": 1784011218,
   "scraped_count": 479,
   "products": [
     {
@@ -529,7 +529,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782540010,
-      "views": 58
+      "views": 59
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -839,7 +839,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782456237,
-      "views": 62
+      "views": 63
     },
     {
       "slug": "bos-a658d-pro-4-64gb",
@@ -9550,7 +9550,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1783781333,
-      "views": 13
+      "views": 14
     },
     {
       "slug": "bos-mini-y1568mbt-12v-24v",
@@ -9581,7 +9581,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1782205257,
-      "views": 71
+      "views": 72
     },
     {
       "slug": "bos-mini-y956bt-12v-24v",
@@ -10015,7 +10015,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1782024976,
-      "views": 53
+      "views": 54
     },
     {
       "slug": "dv-pioneer-ok-mp3564",
@@ -10139,7 +10139,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1770802487,
-      "views": 225
+      "views": 226
     },
     {
       "slug": "dv-pioneer-ok-mp371dsp",
@@ -10325,7 +10325,7 @@
       "stock_count": 0,
       "popularity": 130,
       "added_at": 1773034968,
-      "views": 314
+      "views": 315
     },
     {
       "slug": "dv-pioneer-ok-1605",
@@ -14450,7 +14450,7 @@
       "stock_count": 0,
       "popularity": 25,
       "added_at": 1753952020,
-      "views": 263
+      "views": 264
     },
     {
       "slug": "alpine-ap-47-1",
@@ -14543,7 +14543,7 @@
       "stock_count": 0,
       "popularity": 312,
       "added_at": 1754033937,
-      "views": 611
+      "views": 612
     },
     {
       "slug": "bos-mini-a25",
@@ -14667,7 +14667,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1753165880,
-      "views": 478
+      "views": 479
     },
     {
       "slug": "jbl-jb-480",
@@ -14853,7 +14853,7 @@
       "stock_count": 0,
       "popularity": 683,
       "added_at": 1714856095,
-      "views": 615
+      "views": 616
     }
   ]
 }
