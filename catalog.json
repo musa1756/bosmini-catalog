@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784010017,
+  "generated_at": 1784010317,
   "scraped_count": 479,
   "products": [
     {
@@ -217,9 +217,9 @@
         "https://bosminiofficial.com/_sh/29/2985.jpg"
       ],
       "stock_count": 0,
-      "popularity": 0,
+      "popularity": 1,
       "added_at": 1782539919,
-      "views": 70
+      "views": 71
     },
     {
       "slug": "bos-mini-a1206",
@@ -7161,9 +7161,9 @@
         "https://bosminiofficial.com/_sh/26/2643.jpg"
       ],
       "stock_count": 0,
-      "popularity": 19,
+      "popularity": 20,
       "added_at": 1757406784,
-      "views": 369
+      "views": 371
     },
     {
       "slug": "monitor-s-4-mja-kamerami-jcs-7003-4",
