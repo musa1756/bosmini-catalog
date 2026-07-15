@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784116819,
-  "scraped_count": 477,
+  "generated_at": 1784117116,
+  "scraped_count": 474,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -4033,6 +4033,37 @@
       "popularity": 1,
       "added_at": 1769411698,
       "views": 135
+    },
+    {
+      "slug": "aromatizatory-ds-001",
+      "url": "https://bosminiofficial.com/shop/3001/desc/aromatizatory-ds-001",
+      "name": "Ароматизаторы DS-001",
+      "sku": "",
+      "price_rub": 45,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Автоаксессуары"
+      ],
+      "brand_tags": [],
+      "description": "✅Вкус DIOR SAVAGE\n✅О\nбъем-10 мл",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3001.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3001.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3001.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3001.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1784116984,
+      "views": 1
     },
     {
       "slug": "besprovodnoj-usb-adapter-carplay",
@@ -12810,68 +12841,6 @@
       "views": 246
     },
     {
-      "slug": "inverter-red-12v-220v-1000w",
-      "url": "https://bosminiofficial.com/shop/1080/desc/inverter-red-12v-220v-1000w",
-      "name": "Инвертер Red 12v-220v (1000W）",
-      "sku": "",
-      "price_rub": 2200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Преобразователи"
-      ],
-      "brand_tags": [],
-      "description": "✅ В комплекте провода и клеммы для аккумулятора",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/10/1080.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1080.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/10/1080.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1080.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 22,
-      "added_at": 1732020182,
-      "views": 306
-    },
-    {
-      "slug": "inverter-red-12v-220v-2200w",
-      "url": "https://bosminiofficial.com/shop/1077/desc/inverter-red-12v-220v-2200w",
-      "name": "Инвертер Red 12v-220v (2200W)",
-      "sku": "",
-      "price_rub": 3800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Преобразователи"
-      ],
-      "brand_tags": [],
-      "description": "✅ В комплекте провода и клеммы для аккумулятора",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/10/1077.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1077.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/10/1077.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1077.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 13,
-      "added_at": 1732015908,
-      "views": 384
-    },
-    {
       "slug": "inverter-xbk-12v-220v-8000w",
       "url": "https://bosminiofficial.com/shop/2697/desc/inverter-xbk-12v-220v-8000w",
       "name": "Инвертер XBK 12V-220V/8000W",
@@ -12901,68 +12870,6 @@
       "popularity": 1,
       "added_at": 1764579038,
       "views": 152
-    },
-    {
-      "slug": "inverter-khvk-12v-220v-6000w",
-      "url": "https://bosminiofficial.com/shop/1075/desc/inverter-khvk-12v-220v-6000w",
-      "name": "Инвертер ХВК 12V-220V (6000W)",
-      "sku": "",
-      "price_rub": 10400,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Преобразователи"
-      ],
-      "brand_tags": [],
-      "description": "✅ В комплекте провода и клеммы для аккумулятора",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/10/1075.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1075.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/10/1075.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1075.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 3,
-      "added_at": 1732015314,
-      "views": 244
-    },
-    {
-      "slug": "inverter-khvk-12v-220v-5000w",
-      "url": "https://bosminiofficial.com/shop/1076/desc/inverter-khvk-12v-220v-5000w",
-      "name": "Инвертер ХВК 12V-220V/ (5000W)",
-      "sku": "",
-      "price_rub": 8400,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Преобразователи"
-      ],
-      "brand_tags": [],
-      "description": "✅ В комплекте провода и клеммы для аккумулятора",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/10/1076.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1076.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/10/1076.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1076.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 6,
-      "added_at": 1732015518,
-      "views": 277
     },
     {
       "slug": "preobrazovateli-24v-12v-45a",
