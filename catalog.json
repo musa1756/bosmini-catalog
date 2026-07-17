@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784270116,
-  "scraped_count": 476,
+  "generated_at": 1784270416,
+  "scraped_count": 477,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -281,7 +281,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1782390686,
-      "views": 65
+      "views": 66
     },
     {
       "slug": "bos-mini-a1213",
@@ -1335,7 +1335,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1765802523,
-      "views": 1159
+      "views": 1160
     },
     {
       "slug": "bos-mini-k72",
@@ -3041,6 +3041,37 @@
       "popularity": 49,
       "added_at": 1776517157,
       "views": 190
+    },
+    {
+      "slug": "gem62-pro-max-bmw-style",
+      "url": "https://bosminiofficial.com/shop/3005/desc/gem62-pro-max-bmw-style",
+      "name": "ГЕМ62 PRO MAX BMW Style",
+      "sku": "",
+      "price_rub": 10500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-12,8 дюймов\n✅Память-8+64Gb\n✅Количество ядер-8\n✅Поддержка сим карты\n✅Платформа TS18\n✅CarPlay/AndroidAuto\n✅Разделение экрана\n✅Кулер охлаждения\n✅2 рамки и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3005.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3005.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3005.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3005.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1784270215,
+      "views": 1
     },
     {
       "slug": "teyes-hs-sony-camera",
@@ -7938,7 +7969,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1765546118,
-      "views": 258
+      "views": 259
     },
     {
       "slug": "bos-mini-6516kit",
