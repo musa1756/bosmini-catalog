@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784268016,
-  "scraped_count": 473,
+  "generated_at": 1784268317,
+  "scraped_count": 474,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -4001,7 +4001,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1769411604,
-      "views": 145
+      "views": 146
     },
     {
       "slug": "aromatizator-sprej-rh-031",
@@ -9429,6 +9429,37 @@
       "views": 1050
     },
     {
+      "slug": "bos-mini-mvh-t912b",
+      "url": "https://bosminiofficial.com/shop/3002/desc/bos-mini-mvh-t912b",
+      "name": "BOS-MINI MVH-T912B",
+      "sku": "",
+      "price_rub": 1600,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅\nУправление через приложение\n✅\nЦветная RGB подсветка\n✅\nBluetooth/USB/SD/Aux\n✅\n10 настроек эквалайзера\n✅\nСъёмная панель\n✅\n9 выходов RCA\n✅\nРадиатор охлаждения\n✅\nВ комплекте пульт и провода",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/.s/img/sh/nf150.svg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/.s/img/sh/nf150.svg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/.s/img/sh/nf150.svg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/.s/img/sh/nf150.svg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1784268254,
+      "views": 1
+    },
+    {
       "slug": "bos-mini-n870",
       "url": "https://bosminiofficial.com/shop/1924/desc/bos-mini-n870",
       "name": "BOS-MINI N870",
@@ -14450,7 +14481,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1765802327,
-      "views": 175
+      "views": 176
     },
     {
       "slug": "dv-pioneer-ok-a43",
