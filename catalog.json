@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784268317,
+  "generated_at": 1784268617,
   "scraped_count": 474,
   "products": [
     {
@@ -994,7 +994,7 @@
       "stock_count": 0,
       "popularity": 517,
       "added_at": 1764392614,
-      "views": 840
+      "views": 841
     },
     {
       "slug": "bos-mini-a5-6-128gb-10",
@@ -6760,7 +6760,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1783923958,
-      "views": 19
+      "views": 20
     },
     {
       "slug": "kamera-zad-vida-bos-mini-l-168",
@@ -9443,21 +9443,21 @@
       "description": "✅\nУправление через приложение\n✅\nЦветная RGB подсветка\n✅\nBluetooth/USB/SD/Aux\n✅\n10 настроек эквалайзера\n✅\nСъёмная панель\n✅\n9 выходов RCA\n✅\nРадиатор охлаждения\n✅\nВ комплекте пульт и провода",
       "specs": [],
       "image_urls": [
-        "https://bosminiofficial.com/.s/img/sh/nf150.svg"
+        "https://bosminiofficial.com/_sh/30/3002.jpg"
       ],
       "full_image_urls": [
-        "https://bosminiofficial.com/.s/img/sh/nf150.svg"
+        "https://bosminiofficial.com/_sh/30/3002.jpg"
       ],
       "local_images": [
-        "https://bosminiofficial.com/.s/img/sh/nf150.svg"
+        "https://bosminiofficial.com/_sh/30/3002.jpg"
       ],
       "thumb_image_urls": [
-        "https://bosminiofficial.com/.s/img/sh/nf150.svg"
+        "https://bosminiofficial.com/_sh/30/3002.jpg"
       ],
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1784268254,
-      "views": 1
+      "views": 2
     },
     {
       "slug": "bos-mini-n870",
@@ -9767,7 +9767,7 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1765628595,
-      "views": 234
+      "views": 235
     },
     {
       "slug": "bos-mini-y8064mbt",
