@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784269216,
-  "scraped_count": 474,
+  "generated_at": 1784269516,
+  "scraped_count": 476,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2885,7 +2885,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1781589517,
-      "views": 78
+      "views": 79
     },
     {
       "slug": "x5-diamond-8-128gb",
@@ -4063,7 +4063,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1784116984,
-      "views": 15
+      "views": 16
     },
     {
       "slug": "besprovodnoj-usb-adapter-carplay",
@@ -7380,7 +7380,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1782390337,
-      "views": 32
+      "views": 33
     },
     {
       "slug": "bos-mini-5569",
@@ -9429,6 +9429,68 @@
       "views": 1050
     },
     {
+      "slug": "bos-mini-941dsp",
+      "url": "https://bosminiofficial.com/shop/3003/desc/bos-mini-941dsp",
+      "name": "BOS-MINI 941DSP",
+      "sku": "",
+      "price_rub": 1600,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅\nУправление через приложение\n✅\nЦветная RGB подсветка\n✅\nBluetooth/USB/SD/Aux\n✅\n10 настроек эквалайзера\n✅\nСъёмная панель\n✅\n9 выходов RCA\n✅\nРадиатор охлаждения\n✅\nВ комплекте пульт и провода",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3003.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3003.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3003.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3003.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1784269255,
+      "views": 1
+    },
+    {
+      "slug": "bos-mini-942dsp",
+      "url": "https://bosminiofficial.com/shop/3004/desc/bos-mini-942dsp",
+      "name": "BOS-MINI 942DSP",
+      "sku": "",
+      "price_rub": 1600,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅\nУправление через приложение\n✅\nЦветная RGB подсветка\n✅\nBluetooth/USB/SD/Aux\n✅\n10 настроек эквалайзера\n✅\nСъёмная панель\n✅\n9 выходов RCA\n✅\nРадиатор охлаждения\n✅\nВ комплекте пульт и провода",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3004.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3004.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3004.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3004.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1784269320,
+      "views": 1
+    },
+    {
       "slug": "bos-mini-mvh-t912b",
       "url": "https://bosminiofficial.com/shop/3002/desc/bos-mini-mvh-t912b",
       "name": "BOS-MINI MVH-T912B",
@@ -10325,7 +10387,7 @@
       "stock_count": 0,
       "popularity": 130,
       "added_at": 1773034968,
-      "views": 319
+      "views": 320
     },
     {
       "slug": "dv-pioneer-ok-1605",
@@ -10916,7 +10978,7 @@
       "stock_count": 0,
       "popularity": 150,
       "added_at": 1714856095,
-      "views": 1242
+      "views": 1243
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
@@ -11443,7 +11505,7 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1714856095,
-      "views": 698
+      "views": 699
     },
     {
       "slug": "2-provodnyj-ehlektroprivod-zamka-dverej-bm-02",
