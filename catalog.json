@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784317818,
+  "generated_at": 1784318117,
   "scraped_count": 478,
   "products": [
     {
@@ -2914,9 +2914,9 @@
         "https://bosminiofficial.com/_sh/29/2944.jpg"
       ],
       "stock_count": 0,
-      "popularity": 4,
+      "popularity": 6,
       "added_at": 1781589373,
-      "views": 102
+      "views": 103
     },
     {
       "slug": "y2-pro-12-128gb",
@@ -10449,7 +10449,7 @@
       "stock_count": 0,
       "popularity": 130,
       "added_at": 1773034968,
-      "views": 321
+      "views": 322
     },
     {
       "slug": "dv-pioneer-ok-1605",
@@ -13179,7 +13179,7 @@
       "stock_count": 0,
       "popularity": 149,
       "added_at": 1753860509,
-      "views": 194
+      "views": 195
     },
     {
       "slug": "bos-8ga",
