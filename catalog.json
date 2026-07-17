@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784273117,
+  "generated_at": 1784273417,
   "scraped_count": 479,
   "products": [
     {
@@ -684,7 +684,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1782540190,
-      "views": 65
+      "views": 67
     },
     {
       "slug": "bos-mini-t2-4-64gb-9",
@@ -3043,9 +3043,9 @@
       "views": 190
     },
     {
-      "slug": "gem61-pro-max",
-      "url": "https://bosminiofficial.com/shop/3007/desc/gem61-pro-max",
-      "name": "ГЕМ61 PRO MAX",
+      "slug": "gem61-pro-max-mersedes-style",
+      "url": "https://bosminiofficial.com/shop/3007/desc/gem61-pro-max-mersedes-style",
+      "name": "ГЕМ61 PRO MAX Mersedes Style",
       "sku": "",
       "price_rub": 10500,
       "old_price_rub": null,
