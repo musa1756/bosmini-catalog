@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784273417,
+  "generated_at": 1784273717,
   "scraped_count": 479,
   "products": [
     {
@@ -13272,7 +13272,7 @@
       "stock_count": 0,
       "popularity": 77,
       "added_at": 1726917366,
-      "views": 744
+      "views": 745
     },
     {
       "slug": "bos-mini-1510-10-2600w",
@@ -14853,7 +14853,7 @@
       "stock_count": 0,
       "popularity": 683,
       "added_at": 1714856095,
-      "views": 617
+      "views": 618
     }
   ]
 }
