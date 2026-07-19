@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784457317,
+  "generated_at": 1784457617,
   "scraped_count": 476,
   "products": [
     {
@@ -2883,7 +2883,7 @@
         "https://bosminiofficial.com/_sh/29/2944.jpg"
       ],
       "stock_count": 0,
-      "popularity": 6,
+      "popularity": 7,
       "added_at": 1781589373,
       "views": 108
     },
@@ -6820,7 +6820,7 @@
         "https://bosminiofficial.com/_sh/30/3000.jpg"
       ],
       "stock_count": 0,
-      "popularity": 0,
+      "popularity": 1,
       "added_at": 1783923958,
       "views": 25
     },
@@ -7380,7 +7380,7 @@
       "stock_count": 0,
       "popularity": 147,
       "added_at": 1738649802,
-      "views": 866
+      "views": 867
     },
     {
       "slug": "bos-mini-52xd",
@@ -11288,7 +11288,7 @@
       "stock_count": 0,
       "popularity": 91,
       "added_at": 1776113389,
-      "views": 762
+      "views": 763
     },
     {
       "slug": "bos-mini-n636dp5",
