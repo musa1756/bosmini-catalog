@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784459718,
-  "scraped_count": 476,
+  "generated_at": 1784460017,
+  "scraped_count": 475,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1274,37 +1274,6 @@
       "popularity": 0,
       "added_at": 1752852789,
       "views": 1737
-    },
-    {
-      "slug": "bos-mini-k68",
-      "url": "https://bosminiofficial.com/shop/2758/desc/bos-mini-k68",
-      "name": "Bos-Mini K68",
-      "sku": "",
-      "price_rub": 3800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-6.89\"\n✅Типоразмер-1Din\n✅Память-4+64Gb\n✅USB и Type C разъемы\n✅Расположение кнопок в нижней части экрана\n✅Кулер охлаждения\n✅Провода для подключения в комплекте!!!",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2758.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2758.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2758.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2758.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 23,
-      "added_at": 1765802757,
-      "views": 1541
     },
     {
       "slug": "bos-mini-k69",
@@ -11791,7 +11760,7 @@
       "url": "https://bosminiofficial.com/shop/2524/desc/tomahawk-tw-9010",
       "name": "TOMAHAWK TW-9010",
       "sku": "",
-      "price_rub": 2450,
+      "price_rub": 2250,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
