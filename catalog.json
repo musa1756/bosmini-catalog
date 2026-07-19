@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784445618,
-  "scraped_count": 478,
+  "generated_at": 1784445918,
+  "scraped_count": 476,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2483,37 +2483,6 @@
       "popularity": 62,
       "added_at": 1765282134,
       "views": 422
-    },
-    {
-      "slug": "dv-pioneer-ok-z3-pro-4-64gb",
-      "url": "https://bosminiofficial.com/shop/2559/desc/dv-pioneer-ok-z3-pro-4-64gb",
-      "name": "Dv-Pioneer.ok Z3 Pro 4+64Gb",
-      "sku": "",
-      "price_rub": 6600,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅️Размер экрана ,,9\" ✅️Память 4+64Gb ✅️Поддержка сим-карты ✅️CarPlay ✅️Кулер охлаждения ✅️Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2559.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2559.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2559.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2559.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 174,
-      "added_at": 1754464305,
-      "views": 882
     },
     {
       "slug": "e5-olom-es4-flip-4-64gb",
@@ -7046,7 +7015,7 @@
       "url": "https://bosminiofficial.com/shop/1257/desc/kamera-zadnego-vida-bos-l210",
       "name": "Камера заднего вида Bos-L210",
       "sku": "",
-      "price_rub": 500,
+      "price_rub": 450,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -7133,37 +7102,6 @@
       "popularity": 286,
       "added_at": 1746416891,
       "views": 312
-    },
-    {
-      "slug": "kamera-zadnego-vida-l-165",
-      "url": "https://bosminiofficial.com/shop/2876/desc/kamera-zadnego-vida-l-165",
-      "name": "Камера заднего вида L-165",
-      "sku": "",
-      "price_rub": 250,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅Провода 5 м. в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2876.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2876.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2876.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2876.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 32,
-      "added_at": 1774248473,
-      "views": 167
     },
     {
       "slug": "kamera-zadnego-vida-l-606",
@@ -9271,7 +9209,7 @@
       "stock_count": 0,
       "popularity": 32,
       "added_at": 1718304499,
-      "views": 232
+      "views": 233
     },
     {
       "slug": "kolonki-ot-bos-mini-5083",
