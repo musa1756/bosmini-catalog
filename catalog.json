@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784445317,
+  "generated_at": 1784445618,
   "scraped_count": 478,
   "products": [
     {
@@ -5992,7 +5992,7 @@
       "url": "https://bosminiofficial.com/shop/1110/desc/bos-mini-l-810",
       "name": "Bos mini L-810",
       "sku": "",
-      "price_rub": 600,
+      "price_rub": 500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -6860,7 +6860,7 @@
       "url": "https://bosminiofficial.com/shop/1088/desc/kamera-zad-vida-bos-mini-l-168",
       "name": "Камера зад.вида Bos-Mini (L-168)",
       "sku": "",
-      "price_rub": 350,
+      "price_rub": 300,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -9922,7 +9922,7 @@
       "stock_count": 0,
       "popularity": 68,
       "added_at": 1765628623,
-      "views": 264
+      "views": 265
     },
     {
       "slug": "bos-mini-y8065mbt",
