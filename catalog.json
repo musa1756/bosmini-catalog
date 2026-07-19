@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784446817,
+  "generated_at": 1784447117,
   "scraped_count": 476,
   "products": [
     {
@@ -313,6 +313,37 @@
       "popularity": 0,
       "added_at": 1782470618,
       "views": 78
+    },
+    {
+      "slug": "bos-mini-a1301",
+      "url": "https://bosminiofficial.com/shop/3008/desc/bos-mini-a1301",
+      "name": "BOS-MINI A1301",
+      "sku": "",
+      "price_rub": 14900,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-13,1 дюймов\n✅Количество ядер-8\n✅Поддержка сим карты\n✅Голосовой помощник\n✅DSP процессор\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅2 рамки и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3008.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3008.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3008.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3008.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1784446916,
+      "views": 0
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -1894,37 +1925,6 @@
       "popularity": 153,
       "added_at": 1781700641,
       "views": 71
-    },
-    {
-      "slug": "dhd-s1-4-64gb-9-djujmov",
-      "url": "https://bosminiofficial.com/shop/2949/desc/dhd-s1-4-64gb-9-djujmov",
-      "name": "DHD S1 4+64Gb \"9-Дюймов",
-      "sku": "",
-      "price_rub": 4100,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅️Размер экрана  9-дюймов\n✅️Память-4+64Gb\n✅️CarPlay/AndroidAuto\n✅️Кулер охлаждения\n✅️Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2949.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2949.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2949.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2949.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 294,
-      "added_at": 1781700207,
-      "views": 81
     },
     {
       "slug": "dhd-s1-plus-4-64gb-10-djujmov",
@@ -10978,7 +10978,7 @@
       "stock_count": 0,
       "popularity": 150,
       "added_at": 1714856095,
-      "views": 1249
+      "views": 1250
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
