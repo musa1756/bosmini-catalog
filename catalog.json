@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784552717,
+  "generated_at": 1784553017,
   "scraped_count": 476,
   "products": [
     {
@@ -14357,7 +14357,7 @@
       "stock_count": 0,
       "popularity": 25,
       "added_at": 1753952020,
-      "views": 270
+      "views": 271
     },
     {
       "slug": "alpine-ap-47-1",
@@ -14388,7 +14388,7 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1765430230,
-      "views": 300
+      "views": 301
     },
     {
       "slug": "alpine-ap-a5204",
@@ -14450,7 +14450,7 @@
       "stock_count": 0,
       "popularity": 317,
       "added_at": 1754033937,
-      "views": 622
+      "views": 623
     },
     {
       "slug": "bos-mini-a25",
@@ -14574,7 +14574,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1753165880,
-      "views": 486
+      "views": 487
     },
     {
       "slug": "jbl-jb-480",
@@ -14760,7 +14760,7 @@
       "stock_count": 0,
       "popularity": 683,
       "added_at": 1714856095,
-      "views": 618
+      "views": 619
     }
   ]
 }
