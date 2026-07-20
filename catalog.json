@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784551217,
+  "generated_at": 1784551516,
   "scraped_count": 476,
   "products": [
     {
@@ -10571,7 +10571,7 @@
         "https://bosminiofficial.com/_sh/27/2702.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1650,
+      "popularity": 1770,
       "added_at": 1764669521,
       "views": 255
     },
@@ -13148,7 +13148,7 @@
       "stock_count": 0,
       "popularity": 256,
       "added_at": 1753860442,
-      "views": 176
+      "views": 177
     },
     {
       "slug": "bos-mini-10g",
@@ -13582,7 +13582,7 @@
       "stock_count": 0,
       "popularity": 57,
       "added_at": 1753518032,
-      "views": 220
+      "views": 221
     },
     {
       "slug": "pioneer-gb-802a",
@@ -13613,7 +13613,7 @@
       "stock_count": 0,
       "popularity": 112,
       "added_at": 1753518058,
-      "views": 228
+      "views": 229
     },
     {
       "slug": "pioneer-gb-11g",
