@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784548216,
+  "generated_at": 1784548516,
   "scraped_count": 476,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 672
+      "views": 673
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -2792,7 +2792,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1780137341,
-      "views": 171
+      "views": 172
     },
     {
       "slug": "x3-diamond-4-64gb",
@@ -2885,7 +2885,7 @@
       "stock_count": 0,
       "popularity": 69,
       "added_at": 1773035061,
-      "views": 374
+      "views": 375
     },
     {
       "slug": "zx1-4-64gb-9",
@@ -9116,7 +9116,7 @@
       "stock_count": 0,
       "popularity": 45,
       "added_at": 1718304718,
-      "views": 164
+      "views": 165
     },
     {
       "slug": "kolonki-gb-v-612",
@@ -9147,7 +9147,7 @@
       "stock_count": 0,
       "popularity": 54,
       "added_at": 1718304602,
-      "views": 82
+      "views": 83
     },
     {
       "slug": "kolonki-gb-v-6912",
@@ -9178,7 +9178,7 @@
       "stock_count": 0,
       "popularity": 32,
       "added_at": 1718304499,
-      "views": 233
+      "views": 234
     },
     {
       "slug": "kolonki-ot-bos-mini-5083",
@@ -9209,7 +9209,7 @@
       "stock_count": 0,
       "popularity": 69,
       "added_at": 1717065242,
-      "views": 475
+      "views": 476
     },
     {
       "slug": "kolonki-ot-bos-mini-6583",
@@ -9240,7 +9240,7 @@
       "stock_count": 0,
       "popularity": 161,
       "added_at": 1717065094,
-      "views": 466
+      "views": 467
     },
     {
       "slug": "kolonki-ot-bos-mini-6983",
@@ -9333,7 +9333,7 @@
       "stock_count": 0,
       "popularity": 118,
       "added_at": 1715285715,
-      "views": 413
+      "views": 414
     },
     {
       "slug": "rupor-tp-14",
