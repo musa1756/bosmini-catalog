@@ -351,6 +351,39 @@ def to_product_json(entry: dict, cat_lookup: dict[int, str]) -> dict:
     }
 
 
+def make_slugs_unique(products_with_ids: list[tuple[dict, object]]) -> list[dict]:
+    """Keep uCoz slugs where possible, suffixing only duplicate aliases.
+
+    ``entry_hgu`` normally is unique, but it is editor-controlled in uCoz and
+    can be copied accidentally.  A duplicate must never make the whole catalog
+    unpublishable: ``catalog_products.slug`` is its primary key.  The oldest
+    uCoz entry retains the legacy slug; later entries get their immutable uCoz
+    entry id appended, so the result is stable across sync runs.
+    """
+    grouped: dict[str, list[tuple[dict, object]]] = {}
+    for product, entry_id in products_with_ids:
+        grouped.setdefault(product["slug"], []).append((product, entry_id))
+
+    used: set[str] = set()
+    products: list[dict] = []
+    for slug, group in grouped.items():
+        # The API normally returns integer ids.  String fallback keeps malformed
+        # responses deterministic instead of allowing a duplicate through.
+        group.sort(key=lambda item: str(item[1]))
+        for index, (product, entry_id) in enumerate(group):
+            candidate = slug if index == 0 else f"{slug}-{entry_id}"
+            suffix = 2
+            while candidate in used:
+                candidate = f"{slug}-{entry_id}-{suffix}"
+                suffix += 1
+            if candidate != slug:
+                print(f"  [warn] duplicate slug {slug!r}; using {candidate!r}")
+            product["slug"] = candidate
+            used.add(candidate)
+            products.append(product)
+    return products
+
+
 def run() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true", help="Print stats without writing the file")
@@ -429,7 +462,9 @@ def run() -> int:
 
     print(f"\nTotal unique entries: {len(all_entries)}")
 
-    products = [to_product_json(e, cat_lookup) for e in all_entries.values()]
+    products = make_slugs_unique(
+        [(to_product_json(e, cat_lookup), e.get("entry_id")) for e in all_entries.values()]
+    )
     products.sort(key=lambda p: (p["categories"][0] if p["categories"] else "", p["name"]))
 
     payload = {
