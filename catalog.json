@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784547317,
+  "generated_at": 1784547616,
   "scraped_count": 476,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 671
+      "views": 672
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -7504,7 +7504,7 @@
       "stock_count": 0,
       "popularity": 156,
       "added_at": 1738649729,
-      "views": 402
+      "views": 403
     },
     {
       "slug": "bos-mini-6990-6-9-800w",
@@ -7783,7 +7783,7 @@
       "stock_count": 0,
       "popularity": 34,
       "added_at": 1738564421,
-      "views": 289
+      "views": 290
     },
     {
       "slug": "bos-mini-5086-13sm",
@@ -8992,7 +8992,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1734507278,
-      "views": 263
+      "views": 264
     },
     {
       "slug": "wt-582asp-22",
@@ -9023,7 +9023,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1734507190,
-      "views": 253
+      "views": 254
     },
     {
       "slug": "wt-spk159-22",
@@ -9054,7 +9054,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1734506942,
-      "views": 252
+      "views": 253
     },
     {
       "slug": "wt-spk161-22",
