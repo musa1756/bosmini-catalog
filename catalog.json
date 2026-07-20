@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784578516,
+  "generated_at": 1784578817,
   "scraped_count": 476,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 673
+      "views": 676
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -963,7 +963,7 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1772526981,
-      "views": 617
+      "views": 618
     },
     {
       "slug": "bos-mini-a15-9-djujmov",
