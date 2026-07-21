@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784653217,
+  "generated_at": 1784653517,
   "scraped_count": 473,
   "products": [
     {
@@ -343,7 +343,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1784446916,
-      "views": 19
+      "views": 20
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -405,7 +405,7 @@
       "stock_count": 0,
       "popularity": 3071,
       "added_at": 1752844676,
-      "views": 1728
+      "views": 1729
     },
     {
       "slug": "bos-mini-a42-6-64gb-9",
@@ -2048,7 +2048,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1783059576,
-      "views": 42
+      "views": 43
     },
     {
       "slug": "dhd-y2-pro-8-64gb-9",
