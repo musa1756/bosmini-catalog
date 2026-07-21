@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784619319,
-  "scraped_count": 475,
+  "generated_at": 1784619616,
+  "scraped_count": 476,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -682,7 +682,7 @@
         "https://bosminiofficial.com/_sh/27/2715.jpg"
       ],
       "stock_count": 0,
-      "popularity": 137,
+      "popularity": 138,
       "added_at": 1765175893,
       "views": 1005
     },
@@ -744,7 +744,7 @@
         "https://bosminiofficial.com/_sh/20/2021.jpg"
       ],
       "stock_count": 0,
-      "popularity": 720,
+      "popularity": 722,
       "added_at": 1752909494,
       "views": 1117
     },
@@ -1550,7 +1550,7 @@
         "https://bosminiofficial.com/_sh/19/1953.jpg"
       ],
       "stock_count": 0,
-      "popularity": 15,
+      "popularity": 16,
       "added_at": 1752853165,
       "views": 438
     },
@@ -1955,7 +1955,7 @@
       "stock_count": 0,
       "popularity": 271,
       "added_at": 1781001046,
-      "views": 119
+      "views": 123
     },
     {
       "slug": "dhd-x1-mini-4-46gb",
@@ -3069,7 +3069,7 @@
         "https://bosminiofficial.com/_sh/25/2517.jpg"
       ],
       "stock_count": 0,
-      "popularity": 2209,
+      "popularity": 2212,
       "added_at": 1753684369,
       "views": 659
     },
@@ -5303,7 +5303,7 @@
       "stock_count": 0,
       "popularity": 68,
       "added_at": 1734934388,
-      "views": 181
+      "views": 182
     },
     {
       "slug": "zr2-h1",
@@ -11257,7 +11257,7 @@
       "stock_count": 0,
       "popularity": 92,
       "added_at": 1776113389,
-      "views": 783
+      "views": 784
     },
     {
       "slug": "bos-mini-n636dp5",
@@ -12033,6 +12033,37 @@
       "popularity": 264,
       "added_at": 1738756168,
       "views": 410
+    },
+    {
+      "slug": "centralnyj-zamok-ot-bos-mini-686a",
+      "url": "https://bosminiofficial.com/shop/930/desc/centralnyj-zamok-ot-bos-mini-686a",
+      "name": "Центральный замок от Bos-Mini 686A",
+      "sku": "",
+      "price_rub": 550,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Охранные системы"
+      ],
+      "brand_tags": [],
+      "description": "✅Без пульта ✅4 замка в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/9/930.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/9/930.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/9/930.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/9/930.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 140,
+      "added_at": 1727075286,
+      "views": 171
     },
     {
       "slug": "centralnyj-zamok-s-dvumja-pultami-686b",
@@ -13582,7 +13613,7 @@
       "stock_count": 0,
       "popularity": 112,
       "added_at": 1753518058,
-      "views": 229
+      "views": 230
     },
     {
       "slug": "pioneer-gb-11g",
@@ -14388,7 +14419,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1771744690,
-      "views": 279
+      "views": 280
     },
     {
       "slug": "bos-mini-468d",
