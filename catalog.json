@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784620816,
-  "scraped_count": 476,
+  "generated_at": 1784621117,
+  "scraped_count": 473,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -498,7 +498,7 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1779787001,
-      "views": 200
+      "views": 201
     },
     {
       "slug": "bos-mini-a7-4-64gb-7",
@@ -654,37 +654,6 @@
       "popularity": 81,
       "added_at": 1753341610,
       "views": 2824
-    },
-    {
-      "slug": "bos-mini-q8-4-64gb-9",
-      "url": "https://bosminiofficial.com/shop/2715/desc/bos-mini-q8-4-64gb-9",
-      "name": "BOS-MINI Q8 4+64Gb 9\"",
-      "sku": "",
-      "price_rub": 7500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9\n✅Память-6+64Gb\n✅Количество ядер-8\n✅CarPlay\n✅Голосовое управление\n✅Кулер охлаждения\n✅HDMI выход\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2715.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2715.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2715.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2715.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 138,
-      "added_at": 1765175893,
-      "views": 1005
     },
     {
       "slug": "bos-mini-s1203-mersedes-style",
@@ -1118,7 +1087,7 @@
       "stock_count": 0,
       "popularity": 90,
       "added_at": 1764494765,
-      "views": 1435
+      "views": 1436
     },
     {
       "slug": "bos-mini-a629d-4-64gb",
@@ -1211,7 +1180,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1772527820,
-      "views": 408
+      "views": 409
     },
     {
       "slug": "bos-mini-cc3-max-12-256gb-9",
@@ -1304,7 +1273,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1765802832,
-      "views": 753
+      "views": 754
     },
     {
       "slug": "bos-mini-k71",
@@ -1366,7 +1335,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1765802621,
-      "views": 782
+      "views": 783
     },
     {
       "slug": "bos-mini-k76hg-4-64gb",
@@ -1397,7 +1366,7 @@
       "stock_count": 0,
       "popularity": 97,
       "added_at": 1767294203,
-      "views": 841
+      "views": 842
     },
     {
       "slug": "bos-mini-n776s-4-64gb",
@@ -2420,7 +2389,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1765283275,
-      "views": 623
+      "views": 624
     },
     {
       "slug": "dv-pioneer-ok-z3-pro-6-64gb-9",
@@ -2730,7 +2699,7 @@
       "stock_count": 0,
       "popularity": 29,
       "added_at": 1773476138,
-      "views": 386
+      "views": 387
     },
     {
       "slug": "sx4-pro-4-64gb",
@@ -2916,7 +2885,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1776517259,
-      "views": 233
+      "views": 234
     },
     {
       "slug": "zx1-pro-plus-4-64gb-10",
@@ -8437,37 +8406,6 @@
       "views": 247
     },
     {
-      "slug": "jvc-cs-510",
-      "url": "https://bosminiofficial.com/shop/1111/desc/jvc-cs-510",
-      "name": "JVC (CS-510)",
-      "sku": "",
-      "price_rub": 600,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅ Размер динамика-13см ✅ Мощность-260W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/11/1111.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/11/1111.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/11/1111.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/11/1111.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 56,
-      "added_at": 1732391667,
-      "views": 277
-    },
-    {
       "slug": "jvc-cs-610",
       "url": "https://bosminiofficial.com/shop/1112/desc/jvc-cs-610",
       "name": "JVC (CS-610)",
@@ -8497,37 +8435,6 @@
       "popularity": 60,
       "added_at": 1732391754,
       "views": 251
-    },
-    {
-      "slug": "jvc-cs-6910",
-      "url": "https://bosminiofficial.com/shop/1113/desc/jvc-cs-6910",
-      "name": "JVC (CS-6910)",
-      "sku": "",
-      "price_rub": 1150,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅ Размер динамика-6/9, овалы ✅ Мощность-1000W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/11/1113.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/11/1113.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/11/1113.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/11/1113.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 86,
-      "added_at": 1732391845,
-      "views": 331
     },
     {
       "slug": "lenovo-sp04wy-10sm-50w-max",
@@ -14481,7 +14388,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1783923577,
-      "views": 25
+      "views": 26
     },
     {
       "slug": "dv-pioneer-ok-414",
