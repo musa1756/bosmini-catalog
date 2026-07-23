@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784800518,
-  "scraped_count": 470,
+  "generated_at": 1784800816,
+  "scraped_count": 471,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -343,7 +343,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1784446916,
-      "views": 34
+      "views": 35
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -1056,7 +1056,7 @@
       "stock_count": 0,
       "popularity": 577,
       "added_at": 1769575545,
-      "views": 877
+      "views": 878
     },
     {
       "slug": "bos-mini-a628d-dsp-4-64gb",
@@ -1180,7 +1180,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1772527820,
-      "views": 411
+      "views": 412
     },
     {
       "slug": "bos-mini-cc3-max-12-256gb-9",
@@ -1862,7 +1862,7 @@
       "stock_count": 0,
       "popularity": 158,
       "added_at": 1781700641,
-      "views": 76
+      "views": 77
     },
     {
       "slug": "dhd-s1-plus-4-64gb-10-djujmov",
@@ -1955,7 +1955,7 @@
       "stock_count": 0,
       "popularity": 58,
       "added_at": 1781699833,
-      "views": 64
+      "views": 65
     },
     {
       "slug": "dhd-x31-4-64gb",
@@ -2048,7 +2048,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1783060101,
-      "views": 53
+      "views": 54
     },
     {
       "slug": "dv-pineer-ok-ahd-9115-10-3-32gb-10",
@@ -6946,7 +6946,7 @@
       "stock_count": 0,
       "popularity": 291,
       "added_at": 1746416891,
-      "views": 312
+      "views": 313
     },
     {
       "slug": "kamera-zadnego-vida-l-606",
@@ -10602,7 +10602,7 @@
         "https://bosminiofficial.com/_sh/6/678.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1856,
+      "popularity": 2356,
       "added_at": 1718306019,
       "views": 360
     },
@@ -10886,6 +10886,37 @@
       "popularity": 71,
       "added_at": 1714856095,
       "views": 1117
+    },
+    {
+      "slug": "7010b",
+      "url": "https://bosminiofficial.com/shop/1254/desc/7010b",
+      "name": "7010B",
+      "sku": "",
+      "price_rub": 1450,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Экран-7 дюймов сенсорный ✅USB, SD card, Aux выход ✅Bluetooth ✅6 выходов RCA ✅Возможность подключения камеры заднего вида ✅Пульт управления и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/12/1254.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1254.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/12/1254.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1254.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 1310,
+      "added_at": 1738048528,
+      "views": 445
     },
     {
       "slug": "b0s-mini-678dp5",
