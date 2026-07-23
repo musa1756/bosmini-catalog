@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784787317,
+  "generated_at": 1784787616,
   "scraped_count": 469,
   "products": [
     {
@@ -2303,7 +2303,7 @@
       "url": "https://bosminiofficial.com/shop/2726/desc/dv-pioneer-ok-a43-magic-4-64gb-9",
       "name": "Dv-Pioneer.Ok A43 Magic 4+64Gb 9\"",
       "sku": "",
-      "price_rub": 4500,
+      "price_rub": 4000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -11567,7 +11567,7 @@
       "stock_count": 0,
       "popularity": 217,
       "added_at": 1753770937,
-      "views": 395
+      "views": 396
     },
     {
       "slug": "brelok-dlja-avtosignalizacii-tamahawk-x5",
