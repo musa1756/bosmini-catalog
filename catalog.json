@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784789116,
-  "scraped_count": 469,
+  "generated_at": 1784789417,
+  "scraped_count": 470,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -64,7 +64,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1752862193,
-      "views": 1299
+      "views": 1300
     },
     {
       "slug": "blaupunkt-ha900-b4-4-64g",
@@ -13086,7 +13086,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1776112831,
-      "views": 49
+      "views": 50
     },
     {
       "slug": "dv-100-komplekt-provodov",
@@ -13180,6 +13180,37 @@
       "popularity": 72,
       "added_at": 1754806553,
       "views": 117
+    },
+    {
+      "slug": "dv-pioneer-ok-801c",
+      "url": "https://bosminiofficial.com/shop/997/desc/dv-pioneer-ok-801c",
+      "name": "DV-Pioneer.Ok (801C)",
+      "sku": "",
+      "price_rub": 2400,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Сабвуферы и комплектующие"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер динамика-8\" ✅ Сабвуфер активный ✅ Мощность Max-1500W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/9/997.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/9/997.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/9/997.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/9/997.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 13,
+      "added_at": 1729578538,
+      "views": 248
     },
     {
       "slug": "e5-olom-p-08",
