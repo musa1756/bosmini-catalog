@@ -62,6 +62,7 @@ import os
 import re
 import sys
 import time
+from decimal import Decimal, InvalidOperation
 from pathlib import Path
 
 import httpx
@@ -141,16 +142,102 @@ def product_payload(p: dict, cat_ids: list[int], *, with_images: bool) -> dict:
 
 
 def product_hash(p: dict, cat_ids: list[int]) -> str:
-    """Stable hash of the fields we actually push, for --changed-only.
-
-    Computed from the *image-less* payload on purpose: we never re-sideload
-    images on updates (it's brutally heavy on reg.ru), so a change in image
-    URLs alone must not mark a product dirty. Includes resolved category ids
-    so a re-categorisation still triggers an update.
-    """
+    """Stable hash of all non-image fields sent to WooCommerce."""
     body = product_payload(p, cat_ids, with_images=False)
     blob = json.dumps(body, sort_keys=True, ensure_ascii=False)
     return hashlib.sha256(blob.encode("utf-8")).hexdigest()
+
+
+def image_hash(p: dict) -> str:
+    """Stable hash of the source image URLs, kept separately from product_hash.
+
+    Re-uploading images on every content edit is expensive, but ignoring image
+    changes altogether leaves stale pictures on the storefront. A dedicated
+    hash lets incremental runs update images only when their source changes.
+    """
+    urls = p.get("image_urls") or p.get("full_image_urls") or []
+    blob = json.dumps(urls, ensure_ascii=False)
+    return hashlib.sha256(blob.encode("utf-8")).hexdigest()
+
+
+def normalize_html_text(raw: str) -> str:
+    """Compare descriptions by rendered text, not WP's harmless HTML rewrite."""
+    raw = html_mod.unescape(raw or "")
+    raw = re.sub(r"<[^>]+>", " ", raw)
+    return re.sub(r"\s+", " ", raw).strip()
+
+
+def normalized_image_name(url: str) -> str:
+    """Compare source and sideloaded image names despite WP's '-1' suffix."""
+    path = url.split("?", 1)[0].rstrip("/")
+    name = path.rsplit("/", 1)[-1].lower()
+    return re.sub(r"-\d+(?=\.[^.]+$)", "", name)
+
+
+def store_product_matches(
+    product: dict, expected: dict, *, check_images: bool
+) -> tuple[bool, bool]:
+    """Return (content_matches, images_match) for a Woo product response."""
+    content_matches = True
+    for field in ("name", "slug", "sku", "stock_status"):
+        if product.get(field) != expected.get(field):
+            content_matches = False
+
+    for field in ("regular_price", "sale_price"):
+        try:
+            actual_price = Decimal(str(product.get(field) or "0"))
+            expected_price = Decimal(str(expected.get(field) or "0"))
+        except InvalidOperation:
+            content_matches = False
+            continue
+        if actual_price != expected_price:
+            content_matches = False
+
+    actual_categories = sorted(int(c["id"]) for c in product.get("categories") or [])
+    expected_categories = sorted(int(c["id"]) for c in expected.get("categories") or [])
+    if actual_categories != expected_categories:
+        content_matches = False
+
+    if normalize_html_text(product.get("description", "")) != normalize_html_text(
+        expected.get("description", "")
+    ):
+        content_matches = False
+
+    if not check_images:
+        return content_matches, True
+
+    source_images = expected.get("images") or []
+    actual_images = product.get("images") or []
+    source_names = [normalized_image_name(img.get("src", "")) for img in source_images]
+    actual_names = [normalized_image_name(img.get("src", "")) for img in actual_images]
+    return content_matches, source_names == actual_names
+
+
+def load_state(path: Path) -> dict[str, dict[str, str | None]]:
+    """Read v2 state, accepting the old slug -> content-hash format once."""
+    try:
+        raw = json.loads(path.read_text(encoding="utf-8"))
+    except (ValueError, OSError) as e:
+        print(f"  [warn] couldn't read state {path}: {e} — treating as empty.")
+        return {}
+
+    products = raw.get("products") if isinstance(raw, dict) else None
+    if isinstance(products, dict):
+        return {
+            slug: {"content": value.get("content"), "images": value.get("images")}
+            for slug, value in products.items()
+            if isinstance(value, dict)
+        }
+
+    # Legacy state has no image fingerprint. Preserve the content fingerprint
+    # and validate the actual image names before deciding to skip a product.
+    if isinstance(raw, dict):
+        return {
+            slug: {"content": value, "images": None}
+            for slug, value in raw.items()
+            if isinstance(value, str)
+        }
+    return {}
 
 
 class Woo:
@@ -197,24 +284,34 @@ class Woo:
         ))
         return int(data["id"])
 
-    def existing_skus(self) -> dict[str, int]:
-        """sku -> product id for every product already in the store."""
-        out: dict[str, int] = {}
+    def existing_products(self, *, detailed: bool = False) -> dict[str, dict]:
+        """sku -> product data for every imported product in the store."""
+        out: dict[str, dict] = {}
+        fields = "id,sku"
+        if detailed:
+            fields = (
+                "id,name,slug,sku,regular_price,sale_price,description,"
+                "categories,stock_status,images"
+            )
         page = 1
         while True:
             data = self._check(self.client.get(
                 f"{self.base}/products",
-                params={"per_page": 100, "page": page, "_fields": "id,sku"},
+                params={"per_page": 100, "page": page, "_fields": fields},
             ))
             if not data:
                 break
             for prod in data:
                 if prod.get("sku"):
-                    out[prod["sku"]] = int(prod["id"])
+                    out[prod["sku"]] = prod
             if len(data) < 100:
                 break
             page += 1
         return out
+
+    def existing_skus(self) -> dict[str, int]:
+        """sku -> product id for every product already in the store."""
+        return {sku: int(prod["id"]) for sku, prod in self.existing_products().items()}
 
     def batch(self, create: list[dict], update: list[dict]) -> dict:
         payload = {}
@@ -264,7 +361,7 @@ def run() -> int:
     ap.add_argument("--batch-size", type=int, default=20,
                     help="Products per WooCommerce batch call (image sideload is heavy).")
     ap.add_argument("--update-images", action="store_true",
-                    help="Re-send image src on updates too (default: images only on create).")
+                    help="Re-send image src on every product update (normally images are sent only when changed/drifted).")
     ap.add_argument("--delete-empty-sku", action="store_true",
                     help="Force-delete every product with a blank sku (the client's manual "
                          "entries) and exit. Combine with --apply to actually delete.")
@@ -273,7 +370,7 @@ def run() -> int:
                          "since the last run (tracked in --state). Skips unchanged ones.")
     ap.add_argument("--state", default=None,
                     help="Path to the woo_state.json sidecar for --changed-only "
-                         "(default: woo_state.json beside this script).")
+                         "(default: woo_state.json beside this script; stores content and image hashes).")
     ap.add_argument("--prune", action="store_true",
                     help="Force-delete products that vanished from the catalog (matched by "
                          "sku=slug; never touches the client's blank-sku products). "
@@ -346,23 +443,21 @@ def run() -> int:
             print(f"  [would create] {name!r}")
 
     # --- Split products into create vs update by sku(=slug) ---
-    # sku_map (sku->id) is needed for create-vs-update, for --changed-only, and
-    # for --prune, so fetch it whenever any of those is in play.
+    # sku_map (sku->id) is needed for create-vs-update and pruning. Incremental
+    # runs also read the actual fields so a manual Woo edit cannot hide behind
+    # a stale sidecar hash forever.
     want_store = args.apply or args.changed_only or args.prune
-    sku_map = woo.existing_skus() if want_store else {}
+    store_products = woo.existing_products(detailed=args.changed_only) if want_store else {}
+    sku_map = {sku: int(prod["id"]) for sku, prod in store_products.items()}
     if want_store:
         print(f"\nStore has {len(sku_map)} products with a sku.")
 
-    # --changed-only: load the slug->hash sidecar of what we last pushed OK.
+    # --changed-only: load the sidecar of what we last pushed OK.
     state_path = Path(args.state) if args.state else (here / "woo_state.json")
-    state: dict[str, str] = {}
+    state: dict[str, dict[str, str | None]] = {}
     if args.changed_only and state_path.exists():
-        try:
-            state = json.loads(state_path.read_text(encoding="utf-8"))
-        except (ValueError, OSError) as e:
-            print(f"  [warn] couldn't read state {state_path}: {e} — treating as empty.")
-        else:
-            print(f"State:  {len(state)} known products in {state_path.name}")
+        state = load_state(state_path)
+        print(f"State:  {len(state)} known products in {state_path.name}")
 
     def cat_ids_for(p: dict) -> list[int]:
         ids = []
@@ -374,20 +469,38 @@ def run() -> int:
 
     to_create: list[dict] = []
     to_update: list[tuple[int, dict]] = []
-    new_hashes: dict[str, str] = {}
+    new_hashes: dict[str, dict[str, str]] = {}
     skipped = 0
+    skipped_slugs: set[str] = set()
     for p in products:
         slug = p["slug"]
         cids = cat_ids_for(p)
-        h = product_hash(p, cids)
-        new_hashes[slug] = h
+        content_h = product_hash(p, cids)
+        images_h = image_hash(p)
+        new_hashes[slug] = {"content": content_h, "images": images_h}
         existing_id = sku_map.get(slug)
-        # Unchanged + already in store + we have a matching state hash -> skip.
-        if args.changed_only and existing_id and state.get(slug) == h:
-            skipped += 1
-            continue
+        existing = store_products.get(slug)
+        expected = product_payload(p, cids, with_images=True)
+        if args.changed_only and existing_id and existing:
+            saved = state.get(slug, {})
+            content_same = saved.get("content") == content_h
+            # Legacy state carries no image hash. In that one migration run we
+            # trust a matching target image name and then write a v2 record.
+            image_changed = (
+                saved.get("images") is not None and saved.get("images") != images_h
+            )
+            content_matches, images_match = store_product_matches(
+                existing, expected, check_images=True
+            )
+            if content_same and not image_changed and content_matches and images_match:
+                skipped += 1
+                skipped_slugs.add(slug)
+                continue
         if existing_id:
-            body = product_payload(p, cids, with_images=args.update_images)
+            with_images = args.update_images
+            if args.changed_only and existing:
+                with_images = with_images or image_changed or not images_match
+            body = product_payload(p, cids, with_images=with_images)
             body["id"] = existing_id
             to_update.append((existing_id, body))
         else:
@@ -478,18 +591,18 @@ def run() -> int:
     # (already in sync). Products whose push errored are left out so they retry
     # next run. Pruned products fall out naturally (not in `products`).
     if args.changed_only:
-        new_state: dict[str, str] = {}
+        new_products: dict[str, dict[str, str]] = {}
         for p in products:
             slug = p["slug"]
-            h = new_hashes[slug]
-            if slug in synced or (slug in sku_map and state.get(slug) == h):
-                new_state[slug] = h
+            if slug in synced or slug in skipped_slugs:
+                new_products[slug] = new_hashes[slug]
+        new_state = {"version": 2, "products": new_products}
         try:
             state_path.write_text(
                 json.dumps(new_state, ensure_ascii=False, indent=2, sort_keys=True),
                 encoding="utf-8",
             )
-            print(f"\nState written: {len(new_state)} products → {state_path.name}")
+            print(f"\nState written: {len(new_products)} products → {state_path.name}")
         except OSError as e:
             print(f"  [warn] couldn't write state {state_path}: {e}")
 
