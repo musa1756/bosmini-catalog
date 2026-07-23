@@ -179,7 +179,7 @@ def store_product_matches(
 ) -> tuple[bool, bool]:
     """Return (content_matches, images_match) for a Woo product response."""
     content_matches = True
-    for field in ("name", "slug", "sku", "stock_status"):
+    for field in ("name", "slug", "sku", "type", "stock_status", "catalog_visibility"):
         if product.get(field) != expected.get(field):
             content_matches = False
 
@@ -291,7 +291,7 @@ class Woo:
         if detailed:
             fields = (
                 "id,name,slug,sku,regular_price,sale_price,description,"
-                "categories,stock_status,images"
+                "categories,type,stock_status,catalog_visibility,images"
             )
         page = 1
         while True:

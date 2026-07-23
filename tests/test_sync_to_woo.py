@@ -22,11 +22,13 @@ class WooSyncHelpersTest(unittest.TestCase):
             "name": "Demo",
             "slug": "demo",
             "sku": "demo",
+            "type": "simple",
             "regular_price": "2250.00",
             "sale_price": "",
             "description": "<ul>\n<li>Первый пункт</li>\n<li>Второй пункт</li>\n</ul>\n",
             "categories": [{"id": 7}],
             "stock_status": "instock",
+            "catalog_visibility": "visible",
             "images": [{"src": "https://store.example/uploads/2975-1.jpg"}],
         }
 
