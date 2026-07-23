@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784787916,
+  "generated_at": 1784788216,
   "scraped_count": 469,
   "products": [
     {
@@ -310,7 +310,7 @@
         "https://bosminiofficial.com/_sh/29/2980.jpg"
       ],
       "stock_count": 0,
-      "popularity": 0,
+      "popularity": 1,
       "added_at": 1782470618,
       "views": 88
     },
@@ -2327,7 +2327,7 @@
       "stock_count": 0,
       "popularity": 51,
       "added_at": 1765346513,
-      "views": 387
+      "views": 388
     },
     {
       "slug": "dv-pioneer-ok-d3-nano-4-64gb",
@@ -4092,7 +4092,7 @@
         "https://bosminiofficial.com/_sh/15/1526.jpg"
       ],
       "stock_count": 0,
-      "popularity": 209,
+      "popularity": 210,
       "added_at": 1752176292,
       "views": 343
     },
@@ -6665,7 +6665,7 @@
         "https://bosminiofficial.com/_sh/30/3000.jpg"
       ],
       "stock_count": 0,
-      "popularity": 4,
+      "popularity": 5,
       "added_at": 1783923958,
       "views": 42
     },
@@ -9426,7 +9426,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1782205257,
-      "views": 93
+      "views": 94
     },
     {
       "slug": "bos-mini-y956bt-12v-24v",
@@ -11319,7 +11319,7 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1745559160,
-      "views": 235
+      "views": 236
     },
     {
       "slug": "bos-mini-a235pke",
@@ -12340,7 +12340,7 @@
         "https://bosminiofficial.com/_sh/7/769.jpg"
       ],
       "stock_count": 0,
-      "popularity": 690,
+      "popularity": 691,
       "added_at": 1721297076,
       "views": 589
     },
