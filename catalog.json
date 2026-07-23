@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784786717,
-  "scraped_count": 471,
+  "generated_at": 1784787017,
+  "scraped_count": 469,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -10888,37 +10888,6 @@
       "views": 1117
     },
     {
-      "slug": "7010b",
-      "url": "https://bosminiofficial.com/shop/1254/desc/7010b",
-      "name": "7010B",
-      "sku": "",
-      "price_rub": 1450,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы с экраном"
-      ],
-      "brand_tags": [],
-      "description": "✅Экран-7 дюймов сенсорный ✅USB, SD card, Aux выход ✅Bluetooth ✅6 выходов RCA ✅Возможность подключения камеры заднего вида ✅Пульт управления и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/12/1254.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1254.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/12/1254.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1254.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 387,
-      "added_at": 1738048528,
-      "views": 445
-    },
-    {
       "slug": "b0s-mini-678dp5",
       "url": "https://bosminiofficial.com/shop/2965/desc/b0s-mini-678dp5",
       "name": "B0S-MINI 678DP5",
@@ -11040,7 +11009,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1778219987,
-      "views": 348
+      "views": 349
     },
     {
       "slug": "bos-mini-n727hgp5",
@@ -11102,7 +11071,7 @@
       "stock_count": 0,
       "popularity": 92,
       "added_at": 1776113389,
-      "views": 808
+      "views": 809
     },
     {
       "slug": "bos-mini-n636dp5",
@@ -11196,37 +11165,6 @@
       "popularity": 7,
       "added_at": 1783495187,
       "views": 36
-    },
-    {
-      "slug": "dv-pioneer-ok-7110",
-      "url": "https://bosminiofficial.com/shop/2699/desc/dv-pioneer-ok-7110",
-      "name": "Dv-Pioneer.Ok 7110",
-      "sku": "",
-      "price_rub": 1750,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы с экраном"
-      ],
-      "brand_tags": [],
-      "description": "✅Экран-7 дюймов сенсорный\n✅USB, SD card, Aux выход\n✅Bluetooth\n✅6 выходов RCA\n✅Возможность подключения камеры заднего вида\n✅Пульт управления и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/26/2699.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2699.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/26/2699.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2699.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 129,
-      "added_at": 1764658726,
-      "views": 597
     },
     {
       "slug": "e5-olom-e-707",
