@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784876117,
-  "scraped_count": 467,
+  "generated_at": 1784876417,
+  "scraped_count": 464,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2575,7 +2575,7 @@
       "stock_count": 0,
       "popularity": 247,
       "added_at": 1769577184,
-      "views": 1176
+      "views": 1177
     },
     {
       "slug": "s1-4-64gb",
@@ -4593,37 +4593,6 @@
       "views": 255
     },
     {
-      "slug": "e4-h4-15000-lm",
-      "url": "https://bosminiofficial.com/shop/1040/desc/e4-h4-15000-lm",
-      "name": "E4-H4 (15000 Lm)",
-      "sku": "",
-      "price_rub": 2200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Автосвет"
-      ],
-      "brand_tags": [],
-      "description": "✅Светоотдача: 15000 Lm ✅Цветовая температура: 6500K ✅ Срок службы: <30000 часов ✅Влагозащищенность: IP68 ✅ Рабочая тем-ра: -40C~+80С ✅Напряжение: DC 12-24V",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/10/1040.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1040.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/10/1040.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1040.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 48,
-      "added_at": 1730967347,
-      "views": 229
-    },
-    {
       "slug": "k15-9005-hb3",
       "url": "https://bosminiofficial.com/shop/1506/desc/k15-9005-hb3",
       "name": "K15-9005 (HB3)",
@@ -4715,37 +4684,6 @@
       "popularity": 32,
       "added_at": 1751463679,
       "views": 141
-    },
-    {
-      "slug": "k15-h7",
-      "url": "https://bosminiofficial.com/shop/1505/desc/k15-h7",
-      "name": "K15-H7",
-      "sku": "",
-      "price_rub": 1900,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Автосвет"
-      ],
-      "brand_tags": [],
-      "description": "✅Напряжение (DC): 12V ✅Мощность: 45W ✅LM (лумен): 3000-6000 лм ✅Цветовая температура: 6500k-7000k ✅Продолжительность жизни: 20 000 часов",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/15/1505.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/15/1505.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/15/1505.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/15/1505.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 40,
-      "added_at": 1751463944,
-      "views": 148
     },
     {
       "slug": "led-headlights-n3-h4",
@@ -10947,7 +10885,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1773903156,
-      "views": 395
+      "views": 396
     },
     {
       "slug": "bos-mini-n640dp5",
@@ -14172,37 +14110,6 @@
       "popularity": 319,
       "added_at": 1754033937,
       "views": 627
-    },
-    {
-      "slug": "bos-mini-a25",
-      "url": "https://bosminiofficial.com/shop/2999/desc/bos-mini-a25",
-      "name": "BOS-MINI A25",
-      "sku": "",
-      "price_rub": 1050,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Усилители"
-      ],
-      "brand_tags": [],
-      "description": "✅Количество каналов-4\n✅Управление через приложение\n✅Мощность-600W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2999.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2999.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2999.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2999.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 19,
-      "added_at": 1783923577,
-      "views": 36
     },
     {
       "slug": "dv-pioneer-ok-414",
