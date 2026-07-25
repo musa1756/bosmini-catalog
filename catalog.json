@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784964917,
+  "generated_at": 1784965217,
   "scraped_count": 464,
   "products": [
     {
@@ -281,7 +281,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1782470618,
-      "views": 94
+      "views": 95
     },
     {
       "slug": "bos-mini-a1301",
@@ -2637,7 +2637,7 @@
       "stock_count": 0,
       "popularity": 215,
       "added_at": 1752864487,
-      "views": 624
+      "views": 625
     },
     {
       "slug": "tomboss-t123",
@@ -5706,7 +5706,7 @@
       "stock_count": 0,
       "popularity": 978,
       "added_at": 1732391421,
-      "views": 930
+      "views": 931
     },
     {
       "slug": "bos-mini-a31-pro-wi-fi",
