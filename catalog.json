@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784948716,
+  "generated_at": 1784949016,
   "scraped_count": 464,
   "products": [
     {
@@ -312,7 +312,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1784446916,
-      "views": 41
+      "views": 42
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -3226,7 +3226,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1730529840,
-      "views": 439
+      "views": 440
     },
     {
       "slug": "iso-bos-mini-e-05",
@@ -10699,7 +10699,7 @@
       "stock_count": 0,
       "popularity": 157,
       "added_at": 1714856095,
-      "views": 1185
+      "views": 1186
     },
     {
       "slug": "magnitola-bos-mini-n972dsp",
