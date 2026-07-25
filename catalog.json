@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1784956818,
+  "generated_at": 1784957116,
   "scraped_count": 464,
   "products": [
     {
@@ -9364,7 +9364,7 @@
       "stock_count": 0,
       "popularity": 286,
       "added_at": 1753768718,
-      "views": 516
+      "views": 517
     },
     {
       "slug": "bos-mini-bos-n670dsp",
@@ -14202,7 +14202,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1753165880,
-      "views": 491
+      "views": 492
     },
     {
       "slug": "jbl-jb-480",
@@ -14388,7 +14388,7 @@
       "stock_count": 0,
       "popularity": 686,
       "added_at": 1714856095,
-      "views": 621
+      "views": 622
     }
   ]
 }
