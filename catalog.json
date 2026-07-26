@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785029117,
+  "generated_at": 1785029417,
   "scraped_count": 464,
   "products": [
     {
@@ -95,7 +95,7 @@
       "stock_count": 0,
       "popularity": 25,
       "added_at": 1763311652,
-      "views": 807
+      "views": 808
     },
     {
       "slug": "bos-mini-8702-2-32gb-7",
@@ -7597,7 +7597,7 @@
       "stock_count": 0,
       "popularity": 80,
       "added_at": 1723527380,
-      "views": 612
+      "views": 613
     },
     {
       "slug": "bos-mini-5565",
@@ -7969,7 +7969,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1765863961,
-      "views": 140
+      "views": 142
     },
     {
       "slug": "hx509",
@@ -8124,7 +8124,7 @@
       "stock_count": 0,
       "popularity": 53,
       "added_at": 1755665591,
-      "views": 330
+      "views": 331
     },
     {
       "slug": "hertz-401-10sm",
@@ -9116,7 +9116,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1784269255,
-      "views": 36
+      "views": 37
     },
     {
       "slug": "bos-mini-942dsp",
@@ -10668,7 +10668,7 @@
       "stock_count": 0,
       "popularity": 150,
       "added_at": 1714856095,
-      "views": 1264
+      "views": 1265
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
@@ -10699,7 +10699,7 @@
       "stock_count": 0,
       "popularity": 157,
       "added_at": 1714856095,
-      "views": 1190
+      "views": 1191
     },
     {
       "slug": "magnitola-bos-mini-n972dsp",
@@ -10730,7 +10730,7 @@
       "stock_count": 0,
       "popularity": 66,
       "added_at": 1714856095,
-      "views": 1028
+      "views": 1029
     },
     {
       "slug": "magnitola-bos-mini-n973dsp",
@@ -10854,7 +10854,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1773903123,
-      "views": 363
+      "views": 364
     },
     {
       "slug": "bos-mini-n639dp5",
@@ -14140,7 +14140,7 @@
       "stock_count": 0,
       "popularity": 29,
       "added_at": 1765802307,
-      "views": 214
+      "views": 215
     },
     {
       "slug": "dv-pioneer-ok-415",
@@ -14171,7 +14171,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1765802327,
-      "views": 181
+      "views": 182
     },
     {
       "slug": "dv-pioneer-ok-a43",
@@ -14233,7 +14233,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1765657288,
-      "views": 735
+      "views": 736
     },
     {
       "slug": "kenwood-kw-a5314",
@@ -14264,7 +14264,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1771744629,
-      "views": 251
+      "views": 252
     },
     {
       "slug": "pioneer-423",
@@ -14295,7 +14295,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1765430470,
-      "views": 195
+      "views": 196
     },
     {
       "slug": "pioneer-427",
@@ -14326,7 +14326,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1765430285,
-      "views": 164
+      "views": 165
     },
     {
       "slug": "pioneer-t5-45-1",
@@ -14357,7 +14357,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1765657210,
-      "views": 278
+      "views": 279
     },
     {
       "slug": "planior-pla-a21",
@@ -14388,7 +14388,7 @@
       "stock_count": 0,
       "popularity": 686,
       "added_at": 1714856095,
-      "views": 622
+      "views": 623
     }
   ]
 }
