@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785057317,
+  "generated_at": 1785057616,
   "scraped_count": 464,
   "products": [
     {
@@ -808,7 +808,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1782456237,
-      "views": 85
+      "views": 86
     },
     {
       "slug": "bos-a658d-pro-4-64gb",
@@ -1922,9 +1922,9 @@
         "https://bosminiofficial.com/_sh/29/2948.jpg"
       ],
       "stock_count": 0,
-      "popularity": 59,
+      "popularity": 61,
       "added_at": 1781699833,
-      "views": 70
+      "views": 71
     },
     {
       "slug": "dhd-y2-pro-12-128gb-9",
@@ -2697,7 +2697,7 @@
         "https://bosminiofficial.com/_sh/29/2945.jpg"
       ],
       "stock_count": 0,
-      "popularity": 29,
+      "popularity": 39,
       "added_at": 1781589517,
       "views": 91
     },
@@ -11844,9 +11844,9 @@
         "https://bosminiofficial.com/_sh/25/2599.jpg"
       ],
       "stock_count": 0,
-      "popularity": 109,
+      "popularity": 112,
       "added_at": 1755666788,
-      "views": 127
+      "views": 128
     },
     {
       "slug": "gazelle-business-2010-2022",
@@ -11968,7 +11968,7 @@
         "https://bosminiofficial.com/_sh/26/2608.jpg"
       ],
       "stock_count": 0,
-      "popularity": 105,
+      "popularity": 106,
       "added_at": 1755667900,
       "views": 165
     },
