@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785069617,
+  "generated_at": 1785069917,
   "scraped_count": 465,
   "products": [
     {
@@ -10852,7 +10852,7 @@
         "https://bosminiofficial.com/_sh/29/2965.jpg"
       ],
       "stock_count": 0,
-      "popularity": 18,
+      "popularity": 19,
       "added_at": 1782205423,
       "views": 116
     },
@@ -10947,7 +10947,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1778219987,
-      "views": 366
+      "views": 367
     },
     {
       "slug": "bos-mini-n727hgp5",
@@ -11007,7 +11007,7 @@
         "https://bosminiofficial.com/_sh/28/2897.jpg"
       ],
       "stock_count": 0,
-      "popularity": 92,
+      "popularity": 95,
       "added_at": 1776113389,
       "views": 857
     },
