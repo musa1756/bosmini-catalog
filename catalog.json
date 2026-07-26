@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785095416,
+  "generated_at": 1785095716,
   "scraped_count": 465,
   "products": [
     {
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1782539919,
-      "views": 95
+      "views": 96
     },
     {
       "slug": "bos-mini-a1206",
@@ -281,7 +281,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1782470618,
-      "views": 99
+      "views": 100
     },
     {
       "slug": "bos-mini-a1301",
@@ -12683,7 +12683,7 @@
       "stock_count": 0,
       "popularity": 65,
       "added_at": 1718659006,
-      "views": 252
+      "views": 253
     },
     {
       "slug": "bos-404-4-ch-rca",
