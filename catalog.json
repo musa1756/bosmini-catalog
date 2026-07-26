@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785044116,
+  "generated_at": 1785044416,
   "scraped_count": 464,
   "products": [
     {
@@ -3381,7 +3381,7 @@
       "stock_count": 0,
       "popularity": 69,
       "added_at": 1775198471,
-      "views": 230
+      "views": 231
     },
     {
       "slug": "aromatizator-rh-002",
@@ -3412,7 +3412,7 @@
       "stock_count": 0,
       "popularity": 201,
       "added_at": 1752658610,
-      "views": 185
+      "views": 186
     },
     {
       "slug": "aromatizator-rh-032",
@@ -3443,7 +3443,7 @@
       "stock_count": 0,
       "popularity": 33,
       "added_at": 1775198040,
-      "views": 133
+      "views": 134
     },
     {
       "slug": "aromatizator-rh-034",
@@ -3505,7 +3505,7 @@
       "stock_count": 0,
       "popularity": 45,
       "added_at": 1769494185,
-      "views": 144
+      "views": 145
     },
     {
       "slug": "aromatizator-rh-039",
@@ -3567,7 +3567,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1775197632,
-      "views": 190
+      "views": 191
     },
     {
       "slug": "aromatizator-rh-044",
@@ -3598,7 +3598,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1775197935,
-      "views": 162
+      "views": 163
     },
     {
       "slug": "aromatizator-rh-045",
@@ -3629,7 +3629,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1775199067,
-      "views": 185
+      "views": 186
     },
     {
       "slug": "aromatizator-x-v-korobke",
@@ -3753,7 +3753,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1769494404,
-      "views": 172
+      "views": 173
     },
     {
       "slug": "aromatizator-sprej-rh-010",
@@ -14016,7 +14016,7 @@
       "stock_count": 0,
       "popularity": 25,
       "added_at": 1753952020,
-      "views": 278
+      "views": 279
     },
     {
       "slug": "alpine-ap-47-1",
@@ -14109,7 +14109,7 @@
       "stock_count": 0,
       "popularity": 319,
       "added_at": 1754033937,
-      "views": 629
+      "views": 630
     },
     {
       "slug": "dv-pioneer-ok-414",
@@ -14202,7 +14202,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1753165880,
-      "views": 493
+      "views": 494
     },
     {
       "slug": "jbl-jb-480",
@@ -14295,7 +14295,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1765430470,
-      "views": 196
+      "views": 197
     },
     {
       "slug": "pioneer-427",
@@ -14388,7 +14388,7 @@
       "stock_count": 0,
       "popularity": 686,
       "added_at": 1714856095,
-      "views": 623
+      "views": 624
     }
   ]
 }
