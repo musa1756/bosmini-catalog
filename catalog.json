@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785064816,
-  "scraped_count": 464,
+  "generated_at": 1785065116,
+  "scraped_count": 465,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -561,6 +561,37 @@
       "popularity": 8,
       "added_at": 1752859489,
       "views": 944
+    },
+    {
+      "slug": "bos-mini-q18-4-128gb",
+      "url": "https://bosminiofficial.com/shop/3009/desc/bos-mini-q18-4-128gb",
+      "name": "BOS-MINI Q18 4+128Gb",
+      "sku": "",
+      "price_rub": 7500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-9,7\"\n✅Память-4+128Gb\n✅Поддержка сим карты\n✅Голосовое управление\n✅Qled экран\n✅CarPlay/AndroidAuto\n✅Провода для подключения в комплекте!",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3009.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3009.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3009.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3009.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1785064884,
+      "views": 2
     },
     {
       "slug": "bos-mini-q2-9",
@@ -9395,7 +9426,7 @@
       "stock_count": 0,
       "popularity": 229,
       "added_at": 1733822414,
-      "views": 1240
+      "views": 1241
     },
     {
       "slug": "bos-mini-bos-n671dsp",
@@ -12497,7 +12528,7 @@
       "stock_count": 0,
       "popularity": 189,
       "added_at": 1716587994,
-      "views": 327
+      "views": 328
     },
     {
       "slug": "red-24v-220v-1000w",
