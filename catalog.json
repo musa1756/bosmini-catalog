@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785133816,
-  "scraped_count": 465,
+  "generated_at": 1785134116,
+  "scraped_count": 466,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -870,7 +870,7 @@
       "stock_count": 0,
       "popularity": 123,
       "added_at": 1764313794,
-      "views": 1608
+      "views": 1609
     },
     {
       "slug": "bos-a659d-pro-4-64gb",
@@ -11041,6 +11041,37 @@
       "popularity": 48,
       "added_at": 1765285531,
       "views": 1102
+    },
+    {
+      "slug": "dhd-1057x",
+      "url": "https://bosminiofficial.com/shop/3010/desc/dhd-1057x",
+      "name": "DHD 1057X",
+      "sku": "",
+      "price_rub": 3600,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-10 дюймов\n✅Встроенные приложения\n✅CarPlay/AndroidAuto\n✅Возможность подключения камеры заднего вида\n✅Радиатор охлаждения\n✅Инструкция и фишки для подключения и в комплект",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3010.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3010.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3010.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3010.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1785133944,
+      "views": 1
     },
     {
       "slug": "dv-pioneer-ok-5503",
