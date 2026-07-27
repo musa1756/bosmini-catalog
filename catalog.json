@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785134717,
-  "scraped_count": 466,
+  "generated_at": 1785135016,
+  "scraped_count": 464,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2017,7 +2017,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1783060101,
-      "views": 65
+      "views": 66
     },
     {
       "slug": "dv-pineer-ok-ahd-9115-10-3-32gb-10",
@@ -6202,7 +6202,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1783665902,
-      "views": 52
+      "views": 53
     },
     {
       "slug": "videoregistrator-c8",
@@ -6574,7 +6574,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1783923958,
-      "views": 61
+      "views": 62
     },
     {
       "slug": "kamera-zad-vida-bos-mini-l-168",
@@ -6884,7 +6884,7 @@
       "stock_count": 0,
       "popularity": 104,
       "added_at": 1783665077,
-      "views": 34
+      "views": 35
     },
     {
       "slug": "kamera-krugovo-obzora-bos-mini-a360",
@@ -9302,7 +9302,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1783781333,
-      "views": 84
+      "views": 85
     },
     {
       "slug": "bos-mini-y1568mbt-12v-24v",
@@ -14143,37 +14143,6 @@
       "views": 286
     },
     {
-      "slug": "bos-mini-468d",
-      "url": "https://bosminiofficial.com/shop/2548/desc/bos-mini-468d",
-      "name": "BOS-MINI 468D",
-      "sku": "",
-      "price_rub": 1400,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Усилители"
-      ],
-      "brand_tags": [],
-      "description": "✅Управление через приложение ✅Мощность-1000W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2548.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2548.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2548.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2548.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 324,
-      "added_at": 1754033937,
-      "views": 630
-    },
-    {
       "slug": "dv-pioneer-ok-414",
       "url": "https://bosminiofficial.com/shop/2753/desc/dv-pioneer-ok-414",
       "name": "Dv-Pioneer.Ok 414",
@@ -14420,37 +14389,6 @@
       "popularity": 6,
       "added_at": 1765657210,
       "views": 279
-    },
-    {
-      "slug": "planior-pla-a21",
-      "url": "https://bosminiofficial.com/shop/346/desc/planior-pla-a21",
-      "name": "Planior PLA-A21",
-      "sku": "PLA-21",
-      "price_rub": 1050,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Усилители"
-      ],
-      "brand_tags": [],
-      "description": "✅Максимальная мощность 600W\n✅Встроенный эквалайзер\n✅4 канала\n✅\nУправление с телефона",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/3/346.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/3/346.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/3/346.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/3/346.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 686,
-      "added_at": 1714856095,
-      "views": 628
     }
   ]
 }
