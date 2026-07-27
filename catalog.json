@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785162316,
+  "generated_at": 1785162618,
   "scraped_count": 465,
   "products": [
     {
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1782539919,
-      "views": 100
+      "views": 101
     },
     {
       "slug": "bos-mini-a1206",
@@ -250,7 +250,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1782390686,
-      "views": 82
+      "views": 84
     },
     {
       "slug": "bos-mini-a1213",
@@ -281,7 +281,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1782470618,
-      "views": 102
+      "views": 103
     },
     {
       "slug": "bos-mini-a1301",
@@ -312,7 +312,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1784446916,
-      "views": 63
+      "views": 64
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -529,7 +529,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782540010,
-      "views": 87
+      "views": 88
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -684,7 +684,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1782540190,
-      "views": 85
+      "views": 86
     },
     {
       "slug": "bos-mini-t2-4-64gb-9",
@@ -1490,7 +1490,7 @@
       "stock_count": 0,
       "popularity": 32,
       "added_at": 1752912147,
-      "views": 1912
+      "views": 1913
     },
     {
       "slug": "bos-mini-t8-4-64gb-10",
@@ -1800,7 +1800,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1752860117,
-      "views": 713
+      "views": 714
     },
     {
       "slug": "cc5-ultra-4-64gb-9",
@@ -2885,7 +2885,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1784270650,
-      "views": 53
+      "views": 54
     },
     {
       "slug": "gem62-pro-max-bmw-style",
