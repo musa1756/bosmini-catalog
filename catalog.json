@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785132916,
+  "generated_at": 1785133216,
   "scraped_count": 465,
   "products": [
     {
@@ -901,7 +901,7 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1764313847,
-      "views": 1364
+      "views": 1366
     },
     {
       "slug": "bos-mini-a15-10-djujmov",
@@ -7077,7 +7077,7 @@
       "url": "https://bosminiofficial.com/shop/2513/desc/bos-6591",
       "name": "BOS-6591",
       "sku": "",
-      "price_rub": 2450,
+      "price_rub": 2600,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -7380,7 +7380,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1782538463,
-      "views": 41
+      "views": 42
     },
     {
       "slug": "bos-mini-t2965",
