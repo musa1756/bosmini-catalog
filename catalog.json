@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785162916,
+  "generated_at": 1785163216,
   "scraped_count": 465,
   "products": [
     {
@@ -620,7 +620,7 @@
         "https://bosminiofficial.com/_sh/19/1982.jpg"
       ],
       "stock_count": 0,
-      "popularity": 55,
+      "popularity": 59,
       "added_at": 1752862854,
       "views": 471
     },
@@ -6634,7 +6634,7 @@
         "https://bosminiofficial.com/_sh/10/1086.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1136,
+      "popularity": 1146,
       "added_at": 1732038428,
       "views": 514
     },
@@ -9674,7 +9674,7 @@
       "stock_count": 0,
       "popularity": 74,
       "added_at": 1749968442,
-      "views": 557
+      "views": 558
     },
     {
       "slug": "bos-y950bt",
