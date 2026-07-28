@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785244816,
+  "generated_at": 1785245116,
   "scraped_count": 463,
   "products": [
     {
@@ -591,7 +591,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1785064884,
-      "views": 14
+      "views": 15
     },
     {
       "slug": "bos-mini-q2-9",
@@ -746,7 +746,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1776843716,
-      "views": 254
+      "views": 255
     },
     {
       "slug": "bos-mini-t6-4-64gb-9",
@@ -2265,7 +2265,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1776680345,
-      "views": 187
+      "views": 188
     },
     {
       "slug": "dv-pioneer-ok-a43-magic-4-64gb-9",
@@ -2823,7 +2823,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1776517259,
-      "views": 244
+      "views": 245
     },
     {
       "slug": "zx1-pro-plus-4-64gb-10",
@@ -2854,7 +2854,7 @@
       "stock_count": 0,
       "popularity": 50,
       "added_at": 1776517157,
-      "views": 194
+      "views": 195
     },
     {
       "slug": "gem61-pro-max-mersedes-style",
@@ -4125,7 +4125,7 @@
       "stock_count": 0,
       "popularity": 1065,
       "added_at": 1718527601,
-      "views": 891
+      "views": 892
     },
     {
       "slug": "kompressor-3v1-y-qb01",
@@ -5737,7 +5737,7 @@
       "stock_count": 0,
       "popularity": 978,
       "added_at": 1732391421,
-      "views": 934
+      "views": 935
     },
     {
       "slug": "bos-mini-a31-pro-wi-fi",
