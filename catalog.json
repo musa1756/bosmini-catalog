@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785249017,
+  "generated_at": 1785249316,
   "scraped_count": 463,
   "products": [
     {
@@ -157,7 +157,7 @@
       "stock_count": 0,
       "popularity": 646,
       "added_at": 1765176165,
-      "views": 1790
+      "views": 1791
     },
     {
       "slug": "bos-mini-a1203-bmw-style",
@@ -746,7 +746,7 @@
       "stock_count": 0,
       "popularity": 41,
       "added_at": 1776843716,
-      "views": 255
+      "views": 256
     },
     {
       "slug": "bos-mini-t6-4-64gb-9",
@@ -1614,7 +1614,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1769577346,
-      "views": 392
+      "views": 393
     },
     {
       "slug": "bos-mini-ts10-4-64gb-9",
@@ -1676,7 +1676,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1769577457,
-      "views": 502
+      "views": 503
     },
     {
       "slug": "bos-mini-ts10-6-128gb-9",
@@ -1707,7 +1707,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1769577429,
-      "views": 632
+      "views": 633
     },
     {
       "slug": "bos-mini-ts18-10-4-64gb",
@@ -2203,7 +2203,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1770637548,
-      "views": 443
+      "views": 444
     },
     {
       "slug": "dv-pioneer-ok-sx3s-mini-4-64g",
