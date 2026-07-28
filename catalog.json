@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785230117,
-  "scraped_count": 465,
+  "generated_at": 1785230416,
+  "scraped_count": 463,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -4032,7 +4032,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1763447228,
-      "views": 184
+      "views": 185
     },
     {
       "slug": "vneshniij-mikrafon-bos-e02",
@@ -10826,37 +10826,6 @@
       "views": 1127
     },
     {
-      "slug": "7010b",
-      "url": "https://bosminiofficial.com/shop/1254/desc/7010b",
-      "name": "7010B",
-      "sku": "",
-      "price_rub": 1450,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы с экраном"
-      ],
-      "brand_tags": [],
-      "description": "✅Экран-7 дюймов сенсорный ✅USB, SD card, Aux выход ✅Bluetooth ✅6 выходов RCA ✅Возможность подключения камеры заднего вида ✅Пульт управления и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/12/1254.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1254.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/12/1254.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1254.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 1313,
-      "added_at": 1738048528,
-      "views": 459
-    },
-    {
       "slug": "b0s-mini-678dp5",
       "url": "https://bosminiofficial.com/shop/2965/desc/b0s-mini-678dp5",
       "name": "B0S-MINI 678DP5",
@@ -11012,37 +10981,6 @@
       "views": 384
     },
     {
-      "slug": "bos-mini-n728dzp5",
-      "url": "https://bosminiofficial.com/shop/2897/desc/bos-mini-n728dzp5",
-      "name": "BOS-MINI N728DZP5",
-      "sku": "MP5",
-      "price_rub": 5000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы с экраном"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-7 дюймов\n✅CarPlay/AndroidAuto\n✅Радиатор охлаждения\n✅9 выходов RCA\n✅Канблок и провода для подключения и в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2897.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2897.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2897.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2897.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 98,
-      "added_at": 1776113389,
-      "views": 886
-    },
-    {
       "slug": "bos-mini-n636dp5",
       "url": "https://bosminiofficial.com/shop/2723/desc/bos-mini-n636dp5",
       "name": "Bos-Mini N636DP5",
@@ -11102,7 +11040,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1785133944,
-      "views": 11
+      "views": 12
     },
     {
       "slug": "dv-pioneer-ok-5503",
