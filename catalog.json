@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785308116,
-  "scraped_count": 463,
+  "generated_at": 1785308416,
+  "scraped_count": 465,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -3043,6 +3043,37 @@
       "views": 879
     },
     {
+      "slug": "videoregistrator-teyes-ahd",
+      "url": "https://bosminiofficial.com/shop/3013/desc/videoregistrator-teyes-ahd",
+      "name": "Видеорегистратор TEYES AHD",
+      "sku": "",
+      "price_rub": 2500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "TEYES"
+      ],
+      "brand_tags": [],
+      "description": "✅Угол обзора 170 градусов\n✅Система ADAS",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3013.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3013.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3013.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3013.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1785308119,
+      "views": 2
+    },
+    {
       "slug": "datchik-davlenija-shin-teyes",
       "url": "https://bosminiofficial.com/shop/2666/desc/datchik-davlenija-shin-teyes",
       "name": "Датчик давления шин Teyes",
@@ -3103,6 +3134,37 @@
       "popularity": 5602,
       "added_at": 1722408772,
       "views": 736
+    },
+    {
+      "slug": "cifrovoj-videoregistrator-teyes-digital",
+      "url": "https://bosminiofficial.com/shop/3014/desc/cifrovoj-videoregistrator-teyes-digital",
+      "name": "Цифровой видеорегистратор TEYES Digital",
+      "sku": "",
+      "price_rub": 3500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "TEYES"
+      ],
+      "brand_tags": [],
+      "description": "✅Угол обзора 170 градусов\n✅Система ADAS",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3014.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3014.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3014.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3014.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1785308346,
+      "views": 1
     },
     {
       "slug": "bos-mini-9602",
