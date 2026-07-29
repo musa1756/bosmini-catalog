@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785307516,
-  "scraped_count": 463,
+  "generated_at": 1785307816,
+  "scraped_count": 465,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -11041,6 +11041,68 @@
       "popularity": 0,
       "added_at": 1785133944,
       "views": 21
+    },
+    {
+      "slug": "dhd-6353kh",
+      "url": "https://bosminiofficial.com/shop/3012/desc/dhd-6353kh",
+      "name": "DHD 6353Х",
+      "sku": "",
+      "price_rub": 2950,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-6,8 дюймов\n✅Типоразмер-1Din\n✅CarPlay/AndroidAuto\n✅Type-c/USB/AUX\n✅Возможность подключения камеры заднего вида\n✅Радиатор охлаждения\n✅2 пульта управления, инструкция и фишки для подключения в комплекте!",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3012.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3012.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3012.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3012.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1785307726,
+      "views": 1
+    },
+    {
+      "slug": "dhd-9115kh",
+      "url": "https://bosminiofficial.com/shop/3011/desc/dhd-9115kh",
+      "name": "DHD 9115Х",
+      "sku": "",
+      "price_rub": 3100,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅\nРазмер экрана -9 дюймов\n✅\nФормат -Mp5, сенсорный\n✅\nCarPlay/AndroidAuto\n✅\nBluetooth/USB/SD/Aux\n✅\nРадиатор охлаждения\n✅\nПровода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3011.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3011.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3011.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3011.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1785307627,
+      "views": 1
     },
     {
       "slug": "dv-pioneer-ok-5503",
