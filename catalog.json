@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785318917,
+  "generated_at": 1785319217,
   "scraped_count": 466,
   "products": [
     {
@@ -3047,7 +3047,7 @@
       "url": "https://bosminiofficial.com/shop/3013/desc/videoregistrator-teyes-ahd",
       "name": "Видеорегистратор TEYES AHD",
       "sku": "",
-      "price_rub": 2500,
+      "price_rub": 1800,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -3140,7 +3140,7 @@
       "url": "https://bosminiofficial.com/shop/3014/desc/cifrovoj-videoregistrator-teyes-digital",
       "name": "Цифровой видеорегистратор TEYES Digital",
       "sku": "",
-      "price_rub": 3500,
+      "price_rub": 3000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -3171,7 +3171,7 @@
       "url": "https://bosminiofficial.com/shop/3015/desc/cifrovoj-mikrofon-dlja-teyes-cc4-pro",
       "name": "Цифровой микрофон для TEYES CC4 Pro",
       "sku": "",
-      "price_rub": 1800,
+      "price_rub": 1400,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -3195,7 +3195,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1785310554,
-      "views": 1
+      "views": 2
     },
     {
       "slug": "bos-mini-9602",
@@ -11040,7 +11040,7 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1765285531,
-      "views": 1115
+      "views": 1116
     },
     {
       "slug": "dhd-1057x",
