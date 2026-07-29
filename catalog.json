@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785307816,
-  "scraped_count": 465,
+  "generated_at": 1785308116,
+  "scraped_count": 463,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -498,7 +498,7 @@
       "stock_count": 0,
       "popularity": 112,
       "added_at": 1757144356,
-      "views": 2169
+      "views": 2170
     },
     {
       "slug": "bos-mini-b1203-audi-style",
@@ -560,7 +560,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1752859489,
-      "views": 954
+      "views": 955
     },
     {
       "slug": "bos-mini-q18-4-128gb",
@@ -653,7 +653,7 @@
       "stock_count": 0,
       "popularity": 86,
       "added_at": 1753341610,
-      "views": 2852
+      "views": 2853
     },
     {
       "slug": "bos-mini-s1203-mersedes-style",
@@ -1211,7 +1211,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1752852728,
-      "views": 1409
+      "views": 1411
     },
     {
       "slug": "bos-mini-cc3-max-2k-12-256gb-9",
@@ -1769,7 +1769,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1764392414,
-      "views": 840
+      "views": 841
     },
     {
       "slug": "cc5-ultra-4-64gb-10",
@@ -6760,7 +6760,7 @@
       "stock_count": 0,
       "popularity": 140,
       "added_at": 1764398182,
-      "views": 496
+      "views": 497
     },
     {
       "slug": "kamera-zadnego-vida-bos-l210",
@@ -9274,37 +9274,6 @@
       "views": 496
     },
     {
-      "slug": "bos-mini-n88dsp",
-      "url": "https://bosminiofficial.com/shop/2998/desc/bos-mini-n88dsp",
-      "name": "BOS-MINI N88DSP",
-      "sku": "",
-      "price_rub": 9500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅Bluetooth\n✅Цветной RGB экран\n✅Оптический выход\n✅Процессор DSP\n✅Управление через приложение\n✅Мощный радиатор охлаждения\n✅Предусилитель 8 каналов х 5В\n✅Пульт и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2998.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2998.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2998.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2998.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 3,
-      "added_at": 1783781333,
-      "views": 95
-    },
-    {
       "slug": "bos-mini-y1568mbt-12v-24v",
       "url": "https://bosminiofficial.com/shop/2964/desc/bos-mini-y1568mbt-12v-24v",
       "name": "BOS-MINI Y1568MBT 12V-24V",
@@ -9675,37 +9644,6 @@
       "popularity": 74,
       "added_at": 1749968442,
       "views": 563
-    },
-    {
-      "slug": "bos-y950bt",
-      "url": "https://bosminiofficial.com/shop/1478/desc/bos-y950bt",
-      "name": "Bos-Y950BT",
-      "sku": "",
-      "price_rub": 950,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅Bluetooth ✅Aux ✅USB и SD карты ✅Цветной экран ✅Радиатор охлаждения ✅6 выходов RCA ✅Простой пульт,пульт на руль и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/14/1478.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/14/1478.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/14/1478.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/14/1478.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 281,
-      "added_at": 1750255313,
-      "views": 645
     },
     {
       "slug": "den-190hbt",
@@ -11102,7 +11040,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1785307627,
-      "views": 1
+      "views": 2
     },
     {
       "slug": "dv-pioneer-ok-5503",
