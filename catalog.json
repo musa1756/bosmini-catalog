@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785299117,
+  "generated_at": 1785299417,
   "scraped_count": 463,
   "products": [
     {
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1782539919,
-      "views": 107
+      "views": 110
     },
     {
       "slug": "bos-mini-a1206",
@@ -281,7 +281,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1782470618,
-      "views": 113
+      "views": 115
     },
     {
       "slug": "bos-mini-a1301",
@@ -529,7 +529,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782540010,
-      "views": 94
+      "views": 97
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -1087,7 +1087,7 @@
       "stock_count": 0,
       "popularity": 90,
       "added_at": 1764494765,
-      "views": 1464
+      "views": 1467
     },
     {
       "slug": "bos-mini-a629d-4-64gb",
@@ -1676,7 +1676,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1769577457,
-      "views": 503
+      "views": 506
     },
     {
       "slug": "bos-mini-ts10-6-128gb-9",
@@ -2110,7 +2110,7 @@
       "stock_count": 0,
       "popularity": 59,
       "added_at": 1773035336,
-      "views": 439
+      "views": 442
     },
     {
       "slug": "dv-pioneer-ok-bx4-6-128gb",
@@ -2141,7 +2141,7 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1770801359,
-      "views": 516
+      "views": 519
     },
     {
       "slug": "dv-pioneer-ok-d107-4-64gb",
@@ -2172,7 +2172,7 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1770637683,
-      "views": 537
+      "views": 540
     },
     {
       "slug": "dv-pioneer-ok-d3gold-4-64gb",
@@ -2947,7 +2947,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1784270492,
-      "views": 60
+      "views": 63
     },
     {
       "slug": "teyes-hs-sony-camera",
@@ -3102,7 +3102,7 @@
       "stock_count": 0,
       "popularity": 5602,
       "added_at": 1722408772,
-      "views": 733
+      "views": 736
     },
     {
       "slug": "bos-mini-9602",
@@ -3815,7 +3815,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1769411297,
-      "views": 147
+      "views": 150
     },
     {
       "slug": "aromatizator-sprej-rh-011",
@@ -3846,7 +3846,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1769411412,
-      "views": 153
+      "views": 156
     },
     {
       "slug": "aromatizator-sprej-rh-012",
@@ -3877,7 +3877,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1769411527,
-      "views": 187
+      "views": 190
     },
     {
       "slug": "aromatizator-sprej-rh-014",
@@ -3908,7 +3908,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1769411604,
-      "views": 150
+      "views": 153
     },
     {
       "slug": "aromatizator-sprej-rh-031",
@@ -3939,7 +3939,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1769411698,
-      "views": 142
+      "views": 145
     },
     {
       "slug": "aromatizatory-ds-001",
@@ -4435,7 +4435,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1779958996,
-      "views": 204
+      "views": 207
     },
     {
       "slug": "ar7-h4",
@@ -6264,7 +6264,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1749455456,
-      "views": 331
+      "views": 333
     },
     {
       "slug": "videoregistrator-dlja-android-magnitol-u10",
@@ -6853,7 +6853,7 @@
       "stock_count": 0,
       "popularity": 291,
       "added_at": 1746416891,
-      "views": 320
+      "views": 323
     },
     {
       "slug": "kamera-zadnego-vida-l-606",
@@ -6884,7 +6884,7 @@
       "stock_count": 0,
       "popularity": 106,
       "added_at": 1783665077,
-      "views": 37
+      "views": 40
     },
     {
       "slug": "kamera-krugovo-obzora-bos-mini-a360",
@@ -9333,7 +9333,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1782205257,
-      "views": 115
+      "views": 118
     },
     {
       "slug": "bos-mini-y956bt-12v-24v",
@@ -10730,7 +10730,7 @@
       "stock_count": 0,
       "popularity": 150,
       "added_at": 1714856095,
-      "views": 1275
+      "views": 1278
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
@@ -10761,7 +10761,7 @@
       "stock_count": 0,
       "popularity": 157,
       "added_at": 1714856095,
-      "views": 1201
+      "views": 1204
     },
     {
       "slug": "magnitola-bos-mini-n972dsp",
@@ -10792,7 +10792,7 @@
       "stock_count": 0,
       "popularity": 66,
       "added_at": 1714856095,
-      "views": 1038
+      "views": 1041
     },
     {
       "slug": "magnitola-bos-mini-n973dsp",
@@ -10823,7 +10823,7 @@
       "stock_count": 0,
       "popularity": 71,
       "added_at": 1714856095,
-      "views": 1129
+      "views": 1132
     },
     {
       "slug": "b0s-mini-678dp5",
@@ -11908,7 +11908,7 @@
       "stock_count": 0,
       "popularity": 105,
       "added_at": 1721251344,
-      "views": 371
+      "views": 374
     },
     {
       "slug": "gazel-next-2016",
@@ -12187,7 +12187,7 @@
       "stock_count": 0,
       "popularity": 114,
       "added_at": 1745134818,
-      "views": 281
+      "views": 284
     },
     {
       "slug": "lada-granta-2018",
@@ -12497,7 +12497,7 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1774597460,
-      "views": 135
+      "views": 138
     },
     {
       "slug": "vw-polo-2012-2017",
@@ -13830,7 +13830,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1777715840,
-      "views": 164
+      "views": 167
     },
     {
       "slug": "komplekt-provodov-bos-48",
@@ -13861,7 +13861,7 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1777715745,
-      "views": 178
+      "views": 181
     },
     {
       "slug": "komplekt-provodov-pro-series-4ga",
