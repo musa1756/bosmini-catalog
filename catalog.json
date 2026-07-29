@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785310516,
-  "scraped_count": 465,
+  "generated_at": 1785310816,
+  "scraped_count": 466,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -3167,6 +3167,37 @@
       "views": 2
     },
     {
+      "slug": "cifrovoj-mikrofon-dlja-teyes-cc4-pro",
+      "url": "https://bosminiofficial.com/shop/3015/desc/cifrovoj-mikrofon-dlja-teyes-cc4-pro",
+      "name": "Цифровой микрофон для TEYES CC4 Pro",
+      "sku": "",
+      "price_rub": 1800,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "TEYES"
+      ],
+      "brand_tags": [],
+      "description": "✅Внешний микрофон для подключения к магнитоле TEYES CC4 Pro",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3015.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3015.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3015.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3015.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1785310554,
+      "views": 1
+    },
+    {
       "slug": "bos-mini-9602",
       "url": "https://bosminiofficial.com/shop/1107/desc/bos-mini-9602",
       "name": "BOS-MINI (9602)",
@@ -3970,7 +4001,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1769411604,
-      "views": 153
+      "views": 154
     },
     {
       "slug": "aromatizator-sprej-rh-031",
