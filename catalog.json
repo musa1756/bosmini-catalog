@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785397516,
-  "scraped_count": 466,
+  "generated_at": 1785397816,
+  "scraped_count": 465,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -3227,37 +3227,6 @@
       "popularity": 15,
       "added_at": 1732348103,
       "views": 1050
-    },
-    {
-      "slug": "bos-mini-sd-128gb",
-      "url": "https://bosminiofficial.com/shop/1395/desc/bos-mini-sd-128gb",
-      "name": "Bos-Mini SD 128Gb",
-      "sku": "",
-      "price_rub": 750,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Автоаксессуары"
-      ],
-      "brand_tags": [],
-      "description": "✅ Тип флеш карты - SD ✅ Память-128Gb",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/13/1395.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/13/1395.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/13/1395.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/13/1395.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 149,
-      "added_at": 1746417011,
-      "views": 237
     },
     {
       "slug": "carplay-5-4-64gb",
