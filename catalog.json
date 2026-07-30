@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785396617,
-  "scraped_count": 467,
+  "generated_at": 1785396916,
+  "scraped_count": 466,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782390552,
-      "views": 84
+      "views": 85
     },
     {
       "slug": "bos-mini-a1206-4g",
@@ -591,7 +591,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1785064884,
-      "views": 25
+      "views": 26
     },
     {
       "slug": "bos-mini-q2-9",
@@ -839,7 +839,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1782456237,
-      "views": 97
+      "views": 98
     },
     {
       "slug": "bos-a658d-pro-4-64gb",
@@ -12715,37 +12715,6 @@
       "popularity": 6,
       "added_at": 1732022421,
       "views": 259
-    },
-    {
-      "slug": "inverter-xbk-12v-220v-8000w",
-      "url": "https://bosminiofficial.com/shop/2697/desc/inverter-xbk-12v-220v-8000w",
-      "name": "Инвертер XBK 12V-220V/8000W",
-      "sku": "",
-      "price_rub": 15500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Преобразователи"
-      ],
-      "brand_tags": [],
-      "description": "✅В комплекте провода и клеммы для аккумулятора",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/26/2697.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2697.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/26/2697.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2697.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 2,
-      "added_at": 1764579038,
-      "views": 164
     },
     {
       "slug": "preobrazovateli-24v-12v-45a",
