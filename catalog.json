@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785392717,
-  "scraped_count": 466,
+  "generated_at": 1785393017,
+  "scraped_count": 465,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1366,7 +1366,7 @@
       "stock_count": 0,
       "popularity": 99,
       "added_at": 1767294203,
-      "views": 867
+      "views": 868
     },
     {
       "slug": "bos-mini-n776s-4-64gb",
@@ -7350,37 +7350,6 @@
       "popularity": 18,
       "added_at": 1779520353,
       "views": 225
-    },
-    {
-      "slug": "bos-mini-6588",
-      "url": "https://bosminiofficial.com/shop/1272/desc/bos-mini-6588",
-      "name": "BOS-MINI 6588",
-      "sku": "",
-      "price_rub": 1500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅ Размер динамика-16 см ✅ Мощность-80W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/12/1272.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1272.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/12/1272.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1272.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 156,
-      "added_at": 1738649729,
-      "views": 415
     },
     {
       "slug": "bos-mini-6990-6-9-800w",
