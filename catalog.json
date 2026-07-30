@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785399016,
-  "scraped_count": 465,
+  "generated_at": 1785399316,
+  "scraped_count": 463,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -7228,37 +7228,6 @@
       "views": 1058
     },
     {
-      "slug": "bos-mini-5088",
-      "url": "https://bosminiofficial.com/shop/1273/desc/bos-mini-5088",
-      "name": "BOS-MINI 5088",
-      "sku": "",
-      "price_rub": 1200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅ Размер динамика-13 см ✅ vМощность-60W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/12/1273.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1273.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/12/1273.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1273.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 147,
-      "added_at": 1738649802,
-      "views": 882
-    },
-    {
       "slug": "bos-mini-52xd",
       "url": "https://bosminiofficial.com/shop/2976/desc/bos-mini-52xd",
       "name": "BOS-MINI 52XD",
@@ -7350,37 +7319,6 @@
       "popularity": 7,
       "added_at": 1782390251,
       "views": 61
-    },
-    {
-      "slug": "bos-mini-6587",
-      "url": "https://bosminiofficial.com/shop/2937/desc/bos-mini-6587",
-      "name": "BOS-MINI 6587",
-      "sku": "",
-      "price_rub": 2200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅️ Размер  Колонки  16см\n✅️ Максимальная Мощность 420W-Max",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2937.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2937.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2937.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2937.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 18,
-      "added_at": 1779520353,
-      "views": 225
     },
     {
       "slug": "bos-mini-6990-6-9-800w",
@@ -11071,7 +11009,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1785133944,
-      "views": 26
+      "views": 27
     },
     {
       "slug": "dhd-6353kh",
