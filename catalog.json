@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785415816,
-  "scraped_count": 463,
+  "generated_at": 1785416116,
+  "scraped_count": 464,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -6203,6 +6203,37 @@
       "popularity": 5,
       "added_at": 1779788743,
       "views": 128
+    },
+    {
+      "slug": "tomboss-t20",
+      "url": "https://bosminiofficial.com/shop/2529/desc/tomboss-t20",
+      "name": "TOMBOSS T20",
+      "sku": "",
+      "price_rub": 3000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅Камера вперед и назад ✅Система ADAS ✅Wi-Fi ✅Полный сенсорный экран 4K",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/25/2529.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/25/2529.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/25/2529.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/25/2529.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 65,
+      "added_at": 1753772635,
+      "views": 912
     },
     {
       "slug": "tomboss-t30",
