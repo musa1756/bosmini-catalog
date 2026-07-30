@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785393017,
-  "scraped_count": 465,
+  "generated_at": 1785393316,
+  "scraped_count": 467,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1862,7 +1862,7 @@
       "stock_count": 0,
       "popularity": 223,
       "added_at": 1781700641,
-      "views": 91
+      "views": 92
     },
     {
       "slug": "dhd-s1-plus-4-64gb-10-djujmov",
@@ -2978,7 +2978,7 @@
       "stock_count": 0,
       "popularity": 2354,
       "added_at": 1753684369,
-      "views": 670
+      "views": 671
     },
     {
       "slug": "teyes-sony-ahd-1080p",
@@ -3009,7 +3009,7 @@
       "stock_count": 0,
       "popularity": 2875,
       "added_at": 1753683801,
-      "views": 691
+      "views": 692
     },
     {
       "slug": "teyes-x5-dvr",
@@ -3071,7 +3071,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1785308119,
-      "views": 12
+      "views": 13
     },
     {
       "slug": "datchik-davlenija-shin-teyes",
@@ -3133,7 +3133,7 @@
       "stock_count": 0,
       "popularity": 5602,
       "added_at": 1722408772,
-      "views": 736
+      "views": 737
     },
     {
       "slug": "cifrovoj-videoregistrator-teyes-digital",
@@ -4064,6 +4064,68 @@
       "popularity": 31,
       "added_at": 1784116984,
       "views": 50
+    },
+    {
+      "slug": "aromatizatory-rh-043",
+      "url": "https://bosminiofficial.com/shop/3017/desc/aromatizatory-rh-043",
+      "name": "Ароматизаторы RH-043",
+      "sku": "",
+      "price_rub": 70,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Автоаксессуары"
+      ],
+      "brand_tags": [],
+      "description": "✅Более 20 разных запахов\n✅Емкость 10 мл",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3017.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3017.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3017.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3017.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1785393310,
+      "views": 0
+    },
+    {
+      "slug": "aromatizatory-rh-043a",
+      "url": "https://bosminiofficial.com/shop/3016/desc/aromatizatory-rh-043a",
+      "name": "Ароматизаторы RH-043A",
+      "sku": "",
+      "price_rub": 70,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Автоаксессуары"
+      ],
+      "brand_tags": [],
+      "description": "✅Более 20 разных запахов\n✅Емкость 10 мл",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3016.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3016.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3016.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3016.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1785393286,
+      "views": 0
     },
     {
       "slug": "besprovodnoj-usb-adapter-carplay",
@@ -11877,7 +11939,7 @@
       "stock_count": 0,
       "popularity": 144,
       "added_at": 1727072278,
-      "views": 674
+      "views": 675
     },
     {
       "slug": "chevrolet-cobalt",
