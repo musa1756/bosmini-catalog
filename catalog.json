@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785476416,
-  "scraped_count": 465,
+  "generated_at": 1785476717,
+  "scraped_count": 471,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1397,14 +1397,14 @@
       "stock_count": 0,
       "popularity": 99,
       "added_at": 1767294203,
-      "views": 869
+      "views": 870
     },
     {
       "slug": "bos-mini-n776s-4-64gb",
       "url": "https://bosminiofficial.com/shop/2744/desc/bos-mini-n776s-4-64gb",
       "name": "Bos-Mini N776S 4+64Gb",
       "sku": "",
-      "price_rub": 5800,
+      "price_rub": 6000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -5833,6 +5833,37 @@
       "views": 77
     },
     {
+      "slug": "bos-mini-x13pro",
+      "url": "https://bosminiofficial.com/shop/2953/desc/bos-mini-x13pro",
+      "name": "BOS-MINI X13Pro",
+      "sku": "",
+      "price_rub": 4600,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-10 дюймов\n✅CarPlay/AndroidAuto\n✅Разрешение камеры-4K/1080P/1080P\n✅Система ADAS\n✅Трехканальная запись\n✅Wi-Fi соединение\n✅Поддержка карт памяти от 32Gb до 256Gb\n✅Камера заднего вида, камера на салон, провода 5м. и зарядное устройство в комплекте!",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2953.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2953.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2953.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2953.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 1,
+      "added_at": 1781947054,
+      "views": 75
+    },
+    {
       "slug": "bos-mini-l-810",
       "url": "https://bosminiofficial.com/shop/1110/desc/bos-mini-l-810",
       "name": "Bos mini L-810",
@@ -7352,6 +7383,37 @@
       "views": 63
     },
     {
+      "slug": "bos-mini-6588",
+      "url": "https://bosminiofficial.com/shop/1272/desc/bos-mini-6588",
+      "name": "BOS-MINI 6588",
+      "sku": "",
+      "price_rub": 1500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер динамика-16 см ✅ Мощность-80W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/12/1272.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1272.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/12/1272.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1272.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 156,
+      "added_at": 1738649729,
+      "views": 415
+    },
+    {
       "slug": "bos-mini-6990-6-9-800w",
       "url": "https://bosminiofficial.com/shop/2989/desc/bos-mini-6990-6-9-800w",
       "name": "BOS-MINI 6990 (6/9),800w",
@@ -7567,6 +7629,37 @@
       "popularity": 10,
       "added_at": 1782390093,
       "views": 86
+    },
+    {
+      "slug": "bos-mini-6586-16sm",
+      "url": "https://bosminiofficial.com/shop/1131/desc/bos-mini-6586-16sm",
+      "name": "Bos Mini 6586 (16см)",
+      "sku": "",
+      "price_rub": 1650,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер динамика 16см ✅ Мощность 80W Max",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/11/1131.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/11/1131.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/11/1131.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/11/1131.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 291,
+      "added_at": 1733386143,
+      "views": 777
     },
     {
       "slug": "bos-6580",
@@ -8900,6 +8993,37 @@
       "popularity": 3,
       "added_at": 1734507022,
       "views": 238
+    },
+    {
+      "slug": "kolonki-bos-mini-4083",
+      "url": "https://bosminiofficial.com/shop/2619/desc/kolonki-bos-mini-4083",
+      "name": "Колонки Bos-Mini 4083",
+      "sku": "",
+      "price_rub": 1350,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅️ В комплекте по 2шт ✅️ Максимальная мощность 220W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/26/2619.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2619.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/26/2619.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2619.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 19,
+      "added_at": 1756469877,
+      "views": 299
     },
     {
       "slug": "kolonki-gb-v-512",
@@ -12934,6 +13058,37 @@
       "views": 65
     },
     {
+      "slug": "bos-mini-1512-12-3600w",
+      "url": "https://bosminiofficial.com/shop/2961/desc/bos-mini-1512-12-3600w",
+      "name": "BOS-MINI 1512 (12\", 3600W)",
+      "sku": "BOS-1512",
+      "price_rub": 6500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Сабвуферы и комплектующие"
+      ],
+      "brand_tags": [],
+      "description": "✅Сабвуфер активный\n✅Размер-12\"\n✅Максимальная Мощность: 3600W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2961.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2961.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2961.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2961.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 8,
+      "added_at": 1782111672,
+      "views": 36
+    },
+    {
       "slug": "bos-mini-1580-8-2600w",
       "url": "https://bosminiofficial.com/shop/2963/desc/bos-mini-1580-8-2600w",
       "name": "BOS-MINI 1580 (8\", 2600W)",
@@ -14172,6 +14327,37 @@
       "popularity": 13,
       "added_at": 1771744690,
       "views": 295
+    },
+    {
+      "slug": "bos-mini-468d",
+      "url": "https://bosminiofficial.com/shop/2548/desc/bos-mini-468d",
+      "name": "BOS-MINI 468D",
+      "sku": "",
+      "price_rub": 1450,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Усилители"
+      ],
+      "brand_tags": [],
+      "description": "✅Управление через приложение ✅Мощность-1000W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/25/2548.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/25/2548.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/25/2548.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/25/2548.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 324,
+      "added_at": 1754033937,
+      "views": 636
     },
     {
       "slug": "dv-pioneer-ok-414",
