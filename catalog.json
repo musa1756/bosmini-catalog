@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785520816,
+  "generated_at": 1785521117,
   "scraped_count": 472,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 700
+      "views": 701
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -64,7 +64,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1752862193,
-      "views": 1326
+      "views": 1327
     },
     {
       "slug": "blaupunkt-ha900-b4-4-64g",
@@ -126,7 +126,7 @@
       "stock_count": 0,
       "popularity": 233,
       "added_at": 1752844861,
-      "views": 968
+      "views": 969
     },
     {
       "slug": "bos-mini-a1-pro-4-64gb-9",
@@ -250,7 +250,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1782390686,
-      "views": 101
+      "views": 102
     },
     {
       "slug": "bos-mini-a1213",
@@ -901,7 +901,7 @@
       "stock_count": 0,
       "popularity": 49,
       "added_at": 1764313847,
-      "views": 1383
+      "views": 1384
     },
     {
       "slug": "bos-mini-a15-10-djujmov",
@@ -1397,7 +1397,7 @@
       "stock_count": 0,
       "popularity": 99,
       "added_at": 1767294203,
-      "views": 871
+      "views": 872
     },
     {
       "slug": "bos-mini-n776s-4-64gb",
