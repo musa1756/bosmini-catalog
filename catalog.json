@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785495917,
-  "scraped_count": 471,
+  "generated_at": 1785496216,
+  "scraped_count": 472,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1987,6 +1987,37 @@
       "popularity": 62,
       "added_at": 1781699833,
       "views": 79
+    },
+    {
+      "slug": "dhd-x31-4-64gb",
+      "url": "https://bosminiofficial.com/shop/2954/desc/dhd-x31-4-64gb",
+      "name": "DHD X31 4+64Gb",
+      "sku": "",
+      "price_rub": 6300,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-10 дюймов\n✅Память -4+64Gb\n✅Посадочное место-9 дюймов\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅Переходная рамка и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2954.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2954.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2954.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2954.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 33,
+      "added_at": 1782024662,
+      "views": 81
     },
     {
       "slug": "dhd-y2-pro-12-128gb-9",
