@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785476117,
+  "generated_at": 1785476416,
   "scraped_count": 465,
   "products": [
     {
@@ -1245,6 +1245,37 @@
       "views": 1763
     },
     {
+      "slug": "bos-mini-k68",
+      "url": "https://bosminiofficial.com/shop/2758/desc/bos-mini-k68",
+      "name": "Bos-Mini K68",
+      "sku": "",
+      "price_rub": 4000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-6.89\"\n✅Типоразмер-1Din\n✅Память-4+64Gb\n✅USB и Type C разъемы\n✅Расположение кнопок в нижней части экрана\n✅Кулер охлаждения\n✅Провода для подключения в комплекте!!!",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/27/2758.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/27/2758.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/27/2758.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/27/2758.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 23,
+      "added_at": 1765802757,
+      "views": 1547
+    },
+    {
       "slug": "bos-mini-k69",
       "url": "https://bosminiofficial.com/shop/2759/desc/bos-mini-k69",
       "name": "Bos-Mini K69",
@@ -2082,37 +2113,6 @@
       "views": 620
     },
     {
-      "slug": "dv-pioneer-ok-a2-pro-6-64",
-      "url": "https://bosminiofficial.com/shop/2866/desc/dv-pioneer-ok-a2-pro-6-64",
-      "name": "DV-Pioneer.Ok A2 Pro 6+64",
-      "sku": "",
-      "price_rub": 6500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9 дюймов\n✅Память-6+64Gb\n✅Количество ядер-8\n✅Поддержка сим карты\n✅Carplay\n✅Кулер охлаждения\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2866.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2866.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2866.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2866.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 59,
-      "added_at": 1773035336,
-      "views": 443
-    },
-    {
       "slug": "dv-pioneer-ok-bx4-6-128gb",
       "url": "https://bosminiofficial.com/shop/2828/desc/dv-pioneer-ok-bx4-6-128gb",
       "name": "DV-Pioneer.Ok BX4 6+128Gb",
@@ -2823,7 +2823,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1776517259,
-      "views": 254
+      "views": 255
     },
     {
       "slug": "zx1-pro-plus-4-64gb-10",
