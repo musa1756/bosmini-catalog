@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785475816,
-  "scraped_count": 464,
+  "generated_at": 1785476117,
+  "scraped_count": 465,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -8745,6 +8745,37 @@
       "popularity": 141,
       "added_at": 1753519412,
       "views": 164
+    },
+    {
+      "slug": "ts-a1696s-650w",
+      "url": "https://bosminiofficial.com/shop/2648/desc/ts-a1696s-650w",
+      "name": "TS-A1696S (650W)",
+      "sku": "",
+      "price_rub": 800,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Размер 16см ✅️ Максимальная мощность 650W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/26/2648.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2648.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/26/2648.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2648.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 233,
+      "added_at": 1759759078,
+      "views": 129
     },
     {
       "slug": "wt-580asp-22",
