@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785607217,
+  "generated_at": 1785607516,
   "scraped_count": 474,
   "products": [
     {
@@ -11102,7 +11102,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1773903123,
-      "views": 398
+      "views": 401
     },
     {
       "slug": "bos-mini-n639dp5",
@@ -14698,7 +14698,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1765657210,
-      "views": 284
+      "views": 285
     }
   ]
 }
