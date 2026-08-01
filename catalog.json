@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785588016,
-  "scraped_count": 472,
+  "generated_at": 1785588317,
+  "scraped_count": 473,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -870,7 +870,7 @@
       "stock_count": 0,
       "popularity": 123,
       "added_at": 1764313794,
-      "views": 1630
+      "views": 1631
     },
     {
       "slug": "bos-a659d-pro-4-64gb",
@@ -2485,6 +2485,37 @@
       "views": 308
     },
     {
+      "slug": "es80-4-64gb",
+      "url": "https://bosminiofficial.com/shop/2011/desc/es80-4-64gb",
+      "name": "ES80 4+64Gb",
+      "sku": "",
+      "price_rub": 6500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-10.1\"дюймов ✅Память- 4+64Gb ✅CarPlay ✅Кулер охлаждения ✅Рамка и набор проводов для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/20/2011.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/20/2011.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/20/2011.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/20/2011.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 4,
+      "added_at": 1752907950,
+      "views": 131
+    },
+    {
       "slug": "f7-4-64gb-7",
       "url": "https://bosminiofficial.com/shop/2612/desc/f7-4-64gb-7",
       "name": "F7 4+64Gb 7\"",
@@ -3100,7 +3131,7 @@
         "https://bosminiofficial.com/_sh/30/3013.jpg"
       ],
       "stock_count": 0,
-      "popularity": 2,
+      "popularity": 3,
       "added_at": 1785308119,
       "views": 16
     },
@@ -3224,7 +3255,7 @@
         "https://bosminiofficial.com/_sh/30/3015.jpg"
       ],
       "stock_count": 0,
-      "popularity": 0,
+      "popularity": 2,
       "added_at": 1785310554,
       "views": 9
     },
@@ -4154,7 +4185,7 @@
         "https://bosminiofficial.com/_sh/26/2675.jpg"
       ],
       "stock_count": 0,
-      "popularity": 26,
+      "popularity": 27,
       "added_at": 1763447303,
       "views": 235
     },
@@ -4309,7 +4340,7 @@
         "https://bosminiofficial.com/_sh/26/2657.jpg"
       ],
       "stock_count": 0,
-      "popularity": 10,
+      "popularity": 11,
       "added_at": 1761308770,
       "views": 300
     },
@@ -4495,7 +4526,7 @@
         "https://bosminiofficial.com/_sh/10/1050.jpg"
       ],
       "stock_count": 0,
-      "popularity": 39,
+      "popularity": 41,
       "added_at": 1731180224,
       "views": 349
     },
@@ -9734,7 +9765,7 @@
         "https://bosminiofficial.com/_sh/27/2741.jpg"
       ],
       "stock_count": 0,
-      "popularity": 45,
+      "popularity": 47,
       "added_at": 1765628595,
       "views": 254
     },
@@ -11286,7 +11317,7 @@
         "https://bosminiofficial.com/_sh/30/3011.jpg"
       ],
       "stock_count": 0,
-      "popularity": 0,
+      "popularity": 2,
       "added_at": 1785307627,
       "views": 19
     },
@@ -11627,7 +11658,7 @@
         "https://bosminiofficial.com/_sh/14/1455.jpg"
       ],
       "stock_count": 0,
-      "popularity": 57,
+      "popularity": 58,
       "added_at": 1749112025,
       "views": 335
     },
@@ -11844,7 +11875,7 @@
         "https://bosminiofficial.com/_sh/25/2554.jpg"
       ],
       "stock_count": 0,
-      "popularity": 13,
+      "popularity": 14,
       "added_at": 1754137097,
       "views": 682
     },
@@ -13921,7 +13952,7 @@
         "https://bosminiofficial.com/_sh/27/2760.jpg"
       ],
       "stock_count": 0,
-      "popularity": 305,
+      "popularity": 308,
       "added_at": 1765863450,
       "views": 230
     },
