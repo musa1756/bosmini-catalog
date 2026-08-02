@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785651617,
+  "generated_at": 1785651917,
   "scraped_count": 474,
   "products": [
     {
@@ -217,7 +217,7 @@
         "https://bosminiofficial.com/_sh/29/2977.jpg"
       ],
       "stock_count": 0,
-      "popularity": 0,
+      "popularity": 1,
       "added_at": 1782390552,
       "views": 89
     },
@@ -713,7 +713,7 @@
         "https://bosminiofficial.com/_sh/20/2021.jpg"
       ],
       "stock_count": 0,
-      "popularity": 738,
+      "popularity": 741,
       "added_at": 1752909494,
       "views": 1141
     },
@@ -775,7 +775,7 @@
         "https://bosminiofficial.com/_sh/25/2557.jpg"
       ],
       "stock_count": 0,
-      "popularity": 41,
+      "popularity": 43,
       "added_at": 1754376021,
       "views": 542
     },
@@ -7039,7 +7039,7 @@
       "stock_count": 0,
       "popularity": 771,
       "added_at": 1738414405,
-      "views": 509
+      "views": 510
     },
     {
       "slug": "kamera-zadnego-vida-bos-l310",
