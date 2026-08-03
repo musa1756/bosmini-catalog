@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785738917,
-  "scraped_count": 474,
+  "generated_at": 1785739216,
+  "scraped_count": 473,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2359,37 +2359,6 @@
       "popularity": 4,
       "added_at": 1776680345,
       "views": 193
-    },
-    {
-      "slug": "dv-pioneer-ok-a43-magic-4-64gb-9",
-      "url": "https://bosminiofficial.com/shop/2726/desc/dv-pioneer-ok-a43-magic-4-64gb-9",
-      "name": "Dv-Pioneer.Ok A43 Magic 4+64Gb 9\"",
-      "sku": "",
-      "price_rub": 4000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9 дюймов\n✅Память-4+64Gb\n✅Carplay\n✅Кулер охлаждения\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2726.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2726.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2726.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2726.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 66,
-      "added_at": 1765346513,
-      "views": 414
     },
     {
       "slug": "dv-pioneer-ok-d3-nano-4-64gb",
