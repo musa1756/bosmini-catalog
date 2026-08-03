@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785737416,
-  "scraped_count": 474,
+  "generated_at": 1785737716,
+  "scraped_count": 475,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1614,7 +1614,7 @@
       "stock_count": 0,
       "popularity": 130,
       "added_at": 1752911964,
-      "views": 1954
+      "views": 1955
     },
     {
       "slug": "bos-mini-ts10-4-64gb-10",
@@ -1894,6 +1894,37 @@
       "popularity": 224,
       "added_at": 1781700641,
       "views": 102
+    },
+    {
+      "slug": "dhd-s1-4-64gb-9-djujmov",
+      "url": "https://bosminiofficial.com/shop/2949/desc/dhd-s1-4-64gb-9-djujmov",
+      "name": "DHD S1 4+64Gb \"9-Дюймов",
+      "sku": "",
+      "price_rub": 4300,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅️Размер экрана  9-дюймов\n✅️Память-4+64Gb\n✅️CarPlay/AndroidAuto\n✅️Кулер охлаждения\n✅️Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2949.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2949.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2949.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2949.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 294,
+      "added_at": 1781700207,
+      "views": 87
     },
     {
       "slug": "dhd-s1-plus-4-64gb-10-djujmov",
