@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785738616,
-  "scraped_count": 476,
+  "generated_at": 1785738917,
+  "scraped_count": 474,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2079,7 +2079,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1785737883,
-      "views": 2
+      "views": 3
     },
     {
       "slug": "dhd-y2-pro-12-128gb-9",
@@ -4064,37 +4064,6 @@
       "popularity": 7,
       "added_at": 1769411527,
       "views": 193
-    },
-    {
-      "slug": "aromatizator-sprej-rh-014",
-      "url": "https://bosminiofficial.com/shop/2800/desc/aromatizator-sprej-rh-014",
-      "name": "Ароматизатор-спрей RH-014",
-      "sku": "",
-      "price_rub": 250,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Автоаксессуары"
-      ],
-      "brand_tags": [],
-      "description": "✅Более 6 разных запахов\n✅Емкость-420 мл",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2800.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2800.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2800.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2800.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 7,
-      "added_at": 1769411604,
-      "views": 156
     },
     {
       "slug": "aromatizator-sprej-rh-031",
@@ -14110,37 +14079,6 @@
       "popularity": 426,
       "added_at": 1714856095,
       "views": 358
-    },
-    {
-      "slug": "komplekt-provodov-ak4",
-      "url": "https://bosminiofficial.com/shop/2550/desc/komplekt-provodov-ak4",
-      "name": "Комплект проводов AK4",
-      "sku": "",
-      "price_rub": 900,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Комплект акустических проводов с предохранителем",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2550.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2550.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2550.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2550.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 51,
-      "added_at": 1754038743,
-      "views": 188
     },
     {
       "slug": "komplekt-provodov-bos-44",
