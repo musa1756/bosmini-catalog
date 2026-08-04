@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785835216,
+  "generated_at": 1785835516,
   "scraped_count": 474,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 705
+      "views": 706
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -777,7 +777,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1754376021,
-      "views": 547
+      "views": 548
     },
     {
       "slug": "bos-mini-t7038-4-64gb",
@@ -1304,7 +1304,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1765802832,
-      "views": 772
+      "views": 773
     },
     {
       "slug": "bos-mini-k71",
@@ -1397,7 +1397,7 @@
       "stock_count": 0,
       "popularity": 99,
       "added_at": 1767294203,
-      "views": 878
+      "views": 879
     },
     {
       "slug": "bos-mini-n776s-4-64gb",
@@ -2730,7 +2730,7 @@
       "stock_count": 0,
       "popularity": 255,
       "added_at": 1769577184,
-      "views": 1214
+      "views": 1215
     },
     {
       "slug": "s1-4-64gb",
