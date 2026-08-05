@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785936317,
+  "generated_at": 1785936617,
   "scraped_count": 474,
   "products": [
     {
@@ -2015,7 +2015,7 @@
         "https://bosminiofficial.com/_sh/29/2981.jpg"
       ],
       "stock_count": 0,
-      "popularity": 138,
+      "popularity": 178,
       "added_at": 1782481680,
       "views": 100
     },
@@ -3071,7 +3071,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1784270492,
-      "views": 83
+      "views": 84
     },
     {
       "slug": "teyes-hs-sony-camera",
@@ -7161,7 +7161,7 @@
         "https://bosminiofficial.com/_sh/29/2996.jpg"
       ],
       "stock_count": 0,
-      "popularity": 109,
+      "popularity": 149,
       "added_at": 1783665077,
       "views": 44
     },
