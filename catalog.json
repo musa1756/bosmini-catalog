@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785942017,
+  "generated_at": 1785942317,
   "scraped_count": 474,
   "products": [
     {
@@ -1180,7 +1180,7 @@
       "stock_count": 0,
       "popularity": 38,
       "added_at": 1772527820,
-      "views": 445
+      "views": 446
     },
     {
       "slug": "bos-mini-cc3-max-12-256gb-9",
@@ -1242,7 +1242,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752852789,
-      "views": 1776
+      "views": 1777
     },
     {
       "slug": "bos-mini-k68",
@@ -6884,7 +6884,7 @@
       "stock_count": 0,
       "popularity": 1124,
       "added_at": 1732039326,
-      "views": 561
+      "views": 562
     },
     {
       "slug": "kamera-zad-vida-bos-mini-e-266",
@@ -14698,7 +14698,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1765657210,
-      "views": 285
+      "views": 286
     }
   ]
 }
