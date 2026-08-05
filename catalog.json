@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785948616,
+  "generated_at": 1785948916,
   "scraped_count": 474,
   "products": [
     {
@@ -591,7 +591,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1785064884,
-      "views": 49
+      "views": 50
     },
     {
       "slug": "bos-mini-q2-9",
@@ -1428,7 +1428,7 @@
       "stock_count": 0,
       "popularity": 82,
       "added_at": 1765630585,
-      "views": 1012
+      "views": 1013
     },
     {
       "slug": "bos-mini-q5-4-64gb-9",
@@ -11133,7 +11133,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1773903123,
-      "views": 415
+      "views": 416
     },
     {
       "slug": "bos-mini-n639dp5",
