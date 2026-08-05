@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1785931517,
+  "generated_at": 1785931816,
   "scraped_count": 474,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 709
+      "views": 710
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -1087,7 +1087,7 @@
       "stock_count": 0,
       "popularity": 93,
       "added_at": 1764494765,
-      "views": 1483
+      "views": 1484
     },
     {
       "slug": "bos-mini-a629d-4-64gb",
