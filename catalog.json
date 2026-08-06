@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786025117,
-  "scraped_count": 474,
+  "generated_at": 1786025416,
+  "scraped_count": 472,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -871,37 +871,6 @@
       "popularity": 127,
       "added_at": 1764313794,
       "views": 1642
-    },
-    {
-      "slug": "bos-a659d-pro-4-64gb",
-      "url": "https://bosminiofficial.com/shop/2681/desc/bos-a659d-pro-4-64gb",
-      "name": "Bos-A659D Pro 4+64Gb",
-      "sku": "",
-      "price_rub": 4500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Память-4+64Gb\n✅Посадочное место-1Din\n✅CarPlay\n✅Выход Type-C для быстрой зарядки\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/26/2681.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2681.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/26/2681.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2681.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 51,
-      "added_at": 1764313847,
-      "views": 1388
     },
     {
       "slug": "bos-mini-a15-10-djujmov",
@@ -9588,7 +9557,7 @@
       "url": "https://bosminiofficial.com/shop/2964/desc/bos-mini-y1568mbt-12v-24v",
       "name": "BOS-MINI Y1568MBT 12V-24V",
       "sku": "",
-      "price_rub": 900,
+      "price_rub": 1000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -9619,7 +9588,7 @@
       "url": "https://bosminiofficial.com/shop/851/desc/bos-mini-y956bt-12v-24v",
       "name": "BOS-MINI Y956BT 12V-24V",
       "sku": "",
-      "price_rub": 900,
+      "price_rub": 1000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -9650,7 +9619,7 @@
       "url": "https://bosminiofficial.com/shop/2518/desc/bos-mini-y957bt-12v-24v",
       "name": "BOS-MINI Y957BT 12V-24V",
       "sku": "",
-      "price_rub": 900,
+      "price_rub": 1000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -9681,7 +9650,7 @@
       "url": "https://bosminiofficial.com/shop/1162/desc/bos-mini-bos-n670dsp",
       "name": "Bos-Mini (Bos-N670DSP)",
       "sku": "",
-      "price_rub": 1800,
+      "price_rub": 1950,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -9954,6 +9923,37 @@
       "popularity": 76,
       "added_at": 1749968442,
       "views": 567
+    },
+    {
+      "slug": "bos-y950bt",
+      "url": "https://bosminiofficial.com/shop/1478/desc/bos-y950bt",
+      "name": "Bos-Y950BT",
+      "sku": "",
+      "price_rub": 1000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅Bluetooth ✅Aux ✅USB и SD карты ✅Цветной экран ✅Радиатор охлаждения ✅6 выходов RCA ✅Простой пульт,пульт на руль и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/14/1478.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/14/1478.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/14/1478.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/14/1478.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 281,
+      "added_at": 1750255313,
+      "views": 649
     },
     {
       "slug": "den-190hbt",
@@ -14054,7 +14054,7 @@
       "url": "https://bosminiofficial.com/shop/290/desc/komplekt-provodov-8ga",
       "name": "Комплект проводов 8GA",
       "sku": "TS00318",
-      "price_rub": 350,
+      "price_rub": 400,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -14329,37 +14329,6 @@
       "views": 296
     },
     {
-      "slug": "alpine-ap-47-1",
-      "url": "https://bosminiofficial.com/shop/2727/desc/alpine-ap-47-1",
-      "name": "ALPINE AP-47.1",
-      "sku": "",
-      "price_rub": 1500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Усилители"
-      ],
-      "brand_tags": [],
-      "description": "✅️Количество каналов-4\n✅️ Мощность 3800W-Max",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2727.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2727.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2727.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2727.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 25,
-      "added_at": 1765430230,
-      "views": 320
-    },
-    {
       "slug": "alpine-ap-a5204",
       "url": "https://bosminiofficial.com/shop/2844/desc/alpine-ap-a5204",
       "name": "ALPINE AP-A5204",
@@ -14513,37 +14482,6 @@
       "popularity": 6,
       "added_at": 1765802327,
       "views": 195
-    },
-    {
-      "slug": "dv-pioneer-ok-a43",
-      "url": "https://bosminiofficial.com/shop/2486/desc/dv-pioneer-ok-a43",
-      "name": "Dv-Pioneer.Ok A43",
-      "sku": "",
-      "price_rub": 1500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Усилители"
-      ],
-      "brand_tags": [],
-      "description": "✅Мощность -1800W Max ✅Количество каналов-4",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/24/2486.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/24/2486.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/24/2486.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/24/2486.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 6,
-      "added_at": 1753165880,
-      "views": 507
     },
     {
       "slug": "jbl-jb-480",
