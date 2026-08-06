@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786024817,
-  "scraped_count": 475,
+  "generated_at": 1786025117,
+  "scraped_count": 474,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -11072,37 +11072,6 @@
       "popularity": 71,
       "added_at": 1714856095,
       "views": 1137
-    },
-    {
-      "slug": "7010b",
-      "url": "https://bosminiofficial.com/shop/1254/desc/7010b",
-      "name": "7010B",
-      "sku": "",
-      "price_rub": 1450,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы с экраном"
-      ],
-      "brand_tags": [],
-      "description": "✅Экран-7 дюймов сенсорный ✅USB, SD card, Aux выход ✅Bluetooth ✅6 выходов RCA ✅Возможность подключения камеры заднего вида ✅Пульт управления и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/12/1254.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1254.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/12/1254.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1254.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 1501,
-      "added_at": 1738048528,
-      "views": 469
     },
     {
       "slug": "b0s-mini-678dp5",
