@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786085416,
-  "scraped_count": 472,
+  "generated_at": 1786085716,
+  "scraped_count": 474,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -312,7 +312,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1784446916,
-      "views": 102
+      "views": 104
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -7008,7 +7008,7 @@
       "stock_count": 0,
       "popularity": 143,
       "added_at": 1764398182,
-      "views": 505
+      "views": 506
     },
     {
       "slug": "kamera-zadnego-vida-bos-l210",
@@ -12159,6 +12159,37 @@
       "views": 218
     },
     {
+      "slug": "ford-focus-1999-2008",
+      "url": "https://bosminiofficial.com/shop/3022/desc/ford-focus-1999-2008",
+      "name": "Ford Focus 1999-2008",
+      "sku": "",
+      "price_rub": 550,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-9\"\n✅Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3022.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3022.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3022.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3022.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1786085529,
+      "views": 1
+    },
+    {
       "slug": "ford-transit-2015g",
       "url": "https://bosminiofficial.com/shop/2599/desc/ford-transit-2015g",
       "name": "Ford Transit 2015г",
@@ -12312,6 +12343,37 @@
       "popularity": 106,
       "added_at": 1755667900,
       "views": 173
+    },
+    {
+      "slug": "hyundai-creta-ix25-9",
+      "url": "https://bosminiofficial.com/shop/895/desc/hyundai-creta-ix25-9",
+      "name": "HYUNDAI CRETA IX25 9\"",
+      "sku": "",
+      "price_rub": 500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Размер экрана ,,9\" ✅️ Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/8/895.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/8/895.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/8/895.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/8/895.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 54,
+      "added_at": 1724489383,
+      "views": 181
     },
     {
       "slug": "hyundai-accent-2011-2016-seryj",
@@ -13086,7 +13148,7 @@
       "stock_count": 0,
       "popularity": 281,
       "added_at": 1753860442,
-      "views": 190
+      "views": 191
     },
     {
       "slug": "bos-mini-10g",
@@ -13365,7 +13427,7 @@
       "stock_count": 0,
       "popularity": 73,
       "added_at": 1754806553,
-      "views": 129
+      "views": 130
     },
     {
       "slug": "dv-pioneer-ok-801c",
@@ -13582,7 +13644,7 @@
       "stock_count": 0,
       "popularity": 57,
       "added_at": 1753518032,
-      "views": 236
+      "views": 237
     },
     {
       "slug": "pioneer-gb-802a",
@@ -14233,7 +14295,7 @@
       "stock_count": 0,
       "popularity": 946,
       "added_at": 1753516707,
-      "views": 240
+      "views": 241
     },
     {
       "slug": "sabvufer-syzx-yd-0108",
