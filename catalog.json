@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786088717,
-  "scraped_count": 477,
+  "generated_at": 1786089016,
+  "scraped_count": 478,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -405,7 +405,7 @@
       "stock_count": 0,
       "popularity": 146,
       "added_at": 1753952536,
-      "views": 875
+      "views": 876
     },
     {
       "slug": "bos-mini-a6-wi-fi-4-64gb-10-djujm",
@@ -12190,6 +12190,37 @@
       "views": 6
     },
     {
+      "slug": "ford-focus-2012-2017-9",
+      "url": "https://bosminiofficial.com/shop/3024/desc/ford-focus-2012-2017-9",
+      "name": "Ford Focus 2012 - 2017 9\"",
+      "sku": "",
+      "price_rub": 2200,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-9\"\n✅Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3024.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3024.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3024.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3024.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1786088875,
+      "views": 1
+    },
+    {
       "slug": "ford-transit-2015g",
       "url": "https://bosminiofficial.com/shop/2599/desc/ford-transit-2015g",
       "name": "Ford Transit 2015г",
@@ -12349,7 +12380,7 @@
       "url": "https://bosminiofficial.com/shop/895/desc/hyundai-creta-ix25-9",
       "name": "HYUNDAI CRETA IX25 9\"",
       "sku": "",
-      "price_rub": 500,
+      "price_rub": 900,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
