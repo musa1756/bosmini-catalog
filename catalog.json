@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786088116,
-  "scraped_count": 476,
+  "generated_at": 1786088417,
+  "scraped_count": 477,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1521,7 +1521,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1752853165,
-      "views": 457
+      "views": 458
     },
     {
       "slug": "bos-mini-t8-4-64gb-9",
@@ -4621,7 +4621,7 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1779958996,
-      "views": 225
+      "views": 226
     },
     {
       "slug": "ar7-h4",
@@ -6419,7 +6419,7 @@
       "stock_count": 0,
       "popularity": 70,
       "added_at": 1746085925,
-      "views": 1252
+      "views": 1253
     },
     {
       "slug": "videoregistrator-bos-mini-v8",
@@ -6605,7 +6605,7 @@
       "stock_count": 0,
       "popularity": 455,
       "added_at": 1739603379,
-      "views": 395
+      "views": 396
     },
     {
       "slug": "videoregistrator-dlja-android-magnitol-u2pro",
@@ -6791,7 +6791,7 @@
       "stock_count": 0,
       "popularity": 26,
       "added_at": 1771148869,
-      "views": 271
+      "views": 273
     },
     {
       "slug": "kamera-360-full-hd",
@@ -7442,7 +7442,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1782390251,
-      "views": 66
+      "views": 67
     },
     {
       "slug": "bos-mini-6588",
@@ -7938,7 +7938,7 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1752176079,
-      "views": 1031
+      "views": 1032
     },
     {
       "slug": "bos-mini-6985-6-9",
@@ -8062,7 +8062,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1767296273,
-      "views": 226
+      "views": 228
     },
     {
       "slug": "e5-olom-e5-cy404c",
@@ -8186,7 +8186,7 @@
       "stock_count": 0,
       "popularity": 130,
       "added_at": 1753859920,
-      "views": 287
+      "views": 288
     },
     {
       "slug": "hx409",
@@ -9333,7 +9333,7 @@
       "stock_count": 0,
       "popularity": 128,
       "added_at": 1715285715,
-      "views": 428
+      "views": 429
     },
     {
       "slug": "rupor-tp-14",
@@ -9984,7 +9984,7 @@
       "stock_count": 0,
       "popularity": 1593,
       "added_at": 1754637220,
-      "views": 333
+      "views": 334
     },
     {
       "slug": "dv-pioneer-ok-212",
@@ -10418,7 +10418,7 @@
       "stock_count": 0,
       "popularity": 44,
       "added_at": 1714856095,
-      "views": 551
+      "views": 553
     },
     {
       "slug": "e5-olom-e-011",
@@ -10573,7 +10573,7 @@
       "stock_count": 0,
       "popularity": 2190,
       "added_at": 1764669521,
-      "views": 274
+      "views": 275
     },
     {
       "slug": "mvh-y8056mbt",
@@ -11381,7 +11381,7 @@
       "stock_count": 0,
       "popularity": 231,
       "added_at": 1750255775,
-      "views": 617
+      "views": 618
     },
     {
       "slug": "dv-pioneer-ok-5505",
@@ -12187,7 +12187,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1786085529,
-      "views": 4
+      "views": 5
     },
     {
       "slug": "ford-transit-2015g",
@@ -12405,6 +12405,37 @@
       "popularity": 36,
       "added_at": 1769508393,
       "views": 178
+    },
+    {
+      "slug": "hyundai-accent-2017-chernyj",
+      "url": "https://bosminiofficial.com/shop/3023/desc/hyundai-accent-2017-chernyj",
+      "name": "Hyundai Accent 2017 (Черный)",
+      "sku": "",
+      "price_rub": 600,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-9\"\n✅Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3023.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3023.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3023.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3023.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1786088184,
+      "views": 1
     },
     {
       "slug": "hyundai-sonata-9-2011-2014g",
@@ -13148,7 +13179,7 @@
       "stock_count": 0,
       "popularity": 294,
       "added_at": 1753860593,
-      "views": 394
+      "views": 395
     },
     {
       "slug": "bos-6ga",
@@ -14295,7 +14326,7 @@
       "stock_count": 0,
       "popularity": 40,
       "added_at": 1765863510,
-      "views": 224
+      "views": 225
     },
     {
       "slug": "komplekt-provodov-vp04",
@@ -14326,7 +14357,7 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1765863602,
-      "views": 190
+      "views": 191
     },
     {
       "slug": "komplekt-provodov-x9",
