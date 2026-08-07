@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786083016,
+  "generated_at": 1786083317,
   "scraped_count": 472,
   "products": [
     {
@@ -8093,7 +8093,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1733726181,
-      "views": 310
+      "views": 311
     },
     {
       "slug": "e5-olom-e5-cy504c",
@@ -8124,7 +8124,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1733726084,
-      "views": 290
+      "views": 291
     },
     {
       "slug": "hertz-dsk165-3",
@@ -8620,7 +8620,7 @@
       "stock_count": 0,
       "popularity": 73,
       "added_at": 1733548229,
-      "views": 224
+      "views": 225
     },
     {
       "slug": "pioneer-ts-6975-v3-6-9-ovaly",
@@ -8992,7 +8992,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1734507190,
-      "views": 262
+      "views": 263
     },
     {
       "slug": "wt-spk159-22",
@@ -9023,7 +9023,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1734506942,
-      "views": 264
+      "views": 265
     },
     {
       "slug": "wt-spk161-22",
@@ -14054,7 +14054,7 @@
       "url": "https://bosminiofficial.com/shop/290/desc/komplekt-provodov-8ga",
       "name": "Комплект проводов 8GA",
       "sku": "TS00318",
-      "price_rub": 400,
+      "price_rub": 450,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -14078,7 +14078,7 @@
       "stock_count": 0,
       "popularity": 426,
       "added_at": 1714856095,
-      "views": 359
+      "views": 361
     },
     {
       "slug": "komplekt-provodov-bos-44",
