@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786181716,
-  "scraped_count": 476,
+  "generated_at": 1786182016,
+  "scraped_count": 474,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -8279,7 +8279,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1765864139,
-      "views": 190
+      "views": 191
     },
     {
       "slug": "hz-405-360w-10sm",
@@ -8651,7 +8651,7 @@
       "stock_count": 0,
       "popularity": 199,
       "added_at": 1728137074,
-      "views": 404
+      "views": 405
     },
     {
       "slug": "pioneer-ts-a1096a-450w",
@@ -10514,37 +10514,6 @@
       "views": 228
     },
     {
-      "slug": "mvh-y8055mbt",
-      "url": "https://bosminiofficial.com/shop/2702/desc/mvh-y8055mbt",
-      "name": "MVH-Y8055MBT",
-      "sku": "",
-      "price_rub": 850,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅Bluetooth\n✅Aux\n✅USB и SD карты\n✅Цветной экран\n✅Радиатор охлаждения\n✅6 выходов RCA\n✅Простой пульт,пульт на руль и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2702.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2702.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2702.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2702.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 2190,
-      "added_at": 1764669521,
-      "views": 278
-    },
-    {
       "slug": "mvh-y8056mbt",
       "url": "https://bosminiofficial.com/shop/2736/desc/mvh-y8056mbt",
       "name": "MVH-Y8056MBT",
@@ -10729,37 +10698,6 @@
       "popularity": 2379,
       "added_at": 1718306019,
       "views": 375
-    },
-    {
-      "slug": "pioneer-gb-mvh-816dsp",
-      "url": "https://bosminiofficial.com/shop/1161/desc/pioneer-gb-mvh-816dsp",
-      "name": "Pioneer.GB (MVH-816DSP)",
-      "sku": "",
-      "price_rub": 1750,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅Bluetooth ✅Aux ✅USB и SD карты ✅Процессор DSP ✅Цветной RGB экран ✅Мощный радиатор охлаждения ✅6 выходов RCA ✅Пульт и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/11/1161.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/11/1161.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/11/1161.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/11/1161.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 415,
-      "added_at": 1733727083,
-      "views": 586
     },
     {
       "slug": "pioneer-gb-mvh-767mbt",
