@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786171216,
-  "scraped_count": 478,
+  "generated_at": 1786171517,
+  "scraped_count": 477,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -10297,37 +10297,6 @@
       "views": 459
     },
     {
-      "slug": "dv-pioneer-ok-218",
-      "url": "https://bosminiofficial.com/shop/877/desc/dv-pioneer-ok-218",
-      "name": "Dv-Pioneer.Ok 218",
-      "sku": "",
-      "price_rub": 550,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅Bluetooth ✅Aux ✅USB и SD карты ✅Монохромная подсветка ✅4 выхода RCA ✅Радиатор охлаждения ✅Пульт и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/8/877.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/8/877.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/8/877.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/8/877.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 1272,
-      "added_at": 1723960739,
-      "views": 430
-    },
-    {
       "slug": "dv-pioneer-ok-219",
       "url": "https://bosminiofficial.com/shop/878/desc/dv-pioneer-ok-219",
       "name": "Dv-Pioneer.Ok 219",
@@ -11102,7 +11071,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1782205423,
-      "views": 179
+      "views": 180
     },
     {
       "slug": "bos-mini-n637dp5",
@@ -11195,7 +11164,7 @@
       "stock_count": 0,
       "popularity": 39,
       "added_at": 1778219987,
-      "views": 432
+      "views": 433
     },
     {
       "slug": "bos-mini-n727hgp5",
@@ -11381,7 +11350,7 @@
       "stock_count": 0,
       "popularity": 231,
       "added_at": 1750255775,
-      "views": 620
+      "views": 621
     },
     {
       "slug": "dv-pioneer-ok-5505",
@@ -11443,7 +11412,7 @@
       "stock_count": 0,
       "popularity": 105,
       "added_at": 1743669570,
-      "views": 557
+      "views": 558
     },
     {
       "slug": "pioneer-gb-mvh-595dp5",
