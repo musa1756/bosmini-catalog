@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786253716,
-  "scraped_count": 474,
+  "generated_at": 1786254016,
+  "scraped_count": 475,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -96,6 +96,37 @@
       "popularity": 37,
       "added_at": 1763311652,
       "views": 835
+    },
+    {
+      "slug": "bos-mini-8701-2-32gb-7",
+      "url": "https://bosminiofficial.com/shop/1942/desc/bos-mini-8701-2-32gb-7",
+      "name": "BOS-MINI 8701 2+32Gb 7\"",
+      "sku": "",
+      "price_rub": 3750,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Память-2+32Gb ✅Размер экрана- 7 дюймов ✅QLed ✅Carplay ✅Набор проводов в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/19/1942.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/19/1942.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/19/1942.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/19/1942.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 462,
+      "added_at": 1752844839,
+      "views": 1403
     },
     {
       "slug": "bos-mini-8702-2-32gb-7",
