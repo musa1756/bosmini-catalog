@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786361117,
+  "generated_at": 1786361416,
   "scraped_count": 475,
   "products": [
     {
@@ -2916,7 +2916,7 @@
       "stock_count": 0,
       "popularity": 71,
       "added_at": 1773035061,
-      "views": 399
+      "views": 400
     },
     {
       "slug": "zx1-4-64gb-9",
@@ -5737,7 +5737,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1736655571,
-      "views": 301
+      "views": 302
     },
     {
       "slug": "podsvetka-salona-colorful-frgb",
@@ -5954,7 +5954,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1781947054,
-      "views": 90
+      "views": 91
     },
     {
       "slug": "bos-mini-l-810",
@@ -9767,7 +9767,7 @@
       "stock_count": 0,
       "popularity": 155,
       "added_at": 1765607730,
-      "views": 879
+      "views": 880
     },
     {
       "slug": "bos-mini-y8063mbt",
@@ -11288,7 +11288,7 @@
       "stock_count": 0,
       "popularity": 231,
       "added_at": 1750255775,
-      "views": 626
+      "views": 627
     },
     {
       "slug": "dv-pioneer-ok-5505",
@@ -14481,7 +14481,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1771744690,
-      "views": 307
+      "views": 308
     },
     {
       "slug": "bos-mini-a21",
@@ -14729,7 +14729,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1765657210,
-      "views": 291
+      "views": 292
     }
   ]
 }
