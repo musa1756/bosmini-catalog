@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786347616,
+  "generated_at": 1786347916,
   "scraped_count": 475,
   "products": [
     {
@@ -124,9 +124,9 @@
         "https://bosminiofficial.com/_sh/19/1942.jpg"
       ],
       "stock_count": 0,
-      "popularity": 464,
+      "popularity": 472,
       "added_at": 1752844839,
-      "views": 1405
+      "views": 1406
     },
     {
       "slug": "bos-mini-8702-2-32gb-7",
@@ -1769,7 +1769,7 @@
       "stock_count": 0,
       "popularity": 75,
       "added_at": 1764392333,
-      "views": 522
+      "views": 524
     },
     {
       "slug": "bos-mini-ts18-10-6-128gb",
@@ -2573,7 +2573,7 @@
         "https://bosminiofficial.com/_sh/20/2011.jpg"
       ],
       "stock_count": 0,
-      "popularity": 4,
+      "popularity": 5,
       "added_at": 1752907950,
       "views": 159
     },
