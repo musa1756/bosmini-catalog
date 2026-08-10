@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786383317,
-  "scraped_count": 475,
+  "generated_at": 1786383616,
+  "scraped_count": 480,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -95,7 +95,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1763311652,
-      "views": 839
+      "views": 843
     },
     {
       "slug": "bos-mini-8701-2-32gb-7",
@@ -932,7 +932,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1772526981,
-      "views": 669
+      "views": 671
     },
     {
       "slug": "bos-mini-a15-9-djujmov",
@@ -994,7 +994,7 @@
       "stock_count": 0,
       "popularity": 527,
       "added_at": 1764392614,
-      "views": 888
+      "views": 890
     },
     {
       "slug": "bos-mini-a5-6-128gb-10",
@@ -1211,7 +1211,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1752852728,
-      "views": 1445
+      "views": 1447
     },
     {
       "slug": "bos-mini-cc3-max-2k-12-256gb-9",
@@ -1645,7 +1645,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1769577346,
-      "views": 406
+      "views": 408
     },
     {
       "slug": "bos-mini-ts10-4-64gb-9",
@@ -1738,7 +1738,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1769577429,
-      "views": 660
+      "views": 662
     },
     {
       "slug": "bos-mini-ts18-10-4-64gb",
@@ -1800,7 +1800,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1764392414,
-      "views": 861
+      "views": 863
     },
     {
       "slug": "cc5-ultra-4-64gb-10",
@@ -1924,7 +1924,7 @@
       "stock_count": 0,
       "popularity": 224,
       "added_at": 1781700641,
-      "views": 115
+      "views": 117
     },
     {
       "slug": "dhd-s1-4-64gb-9-djujmov",
@@ -1955,7 +1955,7 @@
       "stock_count": 0,
       "popularity": 324,
       "added_at": 1781700207,
-      "views": 102
+      "views": 104
     },
     {
       "slug": "dhd-s1-plus-4-64gb-10-djujmov",
@@ -2296,7 +2296,7 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1770637683,
-      "views": 559
+      "views": 560
     },
     {
       "slug": "dv-pioneer-ok-d3gold-4-64gb",
@@ -2482,7 +2482,7 @@
       "stock_count": 0,
       "popularity": 36,
       "added_at": 1770801589,
-      "views": 582
+      "views": 584
     },
     {
       "slug": "e5-olom-es4-ultra-4-64gb-9",
@@ -2544,7 +2544,7 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1776112985,
-      "views": 323
+      "views": 325
     },
     {
       "slug": "es80-4-64gb",
@@ -3040,7 +3040,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1784270215,
-      "views": 58
+      "views": 60
     },
     {
       "slug": "gem63-pro-max-audi-style",
@@ -3877,7 +3877,7 @@
       "stock_count": 0,
       "popularity": 98,
       "added_at": 1752661634,
-      "views": 370
+      "views": 372
     },
     {
       "slug": "aromatizator-diffuzory-rh-017",
@@ -9240,7 +9240,7 @@
       "stock_count": 0,
       "popularity": 71,
       "added_at": 1717065242,
-      "views": 493
+      "views": 495
     },
     {
       "slug": "kolonki-ot-bos-mini-6583",
@@ -9271,7 +9271,7 @@
       "stock_count": 0,
       "popularity": 162,
       "added_at": 1717065094,
-      "views": 488
+      "views": 492
     },
     {
       "slug": "kolonki-ot-bos-mini-6983",
@@ -9302,7 +9302,7 @@
       "stock_count": 0,
       "popularity": 61,
       "added_at": 1717064941,
-      "views": 408
+      "views": 410
     },
     {
       "slug": "pishhalka-ht-25",
@@ -9457,7 +9457,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1784269255,
-      "views": 63
+      "views": 64
     },
     {
       "slug": "bos-mini-942dsp",
@@ -10016,6 +10016,161 @@
       "popularity": 1593,
       "added_at": 1754637220,
       "views": 341
+    },
+    {
+      "slug": "dhd-xf3251",
+      "url": "https://bosminiofficial.com/shop/3025/desc/dhd-xf3251",
+      "name": "DHD XF3251",
+      "sku": "",
+      "price_rub": 900,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅Bluetooth/Aux/USB/SD\n✅Управление через приложение\n✅Цветной экран\n✅Радиатор охлаждения\n✅6 выходов RCA\n✅Пульт управления и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3025.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3025.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3025.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3025.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1786383355,
+      "views": 1
+    },
+    {
+      "slug": "dhd-xf3252",
+      "url": "https://bosminiofficial.com/shop/3026/desc/dhd-xf3252",
+      "name": "DHD XF3252",
+      "sku": "",
+      "price_rub": 900,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅Bluetooth/Aux/USB/SD\n✅Управление через приложение\n✅Цветной экран\n✅Радиатор охлаждения\n✅6 выходов RCA\n✅Пульт управления и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3026.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3026.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3026.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3026.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1786383413,
+      "views": 1
+    },
+    {
+      "slug": "dhd-xf3253",
+      "url": "https://bosminiofficial.com/shop/3027/desc/dhd-xf3253",
+      "name": "DHD XF3253",
+      "sku": "",
+      "price_rub": 900,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅Bluetooth/Aux/USB/SD\n✅Управление через приложение\n✅Цветной экран\n✅Радиатор охлаждения\n✅6 выходов RCA\n✅Пульт управления и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3027.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3027.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3027.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3027.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1786383475,
+      "views": 1
+    },
+    {
+      "slug": "dhd-xf3254",
+      "url": "https://bosminiofficial.com/shop/3028/desc/dhd-xf3254",
+      "name": "DHD XF3254",
+      "sku": "",
+      "price_rub": 900,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅Bluetooth/Aux/USB/SD\n✅Управление через приложение\n✅Цветной экран\n✅Радиатор охлаждения\n✅6 выходов RCA\n✅Пульт управления и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3028.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3028.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3028.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3028.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1786383504,
+      "views": 1
+    },
+    {
+      "slug": "dhd-xf3255",
+      "url": "https://bosminiofficial.com/shop/3029/desc/dhd-xf3255",
+      "name": "DHD XF3255",
+      "sku": "",
+      "price_rub": 900,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅Bluetooth/Aux/USB/SD\n✅Управление через приложение\n✅Цветной экран\n✅Радиатор охлаждения\n✅6 выходов RCA\n✅Пульт управления и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3029.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3029.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3029.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3029.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1786383529,
+      "views": 1
     },
     {
       "slug": "dv-pioneer-ok-212",
@@ -10885,7 +11040,7 @@
       "stock_count": 0,
       "popularity": 154,
       "added_at": 1714856095,
-      "views": 1313
+      "views": 1314
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
@@ -10947,7 +11102,7 @@
       "stock_count": 0,
       "popularity": 66,
       "added_at": 1714856095,
-      "views": 1073
+      "views": 1075
     },
     {
       "slug": "magnitola-bos-mini-n973dsp",
@@ -11009,7 +11164,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1782205423,
-      "views": 200
+      "views": 201
     },
     {
       "slug": "bos-mini-n637dp5",
@@ -11040,7 +11195,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1773903123,
-      "views": 442
+      "views": 443
     },
     {
       "slug": "bos-mini-n639dp5",
@@ -11071,7 +11226,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1773903156,
-      "views": 456
+      "views": 457
     },
     {
       "slug": "bos-mini-n640dp5",
@@ -11102,7 +11257,7 @@
       "stock_count": 0,
       "popularity": 39,
       "added_at": 1778219987,
-      "views": 440
+      "views": 441
     },
     {
       "slug": "bos-mini-n727hgp5",
@@ -12745,7 +12900,7 @@
       "stock_count": 0,
       "popularity": 178,
       "added_at": 1718632955,
-      "views": 254
+      "views": 256
     },
     {
       "slug": "renault-logan-2009-2013",
@@ -13427,7 +13582,7 @@
       "stock_count": 0,
       "popularity": 216,
       "added_at": 1754806593,
-      "views": 248
+      "views": 250
     },
     {
       "slug": "dv-60-komplekt-provodov",
@@ -13954,7 +14109,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1765863799,
-      "views": 259
+      "views": 261
     },
     {
       "slug": "bukhta-kabelja-model-200",
@@ -13985,7 +14140,7 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1715671657,
-      "views": 357
+      "views": 359
     },
     {
       "slug": "bukhta-kabelja-model-400",
@@ -14016,7 +14171,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1715671990,
-      "views": 366
+      "views": 368
     },
     {
       "slug": "kabel-2-2-rca-sinij",
