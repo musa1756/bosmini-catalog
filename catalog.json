@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786369816,
+  "generated_at": 1786370116,
   "scraped_count": 475,
   "products": [
     {
@@ -3319,7 +3319,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1785310554,
-      "views": 31
+      "views": 33
     },
     {
       "slug": "bos-mini-9602",
@@ -4869,7 +4869,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1751464085,
-      "views": 121
+      "views": 123
     },
     {
       "slug": "k15-h1",
@@ -5241,7 +5241,7 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1743145190,
-      "views": 147
+      "views": 149
     },
     {
       "slug": "tech-king-h4",
@@ -5272,7 +5272,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1743145408,
-      "views": 190
+      "views": 192
     },
     {
       "slug": "tech-king-h7",
@@ -5303,7 +5303,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1743145520,
-      "views": 183
+      "views": 185
     },
     {
       "slug": "tech-king-hb3-9005",
@@ -5923,7 +5923,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1781946848,
-      "views": 86
+      "views": 87
     },
     {
       "slug": "bos-mini-x13pro",
@@ -10542,7 +10542,7 @@
       "stock_count": 0,
       "popularity": 1138,
       "added_at": 1764669494,
-      "views": 229
+      "views": 231
     },
     {
       "slug": "mvh-y8056mbt",
@@ -10604,7 +10604,7 @@
       "stock_count": 0,
       "popularity": 94,
       "added_at": 1764669556,
-      "views": 213
+      "views": 215
     },
     {
       "slug": "mvh-y8058mbt",
@@ -10635,7 +10635,7 @@
       "stock_count": 0,
       "popularity": 3176,
       "added_at": 1764669581,
-      "views": 260
+      "views": 261
     },
     {
       "slug": "mvh-y8059mbt",
@@ -11660,7 +11660,7 @@
       "stock_count": 0,
       "popularity": 99,
       "added_at": 1764621987,
-      "views": 405
+      "views": 407
     },
     {
       "slug": "starline-b9",
@@ -12435,7 +12435,7 @@
       "stock_count": 0,
       "popularity": 38,
       "added_at": 1755666601,
-      "views": 172
+      "views": 174
     },
     {
       "slug": "kia-rio-2012-2016",
