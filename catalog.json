@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786440317,
-  "scraped_count": 480,
+  "generated_at": 1786440619,
+  "scraped_count": 477,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2730,7 +2730,7 @@
       "stock_count": 0,
       "popularity": 257,
       "added_at": 1769577184,
-      "views": 1245
+      "views": 1246
     },
     {
       "slug": "s1-4-64gb",
@@ -7350,37 +7350,6 @@
       "popularity": 70,
       "added_at": 1749113253,
       "views": 362
-    },
-    {
-      "slug": "bos-6591",
-      "url": "https://bosminiofficial.com/shop/2513/desc/bos-6591",
-      "name": "BOS-6591",
-      "sku": "",
-      "price_rub": 2600,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "🟢Размер колонки 16см 🟢Мощность 280W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2513.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2513.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2513.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2513.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 55,
-      "added_at": 1753599089,
-      "views": 1087
     },
     {
       "slug": "bos-mini-52xd",
@@ -13399,37 +13368,6 @@
       "views": 772
     },
     {
-      "slug": "bos-mini-1510-10-2600w",
-      "url": "https://bosminiofficial.com/shop/2962/desc/bos-mini-1510-10-2600w",
-      "name": "BOS-MINI 1510 (10\", 2600W)",
-      "sku": "BOS-1510",
-      "price_rub": 5500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Сабвуфер активный\n✅Размер-10\"\n✅Максимальная Мощность: 2600W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2962.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2962.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2962.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2962.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 24,
-      "added_at": 1782111754,
-      "views": 78
-    },
-    {
       "slug": "bos-mini-1512-12-3600w",
       "url": "https://bosminiofficial.com/shop/2961/desc/bos-mini-1512-12-3600w",
       "name": "BOS-MINI 1512 (12\", 3600W)",
@@ -14637,37 +14575,6 @@
       "popularity": 13,
       "added_at": 1771744690,
       "views": 313
-    },
-    {
-      "slug": "bos-mini-a21",
-      "url": "https://bosminiofficial.com/shop/3018/desc/bos-mini-a21",
-      "name": "BOS-MINI A21",
-      "sku": "",
-      "price_rub": 1050,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Усилители"
-      ],
-      "brand_tags": [],
-      "description": "✅Количество каналов-4\n✅Управление через приложение\n✅Мощность-600W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3018.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3018.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3018.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3018.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 34,
-      "added_at": 1785588402,
-      "views": 36
     },
     {
       "slug": "dv-pioneer-ok-414",
