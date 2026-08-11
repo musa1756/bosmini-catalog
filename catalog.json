@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786436116,
+  "generated_at": 1786436417,
   "scraped_count": 480,
   "products": [
     {
@@ -9774,7 +9774,7 @@
       "url": "https://bosminiofficial.com/shop/2741/desc/bos-mini-y8063mbt",
       "name": "Bos-Mini Y8063MBT",
       "sku": "",
-      "price_rub": 800,
+      "price_rub": 850,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -9805,7 +9805,7 @@
       "url": "https://bosminiofficial.com/shop/2742/desc/bos-mini-y8064mbt",
       "name": "Bos-Mini Y8064MBT",
       "sku": "",
-      "price_rub": 800,
+      "price_rub": 850,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -9836,7 +9836,7 @@
       "url": "https://bosminiofficial.com/shop/2743/desc/bos-mini-y8065mbt",
       "name": "Bos-Mini Y8065MBT",
       "sku": "",
-      "price_rub": 800,
+      "price_rub": 850,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -9867,7 +9867,7 @@
       "url": "https://bosminiofficial.com/shop/2740/desc/bos-mini-y958bt",
       "name": "Bos-Mini Y958BT",
       "sku": "",
-      "price_rub": 900,
+      "price_rub": 1000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -9891,7 +9891,7 @@
       "stock_count": 0,
       "popularity": 153,
       "added_at": 1765628462,
-      "views": 332
+      "views": 334
     },
     {
       "slug": "bos-n974dsp",
