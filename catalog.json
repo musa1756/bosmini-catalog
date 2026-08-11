@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786435217,
+  "generated_at": 1786435517,
   "scraped_count": 480,
   "products": [
     {
@@ -1869,7 +1869,7 @@
       "url": "https://bosminiofficial.com/shop/3020/desc/dhd-a3x-4-64gb-9",
       "name": "DHD A3X 4+64Gb 9\"",
       "sku": "",
-      "price_rub": 4300,
+      "price_rub": 4400,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -11384,9 +11384,9 @@
       "views": 49
     },
     {
-      "slug": "dhd-9115kh",
-      "url": "https://bosminiofficial.com/shop/3011/desc/dhd-9115kh",
-      "name": "DHD 9115Х",
+      "slug": "dhd-9151kh",
+      "url": "https://bosminiofficial.com/shop/3011/desc/dhd-9151kh",
+      "name": "DHD 9151Х",
       "sku": "",
       "price_rub": 3100,
       "old_price_rub": null,
