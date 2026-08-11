@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786484717,
+  "generated_at": 1786485017,
   "scraped_count": 477,
   "products": [
     {
@@ -126,7 +126,7 @@
       "stock_count": 0,
       "popularity": 474,
       "added_at": 1752844839,
-      "views": 1411
+      "views": 1412
     },
     {
       "slug": "bos-mini-8702-2-32gb-7",
@@ -622,7 +622,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1785064884,
-      "views": 72
+      "views": 73
     },
     {
       "slug": "bos-mini-q2-9",
@@ -684,7 +684,7 @@
       "stock_count": 0,
       "popularity": 91,
       "added_at": 1753341610,
-      "views": 2900
+      "views": 2902
     },
     {
       "slug": "bos-mini-s1203-mersedes-style",
@@ -1025,7 +1025,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1769575588,
-      "views": 705
+      "views": 706
     },
     {
       "slug": "bos-mini-a5-6-128gb-9",
@@ -1304,7 +1304,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1765802832,
-      "views": 792
+      "views": 794
     },
     {
       "slug": "bos-mini-k71",
@@ -1614,7 +1614,7 @@
       "stock_count": 0,
       "popularity": 134,
       "added_at": 1752911964,
-      "views": 1976
+      "views": 1977
     },
     {
       "slug": "bos-mini-ts10-4-64gb-10",
@@ -3319,7 +3319,7 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1785310554,
-      "views": 34
+      "views": 35
     },
     {
       "slug": "bos-mini-9602",
@@ -10511,7 +10511,7 @@
       "stock_count": 0,
       "popularity": 184,
       "added_at": 1773034968,
-      "views": 383
+      "views": 384
     },
     {
       "slug": "dv-pioneer-ok-1605",
@@ -11286,7 +11286,7 @@
         "https://bosminiofficial.com/_sh/27/2723.jpg"
       ],
       "stock_count": 0,
-      "popularity": 52,
+      "popularity": 56,
       "added_at": 1765285531,
       "views": 1157
     },
