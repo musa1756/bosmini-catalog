@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786527016,
+  "generated_at": 1786527317,
   "scraped_count": 477,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 724
+      "views": 725
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -64,7 +64,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1752862193,
-      "views": 1351
+      "views": 1352
     },
     {
       "slug": "blaupunkt-ha900-b4-4-64g",
@@ -1273,7 +1273,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1765802757,
-      "views": 1571
+      "views": 1572
     },
     {
       "slug": "bos-mini-k69",
@@ -1490,7 +1490,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1752912057,
-      "views": 1830
+      "views": 1831
     },
     {
       "slug": "bos-mini-t216-4-64gb",
@@ -1521,7 +1521,7 @@
       "stock_count": 0,
       "popularity": 33,
       "added_at": 1752912147,
-      "views": 1954
+      "views": 1955
     },
     {
       "slug": "bos-mini-t8-4-64gb-10",
@@ -2079,7 +2079,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1782024662,
-      "views": 108
+      "views": 109
     },
     {
       "slug": "dhd-x4-6-64-9",
@@ -2575,7 +2575,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1752907950,
-      "views": 164
+      "views": 165
     },
     {
       "slug": "f7-4-64gb-7",
@@ -2885,7 +2885,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1781589373,
-      "views": 167
+      "views": 168
     },
     {
       "slug": "y2-pro-12-128gb",
@@ -6357,7 +6357,7 @@
       "stock_count": 0,
       "popularity": 66,
       "added_at": 1753772635,
-      "views": 928
+      "views": 929
     },
     {
       "slug": "tomboss-t30",
