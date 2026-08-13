@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786603817,
-  "scraped_count": 477,
+  "generated_at": 1786604116,
+  "scraped_count": 476,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -7380,7 +7380,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1782390337,
-      "views": 65
+      "views": 66
     },
     {
       "slug": "bos-mini-5569",
@@ -7597,7 +7597,7 @@
       "stock_count": 0,
       "popularity": 32,
       "added_at": 1782538583,
-      "views": 81
+      "views": 82
     },
     {
       "slug": "bos-mini-t3155",
@@ -7690,7 +7690,7 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1782390093,
-      "views": 102
+      "views": 103
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -7721,7 +7721,7 @@
       "stock_count": 0,
       "popularity": 293,
       "added_at": 1733386143,
-      "views": 791
+      "views": 792
     },
     {
       "slug": "bos-6580",
@@ -7845,7 +7845,7 @@
       "stock_count": 0,
       "popularity": 82,
       "added_at": 1723527380,
-      "views": 648
+      "views": 649
     },
     {
       "slug": "bos-mini-5565",
@@ -7907,7 +7907,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1765546118,
-      "views": 290
+      "views": 291
     },
     {
       "slug": "bos-mini-6516kit",
@@ -10512,37 +10512,6 @@
       "popularity": 184,
       "added_at": 1773034968,
       "views": 386
-    },
-    {
-      "slug": "dv-pioneer-ok-1605",
-      "url": "https://bosminiofficial.com/shop/28/desc/dv-pioneer-ok-1605",
-      "name": "Dv-Pioneer.ok 1605",
-      "sku": "TS00022",
-      "price_rub": 700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅Bluetooth ✅Aux ✅2 USB и SD карты ✅Радиатор охлаждения ✅4 выхода RCA ✅Пульт и провода для подключения в комплекте!",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/00/28.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/00/28.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/00/28.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/00/28.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 46,
-      "added_at": 1714856095,
-      "views": 574
     },
     {
       "slug": "e5-olom-e-011",
