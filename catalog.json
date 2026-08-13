@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786597517,
+  "generated_at": 1786597817,
   "scraped_count": 477,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 727
+      "views": 728
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -1490,7 +1490,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1752912057,
-      "views": 1832
+      "views": 1833
     },
     {
       "slug": "bos-mini-t216-4-64gb",
@@ -1521,7 +1521,7 @@
       "stock_count": 0,
       "popularity": 33,
       "added_at": 1752912147,
-      "views": 1957
+      "views": 1958
     },
     {
       "slug": "bos-mini-t8-4-64gb-10",
@@ -1893,7 +1893,7 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1785750358,
-      "views": 37
+      "views": 38
     },
     {
       "slug": "dhd-m1-4-64gb-9-djujmov",
