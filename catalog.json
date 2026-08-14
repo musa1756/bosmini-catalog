@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786688416,
-  "scraped_count": 478,
+  "generated_at": 1786688718,
+  "scraped_count": 479,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -3072,6 +3072,37 @@
       "popularity": 4,
       "added_at": 1784270215,
       "views": 68
+    },
+    {
+      "slug": "gem63-pro-max-audi-style",
+      "url": "https://bosminiofficial.com/shop/3006/desc/gem63-pro-max-audi-style",
+      "name": "ГЕМ63 PRO MAX AUDI Style",
+      "sku": "",
+      "price_rub": 10500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-12,8 дюймов\n✅Память-8+64Gb\n✅Количество ядер-8\n✅Поддержка сим карты\n✅Платформа TS18\n✅CarPlay/AndroidAuto\n✅Разделение экрана\n✅Кулер охлаждения\n✅2 рамки и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3006.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3006.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3006.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3006.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 6,
+      "added_at": 1784270492,
+      "views": 104
     },
     {
       "slug": "teyes-hs-sony-camera",
