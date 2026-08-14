@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786706719,
-  "scraped_count": 479,
+  "generated_at": 1786707018,
+  "scraped_count": 473,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1056,7 +1056,7 @@
       "stock_count": 0,
       "popularity": 592,
       "added_at": 1769575545,
-      "views": 953
+      "views": 954
     },
     {
       "slug": "bos-mini-a628d-dsp-4-64gb",
@@ -2389,7 +2389,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1786688207,
-      "views": 9
+      "views": 10
     },
     {
       "slug": "dv-pioneer-ok-z3s-4-64",
@@ -3320,37 +3320,6 @@
       "popularity": 7,
       "added_at": 1785308346,
       "views": 51
-    },
-    {
-      "slug": "cifrovoj-mikrofon-dlja-teyes-cc4-pro",
-      "url": "https://bosminiofficial.com/shop/3015/desc/cifrovoj-mikrofon-dlja-teyes-cc4-pro",
-      "name": "Цифровой микрофон для TEYES CC4 Pro",
-      "sku": "",
-      "price_rub": 1400,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "TEYES"
-      ],
-      "brand_tags": [],
-      "description": "✅Внешний микрофон для подключения к магнитоле TEYES CC4 Pro",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3015.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3015.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3015.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3015.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 18,
-      "added_at": 1785310554,
-      "views": 38
     },
     {
       "slug": "bos-mini-9602",
@@ -5893,37 +5862,6 @@
       "popularity": 43,
       "added_at": 1747293099,
       "views": 343
-    },
-    {
-      "slug": "a15l-2k-wi-fi",
-      "url": "https://bosminiofficial.com/shop/1297/desc/a15l-2k-wi-fi",
-      "name": "A15L (2K Wi-Fi)",
-      "sku": "",
-      "price_rub": 2800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅ Размер экрана- 3'16 дюймов ✅Сенсорный 2К экран ✅ Система ADAS ✅ Камера на перед и в салон",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/12/1297.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1297.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/12/1297.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1297.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 71,
-      "added_at": 1739603510,
-      "views": 636
     },
     {
       "slug": "bos-mini-k15l-wi-fi",
@@ -14112,68 +14050,6 @@
       "views": 261
     },
     {
-      "slug": "bukhta-kabelja-model-200",
-      "url": "https://bosminiofficial.com/shop/567/desc/bukhta-kabelja-model-200",
-      "name": "Бухта кабеля модель: 200",
-      "sku": "",
-      "price_rub": 1300,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Бухта акустического кабеля, длина 100м",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/5/567.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/5/567.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/5/567.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/5/567.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 21,
-      "added_at": 1715671657,
-      "views": 359
-    },
-    {
-      "slug": "bukhta-kabelja-model-400",
-      "url": "https://bosminiofficial.com/shop/569/desc/bukhta-kabelja-model-400",
-      "name": "Бухта кабеля модель: 400",
-      "sku": "",
-      "price_rub": 1800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Бухта акустического кабеля, длина 100м",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/5/569.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/5/569.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/5/569.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/5/569.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 23,
-      "added_at": 1715671990,
-      "views": 370
-    },
-    {
       "slug": "kabel-2-2-rca-sinij",
       "url": "https://bosminiofficial.com/shop/2936/desc/kabel-2-2-rca-sinij",
       "name": "Кабель 2*2 RCA (синий )",
@@ -14761,68 +14637,6 @@
       "popularity": 5,
       "added_at": 1771744629,
       "views": 274
-    },
-    {
-      "slug": "pioneer-423",
-      "url": "https://bosminiofficial.com/shop/2731/desc/pioneer-423",
-      "name": "Pioneer 423",
-      "sku": "",
-      "price_rub": 1500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Усилители"
-      ],
-      "brand_tags": [],
-      "description": "✅️Количество каналов-4\n✅️ Мощность 3800W-Max",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2731.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2731.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2731.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2731.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 7,
-      "added_at": 1765430470,
-      "views": 218
-    },
-    {
-      "slug": "pioneer-427",
-      "url": "https://bosminiofficial.com/shop/2728/desc/pioneer-427",
-      "name": "Pioneer 427",
-      "sku": "",
-      "price_rub": 1500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Усилители"
-      ],
-      "brand_tags": [],
-      "description": "✅️Количество каналов-4\n✅️ Мощность 3800W-Max",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2728.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2728.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2728.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2728.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 23,
-      "added_at": 1765430285,
-      "views": 186
     },
     {
       "slug": "pioneer-t5-45-1",
