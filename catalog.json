@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786707917,
+  "generated_at": 1786708217,
   "scraped_count": 473,
   "products": [
     {
@@ -11784,7 +11784,7 @@
       "stock_count": 0,
       "popularity": 103,
       "added_at": 1764621987,
-      "views": 410
+      "views": 411
     },
     {
       "slug": "starline-b9",
@@ -14457,7 +14457,7 @@
       "url": "https://bosminiofficial.com/shop/2540/desc/alpine-ap-45-1",
       "name": "ALPINE AP-45.1",
       "sku": "",
-      "price_rub": 1500,
+      "price_rub": 1700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -14519,7 +14519,7 @@
       "url": "https://bosminiofficial.com/shop/2753/desc/dv-pioneer-ok-414",
       "name": "Dv-Pioneer.Ok 414",
       "sku": "",
-      "price_rub": 1500,
+      "price_rub": 1700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -14550,7 +14550,7 @@
       "url": "https://bosminiofficial.com/shop/2754/desc/dv-pioneer-ok-415",
       "name": "Dv-Pioneer.Ok 415",
       "sku": "",
-      "price_rub": 1500,
+      "price_rub": 1700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
