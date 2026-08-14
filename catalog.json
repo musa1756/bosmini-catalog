@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786687516,
-  "scraped_count": 477,
+  "generated_at": 1786687821,
+  "scraped_count": 478,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -11233,7 +11233,7 @@
       "url": "https://bosminiofficial.com/shop/3030/desc/bos-n725ftp5",
       "name": "BOS-N725FTP5",
       "sku": "",
-      "price_rub": 6500,
+      "price_rub": 6000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -11257,6 +11257,37 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1786687337,
+      "views": 2
+    },
+    {
+      "slug": "bos-n726skdp5",
+      "url": "https://bosminiofficial.com/shop/3031/desc/bos-n726skdp5",
+      "name": "BOS-N726SKDP5",
+      "sku": "",
+      "price_rub": 6500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана 8-дюймов\n✅CarPlay/AndroidAuto\n✅Bluetooth/USB/Type-C\n✅Радиатор охлаждения\n✅9 выходов RCA\n✅Канблок и провода для подключения и в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3031.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3031.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3031.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3031.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1786687638,
       "views": 1
     },
     {
