@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786792821,
-  "scraped_count": 469,
+  "generated_at": 1786793117,
+  "scraped_count": 468,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -6388,7 +6388,7 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1783665902,
-      "views": 72
+      "views": 73
     },
     {
       "slug": "videoregistrator-c8",
@@ -11195,7 +11195,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1786687638,
-      "views": 11
+      "views": 12
     },
     {
       "slug": "bos-mini-n636dp5",
@@ -12715,37 +12715,6 @@
       "popularity": 36,
       "added_at": 1753205133,
       "views": 134
-    },
-    {
-      "slug": "mazda-3-2006-2012-gg-9-djujmov",
-      "url": "https://bosminiofficial.com/shop/1268/desc/mazda-3-2006-2012-gg-9-djujmov",
-      "name": "Mazda 3 2006-2012 гг. 9 дюймов",
-      "sku": "",
-      "price_rub": 1200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Переходные рамки"
-      ],
-      "brand_tags": [],
-      "description": "✅ Размер рамки-9\" ✅ Провода в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/12/1268.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1268.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/12/1268.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1268.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 175,
-      "added_at": 1738491299,
-      "views": 222
     },
     {
       "slug": "nissan-qashqai-2014-10-djujmov",
