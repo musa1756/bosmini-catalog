@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786765518,
+  "generated_at": 1786765818,
   "scraped_count": 473,
   "products": [
     {
@@ -405,7 +405,7 @@
       "stock_count": 0,
       "popularity": 3131,
       "added_at": 1752844676,
-      "views": 1783
+      "views": 1785
     },
     {
       "slug": "bos-mini-a42-6-64gb-9",
@@ -1180,7 +1180,7 @@
       "stock_count": 0,
       "popularity": 46,
       "added_at": 1772527820,
-      "views": 471
+      "views": 473
     },
     {
       "slug": "bos-mini-cc3-max-12-256gb-9",
@@ -1459,7 +1459,7 @@
       "stock_count": 0,
       "popularity": 60,
       "added_at": 1752853019,
-      "views": 1246
+      "views": 1248
     },
     {
       "slug": "bos-mini-t215-4-64gb",
