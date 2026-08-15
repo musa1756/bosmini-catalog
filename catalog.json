@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786777217,
+  "generated_at": 1786777517,
   "scraped_count": 473,
   "products": [
     {
@@ -1893,7 +1893,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1785750358,
-      "views": 46
+      "views": 47
     },
     {
       "slug": "dhd-m1-4-64gb-9-djujmov",
@@ -1955,7 +1955,7 @@
       "stock_count": 0,
       "popularity": 335,
       "added_at": 1781700207,
-      "views": 115
+      "views": 116
     },
     {
       "slug": "dhd-s1-plus-4-64gb-10-djujmov",
@@ -2637,7 +2637,7 @@
       "stock_count": 0,
       "popularity": 80,
       "added_at": 1756026563,
-      "views": 214
+      "views": 215
     },
     {
       "slug": "multimedia-factory-f7d-pro-4-64gb-7",
@@ -7108,7 +7108,7 @@
       "url": "https://bosminiofficial.com/shop/2996/desc/kamera-zadnego-vida-l-606",
       "name": "Камера заднего вида L-606",
       "sku": "",
-      "price_rub": 180,
+      "price_rub": 200,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
