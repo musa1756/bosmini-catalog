@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786783818,
-  "scraped_count": 472,
+  "generated_at": 1786784117,
+  "scraped_count": 471,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1149,7 +1149,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1772527567,
-      "views": 382
+      "views": 383
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-9-djujmov",
@@ -12839,37 +12839,6 @@
       "popularity": 180,
       "added_at": 1718632955,
       "views": 258
-    },
-    {
-      "slug": "renault-logan-2009-2013",
-      "url": "https://bosminiofficial.com/shop/1269/desc/renault-logan-2009-2013",
-      "name": "Renault Logan 2009-2013",
-      "sku": "",
-      "price_rub": 2000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Переходные рамки"
-      ],
-      "brand_tags": [],
-      "description": "✅ Размер рамки-9\" ✅ Провода и CAN в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/12/1269.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1269.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/12/1269.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1269.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 28,
-      "added_at": 1738491414,
-      "views": 312
     },
     {
       "slug": "renault-sandero-symbo1-2015-2018",
