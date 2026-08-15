@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786801216,
-  "scraped_count": 468,
+  "generated_at": 1786801517,
+  "scraped_count": 467,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1181,37 +1181,6 @@
       "popularity": 46,
       "added_at": 1772527820,
       "views": 475
-    },
-    {
-      "slug": "bos-mini-cc3-max-12-256gb-9",
-      "url": "https://bosminiofficial.com/shop/1948/desc/bos-mini-cc3-max-12-256gb-9",
-      "name": "Bos-Mini CC3 MAX 12+256Gb 9\"",
-      "sku": "",
-      "price_rub": 27000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Память-12+256Gb ✅Размер экрана-9\" ✅CarPlay ✅Поддержка сим карты ✅Функция безопасного вождения ✅Голосовое управление",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/19/1948.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/19/1948.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/19/1948.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/19/1948.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 3,
-      "added_at": 1752852728,
-      "views": 1456
     },
     {
       "slug": "bos-mini-cc3-max-2k-12-256gb-9",
@@ -11877,7 +11846,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1754137097,
-      "views": 700
+      "views": 701
     },
     {
       "slug": "odnostoronnjaja-signalizacija-bos-a232ke-s-knopkoj-start-stop",
