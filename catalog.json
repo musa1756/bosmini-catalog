@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786821617,
+  "generated_at": 1786821917,
   "scraped_count": 467,
   "products": [
     {
@@ -1335,7 +1335,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1765802621,
-      "views": 825
+      "views": 826
     },
     {
       "slug": "bos-mini-k76hg-4-64gb",
@@ -1490,7 +1490,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1752853165,
-      "views": 470
+      "views": 471
     },
     {
       "slug": "bos-mini-t8-4-64gb-9",
@@ -1583,7 +1583,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1769577346,
-      "views": 413
+      "views": 414
     },
     {
       "slug": "bos-mini-ts10-4-64gb-9",
@@ -2482,7 +2482,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1752845497,
-      "views": 605
+      "views": 606
     },
     {
       "slug": "e5-olom-e3-pro-6-64gb-9",
@@ -2668,7 +2668,7 @@
       "stock_count": 0,
       "popularity": 262,
       "added_at": 1769577184,
-      "views": 1263
+      "views": 1264
     },
     {
       "slug": "s1-4-64gb",
@@ -2699,7 +2699,7 @@
       "stock_count": 0,
       "popularity": 51,
       "added_at": 1773476138,
-      "views": 442
+      "views": 443
     },
     {
       "slug": "sx4-pro-4-64gb",
@@ -2978,7 +2978,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1784270215,
-      "views": 71
+      "views": 72
     },
     {
       "slug": "gem63-pro-max-audi-style",
@@ -7659,7 +7659,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1738564421,
-      "views": 307
+      "views": 308
     },
     {
       "slug": "bos-mini-5086-13sm",
@@ -9674,7 +9674,7 @@
       "stock_count": 0,
       "popularity": 76,
       "added_at": 1765628623,
-      "views": 292
+      "views": 294
     },
     {
       "slug": "bos-mini-y8065mbt",
