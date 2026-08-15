@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786789221,
-  "scraped_count": 471,
+  "generated_at": 1786789516,
+  "scraped_count": 469,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2545,37 +2545,6 @@
       "popularity": 25,
       "added_at": 1776112985,
       "views": 326
-    },
-    {
-      "slug": "es80-4-64gb",
-      "url": "https://bosminiofficial.com/shop/2011/desc/es80-4-64gb",
-      "name": "ES80 4+64Gb",
-      "sku": "",
-      "price_rub": 6500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-10.1\"дюймов ✅Память- 4+64Gb ✅CarPlay ✅Кулер охлаждения ✅Рамка и набор проводов для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/20/2011.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/20/2011.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/20/2011.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/20/2011.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 7,
-      "added_at": 1752907950,
-      "views": 171
     },
     {
       "slug": "f7-4-64gb-7",
@@ -6798,7 +6767,7 @@
       "url": "https://bosminiofficial.com/shop/1088/desc/kamera-zad-vida-bos-mini-l-168",
       "name": "Камера зад.вида Bos-Mini (L-168)",
       "sku": "",
-      "price_rub": 300,
+      "price_rub": 350,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -7046,7 +7015,7 @@
       "url": "https://bosminiofficial.com/shop/1394/desc/kamera-zadnego-vida-l-162",
       "name": "Камера заднего вида L-162",
       "sku": "",
-      "price_rub": 300,
+      "price_rub": 350,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -11722,7 +11691,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1765013663,
-      "views": 327
+      "views": 328
     },
     {
       "slug": "starline-a91",
@@ -14389,37 +14358,6 @@
       "popularity": 46,
       "added_at": 1717502009,
       "views": 456
-    },
-    {
-      "slug": "alpine-ap-45-1",
-      "url": "https://bosminiofficial.com/shop/2540/desc/alpine-ap-45-1",
-      "name": "ALPINE AP-45.1",
-      "sku": "",
-      "price_rub": 1700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Усилители"
-      ],
-      "brand_tags": [],
-      "description": "✅Количество каналов 4 ✅Мощность 3500W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2540.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2540.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2540.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2540.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 27,
-      "added_at": 1753952020,
-      "views": 310
     },
     {
       "slug": "alpine-ap-a5204",
