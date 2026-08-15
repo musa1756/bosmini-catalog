@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786783218,
-  "scraped_count": 473,
+  "generated_at": 1786783516,
+  "scraped_count": 472,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1460,37 +1460,6 @@
       "popularity": 60,
       "added_at": 1752853019,
       "views": 1248
-    },
-    {
-      "slug": "bos-mini-t215-4-64gb",
-      "url": "https://bosminiofficial.com/shop/2041/desc/bos-mini-t215-4-64gb",
-      "name": "Bos-Mini T215 4+64Gb",
-      "sku": "",
-      "price_rub": 9400,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-11’5 дюймов ✅Память-4+64Gb ✅Количество ядер-8 ✅Поддержка камеры кругового обзора 360 градусов ✅Процессор DSP ✅CarPlay ✅Кулер охлаждения ✅Рамки на 9 и 10 дюймов, провода для подключения в комплекте!",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/20/2041.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/20/2041.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/20/2041.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/20/2041.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 23,
-      "added_at": 1752912057,
-      "views": 1834
     },
     {
       "slug": "bos-mini-t216-4-64gb",
@@ -7163,7 +7132,7 @@
       "stock_count": 0,
       "popularity": 29,
       "added_at": 1757406784,
-      "views": 426
+      "views": 427
     },
     {
       "slug": "monitor-s-4-mja-kamerami-jcs-7003-4",
@@ -11040,7 +11009,7 @@
       "stock_count": 0,
       "popularity": 73,
       "added_at": 1714856095,
-      "views": 1152
+      "views": 1153
     },
     {
       "slug": "b0s-mini-678dp5",
