@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786982117,
+  "generated_at": 1786982417,
   "scraped_count": 465,
   "products": [
     {
@@ -9581,7 +9581,7 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1765628595,
-      "views": 269
+      "views": 271
     },
     {
       "slug": "bos-mini-y8064mbt",
@@ -14419,7 +14419,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1765657210,
-      "views": 295
+      "views": 296
     }
   ]
 }
