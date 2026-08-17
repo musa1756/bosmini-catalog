@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786947017,
+  "generated_at": 1786947316,
   "scraped_count": 467,
   "products": [
     {
@@ -3567,7 +3567,7 @@
       "stock_count": 0,
       "popularity": 34,
       "added_at": 1775198040,
-      "views": 148
+      "views": 149
     },
     {
       "slug": "aromatizator-rh-034",
@@ -9836,7 +9836,7 @@
       "url": "https://bosminiofficial.com/shop/2561/desc/den-190hbt",
       "name": "DEN-190HBT",
       "sku": "",
-      "price_rub": 550,
+      "price_rub": 600,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -11567,7 +11567,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1752671618,
-      "views": 891
+      "views": 892
     },
     {
       "slug": "bos-08e",
