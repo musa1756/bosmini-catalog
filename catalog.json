@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1786959017,
-  "scraped_count": 466,
+  "generated_at": 1786959316,
+  "scraped_count": 465,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -716,37 +716,6 @@
       "popularity": 6,
       "added_at": 1782540190,
       "views": 130
-    },
-    {
-      "slug": "bos-mini-t2-4-64gb-9",
-      "url": "https://bosminiofficial.com/shop/2021/desc/bos-mini-t2-4-64gb-9",
-      "name": "BOS-MINI T2 4+64Gb 9\"",
-      "sku": "",
-      "price_rub": 4900,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9 дюймов ✅Память-4+64G ✅Звуковой процессор DSP ✅Кулер охлаждения ✅Набор проводов для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/20/2021.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/20/2021.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/20/2021.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/20/2021.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 797,
-      "added_at": 1752909494,
-      "views": 1188
     },
     {
       "slug": "bos-mini-t3-4-64gb-9",
