@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787010616,
+  "generated_at": 1787010916,
   "scraped_count": 465,
   "products": [
     {
@@ -1211,7 +1211,7 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1765802757,
-      "views": 1581
+      "views": 1582
     },
     {
       "slug": "bos-mini-k69",
@@ -12063,7 +12063,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1786085529,
-      "views": 30
+      "views": 31
     },
     {
       "slug": "ford-focus-2012-2017-9",
@@ -14419,7 +14419,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1765657210,
-      "views": 296
+      "views": 297
     }
   ]
 }
