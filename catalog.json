@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787048416,
+  "generated_at": 1787048716,
   "scraped_count": 465,
   "products": [
     {
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1782539919,
-      "views": 184
+      "views": 185
     },
     {
       "slug": "bos-mini-a1206",
@@ -1149,7 +1149,7 @@
       "stock_count": 0,
       "popularity": 51,
       "added_at": 1772527820,
-      "views": 490
+      "views": 491
     },
     {
       "slug": "bos-mini-cc3-max-2k-12-256gb-9",
@@ -1180,7 +1180,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752852789,
-      "views": 1808
+      "views": 1809
     },
     {
       "slug": "bos-mini-k68",
@@ -2024,7 +2024,7 @@
       "url": "https://bosminiofficial.com/shop/2990/desc/dhd-y2-pro-12-128gb-9",
       "name": "DHD Y2 PRO 12+128Gb 9\"",
       "sku": "",
-      "price_rub": 7800,
+      "price_rub": 8000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
