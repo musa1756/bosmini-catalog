@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787031317,
+  "generated_at": 1787031616,
   "scraped_count": 465,
   "products": [
     {
@@ -1962,7 +1962,7 @@
       "url": "https://bosminiofficial.com/shop/2954/desc/dhd-x31-4-64gb",
       "name": "DHD X31 4+64Gb",
       "sku": "",
-      "price_rub": 6300,
+      "price_rub": 6500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -2737,7 +2737,7 @@
       "url": "https://bosminiofficial.com/shop/2945/desc/x3-diamond-4-64gb",
       "name": "X3 Diamond 4+64Gb",
       "sku": "",
-      "price_rub": 5700,
+      "price_rub": 6500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -11319,7 +11319,7 @@
       "stock_count": 0,
       "popularity": 105,
       "added_at": 1743669570,
-      "views": 568
+      "views": 569
     },
     {
       "slug": "pioneer-gb-mvh-595dp5",
