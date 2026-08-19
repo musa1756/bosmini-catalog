@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787121316,
-  "scraped_count": 464,
+  "generated_at": 1787121616,
+  "scraped_count": 463,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -8623,37 +8623,6 @@
       "views": 309
     },
     {
-      "slug": "pioneer-ts6996a",
-      "url": "https://bosminiofficial.com/shop/2505/desc/pioneer-ts6996a",
-      "name": "Pioneer TS6996A",
-      "sku": "",
-      "price_rub": 1350,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер-овалы 6.9 ✅Максимальная мощность 12200W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2505.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2505.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2505.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2505.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 71,
-      "added_at": 1753519209,
-      "views": 172
-    },
-    {
       "slug": "pioneer-ts6997a",
       "url": "https://bosminiofficial.com/shop/2507/desc/pioneer-ts6997a",
       "name": "Pioneer TS6997A",
@@ -8682,7 +8651,7 @@
       "stock_count": 0,
       "popularity": 188,
       "added_at": 1753519365,
-      "views": 239
+      "views": 240
     },
     {
       "slug": "pioneer-ts6999a",
