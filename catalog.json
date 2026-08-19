@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787130918,
-  "scraped_count": 462,
+  "generated_at": 1787131217,
+  "scraped_count": 463,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -5769,6 +5769,37 @@
       "popularity": 1017,
       "added_at": 1732391421,
       "views": 971
+    },
+    {
+      "slug": "bos-mini-a17l-2k-s-wi-fi",
+      "url": "https://bosminiofficial.com/shop/1429/desc/bos-mini-a17l-2k-s-wi-fi",
+      "name": "Bos-Mini A17L 2k с Wi-Fi",
+      "sku": "",
+      "price_rub": 3800,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана- 2’45 дисплей ✅Угол обзора-140 градусов ✅Сенсорный 2K экран ✅Система ADAS ✅Камера на перед, в салон и оригинальная камера заднего вида",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/14/1429.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/14/1429.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/14/1429.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/14/1429.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 19,
+      "added_at": 1747484451,
+      "views": 433
     },
     {
       "slug": "bos-mini-a31-pro-wi-fi",
