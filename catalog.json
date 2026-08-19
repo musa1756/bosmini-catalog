@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787133016,
-  "scraped_count": 461,
+  "generated_at": 1787133316,
+  "scraped_count": 460,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1338,37 +1338,6 @@
       "views": 1256
     },
     {
-      "slug": "bos-mini-t216-4-64gb",
-      "url": "https://bosminiofficial.com/shop/2042/desc/bos-mini-t216-4-64gb",
-      "name": "Bos-Mini T216 4+64Gb",
-      "sku": "",
-      "price_rub": 10700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-11’5 дюймов ✅Память-4+64Gb ✅CarPlay ✅Количество ядер 8 ✅Поддержка сим-карты ✅Подержка камера кругового обзора 360 градусов ✅Процессор DSP ✅Кулер охлаждения ✅Рамки на 9 и 10 дюймов и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/20/2042.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/20/2042.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/20/2042.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/20/2042.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 35,
-      "added_at": 1752912147,
-      "views": 1969
-    },
-    {
       "slug": "bos-mini-t8-4-64gb-10",
       "url": "https://bosminiofficial.com/shop/1953/desc/bos-mini-t8-4-64gb-10",
       "name": "Bos-Mini T8 4+64Gb 10\"",
@@ -1490,7 +1459,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1769577346,
-      "views": 416
+      "views": 417
     },
     {
       "slug": "bos-mini-ts10-4-64gb-9",
@@ -1645,7 +1614,7 @@
       "stock_count": 0,
       "popularity": 38,
       "added_at": 1764392414,
-      "views": 880
+      "views": 881
     },
     {
       "slug": "cc5-ultra-4-64gb-10",
