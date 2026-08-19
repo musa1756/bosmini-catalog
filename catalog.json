@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787131217,
-  "scraped_count": 463,
+  "generated_at": 1787131516,
+  "scraped_count": 462,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -908,7 +908,7 @@
       "url": "https://bosminiofficial.com/shop/2810/desc/bos-mini-a5-6-128gb-10",
       "name": "Bos-Mini A5+ 6+128Gb 10\"",
       "sku": "",
-      "price_rub": 9500,
+      "price_rub": 10700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -939,7 +939,7 @@
       "url": "https://bosminiofficial.com/shop/2809/desc/bos-mini-a5-6-128gb-9",
       "name": "Bos-Mini A5+ 6+128Gb 9\"",
       "sku": "",
-      "price_rub": 9500,
+      "price_rub": 10700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -1738,7 +1738,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1785750358,
-      "views": 66
+      "views": 67
     },
     {
       "slug": "dhd-m1-4-64gb-9-djujmov",
@@ -1800,7 +1800,7 @@
       "stock_count": 0,
       "popularity": 401,
       "added_at": 1781700207,
-      "views": 128
+      "views": 129
     },
     {
       "slug": "dhd-s1-plus-4-64gb-10-djujmov",
@@ -7879,37 +7879,6 @@
       "views": 238
     },
     {
-      "slug": "e5-olom-e5-cy404c",
-      "url": "https://bosminiofficial.com/shop/1155/desc/e5-olom-e5-cy404c",
-      "name": "E5-OLOM (Е5-CY404C)",
-      "sku": "",
-      "price_rub": 750,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅ Размер 10см ✅ Мощность 600W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/11/1155.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/11/1155.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/11/1155.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/11/1155.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 7,
-      "added_at": 1733726181,
-      "views": 316
-    },
-    {
       "slug": "e5-olom-e5-cy504c",
       "url": "https://bosminiofficial.com/shop/1154/desc/e5-olom-e5-cy504c",
       "name": "E5-OLOM (Е5-CY504C)",
@@ -10861,7 +10830,7 @@
       "url": "https://bosminiofficial.com/shop/2965/desc/b0s-mini-678dp5",
       "name": "B0S-MINI 678DP5",
       "sku": "",
-      "price_rub": 2100,
+      "price_rub": 2300,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -11450,7 +11419,7 @@
       "url": "https://bosminiofficial.com/shop/1837/desc/bos-mini-233pke",
       "name": "BOS-MINI A233PKE",
       "sku": "BOS-MINI",
-      "price_rub": 1500,
+      "price_rub": 1700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
