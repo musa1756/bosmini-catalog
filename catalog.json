@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787125816,
-  "scraped_count": 463,
+  "generated_at": 1787126116,
+  "scraped_count": 465,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2017,7 +2017,7 @@
       "stock_count": 0,
       "popularity": 63,
       "added_at": 1785750468,
-      "views": 81
+      "views": 83
     },
     {
       "slug": "dhd-y2-pro-12-128gb-9",
@@ -2296,7 +2296,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1786688207,
-      "views": 37
+      "views": 40
     },
     {
       "slug": "dv-pioneer-ok-z3s-4-64",
@@ -2485,6 +2485,37 @@
       "views": 332
     },
     {
+      "slug": "es80-4-64gb",
+      "url": "https://bosminiofficial.com/shop/2011/desc/es80-4-64gb",
+      "name": "ES80 4+64Gb",
+      "sku": "",
+      "price_rub": 6800,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-10.1\"дюймов ✅Память- 4+64Gb ✅CarPlay ✅Кулер охлаждения ✅Рамка и набор проводов для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/20/2011.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/20/2011.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/20/2011.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/20/2011.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 7,
+      "added_at": 1752907950,
+      "views": 172
+    },
+    {
       "slug": "f7-4-64gb-7",
       "url": "https://bosminiofficial.com/shop/2612/desc/f7-4-64gb-7",
       "name": "F7 4+64Gb 7\"",
@@ -2606,7 +2637,7 @@
       "stock_count": 0,
       "popularity": 46,
       "added_at": 1769577216,
-      "views": 651
+      "views": 653
     },
     {
       "slug": "pioneer-gb-f8-plus-12-128g-9",
@@ -7690,7 +7721,7 @@
       "stock_count": 0,
       "popularity": 84,
       "added_at": 1723527380,
-      "views": 663
+      "views": 665
     },
     {
       "slug": "bos-mini-5565",
@@ -8217,7 +8248,7 @@
       "stock_count": 0,
       "popularity": 59,
       "added_at": 1755665591,
-      "views": 389
+      "views": 390
     },
     {
       "slug": "hertz-401-10sm",
@@ -9798,7 +9829,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1786383355,
-      "views": 24
+      "views": 26
     },
     {
       "slug": "dhd-xf3252",
@@ -9829,7 +9860,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1786383413,
-      "views": 29
+      "views": 30
     },
     {
       "slug": "dhd-xf3253",
@@ -9860,7 +9891,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1786383475,
-      "views": 24
+      "views": 25
     },
     {
       "slug": "dhd-xf3254",
@@ -9891,7 +9922,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1786383504,
-      "views": 26
+      "views": 27
     },
     {
       "slug": "dhd-xf3255",
@@ -9953,7 +9984,7 @@
       "stock_count": 0,
       "popularity": 82,
       "added_at": 1772781358,
-      "views": 386
+      "views": 388
     },
     {
       "slug": "dv-pioneer-ok-214",
@@ -10294,7 +10325,7 @@
       "stock_count": 0,
       "popularity": 184,
       "added_at": 1773034968,
-      "views": 400
+      "views": 402
     },
     {
       "slug": "e5-olom-e-011",
@@ -10419,6 +10450,37 @@
       "popularity": 1143,
       "added_at": 1764669494,
       "views": 234
+    },
+    {
+      "slug": "mvh-y8055mbt",
+      "url": "https://bosminiofficial.com/shop/2702/desc/mvh-y8055mbt",
+      "name": "MVH-Y8055MBT",
+      "sku": "",
+      "price_rub": 900,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅Bluetooth\n✅Aux\n✅USB и SD карты\n✅Цветной экран\n✅Радиатор охлаждения\n✅6 выходов RCA\n✅Простой пульт,пульт на руль и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/27/2702.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/27/2702.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/27/2702.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/27/2702.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 2190,
+      "added_at": 1764669521,
+      "views": 280
     },
     {
       "slug": "mvh-y8056mbt",
@@ -10635,7 +10697,7 @@
       "stock_count": 0,
       "popularity": 2263,
       "added_at": 1722713624,
-      "views": 645
+      "views": 646
     },
     {
       "slug": "pioneer-gb-mvh-f899zbt",
@@ -10947,7 +11009,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1773903156,
-      "views": 491
+      "views": 492
     },
     {
       "slug": "bos-mini-n640dp5",
@@ -11040,7 +11102,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1786687337,
-      "views": 54
+      "views": 56
     },
     {
       "slug": "bos-n726skdp5",
@@ -11071,7 +11133,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1786687638,
-      "views": 75
+      "views": 77
     },
     {
       "slug": "bos-mini-n636dp5",
@@ -11660,7 +11722,7 @@
       "stock_count": 0,
       "popularity": 226,
       "added_at": 1753770937,
-      "views": 455
+      "views": 457
     },
     {
       "slug": "brelok-dlja-avtosignalizacii-tamahawk-x5",
@@ -11970,7 +12032,7 @@
       "stock_count": 0,
       "popularity": 148,
       "added_at": 1727072278,
-      "views": 711
+      "views": 713
     },
     {
       "slug": "chevrolet-cobalt",
@@ -12032,7 +12094,7 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1786085529,
-      "views": 33
+      "views": 35
     },
     {
       "slug": "ford-focus-2012-2017-9",
@@ -12063,7 +12125,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1786088875,
-      "views": 42
+      "views": 43
     },
     {
       "slug": "ford-transit-2015g",
