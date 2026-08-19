@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787126417,
-  "scraped_count": 465,
+  "generated_at": 1787126716,
+  "scraped_count": 464,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2793,37 +2793,6 @@
       "popularity": 54,
       "added_at": 1781589517,
       "views": 138
-    },
-    {
-      "slug": "x5-diamond-8-128gb",
-      "url": "https://bosminiofficial.com/shop/2944/desc/x5-diamond-8-128gb",
-      "name": "X5 Diamond 8+128Gb",
-      "sku": "",
-      "price_rub": 7000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Память-8+128Gb\n✅Размер экрана-10\"\n✅Посадочное место-9\"\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅Рамка и набор для проводов в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2944.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2944.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2944.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2944.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 15,
-      "added_at": 1781589373,
-      "views": 181
     },
     {
       "slug": "y2-pro-12-128gb",
