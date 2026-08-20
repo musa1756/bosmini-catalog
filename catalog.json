@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787226617,
+  "generated_at": 1787226916,
   "scraped_count": 461,
   "products": [
     {
@@ -653,7 +653,7 @@
       "stock_count": 0,
       "popularity": 73,
       "added_at": 1752862854,
-      "views": 512
+      "views": 514
     },
     {
       "slug": "bos-mini-q70-6-64gb-7",
@@ -1769,7 +1769,7 @@
       "stock_count": 0,
       "popularity": 402,
       "added_at": 1781700207,
-      "views": 129
+      "views": 131
     },
     {
       "slug": "dhd-s1-plus-4-64gb-10-djujmov",
@@ -1800,7 +1800,7 @@
       "stock_count": 0,
       "popularity": 83,
       "added_at": 1781700561,
-      "views": 112
+      "views": 113
     },
     {
       "slug": "dhd-x1-plus-4-64gb-10-djujmov",
@@ -1831,7 +1831,7 @@
       "stock_count": 0,
       "popularity": 73,
       "added_at": 1781699833,
-      "views": 106
+      "views": 107
     },
     {
       "slug": "dhd-x31-4-64gb",
@@ -2017,7 +2017,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1752841827,
-      "views": 638
+      "views": 640
     },
     {
       "slug": "dv-pioneer-ok-bx4-6-128gb",
@@ -11102,7 +11102,7 @@
       "stock_count": 0,
       "popularity": 58,
       "added_at": 1765285531,
-      "views": 1182
+      "views": 1183
     },
     {
       "slug": "dhd-1057x",
