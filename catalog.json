@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787292617,
-  "scraped_count": 460,
+  "generated_at": 1787292916,
+  "scraped_count": 464,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -6701,6 +6701,37 @@
       "views": 553
     },
     {
+      "slug": "kamera-zad-vida-e-2316",
+      "url": "https://bosminiofficial.com/shop/2871/desc/kamera-zad-vida-e-2316",
+      "name": "Камера зад.вида E-2316",
+      "sku": "",
+      "price_rub": 900,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅В комплекте провода 5 метров",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/28/2871.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2871.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/28/2871.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2871.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 142,
+      "added_at": 1773149468,
+      "views": 121
+    },
+    {
       "slug": "kamera-zad-vida-e-3218",
       "url": "https://bosminiofficial.com/shop/2846/desc/kamera-zad-vida-e-3218",
       "name": "Камера зад.вида E-3218",
@@ -6856,6 +6887,68 @@
       "views": 759
     },
     {
+      "slug": "kamera-zadnego-vida-e-187-ahd",
+      "url": "https://bosminiofficial.com/shop/1483/desc/kamera-zadnego-vida-e-187-ahd",
+      "name": "Камера заднего вида E-187 AHD",
+      "sku": "",
+      "price_rub": 550,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅В комплекте проводов 5 метров",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/14/1483.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/14/1483.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/14/1483.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/14/1483.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 67,
+      "added_at": 1750492956,
+      "views": 63
+    },
+    {
+      "slug": "kamera-zadnego-vida-e-300",
+      "url": "https://bosminiofficial.com/shop/1487/desc/kamera-zadnego-vida-e-300",
+      "name": "Камера заднего вида E-300",
+      "sku": "",
+      "price_rub": 650,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅В комплекте проводов 5 метров",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/14/1487.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/14/1487.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/14/1487.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/14/1487.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 728,
+      "added_at": 1750494148,
+      "views": 280
+    },
+    {
       "slug": "kamera-zadnego-vida-l-162",
       "url": "https://bosminiofficial.com/shop/1394/desc/kamera-zadnego-vida-l-162",
       "name": "Камера заднего вида L-162",
@@ -6947,6 +7040,37 @@
       "popularity": 29,
       "added_at": 1757406784,
       "views": 430
+    },
+    {
+      "slug": "monitor-dlja-bolshegruznykh-mashin-gq-136-4",
+      "url": "https://bosminiofficial.com/shop/2745/desc/monitor-dlja-bolshegruznykh-mashin-gq-136-4",
+      "name": "Монитор для большегрузных машин GQ 136-4",
+      "sku": "",
+      "price_rub": 7500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-10,36 дюймов\n✅CarPlay/AndroidAuto\n✅Bluetooth\n✅Функция ADAS\n✅4 камеры, кронштейн и комплект проводов для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/27/2745.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/27/2745.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/27/2745.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/27/2745.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 3,
+      "added_at": 1765657119,
+      "views": 732
     },
     {
       "slug": "monitor-s-4-mja-kamerami-jcs-7003-4",
@@ -11071,7 +11195,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1786687638,
-      "views": 115
+      "views": 116
     },
     {
       "slug": "bos-mini-n636dp5",
