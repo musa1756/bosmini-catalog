@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787292316,
-  "scraped_count": 461,
+  "generated_at": 1787292617,
+  "scraped_count": 460,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2172,7 +2172,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1786688207,
-      "views": 49
+      "views": 50
     },
     {
       "slug": "dv-pioneer-ok-z3s-4-64",
@@ -5582,7 +5582,7 @@
       "stock_count": 0,
       "popularity": 71,
       "added_at": 1739603510,
-      "views": 642
+      "views": 643
     },
     {
       "slug": "bos-mini-k15l-wi-fi",
@@ -13273,37 +13273,6 @@
       "popularity": 220,
       "added_at": 1754806593,
       "views": 258
-    },
-    {
-      "slug": "dv-60-komplekt-provodov",
-      "url": "https://bosminiofficial.com/shop/2575/desc/dv-60-komplekt-provodov",
-      "name": "DV-60 + комплект проводов",
-      "sku": "",
-      "price_rub": 2500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅️Размер 6 ✅️Максимальная мощность 1500W-Max ✅️С активным усилитеусилителем ✅️Провода в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2575.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2575.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2575.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2575.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 342,
-      "added_at": 1754823254,
-      "views": 113
     },
     {
       "slug": "dv-80-komplekt-provodov",
