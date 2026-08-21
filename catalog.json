@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787293216,
-  "scraped_count": 466,
+  "generated_at": 1787293516,
+  "scraped_count": 471,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -7662,6 +7662,68 @@
       "views": 109
     },
     {
+      "slug": "bos-t3165-16cm-40w",
+      "url": "https://bosminiofficial.com/shop/1457/desc/bos-t3165-16cm-40w",
+      "name": "BOS-T3165 (16cm,40W)",
+      "sku": "",
+      "price_rub": 1550,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Размер Динамика: 16см ✅️ Максимальная мощность: 40W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/14/1457.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/14/1457.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/14/1457.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/14/1457.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 27,
+      "added_at": 1749112981,
+      "views": 948
+    },
+    {
+      "slug": "bos-t3265-16cm-50w",
+      "url": "https://bosminiofficial.com/shop/1456/desc/bos-t3265-16cm-50w",
+      "name": "BOS-T3265 (16cm 50W)",
+      "sku": "",
+      "price_rub": 1650,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Размер Динамика 16см ✅️ Максимальная мощность: 50W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/14/1456.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/14/1456.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/14/1456.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/14/1456.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 49,
+      "added_at": 1749112890,
+      "views": 840
+    },
+    {
       "slug": "bos-mini-6586-16sm",
       "url": "https://bosminiofficial.com/shop/1131/desc/bos-mini-6586-16sm",
       "name": "Bos Mini 6586 (16см)",
@@ -12559,7 +12621,7 @@
       "stock_count": 0,
       "popularity": 38,
       "added_at": 1755666601,
-      "views": 176
+      "views": 177
     },
     {
       "slug": "kia-rio-2012-2016",
@@ -14327,6 +14389,99 @@
       "popularity": 14,
       "added_at": 1771744690,
       "views": 327
+    },
+    {
+      "slug": "bos-mini-468d",
+      "url": "https://bosminiofficial.com/shop/2548/desc/bos-mini-468d",
+      "name": "BOS-MINI 468D",
+      "sku": "",
+      "price_rub": 1500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Усилители"
+      ],
+      "brand_tags": [],
+      "description": "✅Управление через приложение ✅Мощность-1000W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/25/2548.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/25/2548.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/25/2548.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/25/2548.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 332,
+      "added_at": 1754033937,
+      "views": 655
+    },
+    {
+      "slug": "bos-mini-a21",
+      "url": "https://bosminiofficial.com/shop/3018/desc/bos-mini-a21",
+      "name": "BOS-MINI A21",
+      "sku": "",
+      "price_rub": 1050,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Усилители"
+      ],
+      "brand_tags": [],
+      "description": "✅Количество каналов-4\n✅Управление через приложение\n✅Мощность-600W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3018.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3018.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3018.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3018.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 34,
+      "added_at": 1785588402,
+      "views": 37
+    },
+    {
+      "slug": "bos-mini-a25",
+      "url": "https://bosminiofficial.com/shop/2999/desc/bos-mini-a25",
+      "name": "BOS-MINI A25",
+      "sku": "",
+      "price_rub": 1050,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Усилители"
+      ],
+      "brand_tags": [],
+      "description": "✅Количество каналов-4\n✅Управление через приложение\n✅Мощность-600W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2999.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2999.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2999.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2999.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 19,
+      "added_at": 1783923577,
+      "views": 43
     },
     {
       "slug": "dv-pioneer-ok-414",
