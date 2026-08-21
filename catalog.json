@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787292916,
-  "scraped_count": 464,
+  "generated_at": 1787293216,
+  "scraped_count": 466,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -744,9 +744,9 @@
         "https://bosminiofficial.com/_sh/29/2924.jpg"
       ],
       "stock_count": 0,
-      "popularity": 132,
+      "popularity": 135,
       "added_at": 1777460775,
-      "views": 371
+      "views": 372
     },
     {
       "slug": "bos-mini-a1105",
@@ -1054,7 +1054,7 @@
         "https://bosminiofficial.com/_sh/28/2850.jpg"
       ],
       "stock_count": 0,
-      "popularity": 22,
+      "popularity": 23,
       "added_at": 1772527567,
       "views": 396
     },
@@ -1395,9 +1395,9 @@
         "https://bosminiofficial.com/_sh/19/1952.jpg"
       ],
       "stock_count": 0,
-      "popularity": 86,
+      "popularity": 87,
       "added_at": 1752853137,
-      "views": 971
+      "views": 972
     },
     {
       "slug": "bos-mini-t8705-4-64gb-7",
@@ -1426,7 +1426,7 @@
         "https://bosminiofficial.com/_sh/20/2040.jpg"
       ],
       "stock_count": 0,
-      "popularity": 136,
+      "popularity": 139,
       "added_at": 1752911964,
       "views": 1989
     },
@@ -1614,7 +1614,7 @@
       "stock_count": 0,
       "popularity": 38,
       "added_at": 1764392414,
-      "views": 882
+      "views": 883
     },
     {
       "slug": "cc5-ultra-4-64gb-10",
@@ -7259,6 +7259,37 @@
       "views": 1100
     },
     {
+      "slug": "bos-mini-5088",
+      "url": "https://bosminiofficial.com/shop/1273/desc/bos-mini-5088",
+      "name": "BOS-MINI 5088",
+      "sku": "",
+      "price_rub": 1400,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер динамика-13 см ✅ vМощность-60W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/12/1273.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1273.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/12/1273.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1273.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 147,
+      "added_at": 1738649802,
+      "views": 884
+    },
+    {
       "slug": "bos-mini-52xd",
       "url": "https://bosminiofficial.com/shop/2976/desc/bos-mini-52xd",
       "name": "BOS-MINI 52XD",
@@ -7350,6 +7381,37 @@
       "popularity": 9,
       "added_at": 1782390251,
       "views": 81
+    },
+    {
+      "slug": "bos-mini-6587",
+      "url": "https://bosminiofficial.com/shop/2937/desc/bos-mini-6587",
+      "name": "BOS-MINI 6587",
+      "sku": "",
+      "price_rub": 2400,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Размер  Колонки  16см\n✅️ Максимальная Мощность 420W-Max",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2937.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2937.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2937.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2937.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 18,
+      "added_at": 1779520353,
+      "views": 249
     },
     {
       "slug": "bos-mini-6588",
@@ -10232,7 +10294,7 @@
       "stock_count": 0,
       "popularity": 26,
       "added_at": 1767297093,
-      "views": 309
+      "views": 310
     },
     {
       "slug": "dv-pioneer-ok-mp372dsp",
@@ -11164,7 +11226,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1786687337,
-      "views": 75
+      "views": 76
     },
     {
       "slug": "bos-n726skdp5",
@@ -11319,7 +11381,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1785307627,
-      "views": 102
+      "views": 103
     },
     {
       "slug": "dv-pioneer-ok-5503",
