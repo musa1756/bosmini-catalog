@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787395817,
+  "generated_at": 1787396117,
   "scraped_count": 472,
   "products": [
     {
@@ -5744,7 +5744,7 @@
       "url": "https://bosminiofficial.com/shop/2738/desc/bos-mini-a31-pro-wi-fi",
       "name": "Bos-Mini A31 Pro Wi-Fi",
       "sku": "",
-      "price_rub": 1200,
+      "price_rub": 1300,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -5775,7 +5775,7 @@
       "url": "https://bosminiofficial.com/shop/2739/desc/bos-mini-a32-pro-wi-fi",
       "name": "Bos-Mini A32 Pro Wi-Fi",
       "sku": "",
-      "price_rub": 1200,
+      "price_rub": 1300,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -11319,7 +11319,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1786687337,
-      "views": 90
+      "views": 92
     },
     {
       "slug": "bos-n726skdp5",
