@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787559916,
-  "scraped_count": 475,
+  "generated_at": 1787560217,
+  "scraped_count": 476,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1583,7 +1583,7 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1769577429,
-      "views": 689
+      "views": 690
     },
     {
       "slug": "bos-mini-ts18-10-4-64gb",
@@ -11412,7 +11412,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1786687638,
-      "views": 143
+      "views": 144
     },
     {
       "slug": "bos-mini-n636dp5",
@@ -14203,6 +14203,37 @@
       "popularity": 0,
       "added_at": 1787555577,
       "views": 5
+    },
+    {
+      "slug": "komplekt-akusticheskikh-provodov-f77-4a",
+      "url": "https://bosminiofficial.com/shop/3036/desc/komplekt-akusticheskikh-provodov-f77-4a",
+      "name": "Комплект акустических проводов F77-4A",
+      "sku": "",
+      "price_rub": 1150,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Сабвуферы и комплектующие"
+      ],
+      "brand_tags": [],
+      "description": "✅Сечение кабеля-4GA\n✅2-х канальный",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3036.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3036.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3036.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3036.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1787560178,
+      "views": 1
     },
     {
       "slug": "komplekt-provodov-10ga",
