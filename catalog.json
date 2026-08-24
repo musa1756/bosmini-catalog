@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787553916,
+  "generated_at": 1787554217,
   "scraped_count": 472,
   "products": [
     {
@@ -5992,7 +5992,7 @@
       "url": "https://bosminiofficial.com/shop/1241/desc/e5-olom-lmt-8",
       "name": "E5-OLOM LMT-8",
       "sku": "",
-      "price_rub": 3800,
+      "price_rub": 3000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -12931,7 +12931,7 @@
       "stock_count": 0,
       "popularity": 183,
       "added_at": 1718632955,
-      "views": 260
+      "views": 262
     },
     {
       "slug": "renault-sandero-symbo1-2015-2018",
