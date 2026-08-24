@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787554217,
+  "generated_at": 1787554516,
   "scraped_count": 472,
   "products": [
     {
@@ -1490,7 +1490,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1769577346,
-      "views": 420
+      "views": 421
     },
     {
       "slug": "bos-mini-ts10-4-64gb-9",
@@ -5926,37 +5926,6 @@
       "views": 357
     },
     {
-      "slug": "e5-0lom-lmt5",
-      "url": "https://bosminiofficial.com/shop/1240/desc/e5-0lom-lmt5",
-      "name": "E5-0lom LMT5",
-      "sku": "",
-      "price_rub": 2200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅ Разрешение-полный экран 4к+1080 ✅ Ночная съемка ✅ Передняя и задняя запись ✅ Функция ADAS ✅ АЗУ, провод 5 м., камера заднего вида и фиксаторы в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/12/1240.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1240.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/12/1240.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1240.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 14,
-      "added_at": 1737099710,
-      "views": 314
-    },
-    {
       "slug": "e5-olim-s2",
       "url": "https://bosminiofficial.com/shop/1177/desc/e5-olim-s2",
       "name": "E5-OLIM S2",
@@ -5986,6 +5955,37 @@
       "popularity": 41,
       "added_at": 1734179124,
       "views": 648
+    },
+    {
+      "slug": "e5-olom-lmt-5",
+      "url": "https://bosminiofficial.com/shop/1240/desc/e5-olom-lmt-5",
+      "name": "E5-OLOM LMT-5",
+      "sku": "",
+      "price_rub": 2200,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅ Разрешение-полный экран 4к+1080 ✅ Ночная съемка ✅ Передняя и задняя запись ✅ Функция ADAS ✅ АЗУ, провод 5 м., камера заднего вида и фиксаторы в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/12/1240.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1240.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/12/1240.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1240.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 14,
+      "added_at": 1737099710,
+      "views": 315
     },
     {
       "slug": "e5-olom-lmt-8",
@@ -6729,7 +6729,7 @@
       "stock_count": 0,
       "popularity": 482,
       "added_at": 1732038503,
-      "views": 559
+      "views": 560
     },
     {
       "slug": "kamera-zad-vida-e-2316",
@@ -6853,7 +6853,7 @@
       "stock_count": 0,
       "popularity": 148,
       "added_at": 1764398182,
-      "views": 521
+      "views": 522
     },
     {
       "slug": "kamera-zadnego-vida-bos-l210",
