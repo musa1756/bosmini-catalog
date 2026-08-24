@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787566817,
-  "scraped_count": 477,
+  "generated_at": 1787567116,
+  "scraped_count": 478,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -684,7 +684,7 @@
       "stock_count": 0,
       "popularity": 82,
       "added_at": 1752862854,
-      "views": 521
+      "views": 522
     },
     {
       "slug": "bos-mini-q70-6-64gb-7",
@@ -2669,6 +2669,37 @@
       "popularity": 174,
       "added_at": 1773035061,
       "views": 418
+    },
+    {
+      "slug": "y202-pro-8-64gb",
+      "url": "https://bosminiofficial.com/shop/3038/desc/y202-pro-8-64gb",
+      "name": "Y202 Pro 8+64Gb",
+      "sku": "",
+      "price_rub": 8500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-10.2 дюйма\n✅Память-8+64Gb\n✅Поддержка сим карты\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅Рамка и набор проводов для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3038.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3038.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3038.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3038.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1787567077,
+      "views": 1
     },
     {
       "slug": "zx1-4-64gb-9",
@@ -7814,7 +7845,7 @@
       "stock_count": 0,
       "popularity": 299,
       "added_at": 1733386143,
-      "views": 812
+      "views": 814
     },
     {
       "slug": "bos-6580",
@@ -11195,7 +11226,7 @@
       "stock_count": 0,
       "popularity": 29,
       "added_at": 1782205423,
-      "views": 265
+      "views": 266
     },
     {
       "slug": "bos-783dp5",
