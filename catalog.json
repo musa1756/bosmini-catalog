@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787584816,
+  "generated_at": 1787585117,
   "scraped_count": 478,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 741
+      "views": 742
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -901,7 +901,7 @@
       "stock_count": 0,
       "popularity": 49,
       "added_at": 1772527002,
-      "views": 963
+      "views": 965
     },
     {
       "slug": "bos-mini-a1pro-10-4-64gb",
@@ -2699,7 +2699,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1787567077,
-      "views": 8
+      "views": 9
     },
     {
       "slug": "zx1-4-64gb-9",
@@ -11474,7 +11474,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1786687638,
-      "views": 146
+      "views": 147
     },
     {
       "slug": "bos-mini-n636dp5",
