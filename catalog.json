@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787561116,
-  "scraped_count": 476,
+  "generated_at": 1787561417,
+  "scraped_count": 477,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -7845,7 +7845,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1750255621,
-      "views": 417
+      "views": 418
     },
     {
       "slug": "bos-mini-6581-260w",
@@ -8218,6 +8218,37 @@
       "popularity": 3,
       "added_at": 1733726084,
       "views": 303
+    },
+    {
+      "slug": "e5-olom-hh609",
+      "url": "https://bosminiofficial.com/shop/3037/desc/e5-olom-hh609",
+      "name": "E5-OLOM HH609",
+      "sku": "",
+      "price_rub": 1750,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер динамика -16см\n✅Мощность-150W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3037.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3037.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3037.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3037.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1787561190,
+      "views": 2
     },
     {
       "slug": "hertz-dsk165-3",
