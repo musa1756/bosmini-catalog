@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787554816,
-  "scraped_count": 472,
+  "generated_at": 1787555117,
+  "scraped_count": 473,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1459,7 +1459,7 @@
       "stock_count": 0,
       "popularity": 140,
       "added_at": 1752911964,
-      "views": 1996
+      "views": 1997
     },
     {
       "slug": "bos-mini-ts10-4-64gb-10",
@@ -4621,7 +4621,7 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1751463087,
-      "views": 141
+      "views": 142
     },
     {
       "slug": "k15-h4",
@@ -5955,6 +5955,37 @@
       "popularity": 41,
       "added_at": 1734179124,
       "views": 648
+    },
+    {
+      "slug": "e5-olom-lmt-3",
+      "url": "https://bosminiofficial.com/shop/3033/desc/e5-olom-lmt-3",
+      "name": "E5-OLOM LMT-3",
+      "sku": "",
+      "price_rub": 2200,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅Разрешение-полный экран 4к+1080\n✅Ночная съемка\n✅Передняя и задняя запись\n✅Функция ADAS\n✅АЗУ, провод 5 м., камера заднего вида и фиксаторы в\nкомплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3033.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3033.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3033.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3033.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1787554965,
+      "views": 1
     },
     {
       "slug": "e5-olom-lmt-5",
@@ -9519,7 +9550,7 @@
       "stock_count": 0,
       "popularity": 63,
       "added_at": 1752837333,
-      "views": 357
+      "views": 358
     },
     {
       "slug": "bos-mini-n871",
