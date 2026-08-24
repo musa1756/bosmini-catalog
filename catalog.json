@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787567116,
+  "generated_at": 1787567417,
   "scraped_count": 478,
   "products": [
     {
@@ -1304,7 +1304,7 @@
       "stock_count": 0,
       "popularity": 106,
       "added_at": 1767294203,
-      "views": 912
+      "views": 913
     },
     {
       "slug": "bos-mini-n776s-4-64gb",
@@ -1893,7 +1893,7 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1782024662,
-      "views": 130
+      "views": 131
     },
     {
       "slug": "dhd-x4-6-64-9",
@@ -2210,7 +2210,7 @@
       "url": "https://bosminiofficial.com/shop/2904/desc/dv-pioneer-ok-z3s-4-64",
       "name": "DV-Pioneer.Ok Z3S 4+64",
       "sku": "",
-      "price_rub": 5000,
+      "price_rub": 4700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -11660,7 +11660,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1783495187,
-      "views": 96
+      "views": 97
     },
     {
       "slug": "e5-olom-e-707",
@@ -14264,7 +14264,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1787555577,
-      "views": 8
+      "views": 9
     },
     {
       "slug": "komplekt-akusticheskikh-provodov-f77-4a",
