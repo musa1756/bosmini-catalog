@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787555416,
-  "scraped_count": 474,
+  "generated_at": 1787555717,
+  "scraped_count": 475,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -5830,7 +5830,7 @@
       "stock_count": 0,
       "popularity": 987,
       "added_at": 1740736611,
-      "views": 721
+      "views": 722
     },
     {
       "slug": "bos-mini-l-817",
@@ -5985,7 +5985,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1787554965,
-      "views": 1
+      "views": 2
     },
     {
       "slug": "e5-olom-lmt-5",
@@ -11071,7 +11071,7 @@
       "stock_count": 0,
       "popularity": 159,
       "added_at": 1714856095,
-      "views": 1279
+      "views": 1280
     },
     {
       "slug": "magnitola-bos-mini-n972dsp",
@@ -14172,6 +14172,37 @@
       "popularity": 350,
       "added_at": 1765863450,
       "views": 241
+    },
+    {
+      "slug": "komplekt-akusticheskikh-provodov-dp-4ga",
+      "url": "https://bosminiofficial.com/shop/3035/desc/komplekt-akusticheskikh-provodov-dp-4ga",
+      "name": "Комплект акустических проводов DP-4GA",
+      "sku": "",
+      "price_rub": 1150,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Сабвуферы и комплектующие"
+      ],
+      "brand_tags": [],
+      "description": "✅Сечение кабеля-4GA\n✅2-х канальный\n✅Мощность-3600W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3035.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3035.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3035.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3035.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1787555577,
+      "views": 0
     },
     {
       "slug": "komplekt-provodov-10ga",
