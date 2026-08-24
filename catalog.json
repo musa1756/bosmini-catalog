@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787555117,
-  "scraped_count": 473,
+  "generated_at": 1787555416,
+  "scraped_count": 474,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -777,7 +777,7 @@
       "stock_count": 0,
       "popularity": 135,
       "added_at": 1777460775,
-      "views": 379
+      "views": 380
     },
     {
       "slug": "bos-mini-a1105",
@@ -5272,7 +5272,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1778565956,
-      "views": 157
+      "views": 158
     },
     {
       "slug": "galogenovaja-lampa-h4",
@@ -5396,7 +5396,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1778565614,
-      "views": 153
+      "views": 154
     },
     {
       "slug": "zvezdnoe-nebo",
@@ -11196,6 +11196,37 @@
       "popularity": 55,
       "added_at": 1754650895,
       "views": 1009
+    },
+    {
+      "slug": "bos-mini-785p5",
+      "url": "https://bosminiofficial.com/shop/3034/desc/bos-mini-785p5",
+      "name": "BOS-MINI 785P5",
+      "sku": "",
+      "price_rub": 2300,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-7 дюймов\n✅Bluetooth/Aux /USB/Type-C\n✅6 выходов RCA\n✅Mirror link\n✅Возможность подключения камеры заднего вида\n✅2 пульта управления, ромочка и фишки для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3034.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3034.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3034.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3034.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1787555310,
+      "views": 1
     },
     {
       "slug": "bos-mini-n637dp5",
