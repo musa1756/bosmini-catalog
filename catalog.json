@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787602817,
+  "generated_at": 1787603116,
   "scraped_count": 478,
   "products": [
     {
@@ -2699,7 +2699,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1787567077,
-      "views": 10
+      "views": 11
     },
     {
       "slug": "zx1-4-64gb-9",
@@ -6016,7 +6016,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1787554965,
-      "views": 7
+      "views": 8
     },
     {
       "slug": "e5-olom-lmt-5",
@@ -8372,7 +8372,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1765863961,
-      "views": 160
+      "views": 163
     },
     {
       "slug": "hx509",
@@ -8527,7 +8527,7 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1755665591,
-      "views": 401
+      "views": 402
     },
     {
       "slug": "hertz-401-10sm",
@@ -10232,7 +10232,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1786383529,
-      "views": 48
+      "views": 49
     },
     {
       "slug": "dv-pioneer-ok-212",
@@ -11102,7 +11102,7 @@
       "stock_count": 0,
       "popularity": 160,
       "added_at": 1714856095,
-      "views": 1396
+      "views": 1397
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
@@ -11133,7 +11133,7 @@
       "stock_count": 0,
       "popularity": 161,
       "added_at": 1714856095,
-      "views": 1281
+      "views": 1282
     },
     {
       "slug": "magnitola-bos-mini-n972dsp",
@@ -11164,7 +11164,7 @@
       "stock_count": 0,
       "popularity": 68,
       "added_at": 1714856095,
-      "views": 1106
+      "views": 1107
     },
     {
       "slug": "magnitola-bos-mini-n973dsp",
@@ -11195,7 +11195,7 @@
       "stock_count": 0,
       "popularity": 77,
       "added_at": 1714856095,
-      "views": 1184
+      "views": 1185
     },
     {
       "slug": "b0s-mini-678dp5",
@@ -11288,7 +11288,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1787555310,
-      "views": 8
+      "views": 9
     },
     {
       "slug": "bos-mini-n637dp5",
@@ -11350,7 +11350,7 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1773903156,
-      "views": 520
+      "views": 521
     },
     {
       "slug": "bos-mini-n640dp5",
@@ -11443,7 +11443,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1786687337,
-      "views": 109
+      "views": 110
     },
     {
       "slug": "bos-n726skdp5",
@@ -11474,7 +11474,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1786687638,
-      "views": 148
+      "views": 149
     },
     {
       "slug": "bos-mini-n636dp5",
@@ -11846,7 +11846,7 @@
       "stock_count": 0,
       "popularity": 25,
       "added_at": 1724959457,
-      "views": 825
+      "views": 826
     },
     {
       "slug": "bos-mini-233pke",
@@ -12063,7 +12063,7 @@
       "stock_count": 0,
       "popularity": 231,
       "added_at": 1753770937,
-      "views": 471
+      "views": 472
     },
     {
       "slug": "brelok-dlja-avtosignalizacii-tamahawk-x5",
@@ -13272,7 +13272,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1732022622,
-      "views": 315
+      "views": 316
     },
     {
       "slug": "red-24v-220v-1600w",
@@ -13303,7 +13303,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1732022421,
-      "views": 282
+      "views": 283
     },
     {
       "slug": "preobrazovateli-24v-12v-45a",
@@ -13334,7 +13334,7 @@
       "stock_count": 0,
       "popularity": 45,
       "added_at": 1718658908,
-      "views": 307
+      "views": 308
     },
     {
       "slug": "preobrazovateli-24v-12v-60a",
@@ -13365,7 +13365,7 @@
       "stock_count": 0,
       "popularity": 69,
       "added_at": 1718659006,
-      "views": 268
+      "views": 269
     },
     {
       "slug": "bos-404-4-ch-rca",
@@ -14760,7 +14760,7 @@
       "stock_count": 0,
       "popularity": 477,
       "added_at": 1765802327,
-      "views": 210
+      "views": 211
     },
     {
       "slug": "jbl-jb-480",
@@ -14791,7 +14791,7 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1765657288,
-      "views": 766
+      "views": 767
     },
     {
       "slug": "kenwood-kw-a5314",
@@ -14822,7 +14822,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1771744629,
-      "views": 288
+      "views": 289
     }
   ]
 }
