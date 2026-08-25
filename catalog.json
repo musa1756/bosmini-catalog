@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787646617,
+  "generated_at": 1787646916,
   "scraped_count": 478,
   "products": [
     {
@@ -1893,7 +1893,7 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1782024662,
-      "views": 133
+      "views": 134
     },
     {
       "slug": "dhd-x4-6-64-9",
@@ -2699,7 +2699,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1787567077,
-      "views": 19
+      "views": 20
     },
     {
       "slug": "zx1-4-64gb-9",
@@ -2730,7 +2730,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1776517259,
-      "views": 276
+      "views": 278
     },
     {
       "slug": "zx1-pro-plus-4-64gb-10",
@@ -5992,7 +5992,7 @@
       "url": "https://bosminiofficial.com/shop/3033/desc/e5-olom-lmt-3",
       "name": "E5-OLOM LMT-3",
       "sku": "",
-      "price_rub": 2200,
+      "price_rub": 1999,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -6023,7 +6023,7 @@
       "url": "https://bosminiofficial.com/shop/1240/desc/e5-olom-lmt-5",
       "name": "E5-OLOM LMT-5",
       "sku": "",
-      "price_rub": 2200,
+      "price_rub": 1999,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -14450,7 +14450,7 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1765863510,
-      "views": 240
+      "views": 241
     },
     {
       "slug": "komplekt-provodov-vp04",
@@ -14512,7 +14512,7 @@
       "stock_count": 0,
       "popularity": 994,
       "added_at": 1753516707,
-      "views": 253
+      "views": 254
     },
     {
       "slug": "sabvufer-syzx-yd-0108",
