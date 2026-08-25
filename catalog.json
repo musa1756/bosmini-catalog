@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787655916,
+  "generated_at": 1787656217,
   "scraped_count": 478,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 743
+      "views": 744
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -6016,7 +6016,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1787554965,
-      "views": 15
+      "views": 16
     },
     {
       "slug": "e5-olom-lmt-5",
@@ -11877,7 +11877,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1752671618,
-      "views": 906
+      "views": 907
     },
     {
       "slug": "bos-08e",
