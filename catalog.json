@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787733618,
-  "scraped_count": 473,
+  "generated_at": 1787733916,
+  "scraped_count": 469,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -4438,37 +4438,6 @@
       "views": 273
     },
     {
-      "slug": "auto-led-r6-h7",
-      "url": "https://bosminiofficial.com/shop/589/desc/auto-led-r6-h7",
-      "name": "AUTO LED R6 / H7",
-      "sku": "",
-      "price_rub": 1900,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Автосвет"
-      ],
-      "brand_tags": [],
-      "description": "✅Цоколь-Н7",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/5/589.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/5/589.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/5/589.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/5/589.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 59,
-      "added_at": 1716467831,
-      "views": 268
-    },
-    {
       "slug": "e4-9005-20000-lm",
       "url": "https://bosminiofficial.com/shop/1039/desc/e4-9005-20000-lm",
       "name": "E4-9005 (20000 Lm)",
@@ -4622,37 +4591,6 @@
       "popularity": 15,
       "added_at": 1716467176,
       "views": 310
-    },
-    {
-      "slug": "led-headlights-n3-h7",
-      "url": "https://bosminiofficial.com/shop/587/desc/led-headlights-n3-h7",
-      "name": "LED HEADLIGHTS N3 H7",
-      "sku": "",
-      "price_rub": 1600,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Автосвет"
-      ],
-      "brand_tags": [],
-      "description": "✅Цоколь-Н7",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/5/587.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/5/587.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/5/587.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/5/587.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 37,
-      "added_at": 1716467260,
-      "views": 292
     },
     {
       "slug": "led-lampa-zw1-9005",
@@ -4932,37 +4870,6 @@
       "popularity": 14,
       "added_at": 1743145408,
       "views": 197
-    },
-    {
-      "slug": "tech-king-h7",
-      "url": "https://bosminiofficial.com/shop/1356/desc/tech-king-h7",
-      "name": "Tech-King H7",
-      "sku": "",
-      "price_rub": 1500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Автосвет"
-      ],
-      "brand_tags": [],
-      "description": "✅ Цоколь-Н7 ✅ Цветовая температура:4300K ✅ Срок службы <50000 часов ✅ Цвет лимонный ✅ Напряжение DC 12-24",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/13/1356.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/13/1356.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/13/1356.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/13/1356.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 16,
-      "added_at": 1743145520,
-      "views": 190
     },
     {
       "slug": "tech-king-hb3-9005",
@@ -13397,37 +13304,6 @@
       "popularity": 13,
       "added_at": 1782111672,
       "views": 68
-    },
-    {
-      "slug": "bos-mini-1580-8-2600w",
-      "url": "https://bosminiofficial.com/shop/2963/desc/bos-mini-1580-8-2600w",
-      "name": "BOS-MINI 1580 (8\", 2600W)",
-      "sku": "BOS-1580",
-      "price_rub": 4500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Сабвуфер активный\n✅Размер-8\"\n✅Максимальная Мощность: 1600W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2963.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2963.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2963.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2963.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 16,
-      "added_at": 1782111823,
-      "views": 79
     },
     {
       "slug": "bos-mini-6016",
