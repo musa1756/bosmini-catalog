@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787781317,
+  "generated_at": 1787781616,
   "scraped_count": 468,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 747
+      "views": 748
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -9302,7 +9302,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1784269255,
-      "views": 81
+      "views": 82
     },
     {
       "slug": "bos-mini-942dsp",
@@ -9333,7 +9333,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1784269320,
-      "views": 71
+      "views": 72
     },
     {
       "slug": "bos-mini-mvh-t912b",
