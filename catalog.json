@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787733317,
-  "scraped_count": 478,
+  "generated_at": 1787733618,
+  "scraped_count": 473,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -529,7 +529,7 @@
       "stock_count": 0,
       "popularity": 118,
       "added_at": 1757144356,
-      "views": 2228
+      "views": 2229
     },
     {
       "slug": "bos-mini-b1203-audi-style",
@@ -777,7 +777,7 @@
       "stock_count": 0,
       "popularity": 135,
       "added_at": 1777460775,
-      "views": 382
+      "views": 383
     },
     {
       "slug": "bos-mini-a1105",
@@ -3260,68 +3260,6 @@
       "views": 312
     },
     {
-      "slug": "avtonomnyj-otopitel-bos-l22",
-      "url": "https://bosminiofficial.com/shop/2653/desc/avtonomnyj-otopitel-bos-l22",
-      "name": "Автономный отопитель BOS-L22",
-      "sku": "",
-      "price_rub": 6000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Автоаксессуары"
-      ],
-      "brand_tags": [],
-      "description": "✅️ Мощность 5kw ✅️ Универсальный 12V-24V ✅️ Инструкция и полный набор для установки в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/26/2653.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2653.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/26/2653.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2653.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 2,
-      "added_at": 1760942656,
-      "views": 259
-    },
-    {
-      "slug": "avtonomnyj-otopitel-bos-w33",
-      "url": "https://bosminiofficial.com/shop/2652/desc/avtonomnyj-otopitel-bos-w33",
-      "name": "Автономный отопитель BOS-W33",
-      "sku": "",
-      "price_rub": 6000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Автоаксессуары"
-      ],
-      "brand_tags": [],
-      "description": "✅️ Мощность 5kw ✅️ Универсальный 12V-24V ✅️ Инструкция и полный набор для установки в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/26/2652.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2652.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/26/2652.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2652.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 5,
-      "added_at": 1760942574,
-      "views": 283
-    },
-    {
       "slug": "aromatizator-rh-001n",
       "url": "https://bosminiofficial.com/shop/2888/desc/aromatizator-rh-001n",
       "name": "Ароматизатор RH-001N",
@@ -4281,37 +4219,6 @@
       "popularity": 60,
       "added_at": 1765013957,
       "views": 606
-    },
-    {
-      "slug": "puskovoe-ustrojstvo-3-v-1-cjs-28",
-      "url": "https://bosminiofficial.com/shop/1050/desc/puskovoe-ustrojstvo-3-v-1-cjs-28",
-      "name": "Пусковое устройство 3 в 1 (CJS-28)",
-      "sku": "",
-      "price_rub": 2900,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Автоаксессуары"
-      ],
-      "brand_tags": [],
-      "description": "✅﻿﻿Степень водонепроницаемости: IP66 ✅Емкость-10000 мАч ✅Стартовый ток: 400A ✅Пиковый ток: 800А ✅﻿﻿Входное напряжение Туре-С: 5V/1.5А ✅Выход USB: 5V/2.1A ✅Светодиодные фонари/SOS /стробоскоп",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/10/1050.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1050.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/10/1050.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1050.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 54,
-      "added_at": 1731180224,
-      "views": 362
     },
     {
       "slug": "puskovoe-ustrojstvo-4-v-1-cjs-78",
@@ -9212,37 +9119,6 @@
       "views": 186
     },
     {
-      "slug": "kolonki-gb-v-612",
-      "url": "https://bosminiofficial.com/shop/673/desc/kolonki-gb-v-612",
-      "name": "Колонки GB / V-612",
-      "sku": "",
-      "price_rub": 1350,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер колонки-16см ✅Мощность-160W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/6/673.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/6/673.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/6/673.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/6/673.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 86,
-      "added_at": 1718304602,
-      "views": 110
-    },
-    {
       "slug": "kolonki-gb-v-6912",
       "url": "https://bosminiofficial.com/shop/672/desc/kolonki-gb-v-6912",
       "name": "Колонки GB / V-6912",
@@ -11319,7 +11195,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1773903123,
-      "views": 518
+      "views": 519
     },
     {
       "slug": "bos-mini-n639dp5",
@@ -12622,37 +12498,6 @@
       "popularity": 111,
       "added_at": 1755667900,
       "views": 186
-    },
-    {
-      "slug": "hyundai-creta-ix25-9",
-      "url": "https://bosminiofficial.com/shop/895/desc/hyundai-creta-ix25-9",
-      "name": "HYUNDAI CRETA IX25 9\"",
-      "sku": "",
-      "price_rub": 900,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Переходные рамки"
-      ],
-      "brand_tags": [],
-      "description": "✅️ Размер экрана ,,9\" ✅️ Провода в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/8/895.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/8/895.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/8/895.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/8/895.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 59,
-      "added_at": 1724489383,
-      "views": 194
     },
     {
       "slug": "hyundai-accent-2011-2016-seryj",
