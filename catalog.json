@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787735116,
-  "scraped_count": 469,
+  "generated_at": 1787735416,
+  "scraped_count": 468,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -9767,7 +9767,7 @@
       "stock_count": 0,
       "popularity": 83,
       "added_at": 1749968403,
-      "views": 439
+      "views": 441
     },
     {
       "slug": "bos-n974dsp-1475",
@@ -10635,7 +10635,7 @@
       "stock_count": 0,
       "popularity": 3184,
       "added_at": 1764669581,
-      "views": 267
+      "views": 268
     },
     {
       "slug": "mvh-y8059mbt",
@@ -14358,37 +14358,6 @@
       "popularity": 374,
       "added_at": 1754033937,
       "views": 665
-    },
-    {
-      "slug": "bos-mini-a21",
-      "url": "https://bosminiofficial.com/shop/3018/desc/bos-mini-a21",
-      "name": "BOS-MINI A21",
-      "sku": "",
-      "price_rub": 1050,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Усилители"
-      ],
-      "brand_tags": [],
-      "description": "✅Количество каналов-4\n✅Управление через приложение\n✅Мощность-600W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3018.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3018.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3018.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3018.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 42,
-      "added_at": 1785588402,
-      "views": 44
     },
     {
       "slug": "bos-mini-a25",
