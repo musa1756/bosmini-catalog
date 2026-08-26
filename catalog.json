@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787785517,
+  "generated_at": 1787785817,
   "scraped_count": 468,
   "products": [
     {
@@ -591,7 +591,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1752859489,
-      "views": 988
+      "views": 989
     },
     {
       "slug": "bos-mini-q17",
@@ -1397,7 +1397,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1752853165,
-      "views": 482
+      "views": 483
     },
     {
       "slug": "bos-mini-t8-4-64gb-9",
@@ -7256,7 +7256,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1782540803,
-      "views": 72
+      "views": 73
     },
     {
       "slug": "bos-mini-6528",
@@ -14512,7 +14512,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1771744629,
-      "views": 290
+      "views": 291
     }
   ]
 }
