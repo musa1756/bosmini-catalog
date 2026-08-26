@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787769317,
+  "generated_at": 1787769616,
   "scraped_count": 468,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 745
+      "views": 746
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -715,7 +715,7 @@
       "stock_count": 0,
       "popularity": 92,
       "added_at": 1753341610,
-      "views": 2936
+      "views": 2937
     },
     {
       "slug": "bos-mini-s1203-mersedes-style",
@@ -1645,7 +1645,7 @@
       "stock_count": 0,
       "popularity": 38,
       "added_at": 1764392414,
-      "views": 889
+      "views": 890
     },
     {
       "slug": "cc5-ultra-4-64gb-10",
@@ -2389,7 +2389,7 @@
       "stock_count": 0,
       "popularity": 29,
       "added_at": 1776112985,
-      "views": 348
+      "views": 349
     },
     {
       "slug": "es80-4-64gb",
@@ -11040,7 +11040,7 @@
       "stock_count": 0,
       "popularity": 55,
       "added_at": 1754650895,
-      "views": 1011
+      "views": 1012
     },
     {
       "slug": "bos-mini-785p5",
