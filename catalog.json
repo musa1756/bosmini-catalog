@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787808016,
+  "generated_at": 1787808316,
   "scraped_count": 468,
   "products": [
     {
@@ -620,7 +620,7 @@
         "https://bosminiofficial.com/_sh/29/2992.jpg"
       ],
       "stock_count": 0,
-      "popularity": 4,
+      "popularity": 5,
       "added_at": 1783407884,
       "views": 49
     },
@@ -1085,7 +1085,7 @@
         "https://bosminiofficial.com/_sh/28/2850.jpg"
       ],
       "stock_count": 0,
-      "popularity": 23,
+      "popularity": 24,
       "added_at": 1772527567,
       "views": 410
     },
@@ -1643,7 +1643,7 @@
         "https://bosminiofficial.com/_sh/26/2685.jpg"
       ],
       "stock_count": 0,
-      "popularity": 38,
+      "popularity": 39,
       "added_at": 1764392414,
       "views": 890
     },
