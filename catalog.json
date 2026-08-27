@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787833216,
+  "generated_at": 1787833517,
   "scraped_count": 470,
   "products": [
     {
@@ -4962,7 +4962,7 @@
       "stock_count": 0,
       "popularity": 145,
       "added_at": 1751713853,
-      "views": 111
+      "views": 112
     },
     {
       "slug": "zr2-h11",
@@ -5055,7 +5055,7 @@
       "stock_count": 0,
       "popularity": 441,
       "added_at": 1734934654,
-      "views": 335
+      "views": 336
     },
     {
       "slug": "galogenovaja-lampa-h1",
@@ -5365,7 +5365,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1751353443,
-      "views": 289
+      "views": 290
     },
     {
       "slug": "svetodiodnye-linzy-gt3",
@@ -5396,7 +5396,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1751715210,
-      "views": 418
+      "views": 419
     },
     {
       "slug": "svetodiodnye-linzy-gt1",
@@ -7752,7 +7752,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1750255621,
-      "views": 420
+      "views": 421
     },
     {
       "slug": "bos-mini-6581-260w",
@@ -14450,7 +14450,7 @@
       "stock_count": 0,
       "popularity": 27,
       "added_at": 1783923577,
-      "views": 48
+      "views": 49
     },
     {
       "slug": "dv-pioneer-ok-414",
@@ -14574,7 +14574,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1771744629,
-      "views": 292
+      "views": 293
     }
   ]
 }
