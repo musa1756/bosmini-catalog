@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787838317,
+  "generated_at": 1787838616,
   "scraped_count": 470,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 748
+      "views": 749
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -1149,7 +1149,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1752852789,
-      "views": 1834
+      "views": 1835
     },
     {
       "slug": "bos-mini-k68",
@@ -3350,7 +3350,7 @@
       "stock_count": 0,
       "popularity": 34,
       "added_at": 1775198040,
-      "views": 155
+      "views": 156
     },
     {
       "slug": "aromatizator-rh-034",
@@ -5613,7 +5613,7 @@
       "stock_count": 0,
       "popularity": 1027,
       "added_at": 1732391421,
-      "views": 980
+      "views": 982
     },
     {
       "slug": "bos-mini-a17l-2k-s-wi-fi",
@@ -11660,7 +11660,7 @@
       "stock_count": 0,
       "popularity": 50,
       "added_at": 1745559160,
-      "views": 265
+      "views": 266
     },
     {
       "slug": "bos-mini-a235pke",
@@ -14419,7 +14419,7 @@
       "stock_count": 0,
       "popularity": 384,
       "added_at": 1754033937,
-      "views": 667
+      "views": 668
     },
     {
       "slug": "bos-mini-a25",
