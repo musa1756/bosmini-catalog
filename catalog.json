@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787996119,
+  "generated_at": 1787996416,
   "scraped_count": 470,
   "products": [
     {
@@ -126,7 +126,7 @@
       "stock_count": 0,
       "popularity": 503,
       "added_at": 1752844839,
-      "views": 1458
+      "views": 1459
     },
     {
       "slug": "bos-mini-8702-2-32gb-7",
@@ -157,7 +157,7 @@
       "stock_count": 0,
       "popularity": 260,
       "added_at": 1752844861,
-      "views": 1016
+      "views": 1017
     },
     {
       "slug": "bos-mini-a1-pro-4-64gb-9",
@@ -6603,7 +6603,7 @@
         "https://bosminiofficial.com/_sh/10/1088.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1261,
+      "popularity": 1266,
       "added_at": 1732039326,
       "views": 594
     },
@@ -11317,9 +11317,9 @@
         "https://bosminiofficial.com/_sh/30/3031.jpg"
       ],
       "stock_count": 0,
-      "popularity": 19,
+      "popularity": 21,
       "added_at": 1786687638,
-      "views": 224
+      "views": 225
     },
     {
       "slug": "bos-mini-n636dp5",
