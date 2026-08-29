@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787998216,
+  "generated_at": 1787998517,
   "scraped_count": 470,
   "products": [
     {
@@ -839,7 +839,7 @@
       "stock_count": 0,
       "popularity": 135,
       "added_at": 1764313794,
-      "views": 1744
+      "views": 1745
     },
     {
       "slug": "bos-mini-a15-10-djujmov",
@@ -1025,7 +1025,7 @@
       "stock_count": 0,
       "popularity": 96,
       "added_at": 1764494765,
-      "views": 1551
+      "views": 1552
     },
     {
       "slug": "bos-mini-a629d-4-64gb",
@@ -1056,7 +1056,7 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1764494672,
-      "views": 1204
+      "views": 1205
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-10-djujmov",
@@ -6109,7 +6109,7 @@
       "stock_count": 0,
       "popularity": 25,
       "added_at": 1753772523,
-      "views": 589
+      "views": 590
     },
     {
       "slug": "tomboss-t10",
@@ -10947,7 +10947,7 @@
       "stock_count": 0,
       "popularity": 162,
       "added_at": 1714856095,
-      "views": 1438
+      "views": 1439
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
@@ -11164,7 +11164,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1773903123,
-      "views": 547
+      "views": 548
     },
     {
       "slug": "bos-mini-n639dp5",
