@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788032716,
+  "generated_at": 1788033017,
   "scraped_count": 470,
   "products": [
     {
@@ -715,7 +715,7 @@
       "stock_count": 0,
       "popularity": 93,
       "added_at": 1753341610,
-      "views": 2951
+      "views": 2952
     },
     {
       "slug": "bos-mini-s1203-mersedes-style",
@@ -1366,7 +1366,7 @@
       "stock_count": 0,
       "popularity": 70,
       "added_at": 1752853019,
-      "views": 1277
+      "views": 1278
     },
     {
       "slug": "bos-mini-t8-4-64gb-10",
@@ -1428,7 +1428,7 @@
       "stock_count": 0,
       "popularity": 92,
       "added_at": 1752853137,
-      "views": 994
+      "views": 995
     },
     {
       "slug": "bos-mini-t8705-4-64gb-7",
@@ -1738,7 +1738,7 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1785750358,
-      "views": 85
+      "views": 86
     },
     {
       "slug": "dhd-m1-4-64gb-9-djujmov",
@@ -12125,7 +12125,7 @@
       "stock_count": 0,
       "popularity": 98,
       "added_at": 1738756089,
-      "views": 471
+      "views": 472
     },
     {
       "slug": "parktronik-bos-666",
@@ -12156,7 +12156,7 @@
       "stock_count": 0,
       "popularity": 302,
       "added_at": 1738756168,
-      "views": 460
+      "views": 461
     },
     {
       "slug": "centralnyj-zamok-ot-bos-mini-686a",
@@ -14543,7 +14543,7 @@
       "stock_count": 0,
       "popularity": 32,
       "added_at": 1765657288,
-      "views": 776
+      "views": 777
     },
     {
       "slug": "kenwood-kw-a5314",
@@ -14574,7 +14574,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1771744629,
-      "views": 294
+      "views": 295
     }
   ]
 }
