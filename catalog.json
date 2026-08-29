@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1787989216,
+  "generated_at": 1787989593,
   "scraped_count": 470,
   "products": [
     {
@@ -808,7 +808,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1782456237,
-      "views": 151
+      "views": 152
     },
     {
       "slug": "bos-a658d-pro-4-64gb",
@@ -868,7 +868,7 @@
         "https://bosminiofficial.com/_sh/28/2848.jpg"
       ],
       "stock_count": 0,
-      "popularity": 22,
+      "popularity": 23,
       "added_at": 1772526981,
       "views": 705
     },
@@ -2883,7 +2883,7 @@
         "https://bosminiofficial.com/_sh/25/2517.jpg"
       ],
       "stock_count": 0,
-      "popularity": 2532,
+      "popularity": 2562,
       "added_at": 1753684369,
       "views": 713
     },
@@ -2945,7 +2945,7 @@
         "https://bosminiofficial.com/_sh/8/884.jpg"
       ],
       "stock_count": 0,
-      "popularity": 5550,
+      "popularity": 5552,
       "added_at": 1724219666,
       "views": 912
     },
@@ -3038,7 +3038,7 @@
         "https://bosminiofficial.com/_sh/8/815.jpg"
       ],
       "stock_count": 0,
-      "popularity": 5886,
+      "popularity": 5916,
       "added_at": 1722408772,
       "views": 775
     },
@@ -11195,7 +11195,7 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1773903156,
-      "views": 540
+      "views": 541
     },
     {
       "slug": "bos-mini-n640dp5",
