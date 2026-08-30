@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788117316,
+  "generated_at": 1788117616,
   "scraped_count": 469,
   "products": [
     {
@@ -5520,7 +5520,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1787817773,
-      "views": 22
+      "views": 23
     },
     {
       "slug": "bos-mini-k15l-wi-fi",
@@ -10790,7 +10790,7 @@
       "stock_count": 0,
       "popularity": 1880,
       "added_at": 1722584362,
-      "views": 765
+      "views": 766
     },
     {
       "slug": "1-din-bos-mini-n770",
@@ -14016,7 +14016,7 @@
       "stock_count": 0,
       "popularity": 134,
       "added_at": 1755617876,
-      "views": 301
+      "views": 304
     },
     {
       "slug": "komplekt-akusticheskikh-provodov-dp-4ga",
@@ -14543,7 +14543,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1771744629,
-      "views": 297
+      "views": 298
     }
   ]
 }
