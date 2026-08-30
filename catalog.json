@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788113117,
+  "generated_at": 1788113416,
   "scraped_count": 469,
   "products": [
     {
@@ -341,7 +341,7 @@
         "https://bosminiofficial.com/_sh/30/3008.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1,
+      "popularity": 2,
       "added_at": 1784446916,
       "views": 204
     },
@@ -713,7 +713,7 @@
         "https://bosminiofficial.com/_sh/24/2495.jpg"
       ],
       "stock_count": 0,
-      "popularity": 93,
+      "popularity": 94,
       "added_at": 1753341610,
       "views": 2954
     },
@@ -1149,7 +1149,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1752852789,
-      "views": 1847
+      "views": 1848
     },
     {
       "slug": "bos-mini-k68",
@@ -1302,7 +1302,7 @@
         "https://bosminiofficial.com/_sh/27/2782.jpg"
       ],
       "stock_count": 0,
-      "popularity": 112,
+      "popularity": 114,
       "added_at": 1767294203,
       "views": 927
     },
@@ -2327,7 +2327,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1770801589,
-      "views": 619
+      "views": 620
     },
     {
       "slug": "e5-olom-es4-ultra-4-64gb-9",
@@ -5892,7 +5892,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1787554965,
-      "views": 36
+      "views": 37
     },
     {
       "slug": "e5-olom-lmt-5",
