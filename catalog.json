@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788102617,
+  "generated_at": 1788102917,
   "scraped_count": 469,
   "products": [
     {
@@ -11350,7 +11350,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1785307627,
-      "views": 134
+      "views": 135
     },
     {
       "slug": "dv-pioneer-ok-5503",
@@ -14388,7 +14388,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1771744690,
-      "views": 340
+      "views": 341
     },
     {
       "slug": "bos-mini-468d",
@@ -14419,7 +14419,7 @@
       "stock_count": 0,
       "popularity": 398,
       "added_at": 1754033937,
-      "views": 682
+      "views": 683
     },
     {
       "slug": "bos-mini-a25",
@@ -14450,7 +14450,7 @@
       "stock_count": 0,
       "popularity": 29,
       "added_at": 1783923577,
-      "views": 57
+      "views": 58
     },
     {
       "slug": "dv-pioneer-ok-414",
@@ -14481,7 +14481,7 @@
       "stock_count": 0,
       "popularity": 613,
       "added_at": 1765802307,
-      "views": 261
+      "views": 262
     },
     {
       "slug": "dv-pioneer-ok-415",
@@ -14543,7 +14543,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1771744629,
-      "views": 296
+      "views": 297
     }
   ]
 }
