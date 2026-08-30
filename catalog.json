@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788070217,
-  "scraped_count": 467,
+  "generated_at": 1788070516,
+  "scraped_count": 469,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -3226,7 +3226,7 @@
       "stock_count": 0,
       "popularity": 574,
       "added_at": 1776113206,
-      "views": 306
+      "views": 309
     },
     {
       "slug": "avtomobilnaja-ehlektrokruzhka-24v",
@@ -13769,6 +13769,68 @@
       "popularity": 16,
       "added_at": 1746689110,
       "views": 206
+    },
+    {
+      "slug": "y-kabel-1-mama-2-papa",
+      "url": "https://bosminiofficial.com/shop/1322/desc/y-kabel-1-mama-2-papa",
+      "name": "Y-кабель (1-Мама 2-Папа)",
+      "sku": "",
+      "price_rub": 100,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Сабвуферы и комплектующие"
+      ],
+      "brand_tags": [],
+      "description": "✅1-Мама 2-Папа",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/13/1322.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/13/1322.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/13/1322.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/13/1322.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 550,
+      "added_at": 1740909560,
+      "views": 146
+    },
+    {
+      "slug": "y-kabel-1-papa-2-mama",
+      "url": "https://bosminiofficial.com/shop/1321/desc/y-kabel-1-papa-2-mama",
+      "name": "Y-кабель (1-Папа 2-Мама)",
+      "sku": "",
+      "price_rub": 100,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Сабвуферы и комплектующие"
+      ],
+      "brand_tags": [],
+      "description": "✅ 1-Папа 2-Мама",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/13/1321.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/13/1321.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/13/1321.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/13/1321.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 567,
+      "added_at": 1740909477,
+      "views": 99
     },
     {
       "slug": "aktivnyj-sabvufer-px100",
