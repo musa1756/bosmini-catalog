@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788180617,
+  "generated_at": 1788180916,
   "scraped_count": 469,
   "products": [
     {
@@ -815,7 +815,7 @@
       "url": "https://bosminiofficial.com/shop/2680/desc/bos-a658d-pro-4-64gb",
       "name": "Bos-A658D Pro 4+64Gb",
       "sku": "",
-      "price_rub": 4500,
+      "price_rub": 4800,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -840,6 +840,37 @@
       "popularity": 135,
       "added_at": 1764313794,
       "views": 1756
+    },
+    {
+      "slug": "bos-a659d-pro-4-64gb",
+      "url": "https://bosminiofficial.com/shop/2681/desc/bos-a659d-pro-4-64gb",
+      "name": "Bos-A659D Pro 4+64Gb",
+      "sku": "",
+      "price_rub": 4800,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Память-4+64Gb\n✅Посадочное место-1Din\n✅CarPlay\n✅Выход Type-C для быстрой зарядки\n✅Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/26/2681.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2681.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/26/2681.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2681.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 51,
+      "added_at": 1764313847,
+      "views": 1401
     },
     {
       "slug": "bos-mini-a15-10-djujmov",
@@ -3537,37 +3568,6 @@
       "popularity": 16,
       "added_at": 1775199067,
       "views": 213
-    },
-    {
-      "slug": "aromatizator-x-v-korobke",
-      "url": "https://bosminiofficial.com/shop/1539/desc/aromatizator-x-v-korobke",
-      "name": "Ароматизатор X в Коробке",
-      "sku": "",
-      "price_rub": 300,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Автоаксессуары"
-      ],
-      "brand_tags": [],
-      "description": "✅Более 10 разных запахов ✅Количество щтук 15шт ✅1шт 20 руб",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/15/1539.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/15/1539.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/15/1539.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/15/1539.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 106,
-      "added_at": 1752661634,
-      "views": 386
     },
     {
       "slug": "aromatizator-diffuzory-rh-017",
@@ -10950,6 +10950,37 @@
       "views": 1213
     },
     {
+      "slug": "7010b",
+      "url": "https://bosminiofficial.com/shop/1254/desc/7010b",
+      "name": "7010B",
+      "sku": "",
+      "price_rub": 1650,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Экран-7 дюймов сенсорный ✅USB, SD card, Aux выход ✅Bluetooth ✅6 выходов RCA ✅Возможность подключения камеры заднего вида ✅Пульт управления и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/12/1254.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1254.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/12/1254.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1254.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 1501,
+      "added_at": 1738048528,
+      "views": 480
+    },
+    {
       "slug": "b0s-mini-678dp5",
       "url": "https://bosminiofficial.com/shop/2965/desc/b0s-mini-678dp5",
       "name": "B0S-MINI 678DP5",
@@ -13676,37 +13707,6 @@
       "popularity": 153,
       "added_at": 1766646329,
       "views": 300
-    },
-    {
-      "slug": "pioneer-gb-3080u",
-      "url": "https://bosminiofficial.com/shop/2677/desc/pioneer-gb-3080u",
-      "name": "Pioneer.Gb 3080U",
-      "sku": "",
-      "price_rub": 3200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер динамика -8 дюймов\n✅Мощность-2800W Max\n✅Провода в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/26/2677.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2677.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/26/2677.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2677.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 24,
-      "added_at": 1764221514,
-      "views": 224
     },
     {
       "slug": "syzx-v-us80",
