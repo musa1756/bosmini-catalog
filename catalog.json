@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788157817,
+  "generated_at": 1788158117,
   "scraped_count": 469,
   "products": [
     {
@@ -374,7 +374,7 @@
       "stock_count": 0,
       "popularity": 1005,
       "added_at": 1752844697,
-      "views": 1373
+      "views": 1374
     },
     {
       "slug": "bos-mini-a2-4-64gb-9",
@@ -994,7 +994,7 @@
       "stock_count": 0,
       "popularity": 603,
       "added_at": 1769575545,
-      "views": 1005
+      "views": 1006
     },
     {
       "slug": "bos-mini-a628d-dsp-4-64gb",
@@ -1769,7 +1769,7 @@
       "stock_count": 0,
       "popularity": 232,
       "added_at": 1781700641,
-      "views": 148
+      "views": 149
     },
     {
       "slug": "dhd-s1-4-64gb-9-djujmov",
@@ -11193,7 +11193,7 @@
         "https://bosminiofficial.com/_sh/30/3030.jpg"
       ],
       "stock_count": 0,
-      "popularity": 13,
+      "popularity": 15,
       "added_at": 1786687337,
       "views": 169
     },
@@ -11348,7 +11348,7 @@
         "https://bosminiofficial.com/_sh/30/3011.jpg"
       ],
       "stock_count": 0,
-      "popularity": 16,
+      "popularity": 18,
       "added_at": 1785307627,
       "views": 137
     },
@@ -12774,7 +12774,7 @@
         "https://bosminiofficial.com/_sh/6/686.jpg"
       ],
       "stock_count": 0,
-      "popularity": 183,
+      "popularity": 184,
       "added_at": 1718632955,
       "views": 268
     },
