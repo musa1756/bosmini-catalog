@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788170717,
+  "generated_at": 1788171016,
   "scraped_count": 469,
   "products": [
     {
@@ -622,7 +622,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1783407884,
-      "views": 72
+      "views": 73
     },
     {
       "slug": "bos-mini-q18-4-128gb",
@@ -1180,7 +1180,7 @@
       "stock_count": 0,
       "popularity": 29,
       "added_at": 1765802757,
-      "views": 1612
+      "views": 1613
     },
     {
       "slug": "bos-mini-k69",
@@ -1614,7 +1614,7 @@
       "stock_count": 0,
       "popularity": 80,
       "added_at": 1764392333,
-      "views": 547
+      "views": 548
     },
     {
       "slug": "bos-mini-ts18-10-6-128gb",
@@ -3908,7 +3908,7 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1763447303,
-      "views": 257
+      "views": 258
     },
     {
       "slug": "besprovodnoj-karplehj-t1-dlja-populjarnykh-modelej-toyota",
@@ -5489,7 +5489,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1787817722,
-      "views": 25
+      "views": 26
     },
     {
       "slug": "bos-mini-f85",
@@ -5706,7 +5706,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1765628182,
-      "views": 449
+      "views": 450
     },
     {
       "slug": "bos-mini-l-369",
@@ -8372,7 +8372,7 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1755665591,
-      "views": 418
+      "views": 419
     },
     {
       "slug": "hertz-401-10sm",
@@ -14543,7 +14543,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1771744629,
-      "views": 299
+      "views": 300
     }
   ]
 }
