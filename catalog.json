@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788246616,
-  "scraped_count": 469,
+  "generated_at": 1788246917,
+  "scraped_count": 470,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -3072,6 +3072,37 @@
       "popularity": 5946,
       "added_at": 1722408772,
       "views": 781
+    },
+    {
+      "slug": "cifrovaja-kamera-zadnego-vida-dlja-teyes-digital-cc4-pro-1080p",
+      "url": "https://bosminiofficial.com/shop/3041/desc/cifrovaja-kamera-zadnego-vida-dlja-teyes-digital-cc4-pro-1080p",
+      "name": "Цифровая камера заднего вида для Teyes Digital CC4 PRO 1080P",
+      "sku": "",
+      "price_rub": 2900,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "TEYES"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Цифровая камера заднего вида для Teyes Digital CC4 PRO 1080P",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3041.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3041.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3041.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3041.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1788246796,
+      "views": 1
     },
     {
       "slug": "cifrovoj-videoregistrator-teyes-digital",
