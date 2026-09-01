@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788291917,
+  "generated_at": 1788292216,
   "scraped_count": 470,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 756
+      "views": 757
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -1552,7 +1552,7 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1769577324,
-      "views": 527
+      "views": 528
     },
     {
       "slug": "bos-mini-ts10-6-128gb-10",
@@ -1645,7 +1645,7 @@
       "stock_count": 0,
       "popularity": 80,
       "added_at": 1764392333,
-      "views": 548
+      "views": 549
     },
     {
       "slug": "bos-mini-ts18-10-6-128gb",
