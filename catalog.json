@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788419117,
+  "generated_at": 1788419417,
   "scraped_count": 478,
   "products": [
     {
@@ -164,7 +164,7 @@
       "url": "https://bosminiofficial.com/shop/2717/desc/bos-mini-a1-pro-4-64gb-9",
       "name": "BOS-MINI A1 Pro 4+64Gb 9\"",
       "sku": "",
-      "price_rub": 5500,
+      "price_rub": 6000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -412,7 +412,7 @@
       "url": "https://bosminiofficial.com/shop/1941/desc/bos-mini-a2-4-64gb-10",
       "name": "BOS-MINI A2 4+64Gb 10\"",
       "sku": "",
-      "price_rub": 5500,
+      "price_rub": 6000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -443,7 +443,7 @@
       "url": "https://bosminiofficial.com/shop/1940/desc/bos-mini-a2-4-64gb-9",
       "name": "BOS-MINI A2 4+64Gb 9\"",
       "sku": "",
-      "price_rub": 5500,
+      "price_rub": 6000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -1063,7 +1063,7 @@
       "url": "https://bosminiofficial.com/shop/2686/desc/bos-mini-a1pro-10-4-64gb",
       "name": "Bos-Mini A1Pro 10\" 4+64Gb",
       "sku": "",
-      "price_rub": 5500,
+      "price_rub": 6000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -1211,7 +1211,7 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1764494672,
-      "views": 1220
+      "views": 1221
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-10-djujmov",
@@ -2854,7 +2854,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1787567077,
-      "views": 65
+      "views": 66
     },
     {
       "slug": "zx1-4-64gb-9",
@@ -3226,7 +3226,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1788246796,
-      "views": 18
+      "views": 19
     },
     {
       "slug": "cifrovoj-videoregistrator-teyes-digital",
@@ -3536,7 +3536,7 @@
       "stock_count": 0,
       "popularity": 599,
       "added_at": 1756104856,
-      "views": 200
+      "views": 201
     },
     {
       "slug": "aromatizator-rh-038",
@@ -5644,7 +5644,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1787817773,
-      "views": 37
+      "views": 38
     },
     {
       "slug": "bos-mini-k15l-wi-fi",
@@ -7969,7 +7969,7 @@
       "stock_count": 0,
       "popularity": 26,
       "added_at": 1752041968,
-      "views": 435
+      "views": 436
     },
     {
       "slug": "bos-mini-6515",
