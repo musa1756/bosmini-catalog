@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788417316,
-  "scraped_count": 480,
+  "generated_at": 1788417616,
+  "scraped_count": 479,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -186,7 +186,7 @@
         "https://bosminiofficial.com/_sh/27/2717.jpg"
       ],
       "stock_count": 0,
-      "popularity": 752,
+      "popularity": 762,
       "added_at": 1765176165,
       "views": 1949
     },
@@ -217,7 +217,7 @@
         "https://bosminiofficial.com/_sh/30/3042.jpg"
       ],
       "stock_count": 0,
-      "popularity": 0,
+      "popularity": 1,
       "added_at": 1788416160,
       "views": 3
     },
@@ -341,7 +341,7 @@
         "https://bosminiofficial.com/_sh/29/2980.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1,
+      "popularity": 2,
       "added_at": 1782470618,
       "views": 211
     },
@@ -436,7 +436,7 @@
       "stock_count": 0,
       "popularity": 1005,
       "added_at": 1752844697,
-      "views": 1381
+      "views": 1382
     },
     {
       "slug": "bos-mini-a2-4-64gb-9",
@@ -1147,7 +1147,7 @@
         "https://bosminiofficial.com/_sh/28/2809.jpg"
       ],
       "stock_count": 0,
-      "popularity": 603,
+      "popularity": 605,
       "added_at": 1769575545,
       "views": 1020
     },
@@ -1550,7 +1550,7 @@
         "https://bosminiofficial.com/_sh/20/2042.jpg"
       ],
       "stock_count": 0,
-      "popularity": 35,
+      "popularity": 37,
       "added_at": 1752912147,
       "views": 1984
     },
@@ -2451,7 +2451,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1765283275,
-      "views": 684
+      "views": 685
     },
     {
       "slug": "dv-pioneer-ok-z3-pro-6-64gb-9",
@@ -2604,7 +2604,7 @@
         "https://bosminiofficial.com/_sh/20/2011.jpg"
       ],
       "stock_count": 0,
-      "popularity": 10,
+      "popularity": 11,
       "added_at": 1752907950,
       "views": 198
     },
@@ -3040,7 +3040,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1784270492,
-      "views": 169
+      "views": 170
     },
     {
       "slug": "teyes-hs-sony-camera",
@@ -3317,7 +3317,7 @@
         "https://bosminiofficial.com/_sh/11/1107.jpg"
       ],
       "stock_count": 0,
-      "popularity": 16,
+      "popularity": 17,
       "added_at": 1732348103,
       "views": 1091
     },
@@ -3444,37 +3444,6 @@
       "popularity": 574,
       "added_at": 1776113206,
       "views": 312
-    },
-    {
-      "slug": "avtomobilnaja-ehlektrokruzhka-24v",
-      "url": "https://bosminiofficial.com/shop/1074/desc/avtomobilnaja-ehlektrokruzhka-24v",
-      "name": "Автомобильная электрокружка 24V",
-      "sku": "",
-      "price_rub": 1300,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Автоаксессуары"
-      ],
-      "brand_tags": [],
-      "description": "✅Напряжение- 24V ✅ Объем-350мл",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/10/1074.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1074.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/10/1074.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1074.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 4,
-      "added_at": 1732003598,
-      "views": 316
     },
     {
       "slug": "aromatizator-rh-001n",
@@ -4495,7 +4464,7 @@
         "https://bosminiofficial.com/_sh/29/2941.jpg"
       ],
       "stock_count": 0,
-      "popularity": 21,
+      "popularity": 22,
       "added_at": 1779958996,
       "views": 282
     },
@@ -5518,7 +5487,7 @@
         "https://bosminiofficial.com/_sh/25/2556.jpg"
       ],
       "stock_count": 0,
-      "popularity": 141,
+      "popularity": 143,
       "added_at": 1754140827,
       "views": 474
     },
@@ -5704,7 +5673,7 @@
         "https://bosminiofficial.com/_sh/30/3040.jpg"
       ],
       "stock_count": 0,
-      "popularity": 16,
+      "popularity": 21,
       "added_at": 1787817773,
       "views": 37
     },
@@ -6541,7 +6510,7 @@
         "https://bosminiofficial.com/_sh/12/1296.jpg"
       ],
       "stock_count": 0,
-      "popularity": 460,
+      "popularity": 461,
       "added_at": 1739603379,
       "views": 411
     },
@@ -6572,9 +6541,9 @@
         "https://bosminiofficial.com/_sh/27/2712.jpg"
       ],
       "stock_count": 0,
-      "popularity": 282,
+      "popularity": 283,
       "added_at": 1765013878,
-      "views": 324
+      "views": 325
     },
     {
       "slug": "videoregistrator-na-3-kamery-c6",
@@ -6758,7 +6727,7 @@
         "https://bosminiofficial.com/_sh/30/3000.jpg"
       ],
       "stock_count": 0,
-      "popularity": 5,
+      "popularity": 6,
       "added_at": 1783923958,
       "views": 144
     },
@@ -6789,7 +6758,7 @@
         "https://bosminiofficial.com/_sh/10/1088.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1266,
+      "popularity": 1286,
       "added_at": 1732039326,
       "views": 598
     },
@@ -8339,7 +8308,7 @@
         "https://bosminiofficial.com/_sh/25/2532.jpg"
       ],
       "stock_count": 0,
-      "popularity": 79,
+      "popularity": 82,
       "added_at": 1753860068,
       "views": 426
     },
@@ -9424,7 +9393,7 @@
         "https://bosminiofficial.com/_sh/15/1522.jpg"
       ],
       "stock_count": 0,
-      "popularity": 76,
+      "popularity": 96,
       "added_at": 1752047244,
       "views": 202
     },
@@ -14262,7 +14231,7 @@
         "https://bosminiofficial.com/_sh/27/2760.jpg"
       ],
       "stock_count": 0,
-      "popularity": 350,
+      "popularity": 380,
       "added_at": 1765863450,
       "views": 246
     },
