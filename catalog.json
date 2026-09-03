@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788416116,
-  "scraped_count": 470,
+  "generated_at": 1788416416,
+  "scraped_count": 474,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -191,6 +191,37 @@
       "views": 1949
     },
     {
+      "slug": "bos-mini-a12",
+      "url": "https://bosminiofficial.com/shop/3042/desc/bos-mini-a12",
+      "name": "BOS-MINI A12",
+      "sku": "",
+      "price_rub": 7500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-10 дюймов\n✅Память-4+64Gb\n✅Количество ядер-8\n✅Звуковой процессор DSP\n✅Большие шайбы управления меню\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅Рамка и комплект проводов для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3042.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3042.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3042.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3042.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1788416160,
+      "views": 1
+    },
+    {
       "slug": "bos-mini-a1203-bmw-style",
       "url": "https://bosminiofficial.com/shop/2985/desc/bos-mini-a1203-bmw-style",
       "name": "BOS-MINI A1203 BMW Style",
@@ -313,6 +344,37 @@
       "popularity": 1,
       "added_at": 1782470618,
       "views": 209
+    },
+    {
+      "slug": "bos-mini-a1236-wi-fi",
+      "url": "https://bosminiofficial.com/shop/3043/desc/bos-mini-a1236-wi-fi",
+      "name": "BOS-MINI A1236 Wi-Fi",
+      "sku": "",
+      "price_rub": 9500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-12,3 дюйма\n✅Память-4+64Gb\n✅Количество ядер-8\n✅Звуковой процессор DSP\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅Рамка и комплект проводов для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3043.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3043.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3043.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3043.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1788416281,
+      "views": 1
     },
     {
       "slug": "bos-mini-a1301",
@@ -563,6 +625,37 @@
       "views": 167
     },
     {
+      "slug": "bos-mini-b1236-wi-fi",
+      "url": "https://bosminiofficial.com/shop/3044/desc/bos-mini-b1236-wi-fi",
+      "name": "BOS-MINI B1236 Wi-Fi",
+      "sku": "",
+      "price_rub": 9500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-12,3 дюйма\n✅Память-4+64Gb\n✅Количество ядер-8\n✅Звуковой процессор DSP\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅Рамка и комплект проводов для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3044.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3044.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3044.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3044.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1788416365,
+      "views": 1
+    },
+    {
       "slug": "bos-mini-n578-4-64gb",
       "url": "https://bosminiofficial.com/shop/1964/desc/bos-mini-n578-4-64gb",
       "name": "BOS-MINI N578 4+64Gb",
@@ -747,6 +840,37 @@
       "popularity": 6,
       "added_at": 1782540190,
       "views": 154
+    },
+    {
+      "slug": "bos-mini-s1236-wi-fi",
+      "url": "https://bosminiofficial.com/shop/3045/desc/bos-mini-s1236-wi-fi",
+      "name": "BOS-MINI S1236 Wi-Fi",
+      "sku": "",
+      "price_rub": 9500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-12,3 дюйма\n✅Память-4+64Gb\n✅Количество ядер-8\n✅Звуковой процессор DSP\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅Рамка и комплект проводов для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3045.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3045.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3045.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3045.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1788416403,
+      "views": 0
     },
     {
       "slug": "bos-mini-t7038-4-64gb",
