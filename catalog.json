@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788422416,
+  "generated_at": 1788422716,
   "scraped_count": 478,
   "products": [
     {
@@ -653,7 +653,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1788416365,
-      "views": 5
+      "views": 6
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -1211,7 +1211,7 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1764494672,
-      "views": 1222
+      "views": 1223
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-10-djujmov",
@@ -2077,7 +2077,7 @@
         "https://bosminiofficial.com/_sh/29/2954.jpg"
       ],
       "stock_count": 0,
-      "popularity": 45,
+      "popularity": 48,
       "added_at": 1782024662,
       "views": 151
     },
@@ -2482,7 +2482,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1770801589,
-      "views": 628
+      "views": 629
     },
     {
       "slug": "e5-olom-es4-ultra-4-64gb-9",
@@ -2790,7 +2790,7 @@
         "https://bosminiofficial.com/_sh/29/2945.jpg"
       ],
       "stock_count": 0,
-      "popularity": 68,
+      "popularity": 71,
       "added_at": 1781589517,
       "views": 165
     },
@@ -2945,7 +2945,7 @@
         "https://bosminiofficial.com/_sh/30/3007.jpg"
       ],
       "stock_count": 0,
-      "popularity": 21,
+      "popularity": 26,
       "added_at": 1784270650,
       "views": 143
     },
@@ -2976,7 +2976,7 @@
         "https://bosminiofficial.com/_sh/30/3005.jpg"
       ],
       "stock_count": 0,
-      "popularity": 16,
+      "popularity": 19,
       "added_at": 1784270215,
       "views": 109
     },
@@ -3007,7 +3007,7 @@
         "https://bosminiofficial.com/_sh/30/3006.jpg"
       ],
       "stock_count": 0,
-      "popularity": 9,
+      "popularity": 11,
       "added_at": 1784270492,
       "views": 170
     },
