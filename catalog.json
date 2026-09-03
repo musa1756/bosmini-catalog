@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788423017,
+  "generated_at": 1788423317,
   "scraped_count": 477,
   "products": [
     {
@@ -567,7 +567,7 @@
       "url": "https://bosminiofficial.com/shop/2636/desc/bos-mini-a7-4-64gb-7",
       "name": "BOS-MINI A7 4+64Gb 7\"",
       "sku": "",
-      "price_rub": 6850,
+      "price_rub": 7150,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -784,7 +784,7 @@
       "url": "https://bosminiofficial.com/shop/2495/desc/bos-mini-q70-6-64gb-7",
       "name": "BOS-MINI Q70 6+64Gb 7\"",
       "sku": "",
-      "price_rub": 6500,
+      "price_rub": 6800,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -2451,7 +2451,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1770801589,
-      "views": 629
+      "views": 630
     },
     {
       "slug": "e5-olom-es4-ultra-4-64gb-9",
@@ -7690,7 +7690,7 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1782390093,
-      "views": 121
+      "views": 126
     },
     {
       "slug": "bos-t3165-16cm-40w",
@@ -11319,7 +11319,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1786687337,
-      "views": 204
+      "views": 205
     },
     {
       "slug": "bos-n726skdp5",
