@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788422716,
-  "scraped_count": 478,
+  "generated_at": 1788423017,
+  "scraped_count": 477,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1788416160,
-      "views": 3
+      "views": 4
     },
     {
       "slug": "bos-mini-a1203-bmw-style",
@@ -877,7 +877,7 @@
       "url": "https://bosminiofficial.com/shop/2924/desc/bos-mini-t7038-4-64gb",
       "name": "BOS-MINI T7038 4+64Gb",
       "sku": "",
-      "price_rub": 4600,
+      "price_rub": 4900,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -1615,37 +1615,6 @@
       "popularity": 95,
       "added_at": 1752853137,
       "views": 1005
-    },
-    {
-      "slug": "bos-mini-t8705-4-64gb-7",
-      "url": "https://bosminiofficial.com/shop/2040/desc/bos-mini-t8705-4-64gb-7",
-      "name": "Bos-Mini T8705 4+64Gb 7\"",
-      "sku": "",
-      "price_rub": 4500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-7 дюймов ✅Память-4+64Gb ✅CarPlay ✅Физические кнопки управления ✅Кулер охлаждения ✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/20/2040.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/20/2040.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/20/2040.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/20/2040.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 148,
-      "added_at": 1752911964,
-      "views": 2014
     },
     {
       "slug": "bos-mini-ts10-4-64gb-10",
@@ -10170,7 +10139,7 @@
       "stock_count": 0,
       "popularity": 89,
       "added_at": 1772781358,
-      "views": 417
+      "views": 418
     },
     {
       "slug": "dv-pioneer-ok-214",
