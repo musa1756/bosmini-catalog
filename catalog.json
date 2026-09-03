@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788417616,
-  "scraped_count": 479,
+  "generated_at": 1788417916,
+  "scraped_count": 478,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -870,7 +870,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1788416403,
-      "views": 3
+      "views": 4
     },
     {
       "slug": "bos-mini-t7038-4-64gb",
@@ -1900,7 +1900,7 @@
       "url": "https://bosminiofficial.com/shop/3020/desc/dhd-a3x-4-64gb-9",
       "name": "DHD A3X 4+64Gb 9\"",
       "sku": "",
-      "price_rub": 4400,
+      "price_rub": 4600,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -1931,7 +1931,7 @@
       "url": "https://bosminiofficial.com/shop/2951/desc/dhd-m1-4-64gb-9-djujmov",
       "name": "DHD M1 4+64Gb ,, 9-Дюймов",
       "sku": "",
-      "price_rub": 4500,
+      "price_rub": 4700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -1962,7 +1962,7 @@
       "url": "https://bosminiofficial.com/shop/2949/desc/dhd-s1-4-64gb-9-djujmov",
       "name": "DHD S1 4+64Gb \"9-Дюймов",
       "sku": "",
-      "price_rub": 4400,
+      "price_rub": 4600,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -1993,7 +1993,7 @@
       "url": "https://bosminiofficial.com/shop/2950/desc/dhd-s1-plus-4-64gb-10-djujmov",
       "name": "DHD S1 Plus 4+64Gb \"10-Дюймов",
       "sku": "",
-      "price_rub": 4400,
+      "price_rub": 4600,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -2024,7 +2024,7 @@
       "url": "https://bosminiofficial.com/shop/2948/desc/dhd-x1-plus-4-64gb-10-djujmov",
       "name": "DHD X1 Plus 4+64Gb \"10-Дюймов",
       "sku": "",
-      "price_rub": 4400,
+      "price_rub": 4600,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -2082,42 +2082,11 @@
       "views": 150
     },
     {
-      "slug": "dhd-x4-6-64-9",
-      "url": "https://bosminiofficial.com/shop/3021/desc/dhd-x4-6-64-9",
-      "name": "DHD X4 6+64 9\"",
-      "sku": "",
-      "price_rub": 4750,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9 дюймов\n✅Память-6+64Gb\n✅Разрешение экрана-2K\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3021.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3021.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3021.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3021.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 80,
-      "added_at": 1785750468,
-      "views": 133
-    },
-    {
       "slug": "dhd-y2-pro-12-128gb-9",
       "url": "https://bosminiofficial.com/shop/2990/desc/dhd-y2-pro-12-128gb-9",
       "name": "DHD Y2 PRO 12+128Gb 9\"",
       "sku": "",
-      "price_rub": 8000,
+      "price_rub": 8700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -2451,7 +2420,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1765283275,
-      "views": 685
+      "views": 687
     },
     {
       "slug": "dv-pioneer-ok-z3-pro-6-64gb-9",
@@ -2830,7 +2799,7 @@
       "url": "https://bosminiofficial.com/shop/2863/desc/y2-pro-12-128gb",
       "name": "Y2 Pro 12+128Gb",
       "sku": "",
-      "price_rub": 8000,
+      "price_rub": 8700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -11164,7 +11133,7 @@
       "stock_count": 0,
       "popularity": 34,
       "added_at": 1782205423,
-      "views": 334
+      "views": 335
     },
     {
       "slug": "bos-783dp5",
@@ -11753,7 +11722,7 @@
       "stock_count": 0,
       "popularity": 918,
       "added_at": 1716836782,
-      "views": 379
+      "views": 380
     },
     {
       "slug": "pioneergb-grs-883dp5",
@@ -12776,7 +12745,7 @@
       "stock_count": 0,
       "popularity": 38,
       "added_at": 1755666601,
-      "views": 185
+      "views": 186
     },
     {
       "slug": "kia-rio-2012-2016",
