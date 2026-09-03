@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788416416,
-  "scraped_count": 474,
+  "generated_at": 1788416716,
+  "scraped_count": 479,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1788416160,
-      "views": 1
+      "views": 3
     },
     {
       "slug": "bos-mini-a1203-bmw-style",
@@ -374,7 +374,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1788416281,
-      "views": 1
+      "views": 3
     },
     {
       "slug": "bos-mini-a1301",
@@ -7542,7 +7542,7 @@
       "url": "https://bosminiofficial.com/shop/1272/desc/bos-mini-6588",
       "name": "BOS-MINI 6588",
       "sku": "",
-      "price_rub": 1500,
+      "price_rub": 1650,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -7914,7 +7914,7 @@
       "url": "https://bosminiofficial.com/shop/1132/desc/bos-mini-5086-13sm",
       "name": "Bos-Mini 5086 (13см)",
       "sku": "",
-      "price_rub": 1250,
+      "price_rub": 1300,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -11694,6 +11694,99 @@
       "views": 755
     },
     {
+      "slug": "pioneergb-grs-881dp5",
+      "url": "https://bosminiofficial.com/shop/617/desc/pioneergb-grs-881dp5",
+      "name": "PioneerGB GRS-881DP5",
+      "sku": "",
+      "price_rub": 2400,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-7” ✅Bluetooth ✅Aux ✅Сенсорный экран ✅2 пульта управления ✅Mirror link ✅Возможность подключения камеры заднего вида",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/6/617.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/6/617.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/6/617.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/6/617.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 444,
+      "added_at": 1716836605,
+      "views": 817
+    },
+    {
+      "slug": "pioneergb-grs-882dp5",
+      "url": "https://bosminiofficial.com/shop/618/desc/pioneergb-grs-882dp5",
+      "name": "PioneerGB GRS-882DP5",
+      "sku": "",
+      "price_rub": 2400,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-7” ✅Bluetooth ✅Aux ✅Сенсорный экран ✅2 пульта управления ✅Mirror link ✅Возможность подключения камеры заднего вида",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/6/618.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/6/618.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/6/618.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/6/618.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 918,
+      "added_at": 1716836782,
+      "views": 379
+    },
+    {
+      "slug": "pioneergb-grs-883dp5",
+      "url": "https://bosminiofficial.com/shop/619/desc/pioneergb-grs-883dp5",
+      "name": "PioneerGB GRS-883DP5",
+      "sku": "",
+      "price_rub": 2400,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-7” ✅Bluetooth ✅Aux ✅Сенсорный экран ✅2 пульта управления ✅Mirror link ✅Возможность подключения камеры заднего вида",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/6/619.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/6/619.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/6/619.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/6/619.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 782,
+      "added_at": 1716836918,
+      "views": 353
+    },
+    {
       "slug": "2-provodnyj-ehlektroprivod-zamka-dverej-bm-02",
       "url": "https://bosminiofficial.com/shop/2842/desc/2-provodnyj-ehlektroprivod-zamka-dverej-bm-02",
       "name": "2-проводный электропривод замка дверей BM-02",
@@ -14699,6 +14792,68 @@
       "popularity": 8,
       "added_at": 1771744629,
       "views": 304
+    },
+    {
+      "slug": "planior-pla-a21",
+      "url": "https://bosminiofficial.com/shop/346/desc/planior-pla-a21",
+      "name": "Planior PLA-A21",
+      "sku": "PLA-21",
+      "price_rub": 1050,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Усилители"
+      ],
+      "brand_tags": [],
+      "description": "✅Максимальная мощность 600W\n✅Встроенный эквалайзер\n✅4 канала\n✅\nУправление с телефона",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/3/346.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/3/346.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/3/346.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/3/346.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 686,
+      "added_at": 1714856095,
+      "views": 642
+    },
+    {
+      "slug": "planior-pla-a25",
+      "url": "https://bosminiofficial.com/shop/1285/desc/planior-pla-a25",
+      "name": "Planior PLA-A25",
+      "sku": "PLA-25",
+      "price_rub": 1050,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Усилители"
+      ],
+      "brand_tags": [],
+      "description": "✅Максимальная мощность 600W\n✅Встроенный эквалайзер\n✅4 канала\n✅\nУправление с телефона",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/12/1285.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1285.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/12/1285.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1285.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 139,
+      "added_at": 1738756387,
+      "views": 963
     }
   ]
 }
