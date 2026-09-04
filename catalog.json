@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788518416,
+  "generated_at": 1788518717,
   "scraped_count": 477,
   "products": [
     {
@@ -124,7 +124,7 @@
         "https://bosminiofficial.com/_sh/19/1942.jpg"
       ],
       "stock_count": 0,
-      "popularity": 504,
+      "popularity": 516,
       "added_at": 1752844839,
       "views": 1490
     },
@@ -155,7 +155,7 @@
         "https://bosminiofficial.com/_sh/19/1943.jpg"
       ],
       "stock_count": 0,
-      "popularity": 261,
+      "popularity": 264,
       "added_at": 1752844861,
       "views": 1026
     },
@@ -808,7 +808,7 @@
       "stock_count": 0,
       "popularity": 100,
       "added_at": 1753341610,
-      "views": 2975
+      "views": 2976
     },
     {
       "slug": "bos-mini-s1203-mersedes-style",
@@ -1211,7 +1211,7 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1764494672,
-      "views": 1225
+      "views": 1226
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-10-djujmov",
@@ -1521,7 +1521,7 @@
       "stock_count": 0,
       "popularity": 73,
       "added_at": 1752853019,
-      "views": 1295
+      "views": 1296
     },
     {
       "slug": "bos-mini-t216-4-64gb",
@@ -2449,7 +2449,7 @@
         "https://bosminiofficial.com/_sh/28/2831.jpg"
       ],
       "stock_count": 0,
-      "popularity": 43,
+      "popularity": 44,
       "added_at": 1770801589,
       "views": 632
     },
@@ -10819,7 +10819,7 @@
         "https://bosminiofficial.com/_sh/8/824.jpg"
       ],
       "stock_count": 0,
-      "popularity": 2268,
+      "popularity": 2271,
       "added_at": 1722713624,
       "views": 681
     },
@@ -10978,7 +10978,7 @@
       "stock_count": 0,
       "popularity": 161,
       "added_at": 1714856095,
-      "views": 1328
+      "views": 1329
     },
     {
       "slug": "magnitola-bos-mini-n972dsp",
@@ -11069,7 +11069,7 @@
         "https://bosminiofficial.com/_sh/12/1254.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1501,
+      "popularity": 1521,
       "added_at": 1738048528,
       "views": 500
     },
@@ -14789,7 +14789,7 @@
         "https://bosminiofficial.com/_sh/12/1285.jpg"
       ],
       "stock_count": 0,
-      "popularity": 139,
+      "popularity": 142,
       "added_at": 1738756387,
       "views": 965
     }
