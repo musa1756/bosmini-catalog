@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788499517,
+  "generated_at": 1788499817,
   "scraped_count": 477,
   "products": [
     {
@@ -9581,7 +9581,7 @@
       "stock_count": 0,
       "popularity": 488,
       "added_at": 1722879275,
-      "views": 933
+      "views": 934
     },
     {
       "slug": "bos-mini-y957bt-12v-24v",
@@ -14636,7 +14636,7 @@
       "stock_count": 0,
       "popularity": 32,
       "added_at": 1783923577,
-      "views": 63
+      "views": 64
     },
     {
       "slug": "dv-pioneer-ok-414",
@@ -14791,7 +14791,7 @@
       "stock_count": 0,
       "popularity": 139,
       "added_at": 1738756387,
-      "views": 963
+      "views": 964
     }
   ]
 }
