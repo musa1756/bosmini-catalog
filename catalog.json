@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788511816,
+  "generated_at": 1788512116,
   "scraped_count": 477,
   "products": [
     {
@@ -467,7 +467,7 @@
       "stock_count": 0,
       "popularity": 3185,
       "added_at": 1752844676,
-      "views": 1840
+      "views": 1841
     },
     {
       "slug": "bos-mini-a42-6-64gb-9",
@@ -2141,7 +2141,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1752843688,
-      "views": 441
+      "views": 443
     },
     {
       "slug": "dv-pioneer-ok-6611",
@@ -2542,7 +2542,7 @@
         "https://bosminiofficial.com/_sh/20/2011.jpg"
       ],
       "stock_count": 0,
-      "popularity": 11,
+      "popularity": 16,
       "added_at": 1752907950,
       "views": 199
     },
@@ -2759,7 +2759,7 @@
         "https://bosminiofficial.com/_sh/29/2945.jpg"
       ],
       "stock_count": 0,
-      "popularity": 71,
+      "popularity": 81,
       "added_at": 1781589517,
       "views": 167
     },
@@ -2821,7 +2821,7 @@
         "https://bosminiofficial.com/_sh/30/3038.jpg"
       ],
       "stock_count": 0,
-      "popularity": 2,
+      "popularity": 4,
       "added_at": 1787567077,
       "views": 69
     },
@@ -3906,7 +3906,7 @@
         "https://bosminiofficial.com/_sh/30/3001.jpg"
       ],
       "stock_count": 0,
-      "popularity": 49,
+      "popularity": 79,
       "added_at": 1784116984,
       "views": 79
     },
@@ -5613,7 +5613,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1787817773,
-      "views": 44
+      "views": 45
     },
     {
       "slug": "bos-mini-k15l-wi-fi",
@@ -7907,7 +7907,7 @@
       "stock_count": 0,
       "popularity": 88,
       "added_at": 1723527380,
-      "views": 700
+      "views": 701
     },
     {
       "slug": "bos-mini-5565",
@@ -11348,7 +11348,7 @@
         "https://bosminiofficial.com/_sh/30/3031.jpg"
       ],
       "stock_count": 0,
-      "popularity": 21,
+      "popularity": 27,
       "added_at": 1786687638,
       "views": 301
     },
@@ -12743,7 +12743,7 @@
         "https://bosminiofficial.com/_sh/25/2552.jpg"
       ],
       "stock_count": 0,
-      "popularity": 283,
+      "popularity": 286,
       "added_at": 1754039103,
       "views": 298
     },
@@ -14605,7 +14605,7 @@
       "stock_count": 0,
       "popularity": 400,
       "added_at": 1754033937,
-      "views": 703
+      "views": 704
     },
     {
       "slug": "bos-mini-a25",
@@ -14636,7 +14636,7 @@
       "stock_count": 0,
       "popularity": 32,
       "added_at": 1783923577,
-      "views": 64
+      "views": 65
     },
     {
       "slug": "dv-pioneer-ok-414",
@@ -14760,7 +14760,7 @@
       "stock_count": 0,
       "popularity": 686,
       "added_at": 1714856095,
-      "views": 643
+      "views": 644
     },
     {
       "slug": "planior-pla-a25",
@@ -14791,7 +14791,7 @@
       "stock_count": 0,
       "popularity": 139,
       "added_at": 1738756387,
-      "views": 964
+      "views": 965
     }
   ]
 }
