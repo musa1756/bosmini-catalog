@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788596116,
-  "scraped_count": 477,
+  "generated_at": 1788596417,
+  "scraped_count": 475,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -96,37 +96,6 @@
       "popularity": 45,
       "added_at": 1763311652,
       "views": 905
-    },
-    {
-      "slug": "bos-mini-8701-2-32gb-7",
-      "url": "https://bosminiofficial.com/shop/1942/desc/bos-mini-8701-2-32gb-7",
-      "name": "BOS-MINI 8701 2+32Gb 7\"",
-      "sku": "",
-      "price_rub": 3750,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Память-2+32Gb ✅Размер экрана- 7 дюймов ✅QLed ✅Carplay ✅Набор проводов в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/19/1942.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/19/1942.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/19/1942.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/19/1942.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 516,
-      "added_at": 1752844839,
-      "views": 1494
     },
     {
       "slug": "bos-mini-8702-2-32gb-7",
@@ -1056,7 +1025,7 @@
       "stock_count": 0,
       "popularity": 53,
       "added_at": 1772527002,
-      "views": 1002
+      "views": 1003
     },
     {
       "slug": "bos-mini-a1pro-10-4-64gb",
@@ -1459,7 +1428,7 @@
       "stock_count": 0,
       "popularity": 116,
       "added_at": 1767294203,
-      "views": 942
+      "views": 943
     },
     {
       "slug": "bos-mini-n776s-4-64gb",
@@ -2421,37 +2390,6 @@
       "popularity": 70,
       "added_at": 1765282134,
       "views": 464
-    },
-    {
-      "slug": "e5-olom-es4-flip-4-64gb",
-      "url": "https://bosminiofficial.com/shop/2831/desc/e5-olom-es4-flip-4-64gb",
-      "name": "E5-OLOM ES4 Flip 4+64Gb",
-      "sku": "",
-      "price_rub": 4600,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9 дюймов\n✅Типоразмер-1Din\n✅Память-4+64Gb\n✅Голосовое управление\n✅Кулер охлаждения\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2831.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2831.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2831.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2831.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 44,
-      "added_at": 1770801589,
-      "views": 635
     },
     {
       "slug": "e5-olom-es4-ultra-4-64gb-9",
