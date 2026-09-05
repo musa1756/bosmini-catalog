@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788597616,
+  "generated_at": 1788597916,
   "scraped_count": 475,
   "products": [
     {
@@ -250,7 +250,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1782390552,
-      "views": 173
+      "views": 174
     },
     {
       "slug": "bos-mini-a1206-4g",
@@ -281,7 +281,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1782390686,
-      "views": 204
+      "views": 205
     },
     {
       "slug": "bos-mini-a1213",
@@ -312,7 +312,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1782470618,
-      "views": 212
+      "views": 213
     },
     {
       "slug": "bos-mini-a1236-wi-fi",
@@ -343,7 +343,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1788416281,
-      "views": 14
+      "views": 15
     },
     {
       "slug": "bos-mini-a1301",
@@ -684,7 +684,7 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1783407884,
-      "views": 87
+      "views": 88
     },
     {
       "slug": "bos-mini-q18-4-128gb",
@@ -839,7 +839,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1788416403,
-      "views": 20
+      "views": 21
     },
     {
       "slug": "bos-mini-t7038-4-64gb",
@@ -2079,7 +2079,7 @@
       "stock_count": 0,
       "popularity": 55,
       "added_at": 1783060101,
-      "views": 134
+      "views": 135
     },
     {
       "slug": "dv-pineer-ok-ahd-9115-10-3-32gb-10",
@@ -2761,7 +2761,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1787567077,
-      "views": 71
+      "views": 72
     },
     {
       "slug": "zx1-4-64gb-9",
@@ -2792,7 +2792,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1776517259,
-      "views": 291
+      "views": 292
     },
     {
       "slug": "zx1-pro-plus-4-64gb-10",
@@ -8403,7 +8403,7 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1755665591,
-      "views": 429
+      "views": 430
     },
     {
       "slug": "hertz-401-10sm",
@@ -10387,7 +10387,7 @@
       "stock_count": 0,
       "popularity": 191,
       "added_at": 1773034968,
-      "views": 437
+      "views": 438
     },
     {
       "slug": "e5-olom-e-011",
@@ -10821,7 +10821,7 @@
       "stock_count": 0,
       "popularity": 1890,
       "added_at": 1722584362,
-      "views": 780
+      "views": 781
     },
     {
       "slug": "1-din-bos-mini-n770",
