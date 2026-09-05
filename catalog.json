@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788613816,
-  "scraped_count": 474,
+  "generated_at": 1788614116,
+  "scraped_count": 473,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1459,7 +1459,7 @@
       "stock_count": 0,
       "popularity": 84,
       "added_at": 1765630585,
-      "views": 1060
+      "views": 1061
     },
     {
       "slug": "bos-mini-q5-4-64gb-9",
@@ -3319,7 +3319,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1775198471,
-      "views": 282
+      "views": 283
     },
     {
       "slug": "aromatizator-rh-002",
@@ -3443,7 +3443,7 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1769494185,
-      "views": 168
+      "views": 169
     },
     {
       "slug": "aromatizator-rh-039",
@@ -3784,38 +3784,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1769411698,
-      "views": 161
-    },
-    {
-      "slug": "aromatizatory-ds-001",
-      "url": "https://bosminiofficial.com/shop/3001/desc/aromatizatory-ds-001",
-      "name": "Ароматизаторы DS-001",
-      "sku": "",
-      "price_rub": 45,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Автоаксессуары"
-      ],
-      "brand_tags": [],
-      "description": "✅Вкус DIOR SAVAGE\n✅О\nбъем-10 мл",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3001.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3001.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3001.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3001.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 79,
-      "added_at": 1784116984,
-      "views": 79
+      "views": 162
     },
     {
       "slug": "aromatizatory-rh-043",
@@ -12063,7 +12032,7 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1754137765,
-      "views": 437
+      "views": 438
     },
     {
       "slug": "odnostoronnjaja-signalizacija-bos-mini-g6099bt",
