@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788604216,
-  "scraped_count": 475,
+  "generated_at": 1788604516,
+  "scraped_count": 474,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -436,7 +436,7 @@
       "stock_count": 0,
       "popularity": 3185,
       "added_at": 1752844676,
-      "views": 1843
+      "views": 1844
     },
     {
       "slug": "bos-mini-a42-6-64gb-9",
@@ -653,7 +653,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1752859489,
-      "views": 997
+      "views": 998
     },
     {
       "slug": "bos-mini-q17",
@@ -839,7 +839,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1788416403,
-      "views": 21
+      "views": 22
     },
     {
       "slug": "bos-mini-t7038-4-64gb",
@@ -2142,37 +2142,6 @@
       "popularity": 13,
       "added_at": 1752841827,
       "views": 659
-    },
-    {
-      "slug": "dv-pioneer-ok-bx4-6-128gb",
-      "url": "https://bosminiofficial.com/shop/2828/desc/dv-pioneer-ok-bx4-6-128gb",
-      "name": "DV-Pioneer.Ok BX4 6+128Gb",
-      "sku": "",
-      "price_rub": 5700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9 дюймов\n✅Память- 6+128Gb\n✅Type C разъем\n✅Кнопки управления меню по бокам\n✅Кулер охлаждения\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2828.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2828.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2828.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2828.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 142,
-      "added_at": 1770801359,
-      "views": 572
     },
     {
       "slug": "dv-pioneer-ok-d107-4-64gb",
@@ -5241,7 +5210,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1778565029,
-      "views": 181
+      "views": 182
     },
     {
       "slug": "galogenovaja-lampa-hb4-9006",
@@ -7442,7 +7411,7 @@
       "stock_count": 0,
       "popularity": 166,
       "added_at": 1738649729,
-      "views": 450
+      "views": 451
     },
     {
       "slug": "bos-mini-6990-6-9-800w",
@@ -7690,7 +7659,7 @@
       "stock_count": 0,
       "popularity": 59,
       "added_at": 1749112890,
-      "views": 856
+      "views": 857
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -9271,7 +9240,7 @@
       "stock_count": 0,
       "popularity": 96,
       "added_at": 1752047244,
-      "views": 202
+      "views": 203
     },
     {
       "slug": "1-din-bos-mini-n771",
@@ -10232,7 +10201,7 @@
       "stock_count": 0,
       "popularity": 40,
       "added_at": 1770802487,
-      "views": 270
+      "views": 271
     },
     {
       "slug": "dv-pioneer-ok-mp371dsp",
@@ -11505,7 +11474,7 @@
       "stock_count": 0,
       "popularity": 110,
       "added_at": 1743669570,
-      "views": 591
+      "views": 592
     },
     {
       "slug": "pioneer-gb-mvh-595dp5",
