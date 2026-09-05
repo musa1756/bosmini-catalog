@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788651016,
+  "generated_at": 1788651317,
   "scraped_count": 473,
   "products": [
     {
@@ -2916,7 +2916,7 @@
       "stock_count": 0,
       "popularity": 2599,
       "added_at": 1753684369,
-      "views": 717
+      "views": 718
     },
     {
       "slug": "teyes-sony-ahd-1080p",
@@ -2947,7 +2947,7 @@
       "stock_count": 0,
       "popularity": 3167,
       "added_at": 1753683801,
-      "views": 747
+      "views": 748
     },
     {
       "slug": "teyes-x5-dvr",
@@ -10823,7 +10823,7 @@
       "stock_count": 0,
       "popularity": 163,
       "added_at": 1714856095,
-      "views": 1499
+      "views": 1500
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
@@ -10854,7 +10854,7 @@
       "stock_count": 0,
       "popularity": 161,
       "added_at": 1714856095,
-      "views": 1337
+      "views": 1338
     },
     {
       "slug": "magnitola-bos-mini-n972dsp",
@@ -14667,7 +14667,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1738756387,
-      "views": 966
+      "views": 967
     }
   ]
 }
