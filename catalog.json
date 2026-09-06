@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788685817,
-  "scraped_count": 473,
+  "generated_at": 1788686117,
+  "scraped_count": 472,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -13025,37 +13025,6 @@
       "popularity": 31,
       "added_at": 1774597460,
       "views": 153
-    },
-    {
-      "slug": "vw-polo-2012-2017",
-      "url": "https://bosminiofficial.com/shop/611/desc/vw-polo-2012-2017",
-      "name": "VW POLO 2012-2017",
-      "sku": "",
-      "price_rub": 950,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Переходные рамки"
-      ],
-      "brand_tags": [],
-      "description": "✅ Размер рамки-9\" ✅ Провода в комплекте.",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/6/611.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/6/611.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/6/611.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/6/611.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 218,
-      "added_at": 1716587994,
-      "views": 372
     },
     {
       "slug": "red-24v-220v-1000w",
