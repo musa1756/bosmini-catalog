@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788686717,
-  "scraped_count": 472,
+  "generated_at": 1788687017,
+  "scraped_count": 469,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -498,7 +498,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1779786820,
-      "views": 256
+      "views": 257
     },
     {
       "slug": "bos-mini-a6-wi-fi-4-64gb-9-djujm",
@@ -8158,99 +8158,6 @@
       "views": 317
     },
     {
-      "slug": "hx409",
-      "url": "https://bosminiofficial.com/shop/2766/desc/hx409",
-      "name": "HX409",
-      "sku": "",
-      "price_rub": 1300,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер-10см\n✅Максимальная мощность-800w",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2766.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2766.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2766.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2766.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 1,
-      "added_at": 1765863961,
-      "views": 169
-    },
-    {
-      "slug": "hx509",
-      "url": "https://bosminiofficial.com/shop/2767/desc/hx509",
-      "name": "HX509",
-      "sku": "",
-      "price_rub": 1500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер-13см\n✅Максимальная мощность-1000w",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2767.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2767.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2767.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2767.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 4,
-      "added_at": 1765864015,
-      "views": 172
-    },
-    {
-      "slug": "hx699",
-      "url": "https://bosminiofficial.com/shop/2769/desc/hx699",
-      "name": "HX699",
-      "sku": "",
-      "price_rub": 2400,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер колонки-6/9 овалы\n✅Мощность-1800W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2769.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2769.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2769.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2769.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 8,
-      "added_at": 1765864139,
-      "views": 208
-    },
-    {
       "slug": "hz-405-360w-10sm",
       "url": "https://bosminiofficial.com/shop/2591/desc/hz-405-360w-10sm",
       "name": "HZ-405 (360W, 10см)",
@@ -10077,7 +9984,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1770802347,
-      "views": 240
+      "views": 241
     },
     {
       "slug": "dv-pioneer-ok-mp3565",
