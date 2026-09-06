@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788704116,
+  "generated_at": 1788704416,
   "scraped_count": 469,
   "products": [
     {
@@ -1180,7 +1180,7 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1764494672,
-      "views": 1233
+      "views": 1237
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-10-djujmov",
@@ -3288,7 +3288,7 @@
       "stock_count": 0,
       "popularity": 574,
       "added_at": 1776113206,
-      "views": 314
+      "views": 315
     },
     {
       "slug": "aromatizator-rh-001n",
@@ -3939,7 +3939,7 @@
       "stock_count": 0,
       "popularity": 248,
       "added_at": 1752176292,
-      "views": 371
+      "views": 372
     },
     {
       "slug": "vozdukhoduvka-s-funkciej-pylesosa",
@@ -14543,7 +14543,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1738756387,
-      "views": 967
+      "views": 968
     }
   ]
 }
