@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788712816,
+  "generated_at": 1788713117,
   "scraped_count": 469,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 762
+      "views": 763
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -529,7 +529,7 @@
       "stock_count": 0,
       "popularity": 95,
       "added_at": 1779787001,
-      "views": 326
+      "views": 327
     },
     {
       "slug": "bos-mini-a7-4-64gb-7",
@@ -1490,7 +1490,7 @@
       "stock_count": 0,
       "popularity": 73,
       "added_at": 1752853019,
-      "views": 1302
+      "views": 1303
     },
     {
       "slug": "bos-mini-t216-4-64gb",
@@ -2482,7 +2482,7 @@
       "stock_count": 0,
       "popularity": 55,
       "added_at": 1769575727,
-      "views": 466
+      "views": 467
     },
     {
       "slug": "pioneer-gb-f8-plus-12-128g-10",
@@ -2513,7 +2513,7 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1769577216,
-      "views": 708
+      "views": 709
     },
     {
       "slug": "pioneer-gb-f8-plus-12-128g-9",
@@ -2761,7 +2761,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1776517259,
-      "views": 294
+      "views": 295
     },
     {
       "slug": "zx1-pro-plus-4-64gb-10",
@@ -6605,7 +6605,7 @@
       "stock_count": 0,
       "popularity": 1207,
       "added_at": 1732038428,
-      "views": 546
+      "views": 547
     },
     {
       "slug": "kamera-zad-vida-bos-mini-e-267",
