@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788770116,
+  "generated_at": 1788770417,
   "scraped_count": 469,
   "products": [
     {
@@ -343,7 +343,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1788416281,
-      "views": 19
+      "views": 20
     },
     {
       "slug": "bos-mini-a1301",
@@ -839,7 +839,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1788416403,
-      "views": 31
+      "views": 32
     },
     {
       "slug": "bos-mini-t7038-4-64gb",
@@ -2730,7 +2730,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1787567077,
-      "views": 79
+      "views": 80
     },
     {
       "slug": "zx1-4-64gb-9",
