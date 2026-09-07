@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788761716,
+  "generated_at": 1788762017,
   "scraped_count": 469,
   "products": [
     {
@@ -186,7 +186,7 @@
         "https://bosminiofficial.com/_sh/30/3042.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1,
+      "popularity": 4,
       "added_at": 1788416160,
       "views": 28
     },
@@ -496,7 +496,7 @@
         "https://bosminiofficial.com/_sh/29/2938.jpg"
       ],
       "stock_count": 0,
-      "popularity": 16,
+      "popularity": 17,
       "added_at": 1779786820,
       "views": 259
     },
@@ -527,7 +527,7 @@
         "https://bosminiofficial.com/_sh/29/2939.jpg"
       ],
       "stock_count": 0,
-      "popularity": 95,
+      "popularity": 96,
       "added_at": 1779787001,
       "views": 328
     },
@@ -744,9 +744,9 @@
         "https://bosminiofficial.com/_sh/19/1982.jpg"
       ],
       "stock_count": 0,
-      "popularity": 98,
+      "popularity": 102,
       "added_at": 1752862854,
-      "views": 556
+      "views": 557
     },
     {
       "slug": "bos-mini-q70-6-64gb-7",
@@ -775,7 +775,7 @@
         "https://bosminiofficial.com/_sh/24/2495.jpg"
       ],
       "stock_count": 0,
-      "popularity": 100,
+      "popularity": 101,
       "added_at": 1753341610,
       "views": 2984
     },
@@ -963,7 +963,7 @@
       "stock_count": 0,
       "popularity": 52,
       "added_at": 1764313847,
-      "views": 1430
+      "views": 1431
     },
     {
       "slug": "bos-mini-a15-10-djujmov",
@@ -4063,7 +4063,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1766149772,
-      "views": 313
+      "views": 314
     },
     {
       "slug": "multimedijnaja-smart-pristavka-kpl070-4-64g",
