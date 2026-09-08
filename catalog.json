@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788845717,
-  "scraped_count": 469,
+  "generated_at": 1788846017,
+  "scraped_count": 468,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -155,9 +155,9 @@
         "https://bosminiofficial.com/_sh/27/2717.jpg"
       ],
       "stock_count": 0,
-      "popularity": 762,
+      "popularity": 767,
       "added_at": 1765176165,
-      "views": 1979
+      "views": 1980
     },
     {
       "slug": "bos-mini-a12",
@@ -11663,37 +11663,6 @@
       "views": 736
     },
     {
-      "slug": "bos-08g",
-      "url": "https://bosminiofficial.com/shop/1455/desc/bos-08g",
-      "name": "Bos-08G",
-      "sku": "",
-      "price_rub": 750,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Охранные системы"
-      ],
-      "brand_tags": [],
-      "description": "✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/14/1455.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/14/1455.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/14/1455.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/14/1455.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 91,
-      "added_at": 1749112025,
-      "views": 364
-    },
-    {
       "slug": "bos-mini-a238",
       "url": "https://bosminiofficial.com/shop/2711/desc/bos-mini-a238",
       "name": "Bos-Mini A238",
@@ -11791,7 +11760,7 @@
       "url": "https://bosminiofficial.com/shop/2524/desc/tomahawk-tw-9010",
       "name": "TOMAHAWK TW-9010",
       "sku": "",
-      "price_rub": 2250,
+      "price_rub": 2500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -11853,7 +11822,7 @@
       "url": "https://bosminiofficial.com/shop/363/desc/dvukhstoronnjaja-signalizacija-s-avtozapuskom-x5",
       "name": "Двухсторонняя сигнализация с автозапуском X5",
       "sku": "TOMAHAWK",
-      "price_rub": 2250,
+      "price_rub": 2500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
