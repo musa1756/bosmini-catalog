@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788851717,
+  "generated_at": 1788852016,
   "scraped_count": 468,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 767
+      "views": 768
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -436,7 +436,7 @@
       "stock_count": 0,
       "popularity": 3185,
       "added_at": 1752844676,
-      "views": 1860
+      "views": 1861
     },
     {
       "slug": "bos-mini-a42-6-64gb-9",
@@ -1838,7 +1838,7 @@
       "url": "https://bosminiofficial.com/shop/3020/desc/dhd-a3x-4-64gb-9",
       "name": "DHD A3X 4+64Gb 9\"",
       "sku": "",
-      "price_rub": 4600,
+      "price_rub": 4700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -1869,7 +1869,7 @@
       "url": "https://bosminiofficial.com/shop/2951/desc/dhd-m1-4-64gb-9-djujmov",
       "name": "DHD M1 4+64Gb ,, 9-Дюймов",
       "sku": "",
-      "price_rub": 4700,
+      "price_rub": 4800,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -1900,7 +1900,7 @@
       "url": "https://bosminiofficial.com/shop/2949/desc/dhd-s1-4-64gb-9-djujmov",
       "name": "DHD S1 4+64Gb \"9-Дюймов",
       "sku": "",
-      "price_rub": 4600,
+      "price_rub": 4700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -1931,7 +1931,7 @@
       "url": "https://bosminiofficial.com/shop/2950/desc/dhd-s1-plus-4-64gb-10-djujmov",
       "name": "DHD S1 Plus 4+64Gb \"10-Дюймов",
       "sku": "",
-      "price_rub": 4600,
+      "price_rub": 4700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -1962,7 +1962,7 @@
       "url": "https://bosminiofficial.com/shop/2948/desc/dhd-x1-plus-4-64gb-10-djujmov",
       "name": "DHD X1 Plus 4+64Gb \"10-Дюймов",
       "sku": "",
-      "price_rub": 4600,
+      "price_rub": 4700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -2520,7 +2520,7 @@
       "url": "https://bosminiofficial.com/shop/2873/desc/s1-4-64gb",
       "name": "S1 4+64Gb",
       "sku": "",
-      "price_rub": 4500,
+      "price_rub": 4800,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -2544,7 +2544,7 @@
       "stock_count": 0,
       "popularity": 74,
       "added_at": 1773476138,
-      "views": 464
+      "views": 465
     },
     {
       "slug": "sx4-pro-4-64gb",
@@ -7380,7 +7380,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1782627140,
-      "views": 122
+      "views": 123
     },
     {
       "slug": "bos-mini-t225",
@@ -8930,7 +8930,7 @@
       "stock_count": 0,
       "popularity": 71,
       "added_at": 1717065242,
-      "views": 529
+      "views": 530
     },
     {
       "slug": "kolonki-ot-bos-mini-6583",
@@ -12125,7 +12125,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1786085529,
-      "views": 62
+      "views": 63
     },
     {
       "slug": "ford-focus-2012-2017-9",
