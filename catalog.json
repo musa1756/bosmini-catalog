@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788855916,
-  "scraped_count": 468,
+  "generated_at": 1788856217,
+  "scraped_count": 467,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -155,7 +155,7 @@
         "https://bosminiofficial.com/_sh/27/2717.jpg"
       ],
       "stock_count": 0,
-      "popularity": 767,
+      "popularity": 770,
       "added_at": 1765176165,
       "views": 1981
     },
@@ -1304,7 +1304,7 @@
       "stock_count": 0,
       "popularity": 30,
       "added_at": 1765802757,
-      "views": 1628
+      "views": 1629
     },
     {
       "slug": "bos-mini-k69",
@@ -1335,7 +1335,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1765802832,
-      "views": 818
+      "views": 819
     },
     {
       "slug": "bos-mini-k71",
@@ -1428,7 +1428,7 @@
       "stock_count": 0,
       "popularity": 116,
       "added_at": 1767294203,
-      "views": 947
+      "views": 948
     },
     {
       "slug": "bos-mini-n776s-4-64gb",
@@ -1581,7 +1581,7 @@
         "https://bosminiofficial.com/_sh/19/1952.jpg"
       ],
       "stock_count": 0,
-      "popularity": 95,
+      "popularity": 96,
       "added_at": 1752853137,
       "views": 1011
     },
@@ -1829,7 +1829,7 @@
         "https://bosminiofficial.com/_sh/19/1968.jpg"
       ],
       "stock_count": 0,
-      "popularity": 22,
+      "popularity": 23,
       "added_at": 1752860064,
       "views": 868
     },
@@ -2976,7 +2976,7 @@
         "https://bosminiofficial.com/_sh/30/3013.jpg"
       ],
       "stock_count": 0,
-      "popularity": 38,
+      "popularity": 39,
       "added_at": 1785308119,
       "views": 111
     },
@@ -3071,7 +3071,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1788246796,
-      "views": 48
+      "views": 49
     },
     {
       "slug": "cifrovoj-videoregistrator-teyes-digital",
@@ -4218,7 +4218,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1773035946,
-      "views": 399
+      "views": 401
     },
     {
       "slug": "fizicheski-knopka-tmb-001",
@@ -7879,37 +7879,6 @@
       "views": 833
     },
     {
-      "slug": "bos-mini-6985-6-9",
-      "url": "https://bosminiofficial.com/shop/865/desc/bos-mini-6985-6-9",
-      "name": "Bos-Mini 6985 6/9",
-      "sku": "",
-      "price_rub": 3100,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅ Размер Динамика 6/9 Овалы ✅ Максимальная мощность 800W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/8/865.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/8/865.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/8/865.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/8/865.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 18,
-      "added_at": 1723529449,
-      "views": 506
-    },
-    {
       "slug": "dv-pioneer-ok-1015",
       "url": "https://bosminiofficial.com/shop/2786/desc/dv-pioneer-ok-1015",
       "name": "DV-Pioneer.Ok 1015",
@@ -8463,7 +8432,7 @@
         "https://bosminiofficial.com/_sh/9/964.jpg"
       ],
       "stock_count": 0,
-      "popularity": 207,
+      "popularity": 208,
       "added_at": 1728137074,
       "views": 425
     },
@@ -8990,7 +8959,7 @@
         "https://bosminiofficial.com/_sh/6/637.jpg"
       ],
       "stock_count": 0,
-      "popularity": 62,
+      "popularity": 63,
       "added_at": 1717064941,
       "views": 425
     },
@@ -9052,7 +9021,7 @@
         "https://bosminiofficial.com/_sh/5/521.jpg"
       ],
       "stock_count": 0,
-      "popularity": 137,
+      "popularity": 138,
       "added_at": 1715285715,
       "views": 455
     },
