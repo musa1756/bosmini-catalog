@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788849617,
-  "scraped_count": 469,
+  "generated_at": 1788849916,
+  "scraped_count": 468,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1707,7 +1707,7 @@
       "stock_count": 0,
       "popularity": 29,
       "added_at": 1769577429,
-      "views": 728
+      "views": 729
     },
     {
       "slug": "bos-mini-ts18-10-4-64gb",
@@ -2514,37 +2514,6 @@
       "popularity": 49,
       "added_at": 1769577216,
       "views": 718
-    },
-    {
-      "slug": "pioneer-gb-f8-plus-12-128g-9",
-      "url": "https://bosminiofficial.com/shop/2812/desc/pioneer-gb-f8-plus-12-128g-9",
-      "name": "Pioneer.GB F8 Plus 12+128G 9\"",
-      "sku": "",
-      "price_rub": 8500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Память-12+128Gb\n✅Размер экрана- 9 дюймов\n✅Поддержка сим карты\n✅Количество ядер-8\n✅Оптический выход\n✅Процессор DSP\n✅Carplay\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2812.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2812.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2812.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2812.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 298,
-      "added_at": 1769577184,
-      "views": 1329
     },
     {
       "slug": "s1-4-64gb",
