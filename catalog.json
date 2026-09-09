@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788947716,
+  "generated_at": 1788948018,
   "scraped_count": 466,
   "products": [
     {
@@ -901,7 +901,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1764313794,
-      "views": 1806
+      "views": 1807
     },
     {
       "slug": "bos-a659d-pro-4-64gb",
@@ -1397,7 +1397,7 @@
       "stock_count": 0,
       "popularity": 116,
       "added_at": 1767294203,
-      "views": 949
+      "views": 950
     },
     {
       "slug": "bos-mini-n776s-4-64gb",
@@ -6450,7 +6450,7 @@
       "stock_count": 0,
       "popularity": 27,
       "added_at": 1771148869,
-      "views": 292
+      "views": 293
     },
     {
       "slug": "kamera-360-full-hd",
@@ -14450,7 +14450,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1738756387,
-      "views": 971
+      "views": 972
     }
   ]
 }
