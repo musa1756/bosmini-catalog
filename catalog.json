@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788969916,
+  "generated_at": 1788970216,
   "scraped_count": 466,
   "products": [
     {
@@ -994,7 +994,7 @@
       "stock_count": 0,
       "popularity": 53,
       "added_at": 1772527002,
-      "views": 1020
+      "views": 1021
     },
     {
       "slug": "bos-mini-a1pro-10-4-64gb",
@@ -10573,7 +10573,7 @@
       "stock_count": 0,
       "popularity": 1896,
       "added_at": 1722584362,
-      "views": 788
+      "views": 789
     },
     {
       "slug": "1-din-bos-mini-n770",
@@ -10637,7 +10637,7 @@
       "stock_count": 0,
       "popularity": 163,
       "added_at": 1714856095,
-      "views": 1531
+      "views": 1532
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
@@ -10916,7 +10916,7 @@
       "stock_count": 0,
       "popularity": 26,
       "added_at": 1773903156,
-      "views": 579
+      "views": 580
     },
     {
       "slug": "bos-mini-n640dp5",
@@ -14326,7 +14326,7 @@
       "stock_count": 0,
       "popularity": 613,
       "added_at": 1765802307,
-      "views": 272
+      "views": 273
     },
     {
       "slug": "dv-pioneer-ok-415",
@@ -14450,7 +14450,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1738756387,
-      "views": 972
+      "views": 973
     }
   ]
 }
