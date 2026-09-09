@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1788972917,
+  "generated_at": 1788973217,
   "scraped_count": 466,
   "products": [
     {
@@ -5985,7 +5985,7 @@
       "stock_count": 0,
       "popularity": 67,
       "added_at": 1753772635,
-      "views": 966
+      "views": 967
     },
     {
       "slug": "tomboss-t30",
@@ -10699,7 +10699,7 @@
       "stock_count": 0,
       "popularity": 72,
       "added_at": 1714856095,
-      "views": 1163
+      "views": 1164
     },
     {
       "slug": "magnitola-bos-mini-n973dsp",
@@ -14450,7 +14450,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1738756387,
-      "views": 973
+      "views": 974
     }
   ]
 }
