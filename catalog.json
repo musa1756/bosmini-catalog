@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789034716,
-  "scraped_count": 466,
+  "generated_at": 1789035016,
+  "scraped_count": 461,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2173,37 +2173,6 @@
       "popularity": 40,
       "added_at": 1770637548,
       "views": 496
-    },
-    {
-      "slug": "dv-pioneer-ok-sx3s-mini-4-64g",
-      "url": "https://bosminiofficial.com/shop/2899/desc/dv-pioneer-ok-sx3s-mini-4-64g",
-      "name": "DV-Pioneer.Ok SX3S Mini 4+64G",
-      "sku": "",
-      "price_rub": 4800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана- 7 дюймов\n✅Посадочное место-1Din\n✅Память-4+64Gb\n✅Голосовое упоавление\n✅Caplay/AndroidAuto\n✅Кулер охлаждения\n✅Набор проводов для подключения",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2899.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2899.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2899.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2899.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 22,
-      "added_at": 1776342307,
-      "views": 340
     },
     {
       "slug": "dv-pioneer-ok-y2-pro-8-64gb",
@@ -10857,68 +10826,6 @@
       "views": 105
     },
     {
-      "slug": "bos-mini-n637dp5",
-      "url": "https://bosminiofficial.com/shop/2874/desc/bos-mini-n637dp5",
-      "name": "BOS-MINI N637DP5",
-      "sku": "",
-      "price_rub": 2500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы с экраном"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-6,3 дюймов\n✅Типоразмер-1Din\n✅CarPlay/AndroidAuto\n✅Type-c, USB, AUX\n✅Радиатор охлаждения\n✅Пульт управления, инструкция и фишки для подключения и в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2874.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2874.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2874.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2874.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 21,
-      "added_at": 1773903123,
-      "views": 633
-    },
-    {
-      "slug": "bos-mini-n639dp5",
-      "url": "https://bosminiofficial.com/shop/2875/desc/bos-mini-n639dp5",
-      "name": "BOS-MINI N639DP5",
-      "sku": "",
-      "price_rub": 2500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы с экраном"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-6,3 дюймов\n✅Типоразмер-1Din\n✅CarPlay/AndroidAuto\n✅Type-c, USB, AUX\n✅Радиатор охлаждения\n✅Пульт управления, инструкция и фишки для подключения и в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2875.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2875.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2875.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2875.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 26,
-      "added_at": 1773903156,
-      "views": 582
-    },
-    {
       "slug": "bos-mini-n640dp5",
       "url": "https://bosminiofficial.com/shop/2928/desc/bos-mini-n640dp5",
       "name": "BOS-MINI N640DP5",
@@ -10947,38 +10854,7 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1778219987,
-      "views": 559
-    },
-    {
-      "slug": "bos-mini-n727hgp5",
-      "url": "https://bosminiofficial.com/shop/2898/desc/bos-mini-n727hgp5",
-      "name": "BOS-MINI N727HGP5",
-      "sku": "MP5",
-      "price_rub": 4300,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы с экраном"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-7 дюймов\n✅CarPlay/AndroidAuto\n✅Bluetooth, Type-C, USB, AUX\n✅Радиатор охлаждения\n✅9 выходов RCA\n✅Фишки и провода для подключения и в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2898.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2898.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2898.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2898.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 21,
-      "added_at": 1776253023,
-      "views": 520
+      "views": 560
     },
     {
       "slug": "bos-n725ftp5",
@@ -11041,37 +10917,6 @@
       "popularity": 27,
       "added_at": 1786687638,
       "views": 365
-    },
-    {
-      "slug": "bos-mini-n636dp5",
-      "url": "https://bosminiofficial.com/shop/2723/desc/bos-mini-n636dp5",
-      "name": "Bos-Mini N636DP5",
-      "sku": "",
-      "price_rub": 2500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы с экраном"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-6,36\", сенсорный\n✅Типоразмер-1Din\n✅Type-c, USB, AUX\n✅Радиатор охлаждения\n✅Пульт управления, инструкция и фишки для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2723.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2723.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2723.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2723.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 58,
-      "added_at": 1765285531,
-      "views": 1276
     },
     {
       "slug": "dhd-1057x",
