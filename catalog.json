@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789039216,
+  "generated_at": 1789039516,
   "scraped_count": 461,
   "products": [
     {
@@ -4838,7 +4838,7 @@
       "stock_count": 0,
       "popularity": 148,
       "added_at": 1751713853,
-      "views": 114
+      "views": 115
     },
     {
       "slug": "zr2-h11",
@@ -5303,7 +5303,7 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1747293099,
-      "views": 362
+      "views": 363
     },
     {
       "slug": "a15l-2k-wi-fi",
@@ -13458,7 +13458,7 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1746689110,
-      "views": 208
+      "views": 209
     },
     {
       "slug": "y-kabel-1-mama-2-papa",
@@ -14295,7 +14295,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1738756387,
-      "views": 974
+      "views": 975
     }
   ]
 }
