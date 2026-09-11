@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789153516,
+  "generated_at": 1789153816,
   "scraped_count": 459,
   "products": [
     {
@@ -715,7 +715,7 @@
       "stock_count": 0,
       "popularity": 103,
       "added_at": 1753341610,
-      "views": 3000
+      "views": 3001
     },
     {
       "slug": "bos-mini-s1203-mersedes-style",
@@ -1056,7 +1056,7 @@
       "stock_count": 0,
       "popularity": 620,
       "added_at": 1769575545,
-      "views": 1042
+      "views": 1043
     },
     {
       "slug": "bos-mini-a628d-dsp-4-64gb",
@@ -4497,7 +4497,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1778499441,
-      "views": 183
+      "views": 184
     },
     {
       "slug": "led-lampa-zw1-h4",
