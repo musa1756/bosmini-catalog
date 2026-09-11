@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789144517,
+  "generated_at": 1789144816,
   "scraped_count": 459,
   "products": [
     {
@@ -2203,7 +2203,7 @@
       "stock_count": 0,
       "popularity": 57,
       "added_at": 1776680345,
-      "views": 271
+      "views": 272
     },
     {
       "slug": "dv-pioneer-ok-d3-nano-4-64gb",
@@ -14233,7 +14233,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1738756387,
-      "views": 975
+      "views": 976
     }
   ]
 }
