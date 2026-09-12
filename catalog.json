@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789203017,
-  "scraped_count": 463,
+  "generated_at": 1789203316,
+  "scraped_count": 465,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1755664855,
-      "views": 579
+      "views": 580
     },
     {
       "slug": "bos-mini-a12",
@@ -468,6 +468,37 @@
       "popularity": 3198,
       "added_at": 1752844676,
       "views": 1877
+    },
+    {
+      "slug": "bos-mini-a4-9-4-64gb",
+      "url": "https://bosminiofficial.com/shop/2649/desc/bos-mini-a4-9-4-64gb",
+      "name": "BOS-MINI A4 9\" 4+64Gb",
+      "sku": "",
+      "price_rub": 6000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-9 дюймов ✅Память 4+64Gb ✅Голосовое управление ✅Кулер охлаждения ✅Выход HDMI ✅CarPlay ✅Набор проводов для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/26/2649.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2649.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/26/2649.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2649.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 907,
+      "added_at": 1759819618,
+      "views": 1430
     },
     {
       "slug": "bos-mini-a42-6-64gb-9",
@@ -809,6 +840,37 @@
       "popularity": 1,
       "added_at": 1788416403,
       "views": 66
+    },
+    {
+      "slug": "bos-mini-t3-4-64gb-9",
+      "url": "https://bosminiofficial.com/shop/2905/desc/bos-mini-t3-4-64gb-9",
+      "name": "BOS-MINI T3 4+64Gb 9\"",
+      "sku": "",
+      "price_rub": 5200,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-9 дюймов\n✅Память- 4+64Gb\n✅CarPlay/AndroidAuto\n✅Количество ядер-4+4\n✅Процессор DSP\n✅USB и Type-C разъемы\n✅Кулер охлаждения\n✅Провода для подключения и в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2905.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2905.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2905.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2905.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 51,
+      "added_at": 1776843716,
+      "views": 351
     },
     {
       "slug": "bos-mini-t7038-4-64gb",
@@ -10792,7 +10854,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1787555310,
-      "views": 111
+      "views": 112
     },
     {
       "slug": "bos-mini-n640dp5",
@@ -13582,7 +13644,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789202148,
-      "views": 1
+      "views": 2
     },
     {
       "slug": "bukhta-100m-1-0mm",
@@ -13644,7 +13706,7 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1716585165,
-      "views": 187
+      "views": 188
     },
     {
       "slug": "kabel-2-2-rca-sinij",
