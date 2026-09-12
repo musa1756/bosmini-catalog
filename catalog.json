@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789186817,
+  "generated_at": 1789187117,
   "scraped_count": 459,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 772
+      "views": 773
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1782539919,
-      "views": 256
+      "views": 257
     },
     {
       "slug": "bos-mini-a1206",
@@ -715,7 +715,7 @@
       "stock_count": 0,
       "popularity": 103,
       "added_at": 1753341610,
-      "views": 3002
+      "views": 3003
     },
     {
       "slug": "bos-mini-s1203-mersedes-style",
@@ -8527,7 +8527,7 @@
       "stock_count": 0,
       "popularity": 147,
       "added_at": 1753519412,
-      "views": 187
+      "views": 188
     },
     {
       "slug": "ts-a1696s-650w",
