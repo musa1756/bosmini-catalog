@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789216817,
-  "scraped_count": 469,
+  "generated_at": 1789217116,
+  "scraped_count": 468,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -281,7 +281,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1782390552,
-      "views": 181
+      "views": 184
     },
     {
       "slug": "bos-mini-a1206-4g",
@@ -6977,7 +6977,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1757406784,
-      "views": 476
+      "views": 477
     },
     {
       "slug": "monitor-dlja-bolshegruznykh-mashin-gq-136-4",
@@ -13031,7 +13031,7 @@
       "url": "https://bosminiofficial.com/shop/2533/desc/bos-8ga",
       "name": "BOS-8GA",
       "sku": "",
-      "price_rub": 700,
+      "price_rub": 850,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -14017,37 +14017,6 @@
       "popularity": 0,
       "added_at": 1787560178,
       "views": 58
-    },
-    {
-      "slug": "komplekt-provodov-10ga",
-      "url": "https://bosminiofficial.com/shop/549/desc/komplekt-provodov-10ga",
-      "name": "Комплект проводов 10GA",
-      "sku": "",
-      "price_rub": 800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Набор проводов для подключения усилителей и сабвуферов.",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/5/549.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/5/549.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/5/549.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/5/549.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 52,
-      "added_at": 1715363107,
-      "views": 356
     },
     {
       "slug": "komplekt-provodov-8ga",
