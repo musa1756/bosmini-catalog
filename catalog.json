@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789206016,
-  "scraped_count": 467,
+  "generated_at": 1789206317,
+  "scraped_count": 469,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 774
+      "views": 775
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -7166,6 +7166,37 @@
       "views": 389
     },
     {
+      "slug": "bos-6571-16cm-300w",
+      "url": "https://bosminiofficial.com/shop/1461/desc/bos-6571-16cm-300w",
+      "name": "BOS-6571 (16cm,300W)",
+      "sku": "",
+      "price_rub": 1650,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Размер Динамика 16см ✅️ Максимальная мощность 300W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/14/1461.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/14/1461.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/14/1461.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/14/1461.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 28,
+      "added_at": 1749113589,
+      "views": 250
+    },
+    {
       "slug": "bos-6591",
       "url": "https://bosminiofficial.com/shop/2513/desc/bos-6591",
       "name": "BOS-6591",
@@ -7908,6 +7939,37 @@
       "popularity": 132,
       "added_at": 1723527578,
       "views": 840
+    },
+    {
+      "slug": "bos-mini-6981-6-9",
+      "url": "https://bosminiofficial.com/shop/864/desc/bos-mini-6981-6-9",
+      "name": "Bos-Mini 6981 6/9",
+      "sku": "",
+      "price_rub": 2250,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер Динамика: 6/9 Овалы ✅ Максимальная Мощность 380W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/8/864.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/8/864.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/8/864.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/8/864.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 30,
+      "added_at": 1723529241,
+      "views": 212
     },
     {
       "slug": "dv-pioneer-ok-1015",
