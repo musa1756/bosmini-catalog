@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789203617,
-  "scraped_count": 464,
+  "generated_at": 1789203917,
+  "scraped_count": 465,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1755664855,
-      "views": 584
+      "views": 585
     },
     {
       "slug": "bos-mini-a12",
@@ -498,7 +498,7 @@
       "stock_count": 0,
       "popularity": 907,
       "added_at": 1759819618,
-      "views": 1430
+      "views": 1431
     },
     {
       "slug": "bos-mini-a42-6-64gb-9",
@@ -1615,6 +1615,37 @@
       "popularity": 97,
       "added_at": 1752853137,
       "views": 1019
+    },
+    {
+      "slug": "bos-mini-t8705-4-64gb-7",
+      "url": "https://bosminiofficial.com/shop/2040/desc/bos-mini-t8705-4-64gb-7",
+      "name": "Bos-Mini T8705 4+64Gb 7\"",
+      "sku": "",
+      "price_rub": 4800,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-7 дюймов ✅Память-4+64Gb ✅CarPlay ✅Физические кнопки управления ✅Кулер охлаждения ✅Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/20/2040.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/20/2040.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/20/2040.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/20/2040.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 148,
+      "added_at": 1752911964,
+      "views": 2029
     },
     {
       "slug": "bos-mini-ts10-4-64gb-10",
@@ -10606,7 +10637,7 @@
       "stock_count": 0,
       "popularity": 163,
       "added_at": 1714856095,
-      "views": 1554
+      "views": 1555
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
