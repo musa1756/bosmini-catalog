@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789205417,
-  "scraped_count": 466,
+  "generated_at": 1789205717,
+  "scraped_count": 467,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -498,7 +498,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789205058,
-      "views": 2
+      "views": 4
     },
     {
       "slug": "bos-mini-a4-9-4-64gb",
@@ -529,7 +529,7 @@
       "stock_count": 0,
       "popularity": 907,
       "added_at": 1759819618,
-      "views": 1432
+      "views": 1433
     },
     {
       "slug": "bos-mini-a42-6-64gb-9",
@@ -2172,7 +2172,7 @@
       "stock_count": 0,
       "popularity": 57,
       "added_at": 1783060101,
-      "views": 146
+      "views": 147
     },
     {
       "slug": "dv-pineer-ok-ahd-9115-10-3-32gb-10",
@@ -6798,7 +6798,7 @@
       "url": "https://bosminiofficial.com/shop/1258/desc/kamera-zadnego-vida-bos-l310",
       "name": "Камера заднего вида Bos-L310",
       "sku": "",
-      "price_rub": 450,
+      "price_rub": 500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -7790,7 +7790,7 @@
       "url": "https://bosminiofficial.com/shop/1521/desc/bos-mini-5565",
       "name": "Bos-Mini 5565",
       "sku": "",
-      "price_rub": 2100,
+      "price_rub": 2650,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -10481,6 +10481,37 @@
       "popularity": 220,
       "added_at": 1753770414,
       "views": 500
+    },
+    {
+      "slug": "pioneer-gb-mvh-341-12-24v",
+      "url": "https://bosminiofficial.com/shop/1392/desc/pioneer-gb-mvh-341-12-24v",
+      "name": "Pinoeer.GB MVH-341 12-24V",
+      "sku": "",
+      "price_rub": 700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅ 12-24V ✅ Bluetooth ✅ AUX ✅ 2-USB и SD-Карты ✅ 4-Выхода RCA ✅ Радиатор охлаждения ✅ Пульт управления и фишки для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/13/1392.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/13/1392.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/13/1392.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/13/1392.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 1830,
+      "added_at": 1746085618,
+      "views": 315
     },
     {
       "slug": "pioneer-gb-12-na-24v-mvh-340dbt",
