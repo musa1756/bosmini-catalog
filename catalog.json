@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789202117,
-  "scraped_count": 462,
+  "generated_at": 1789202417,
+  "scraped_count": 463,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1800,7 +1800,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1752860064,
-      "views": 876
+      "views": 877
     },
     {
       "slug": "dhd-a3x-4-64gb-9",
@@ -6853,7 +6853,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1757406784,
-      "views": 475
+      "views": 476
     },
     {
       "slug": "monitor-dlja-bolshegruznykh-mashin-gq-136-4",
@@ -13552,6 +13552,37 @@
       "popularity": 4,
       "added_at": 1765863799,
       "views": 275
+    },
+    {
+      "slug": "bukhta-100m-0-5mm",
+      "url": "https://bosminiofficial.com/shop/3046/desc/bukhta-100m-0-5mm",
+      "name": "Бухта 100м/0.5мм",
+      "sku": "",
+      "price_rub": 850,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Сабвуферы и комплектующие"
+      ],
+      "brand_tags": [],
+      "description": "✅Силовой кабель ✅ Длина-100м ✅ Толщина сечения-0.5мм",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3046.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3046.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3046.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3046.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1789202148,
+      "views": 1
     },
     {
       "slug": "bukhta-100m-1-0mm",
