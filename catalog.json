@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789205717,
+  "generated_at": 1789206016,
   "scraped_count": 467,
   "products": [
     {
@@ -498,7 +498,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789205058,
-      "views": 4
+      "views": 5
     },
     {
       "slug": "bos-mini-a4-9-4-64gb",
@@ -2792,7 +2792,7 @@
       "stock_count": 0,
       "popularity": 65,
       "added_at": 1776517157,
-      "views": 240
+      "views": 241
     },
     {
       "slug": "gem61-pro-max-mersedes-style",
@@ -7108,7 +7108,7 @@
       "url": "https://bosminiofficial.com/shop/1460/desc/bos-5071-13cm-220w",
       "name": "BOS-5071 (13cm,220W)",
       "sku": "",
-      "price_rub": 1000,
+      "price_rub": 1350,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
