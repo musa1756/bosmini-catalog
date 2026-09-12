@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789217116,
-  "scraped_count": 468,
+  "generated_at": 1789217417,
+  "scraped_count": 469,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2365,7 +2365,7 @@
       "url": "https://bosminiofficial.com/shop/2721/desc/dv-pioneer-ok-d3-nano-4-64gb",
       "name": "Dv-Pioneer.Ok D3 NANO 4+64Gb",
       "sku": "",
-      "price_rub": 4300,
+      "price_rub": 3400,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -2514,6 +2514,37 @@
       "popularity": 16,
       "added_at": 1752907950,
       "views": 205
+    },
+    {
+      "slug": "h41-nano-2-32g",
+      "url": "https://bosminiofficial.com/shop/2765/desc/h41-nano-2-32g",
+      "name": "H41 Nano 2+32G",
+      "sku": "",
+      "price_rub": 2700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-6’8 дюймов\n✅Память-2+32Gb\n✅USB и Type C разъемы\n✅Расположение кнопок управления в нижней части экрана\n✅Carplay\n✅Кулер охлаждения\n✅Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/27/2765.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/27/2765.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/27/2765.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/27/2765.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 12,
+      "added_at": 1765863892,
+      "views": 538
     },
     {
       "slug": "pioneer-gb-f8-6-64gb-9",
@@ -5551,7 +5582,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1781947054,
-      "views": 146
+      "views": 147
     },
     {
       "slug": "bos-mini-l-810",
@@ -6953,7 +6984,7 @@
       "url": "https://bosminiofficial.com/shop/2643/desc/kamera-krugovo-obzora-bos-mini-a360",
       "name": "Камера кругово обзора BOS-MINI A360⁰",
       "sku": "",
-      "price_rub": 1700,
+      "price_rub": 1950,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
