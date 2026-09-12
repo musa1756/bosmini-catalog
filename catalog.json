@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789203316,
-  "scraped_count": 465,
+  "generated_at": 1789203617,
+  "scraped_count": 464,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1755664855,
-      "views": 580
+      "views": 584
     },
     {
       "slug": "bos-mini-a12",
@@ -839,7 +839,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1788416403,
-      "views": 66
+      "views": 67
     },
     {
       "slug": "bos-mini-t3-4-64gb-9",
@@ -7256,7 +7256,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1782390251,
-      "views": 107
+      "views": 109
     },
     {
       "slug": "bos-mini-6587",
@@ -8032,37 +8032,6 @@
       "popularity": 95,
       "added_at": 1753860068,
       "views": 434
-    },
-    {
-      "slug": "hertz-x165",
-      "url": "https://bosminiofficial.com/shop/2531/desc/hertz-x165",
-      "name": "HERTZ X165",
-      "sku": "",
-      "price_rub": 2650,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер Динамика 16см ✅Мощность- 220W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2531.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2531.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2531.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2531.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 157,
-      "added_at": 1753859920,
-      "views": 323
     },
     {
       "slug": "hz-405-360w-10sm",
@@ -10947,7 +10916,7 @@
       "stock_count": 0,
       "popularity": 27,
       "added_at": 1786687638,
-      "views": 385
+      "views": 386
     },
     {
       "slug": "dhd-1057x",
@@ -13372,7 +13341,7 @@
       "url": "https://bosminiofficial.com/shop/928/desc/pioneer-gb-11g",
       "name": "Pioneer.GB 11G",
       "sku": "",
-      "price_rub": 3300,
+      "price_rub": 3500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -13644,7 +13613,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789202148,
-      "views": 2
+      "views": 3
     },
     {
       "slug": "bukhta-100m-1-0mm",
