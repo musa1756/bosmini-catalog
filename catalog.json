@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789204817,
-  "scraped_count": 465,
+  "generated_at": 1789205116,
+  "scraped_count": 466,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -250,7 +250,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1782539919,
-      "views": 258
+      "views": 259
     },
     {
       "slug": "bos-mini-a1206",
@@ -374,7 +374,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1788416281,
-      "views": 43
+      "views": 44
     },
     {
       "slug": "bos-mini-a1301",
@@ -468,6 +468,37 @@
       "popularity": 3198,
       "added_at": 1752844676,
       "views": 1877
+    },
+    {
+      "slug": "bos-mini-a3-pro-10-djujmov",
+      "url": "https://bosminiofficial.com/shop/3047/desc/bos-mini-a3-pro-10-djujmov",
+      "name": "BOS-MINI A3 Pro 10-Дюймов",
+      "sku": "",
+      "price_rub": 3700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Размер Экрана:  10-дюймов\n✅️Память:  2+32Gb\n✅️Размер экрана- 9 дюймов\n✅️QLed\n✅️Carplay\n✅️Набор проводов в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3047.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3047.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3047.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3047.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1789205058,
+      "views": 1
     },
     {
       "slug": "bos-mini-a4-9-4-64gb",
@@ -777,7 +808,7 @@
       "stock_count": 0,
       "popularity": 103,
       "added_at": 1753341610,
-      "views": 3004
+      "views": 3005
     },
     {
       "slug": "bos-mini-s1203-mersedes-style",
@@ -808,7 +839,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1782540190,
-      "views": 161
+      "views": 162
     },
     {
       "slug": "bos-mini-s1236-wi-fi",
@@ -10637,7 +10668,7 @@
       "stock_count": 0,
       "popularity": 163,
       "added_at": 1714856095,
-      "views": 1556
+      "views": 1557
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
@@ -11071,7 +11102,7 @@
       "stock_count": 0,
       "popularity": 234,
       "added_at": 1750255775,
-      "views": 714
+      "views": 715
     },
     {
       "slug": "dv-pioneer-ok-5505",
