@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789317916,
+  "generated_at": 1789318216,
   "scraped_count": 471,
   "products": [
     {
@@ -1149,7 +1149,7 @@
       "stock_count": 0,
       "popularity": 558,
       "added_at": 1764392614,
-      "views": 964
+      "views": 965
     },
     {
       "slug": "bos-mini-a5-6-128gb-10",
@@ -1304,7 +1304,7 @@
       "stock_count": 0,
       "popularity": 26,
       "added_at": 1772527567,
-      "views": 467
+      "views": 468
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-9-djujmov",
@@ -10666,7 +10666,7 @@
       "stock_count": 0,
       "popularity": 1830,
       "added_at": 1746085618,
-      "views": 319
+      "views": 320
     },
     {
       "slug": "pioneer-gb-12-na-24v-mvh-340dbt",
@@ -14605,7 +14605,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1738756387,
-      "views": 977
+      "views": 978
     }
   ]
 }
