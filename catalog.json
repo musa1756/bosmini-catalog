@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789301717,
-  "scraped_count": 470,
+  "generated_at": 1789302019,
+  "scraped_count": 471,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -7290,6 +7290,37 @@
       "views": 1166
     },
     {
+      "slug": "bos-mini-5081-180w",
+      "url": "https://bosminiofficial.com/shop/3048/desc/bos-mini-5081-180w",
+      "name": "BOS-MINI 5081 180W",
+      "sku": "",
+      "price_rub": 1250,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Размер Колонки 13см\n✅️ Максимальная Мощность 180W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3048.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3048.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3048.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3048.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1789301805,
+      "views": 2
+    },
+    {
       "slug": "bos-mini-5088",
       "url": "https://bosminiofficial.com/shop/1273/desc/bos-mini-5088",
       "name": "BOS-MINI 5088",
@@ -7969,7 +8000,7 @@
       "stock_count": 0,
       "popularity": 74,
       "added_at": 1752176079,
-      "views": 1107
+      "views": 1108
     },
     {
       "slug": "bos-mini-6518kit",
@@ -10697,7 +10728,7 @@
       "stock_count": 0,
       "popularity": 2272,
       "added_at": 1722713624,
-      "views": 706
+      "views": 707
     },
     {
       "slug": "pioneer-gb-mvh-f899zbt",
@@ -11071,7 +11102,7 @@
       "stock_count": 0,
       "popularity": 49,
       "added_at": 1778219987,
-      "views": 581
+      "views": 582
     },
     {
       "slug": "bos-n725ftp5",
