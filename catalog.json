@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789290916,
-  "scraped_count": 469,
+  "generated_at": 1789291216,
+  "scraped_count": 470,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -747,6 +747,37 @@
       "popularity": 8,
       "added_at": 1752859489,
       "views": 1004
+    },
+    {
+      "slug": "bos-mini-n97d-4-64gb",
+      "url": "https://bosminiofficial.com/shop/1965/desc/bos-mini-n97d-4-64gb",
+      "name": "BOS-MINI N97D 4+64Gb",
+      "sku": "",
+      "price_rub": 5300,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-9.7” ✅Типоразмер-1Din ✅Память-4+64Gb ✅Голосовое управление ✅Кулер охлаждения ✅Провода для подключения и инструкция на русском языке в комплекте!!!",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/19/1965.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/19/1965.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/19/1965.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/19/1965.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 2,
+      "added_at": 1752859585,
+      "views": 460
     },
     {
       "slug": "bos-mini-q2-9",
