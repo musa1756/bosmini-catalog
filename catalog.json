@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789299916,
+  "generated_at": 1789300217,
   "scraped_count": 470,
   "products": [
     {
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1755664855,
-      "views": 594
+      "views": 595
     },
     {
       "slug": "bos-mini-a12",
@@ -312,7 +312,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1782390686,
-      "views": 231
+      "views": 232
     },
     {
       "slug": "bos-mini-a1213",
@@ -3016,7 +3016,7 @@
       "url": "https://bosminiofficial.com/shop/884/desc/teyes-x5-dvr",
       "name": "Teyes X5 DVR",
       "sku": "",
-      "price_rub": 3200,
+      "price_rub": 3300,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
