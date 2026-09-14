@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789392617,
+  "generated_at": 1789392916,
   "scraped_count": 472,
   "products": [
     {
@@ -808,7 +808,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1752859585,
-      "views": 463
+      "views": 464
     },
     {
       "slug": "bos-mini-q2-9",
@@ -839,7 +839,7 @@
       "stock_count": 0,
       "popularity": 119,
       "added_at": 1752862854,
-      "views": 573
+      "views": 574
     },
     {
       "slug": "bos-mini-q70-6-64gb-7",
@@ -1614,7 +1614,7 @@
       "stock_count": 0,
       "popularity": 85,
       "added_at": 1752853019,
-      "views": 1325
+      "views": 1326
     },
     {
       "slug": "bos-mini-t216-4-64gb",
@@ -1645,7 +1645,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1752912147,
-      "views": 2011
+      "views": 2012
     },
     {
       "slug": "bos-mini-t8-4-64gb-10",
@@ -8093,7 +8093,7 @@
       "stock_count": 0,
       "popularity": 30,
       "added_at": 1723529241,
-      "views": 215
+      "views": 218
     },
     {
       "slug": "dv-pioneer-ok-1015",
@@ -13923,7 +13923,7 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1716585339,
-      "views": 179
+      "views": 180
     },
     {
       "slug": "bukhta-100m-1-5mm",
