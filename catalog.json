@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789418416,
-  "scraped_count": 477,
+  "generated_at": 1789418717,
+  "scraped_count": 481,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -935,37 +935,6 @@
       "views": 78
     },
     {
-      "slug": "bos-mini-t265",
-      "url": "https://bosminiofficial.com/shop/3056/desc/bos-mini-t265",
-      "name": "BOS-MINI T265",
-      "sku": "",
-      "price_rub": 3000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅ Размер Колонки 16см (6.5) Среднечастотный\n✅ Мощность 180W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3056.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3056.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3056.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3056.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 0,
-      "added_at": 1789418041,
-      "views": 1
-    },
-    {
       "slug": "bos-mini-t3-4-64gb-9",
       "url": "https://bosminiofficial.com/shop/2905/desc/bos-mini-t3-4-64gb-9",
       "name": "BOS-MINI T3 4+64Gb 9\"",
@@ -995,99 +964,6 @@
       "popularity": 54,
       "added_at": 1776843716,
       "views": 365
-    },
-    {
-      "slug": "bos-mini-t365",
-      "url": "https://bosminiofficial.com/shop/3057/desc/bos-mini-t365",
-      "name": "BOS-MINI T365",
-      "sku": "",
-      "price_rub": 2900,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅ Размер Колонки 16см (6.5) Среднечастотный\n✅ Мощность 100W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3057.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3057.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3057.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3057.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 0,
-      "added_at": 1789418105,
-      "views": 1
-    },
-    {
-      "slug": "bos-mini-t565",
-      "url": "https://bosminiofficial.com/shop/3055/desc/bos-mini-t565",
-      "name": "BOS-MINI T565",
-      "sku": "",
-      "price_rub": 2900,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅ Размер Колонки 16см (6.5)\n✅ Мощность 80W\n✅ Количество полос 2 коаксиальные",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3055.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3055.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3055.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3055.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 0,
-      "added_at": 1789417882,
-      "views": 3
-    },
-    {
-      "slug": "bos-mini-t65kit",
-      "url": "https://bosminiofficial.com/shop/3058/desc/bos-mini-t65kit",
-      "name": "BOS-MINI T65KIT",
-      "sku": "",
-      "price_rub": 4300,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅ Размер Колонки 16см (6.5) Среднечастотный\n✅ Мощность 1000W\n✅ Количество полос:\n2\n(Компонетная с двумя кроссоверами для срезов частот)",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3058.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3058.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3058.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3058.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 0,
-      "added_at": 1789418343,
-      "views": 1
     },
     {
       "slug": "bos-mini-t7038-4-64gb",
@@ -2265,7 +2141,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789417555,
-      "views": 2
+      "views": 3
     },
     {
       "slug": "dhd-s200-pro-8-64gb",
@@ -3072,6 +2948,130 @@
       "popularity": 9,
       "added_at": 1776517259,
       "views": 297
+    },
+    {
+      "slug": "zx1-pro-plus-4-64gb-10",
+      "url": "https://bosminiofficial.com/shop/2902/desc/zx1-pro-plus-4-64gb-10",
+      "name": "ZX1 Pro Plus 4+64Gb 10\"",
+      "sku": "",
+      "price_rub": 6800,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-10 дюймов\n✅Память- 4+64Gb\n✅Количество ядер-8\n✅CarPlay/AndroidAuto\n✅Поддержка сим карты\n✅Кулер охлаждения\n✅Провода для подключения и в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2902.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2902.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2902.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2902.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 65,
+      "added_at": 1776517157,
+      "views": 243
+    },
+    {
+      "slug": "gem61-pro-max-mersedes-style",
+      "url": "https://bosminiofficial.com/shop/3007/desc/gem61-pro-max-mersedes-style",
+      "name": "ГЕМ61 PRO MAX Mersedes Style",
+      "sku": "",
+      "price_rub": 10500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-12,8 дюймов\n✅Память-8+64Gb\n✅Количество ядер-8\n✅Поддержка сим карты\n✅Платформа TS18\n✅CarPlay/AndroidAuto\n✅Разделение экрана\n✅Кулер охлаждения\n✅2 рамки и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3007.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3007.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3007.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3007.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 26,
+      "added_at": 1784270650,
+      "views": 164
+    },
+    {
+      "slug": "gem62-pro-max-bmw-style",
+      "url": "https://bosminiofficial.com/shop/3005/desc/gem62-pro-max-bmw-style",
+      "name": "ГЕМ62 PRO MAX BMW Style",
+      "sku": "",
+      "price_rub": 10500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-12,8 дюймов\n✅Память-8+64Gb\n✅Количество ядер-8\n✅Поддержка сим карты\n✅Платформа TS18\n✅CarPlay/AndroidAuto\n✅Разделение экрана\n✅Кулер охлаждения\n✅2 рамки и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3005.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3005.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3005.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3005.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 19,
+      "added_at": 1784270215,
+      "views": 124
+    },
+    {
+      "slug": "gem63-pro-max-audi-style",
+      "url": "https://bosminiofficial.com/shop/3006/desc/gem63-pro-max-audi-style",
+      "name": "ГЕМ63 PRO MAX AUDI Style",
+      "sku": "",
+      "price_rub": 10500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-12,8 дюймов\n✅Память-8+64Gb\n✅Количество ядер-8\n✅Поддержка сим карты\n✅Платформа TS18\n✅CarPlay/AndroidAuto\n✅Разделение экрана\n✅Кулер охлаждения\n✅2 рамки и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3006.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3006.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3006.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3006.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 12,
+      "added_at": 1784270492,
+      "views": 192
     },
     {
       "slug": "teyes-hs-sony-camera",
@@ -5644,7 +5644,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1787817722,
-      "views": 82
+      "views": 83
     },
     {
       "slug": "bos-mini-f85",
@@ -5768,7 +5768,7 @@
       "stock_count": 0,
       "popularity": 1037,
       "added_at": 1732391421,
-      "views": 1012
+      "views": 1013
     },
     {
       "slug": "bos-mini-a17l-2k-s-wi-fi",
@@ -7755,6 +7755,37 @@
       "views": 103
     },
     {
+      "slug": "bos-mini-t265",
+      "url": "https://bosminiofficial.com/shop/3056/desc/bos-mini-t265",
+      "name": "BOS-MINI T265",
+      "sku": "",
+      "price_rub": 3000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер Колонки 16см (6.5) Среднечастотный\n✅ Мощность 180W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3056.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3056.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3056.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3056.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1789418041,
+      "views": 3
+    },
+    {
       "slug": "bos-mini-t2955",
       "url": "https://bosminiofficial.com/shop/2982/desc/bos-mini-t2955",
       "name": "BOS-MINI T2955",
@@ -7846,6 +7877,99 @@
       "popularity": 26,
       "added_at": 1783409197,
       "views": 100
+    },
+    {
+      "slug": "bos-mini-t365",
+      "url": "https://bosminiofficial.com/shop/3057/desc/bos-mini-t365",
+      "name": "BOS-MINI T365",
+      "sku": "",
+      "price_rub": 2900,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер Колонки 16см (6.5) Среднечастотный\n✅ Мощность 100W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3057.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3057.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3057.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3057.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1789418105,
+      "views": 3
+    },
+    {
+      "slug": "bos-mini-t565",
+      "url": "https://bosminiofficial.com/shop/3055/desc/bos-mini-t565",
+      "name": "BOS-MINI T565",
+      "sku": "",
+      "price_rub": 2900,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер Колонки 16см (6.5)\n✅ Мощность 80W\n✅ Количество полос 2 коаксиальные",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3055.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3055.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3055.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3055.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1789417882,
+      "views": 3
+    },
+    {
+      "slug": "bos-mini-t65kit",
+      "url": "https://bosminiofficial.com/shop/3058/desc/bos-mini-t65kit",
+      "name": "BOS-MINI T65KIT",
+      "sku": "",
+      "price_rub": 4300,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер Колонки 16см (6.5) Среднечастотный\n✅ Мощность 1000W\n✅ Количество полос:\n2\n(Компонетная с двумя кроссоверами для срезов частот)",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3058.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3058.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3058.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3058.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1789418343,
+      "views": 3
     },
     {
       "slug": "bos-mini-x651",
