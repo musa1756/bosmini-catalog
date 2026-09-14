@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789417216,
-  "scraped_count": 473,
+  "generated_at": 1789417516,
+  "scraped_count": 475,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2111,6 +2111,37 @@
       "popularity": 96,
       "added_at": 1781700561,
       "views": 178
+    },
+    {
+      "slug": "dhd-s200-pro-8-64gb",
+      "url": "https://bosminiofficial.com/shop/3052/desc/dhd-s200-pro-8-64gb",
+      "name": "DHD S200 Pro 8+64Gb",
+      "sku": "",
+      "price_rub": 7500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-9” (in-Cell)\n✅Память-8+64Gb\n✅Количество ядер-8\n✅CarPlay/AndroidAuto\n✅Поддержка сим карты\n✅Кулер охлаждения\n✅Провода для подключения в комплекте!!!",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3052.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3052.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3052.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3052.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1789417479,
+      "views": 1
     },
     {
       "slug": "dhd-x1-plus-4-64gb-10-djujmov",
@@ -7549,7 +7580,7 @@
         "Колонки"
       ],
       "brand_tags": [],
-      "description": "✅ Размер-Овалы ( 16см / 24 см)\n✅ Количество полос 3\n✅ Мощность 550W Max",
+      "description": "✅ Размер-Овалы ( 16см / 24 см)\n✅ Количество полос 3\n✅ Мощность 500W Max",
       "specs": [],
       "image_urls": [
         "https://bosminiofficial.com/_sh/30/3050.jpg"
@@ -7566,7 +7597,38 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789417159,
-      "views": 1
+      "views": 3
+    },
+    {
+      "slug": "bos-mini-6975-v3",
+      "url": "https://bosminiofficial.com/shop/3051/desc/bos-mini-6975-v3",
+      "name": "BOS-MINI 6975 V3",
+      "sku": "",
+      "price_rub": 3200,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер-Овалы ( 16см / 24 см)\n✅ Количество полос 3\n✅ Мощность 550W Max",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3051.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3051.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3051.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3051.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1789417283,
+      "views": 2
     },
     {
       "slug": "bos-mini-6990-6-9-800w",
@@ -9116,7 +9178,7 @@
       "stock_count": 0,
       "popularity": 71,
       "added_at": 1717065242,
-      "views": 547
+      "views": 548
     },
     {
       "slug": "kolonki-ot-bos-mini-6583",
