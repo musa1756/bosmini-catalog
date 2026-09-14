@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789418116,
+  "generated_at": 1789418416,
   "scraped_count": 477,
   "products": [
     {
@@ -1056,6 +1056,37 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789417882,
+      "views": 3
+    },
+    {
+      "slug": "bos-mini-t65kit",
+      "url": "https://bosminiofficial.com/shop/3058/desc/bos-mini-t65kit",
+      "name": "BOS-MINI T65KIT",
+      "sku": "",
+      "price_rub": 4300,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер Колонки 16см (6.5) Среднечастотный\n✅ Мощность 1000W\n✅ Количество полос:\n2\n(Компонетная с двумя кроссоверами для срезов частот)",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3058.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3058.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3058.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3058.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1789418343,
       "views": 1
     },
     {
@@ -3041,37 +3072,6 @@
       "popularity": 9,
       "added_at": 1776517259,
       "views": 297
-    },
-    {
-      "slug": "zx1-pro-plus-4-64gb-10",
-      "url": "https://bosminiofficial.com/shop/2902/desc/zx1-pro-plus-4-64gb-10",
-      "name": "ZX1 Pro Plus 4+64Gb 10\"",
-      "sku": "",
-      "price_rub": 6800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-10 дюймов\n✅Память- 4+64Gb\n✅Количество ядер-8\n✅CarPlay/AndroidAuto\n✅Поддержка сим карты\n✅Кулер охлаждения\n✅Провода для подключения и в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2902.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2902.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2902.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2902.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 65,
-      "added_at": 1776517157,
-      "views": 243
     },
     {
       "slug": "teyes-hs-sony-camera",
@@ -11815,7 +11815,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1752671618,
-      "views": 955
+      "views": 956
     },
     {
       "slug": "bos-08e",
@@ -14357,7 +14357,7 @@
       "stock_count": 0,
       "popularity": 46,
       "added_at": 1777715840,
-      "views": 190
+      "views": 191
     },
     {
       "slug": "komplekt-provodov-bos-48",
