@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789377017,
-  "scraped_count": 471,
+  "generated_at": 1789377317,
+  "scraped_count": 472,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1755664855,
-      "views": 600
+      "views": 601
     },
     {
       "slug": "bos-mini-a12",
@@ -716,6 +716,37 @@
       "popularity": 0,
       "added_at": 1788416365,
       "views": 62
+    },
+    {
+      "slug": "bos-mini-k39",
+      "url": "https://bosminiofficial.com/shop/3049/desc/bos-mini-k39",
+      "name": "BOS-MINI K39+",
+      "sku": "",
+      "price_rub": 8000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-9 дюймов\n✅Память-4+64Gb\n✅Количество ядер-8\n✅CarPlay/AndroidAuto\n✅Процессор DSP\n✅Расположение кнопок в боковых частях экрана\n✅Кулер охлаждения\n✅Провода для подключения в комплекте!!!",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3049.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3049.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3049.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3049.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1789377256,
+      "views": 1
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -13148,7 +13179,7 @@
       "stock_count": 0,
       "popularity": 294,
       "added_at": 1753860442,
-      "views": 216
+      "views": 217
     },
     {
       "slug": "bos-mini-10g",
