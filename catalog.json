@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789362916,
+  "generated_at": 1789363216,
   "scraped_count": 471,
   "products": [
     {
@@ -3629,7 +3629,7 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1775199067,
-      "views": 218
+      "views": 219
     },
     {
       "slug": "aromatizator-diffuzory-rh-017",
@@ -4280,7 +4280,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1731153413,
-      "views": 415
+      "views": 416
     },
     {
       "slug": "ultrafioletovyj-fonar-dlja-proverki-lkp-avto",
@@ -4590,7 +4590,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1751463679,
-      "views": 171
+      "views": 172
     },
     {
       "slug": "led-headlights-n3-h4",
@@ -14605,7 +14605,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1738756387,
-      "views": 978
+      "views": 979
     }
   ]
 }
