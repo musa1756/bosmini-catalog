@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789381516,
+  "generated_at": 1789381816,
   "scraped_count": 472,
   "products": [
     {
@@ -746,7 +746,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789377256,
-      "views": 6
+      "views": 7
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -4094,7 +4094,7 @@
       "stock_count": 0,
       "popularity": 1250,
       "added_at": 1718527601,
-      "views": 964
+      "views": 965
     },
     {
       "slug": "kompressor-3v1-y-qb01",
@@ -13210,7 +13210,7 @@
       "stock_count": 0,
       "popularity": 81,
       "added_at": 1726917366,
-      "views": 807
+      "views": 809
     },
     {
       "slug": "bos-mini-1512-12-3600w",
