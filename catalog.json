@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789396216,
+  "generated_at": 1789396516,
   "scraped_count": 472,
   "products": [
     {
@@ -808,7 +808,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1752859585,
-      "views": 464
+      "views": 466
     },
     {
       "slug": "bos-mini-q2-9",
@@ -1738,7 +1738,7 @@
       "stock_count": 0,
       "popularity": 148,
       "added_at": 1752911964,
-      "views": 2043
+      "views": 2045
     },
     {
       "slug": "bos-mini-ts10-4-64gb-10",
