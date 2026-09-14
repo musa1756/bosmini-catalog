@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789416917,
-  "scraped_count": 472,
+  "generated_at": 1789417216,
+  "scraped_count": 473,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -7538,6 +7538,37 @@
       "views": 466
     },
     {
+      "slug": "bos-mini-6975-v2",
+      "url": "https://bosminiofficial.com/shop/3050/desc/bos-mini-6975-v2",
+      "name": "BOS-MINI 6975 V2",
+      "sku": "",
+      "price_rub": 3200,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер-Овалы ( 16см / 24 см)\n✅ Количество полос 3\n✅ Мощность 550W Max",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3050.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3050.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3050.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3050.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1789417159,
+      "views": 1
+    },
+    {
       "slug": "bos-mini-6990-6-9-800w",
       "url": "https://bosminiofficial.com/shop/2989/desc/bos-mini-6990-6-9-800w",
       "name": "BOS-MINI 6990 (6/9),800w",
@@ -11071,7 +11102,7 @@
       "stock_count": 0,
       "popularity": 57,
       "added_at": 1754650895,
-      "views": 1061
+      "views": 1062
     },
     {
       "slug": "bos-mini-785p5",
