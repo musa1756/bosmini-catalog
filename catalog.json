@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789417816,
+  "generated_at": 1789418116,
   "scraped_count": 477,
   "products": [
     {
@@ -935,6 +935,37 @@
       "views": 78
     },
     {
+      "slug": "bos-mini-t265",
+      "url": "https://bosminiofficial.com/shop/3056/desc/bos-mini-t265",
+      "name": "BOS-MINI T265",
+      "sku": "",
+      "price_rub": 3000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер Колонки 16см (6.5) Среднечастотный\n✅ Мощность 180W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3056.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3056.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3056.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3056.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1789418041,
+      "views": 1
+    },
+    {
       "slug": "bos-mini-t3-4-64gb-9",
       "url": "https://bosminiofficial.com/shop/2905/desc/bos-mini-t3-4-64gb-9",
       "name": "BOS-MINI T3 4+64Gb 9\"",
@@ -964,6 +995,68 @@
       "popularity": 54,
       "added_at": 1776843716,
       "views": 365
+    },
+    {
+      "slug": "bos-mini-t365",
+      "url": "https://bosminiofficial.com/shop/3057/desc/bos-mini-t365",
+      "name": "BOS-MINI T365",
+      "sku": "",
+      "price_rub": 2900,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер Колонки 16см (6.5) Среднечастотный\n✅ Мощность 100W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3057.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3057.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3057.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3057.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1789418105,
+      "views": 1
+    },
+    {
+      "slug": "bos-mini-t565",
+      "url": "https://bosminiofficial.com/shop/3055/desc/bos-mini-t565",
+      "name": "BOS-MINI T565",
+      "sku": "",
+      "price_rub": 2900,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер Колонки 16см (6.5)\n✅ Мощность 80W\n✅ Количество полос 2 коаксиальные",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3055.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3055.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3055.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3055.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1789417882,
+      "views": 1
     },
     {
       "slug": "bos-mini-t7038-4-64gb",
@@ -2141,7 +2234,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789417555,
-      "views": 1
+      "views": 2
     },
     {
       "slug": "dhd-s200-pro-8-64gb",
@@ -2172,7 +2265,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789417479,
-      "views": 2
+      "views": 3
     },
     {
       "slug": "dhd-s210-pro-8-64gb",
@@ -2203,7 +2296,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789417633,
-      "views": 1
+      "views": 3
     },
     {
       "slug": "dhd-x1-plus-4-64gb-10-djujmov",
@@ -2979,99 +3072,6 @@
       "popularity": 65,
       "added_at": 1776517157,
       "views": 243
-    },
-    {
-      "slug": "gem61-pro-max-mersedes-style",
-      "url": "https://bosminiofficial.com/shop/3007/desc/gem61-pro-max-mersedes-style",
-      "name": "ГЕМ61 PRO MAX Mersedes Style",
-      "sku": "",
-      "price_rub": 10500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-12,8 дюймов\n✅Память-8+64Gb\n✅Количество ядер-8\n✅Поддержка сим карты\n✅Платформа TS18\n✅CarPlay/AndroidAuto\n✅Разделение экрана\n✅Кулер охлаждения\n✅2 рамки и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3007.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3007.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3007.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3007.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 26,
-      "added_at": 1784270650,
-      "views": 163
-    },
-    {
-      "slug": "gem62-pro-max-bmw-style",
-      "url": "https://bosminiofficial.com/shop/3005/desc/gem62-pro-max-bmw-style",
-      "name": "ГЕМ62 PRO MAX BMW Style",
-      "sku": "",
-      "price_rub": 10500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-12,8 дюймов\n✅Память-8+64Gb\n✅Количество ядер-8\n✅Поддержка сим карты\n✅Платформа TS18\n✅CarPlay/AndroidAuto\n✅Разделение экрана\n✅Кулер охлаждения\n✅2 рамки и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3005.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3005.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3005.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3005.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 19,
-      "added_at": 1784270215,
-      "views": 124
-    },
-    {
-      "slug": "gem63-pro-max-audi-style",
-      "url": "https://bosminiofficial.com/shop/3006/desc/gem63-pro-max-audi-style",
-      "name": "ГЕМ63 PRO MAX AUDI Style",
-      "sku": "",
-      "price_rub": 10500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-12,8 дюймов\n✅Память-8+64Gb\n✅Количество ядер-8\n✅Поддержка сим карты\n✅Платформа TS18\n✅CarPlay/AndroidAuto\n✅Разделение экрана\n✅Кулер охлаждения\n✅2 рамки и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3006.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3006.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3006.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3006.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 12,
-      "added_at": 1784270492,
-      "views": 192
     },
     {
       "slug": "teyes-hs-sony-camera",
@@ -14388,7 +14388,7 @@
       "stock_count": 0,
       "popularity": 60,
       "added_at": 1777715745,
-      "views": 205
+      "views": 206
     },
     {
       "slug": "komplekt-provodov-pro-series-4ga",
