@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789419317,
-  "scraped_count": 481,
+  "generated_at": 1789419618,
+  "scraped_count": 482,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -3072,6 +3072,37 @@
       "popularity": 12,
       "added_at": 1784270492,
       "views": 192
+    },
+    {
+      "slug": "gem73-pro-max-8-64gb-bmw-style",
+      "url": "https://bosminiofficial.com/shop/3059/desc/gem73-pro-max-8-64gb-bmw-style",
+      "name": "ГЕМ73 PRO MAX 8+64Gb BMW Style",
+      "sku": "",
+      "price_rub": 11300,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-12,8 дюймов\n✅Память-8+64Gb\n✅Количество ядер-8\n✅Поддержка сим карты\n✅Платформа TS18\n✅CarPlay/AndroidAuto\n✅Разделение экрана\n✅Кулер охлаждения\n✅2 рамки и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3059.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3059.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3059.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3059.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1789418652,
+      "views": 3
     },
     {
       "slug": "teyes-hs-sony-camera",
@@ -7194,7 +7225,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1765657119,
-      "views": 802
+      "views": 803
     },
     {
       "slug": "monitor-s-4-mja-kamerami-jcs-7003-4",
@@ -8062,7 +8093,7 @@
       "stock_count": 0,
       "popularity": 59,
       "added_at": 1749112890,
-      "views": 866
+      "views": 867
     },
     {
       "slug": "bos-mini-6586-16sm",
