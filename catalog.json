@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789441520,
+  "generated_at": 1789441819,
   "scraped_count": 482,
   "products": [
     {
@@ -746,7 +746,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1789377256,
-      "views": 9
+      "views": 10
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -2141,7 +2141,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789417555,
-      "views": 3
+      "views": 4
     },
     {
       "slug": "dhd-s200-pro-8-64gb",
@@ -2172,7 +2172,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789417479,
-      "views": 5
+      "views": 6
     },
     {
       "slug": "dhd-s210-pro-8-64gb",
@@ -2203,7 +2203,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789417633,
-      "views": 6
+      "views": 8
     },
     {
       "slug": "dhd-x1-plus-4-64gb-10-djujmov",
@@ -3102,7 +3102,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789418652,
-      "views": 5
+      "views": 6
     },
     {
       "slug": "teyes-hs-sony-camera",
@@ -7690,7 +7690,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789417159,
-      "views": 6
+      "views": 7
     },
     {
       "slug": "bos-mini-6975-v3",
@@ -7969,7 +7969,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789417882,
-      "views": 5
+      "views": 6
     },
     {
       "slug": "bos-mini-t65kit",
@@ -8000,7 +8000,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789418343,
-      "views": 6
+      "views": 7
     },
     {
       "slug": "bos-mini-x651",
@@ -9798,7 +9798,7 @@
       "stock_count": 0,
       "popularity": 497,
       "added_at": 1722879275,
-      "views": 949
+      "views": 950
     },
     {
       "slug": "bos-mini-y957bt-12v-24v",
