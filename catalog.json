@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789479318,
+  "generated_at": 1789479620,
   "scraped_count": 482,
   "products": [
     {
@@ -746,7 +746,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1789377256,
-      "views": 12
+      "views": 13
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -2141,7 +2141,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1789417555,
-      "views": 8
+      "views": 9
     },
     {
       "slug": "dhd-s200-pro-8-64gb",
@@ -2916,7 +2916,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1787567077,
-      "views": 112
+      "views": 113
     },
     {
       "slug": "zx1-4-64gb-9",
