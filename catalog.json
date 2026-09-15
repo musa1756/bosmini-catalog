@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789491017,
+  "generated_at": 1789491317,
   "scraped_count": 482,
   "products": [
     {
@@ -281,7 +281,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1782390552,
-      "views": 190
+      "views": 191
     },
     {
       "slug": "bos-mini-a1206-4g",
@@ -715,7 +715,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1788416365,
-      "views": 65
+      "views": 66
     },
     {
       "slug": "bos-mini-k39",
@@ -2141,7 +2141,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1789417555,
-      "views": 10
+      "views": 11
     },
     {
       "slug": "dhd-s200-pro-8-64gb",
