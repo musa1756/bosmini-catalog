@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789500018,
+  "generated_at": 1789500319,
   "scraped_count": 482,
   "products": [
     {
@@ -5954,7 +5954,7 @@
       "stock_count": 0,
       "popularity": 55,
       "added_at": 1764785199,
-      "views": 298
+      "views": 299
     },
     {
       "slug": "carplay-pnd-7",
@@ -11443,7 +11443,7 @@
       "stock_count": 0,
       "popularity": 51,
       "added_at": 1778219987,
-      "views": 605
+      "views": 606
     },
     {
       "slug": "bos-n725ftp5",
@@ -14233,7 +14233,7 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1716585339,
-      "views": 186
+      "views": 187
     },
     {
       "slug": "bukhta-100m-1-5mm",
@@ -14264,7 +14264,7 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1716585165,
-      "views": 202
+      "views": 205
     },
     {
       "slug": "kabel-2-2-rca-sinij",
@@ -14946,7 +14946,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1738756387,
-      "views": 980
+      "views": 981
     }
   ]
 }
