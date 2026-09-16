@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789549517,
+  "generated_at": 1789549818,
   "scraped_count": 482,
   "products": [
     {
@@ -1273,7 +1273,7 @@
       "stock_count": 0,
       "popularity": 103,
       "added_at": 1764494765,
-      "views": 1610
+      "views": 1611
     },
     {
       "slug": "bos-mini-a629d-4-64gb",
@@ -12163,7 +12163,7 @@
       "url": "https://bosminiofficial.com/shop/363/desc/dvukhstoronnjaja-signalizacija-s-avtozapuskom-x5",
       "name": "Двухсторонняя сигнализация с автозапуском X5",
       "sku": "TOMAHAWK",
-      "price_rub": 2500,
+      "price_rub": 2400,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
