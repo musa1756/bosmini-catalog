@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789551317,
+  "generated_at": 1789551617,
   "scraped_count": 482,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 782
+      "views": 783
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1788416160,
-      "views": 82
+      "views": 83
     },
     {
       "slug": "bos-mini-a1203-bmw-style",
@@ -1056,7 +1056,7 @@
       "stock_count": 0,
       "popularity": 140,
       "added_at": 1764313794,
-      "views": 1850
+      "views": 1851
     },
     {
       "slug": "bos-a659d-pro-4-64gb",
@@ -1676,7 +1676,7 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1752853165,
-      "views": 509
+      "views": 510
     },
     {
       "slug": "bos-mini-t8-4-64gb-9",
@@ -13396,7 +13396,7 @@
       "stock_count": 0,
       "popularity": 132,
       "added_at": 1777715674,
-      "views": 272
+      "views": 273
     },
     {
       "slug": "bos-4ga",
