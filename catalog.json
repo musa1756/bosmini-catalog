@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789588218,
+  "generated_at": 1789588518,
   "scraped_count": 484,
   "products": [
     {
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1755664855,
-      "views": 617
+      "views": 618
     },
     {
       "slug": "bos-mini-a12",
@@ -1583,7 +1583,7 @@
       "stock_count": 0,
       "popularity": 84,
       "added_at": 1765630585,
-      "views": 1089
+      "views": 1090
     },
     {
       "slug": "bos-mini-q5-4-64gb-9",
@@ -9581,7 +9581,7 @@
       "stock_count": 0,
       "popularity": 86,
       "added_at": 1716273525,
-      "views": 1230
+      "views": 1231
     },
     {
       "slug": "bos-mini-941dsp",
@@ -11443,7 +11443,7 @@
       "stock_count": 0,
       "popularity": 51,
       "added_at": 1778219987,
-      "views": 617
+      "views": 618
     },
     {
       "slug": "bos-n725ftp5",
@@ -15008,7 +15008,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1738756387,
-      "views": 982
+      "views": 983
     }
   ]
 }
