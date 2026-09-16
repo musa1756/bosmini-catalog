@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789588819,
+  "generated_at": 1789589118,
   "scraped_count": 484,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 783
+      "views": 784
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -560,7 +560,7 @@
       "stock_count": 0,
       "popularity": 182,
       "added_at": 1753952536,
-      "views": 975
+      "views": 976
     },
     {
       "slug": "bos-mini-a6-wi-fi-4-64gb-10-djujm",
@@ -3226,7 +3226,7 @@
       "stock_count": 0,
       "popularity": 51,
       "added_at": 1785308119,
-      "views": 133
+      "views": 134
     },
     {
       "slug": "datchik-davlenija-shin-teyes",
