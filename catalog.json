@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789558817,
+  "generated_at": 1789559118,
   "scraped_count": 482,
   "products": [
     {
@@ -746,7 +746,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1789377256,
-      "views": 19
+      "views": 20
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -1552,7 +1552,7 @@
       "stock_count": 0,
       "popularity": 124,
       "added_at": 1767294203,
-      "views": 963
+      "views": 964
     },
     {
       "slug": "bos-mini-n776s-4-64gb",
@@ -2637,7 +2637,7 @@
       "stock_count": 0,
       "popularity": 33,
       "added_at": 1776112985,
-      "views": 374
+      "views": 375
     },
     {
       "slug": "es80-4-64gb",
