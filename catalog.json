@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789551018,
+  "generated_at": 1789551317,
   "scraped_count": 482,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 781
+      "views": 782
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -1056,7 +1056,7 @@
       "stock_count": 0,
       "popularity": 140,
       "added_at": 1764313794,
-      "views": 1849
+      "views": 1850
     },
     {
       "slug": "bos-a659d-pro-4-64gb",
