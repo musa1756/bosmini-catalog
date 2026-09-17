@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789631417,
-  "scraped_count": 483,
+  "generated_at": 1789631717,
+  "scraped_count": 481,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -157,7 +157,7 @@
       "stock_count": 0,
       "popularity": 802,
       "added_at": 1765176165,
-      "views": 2053
+      "views": 2054
     },
     {
       "slug": "bos-mini-a1022xz-2-32gb",
@@ -11474,7 +11474,7 @@
       "stock_count": 0,
       "popularity": 26,
       "added_at": 1786687337,
-      "views": 315
+      "views": 316
     },
     {
       "slug": "bos-n726skdp5",
@@ -13585,37 +13585,6 @@
       "views": 99
     },
     {
-      "slug": "bos-mini-6016",
-      "url": "https://bosminiofficial.com/shop/2626/desc/bos-mini-6016",
-      "name": "BOS-MINI 6016",
-      "sku": "",
-      "price_rub": 3500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅️ Размер динамика 6 ✅️ Мощность 100W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/26/2626.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2626.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/26/2626.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2626.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 31,
-      "added_at": 1757143405,
-      "views": 329
-    },
-    {
       "slug": "bos-mini-8016",
       "url": "https://bosminiofficial.com/shop/2893/desc/bos-mini-8016",
       "name": "BOS-MINI 8016",
@@ -13862,37 +13831,6 @@
       "popularity": 15,
       "added_at": 1782389313,
       "views": 86
-    },
-    {
-      "slug": "pioneer-gb-801a",
-      "url": "https://bosminiofficial.com/shop/2502/desc/pioneer-gb-801a",
-      "name": "Pinoeer.GB 801A",
-      "sku": "",
-      "price_rub": 2800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Сабвуфер под сиденье ✅ Размер динамика 8",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2502.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2502.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2502.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2502.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 61,
-      "added_at": 1753518032,
-      "views": 258
     },
     {
       "slug": "pioneer-gb-802a",
