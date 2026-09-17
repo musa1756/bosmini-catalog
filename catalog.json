@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789631717,
-  "scraped_count": 481,
+  "generated_at": 1789632017,
+  "scraped_count": 477,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -966,37 +966,6 @@
       "views": 374
     },
     {
-      "slug": "bos-mini-t7038-4-64gb",
-      "url": "https://bosminiofficial.com/shop/2924/desc/bos-mini-t7038-4-64gb",
-      "name": "BOS-MINI T7038 4+64Gb",
-      "sku": "",
-      "price_rub": 4900,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-7 дюймов\n✅Память-4+64Gb\n✅Количество ядер-4+4\n✅Процессор DSP\n✅Carplay/AndroidAuto\n✅Кулер охлаждения\n✅Набор проводов для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2924.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2924.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2924.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2924.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 172,
-      "added_at": 1777460775,
-      "views": 469
-    },
-    {
       "slug": "bos-mini-a1105",
       "url": "https://bosminiofficial.com/shop/2979/desc/bos-mini-a1105",
       "name": "BOS-MINI А1105",
@@ -1212,37 +1181,6 @@
       "popularity": 39,
       "added_at": 1769575588,
       "views": 777
-    },
-    {
-      "slug": "bos-mini-a5-6-128gb-9",
-      "url": "https://bosminiofficial.com/shop/2809/desc/bos-mini-a5-6-128gb-9",
-      "name": "Bos-Mini A5+ 6+128Gb 9\"",
-      "sku": "",
-      "price_rub": 10700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Память-6+128Gb\n✅Размер экрана- 9 дюймов\n✅Поддержка камеры кругового обзора 360 градусов\n✅Поддержка сим карты\n✅Оптический выход\n✅Количество ядер-8\n✅Процессор DSP\n✅Carplay\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2809.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2809.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2809.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2809.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 625,
-      "added_at": 1769575545,
-      "views": 1067
     },
     {
       "slug": "bos-mini-a628d-dsp-4-64gb",
@@ -7969,7 +7907,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1789417882,
-      "views": 20
+      "views": 21
     },
     {
       "slug": "bos-mini-t65kit",
@@ -9739,37 +9677,6 @@
       "views": 547
     },
     {
-      "slug": "bos-mini-y1568mbt-12v-24v",
-      "url": "https://bosminiofficial.com/shop/2964/desc/bos-mini-y1568mbt-12v-24v",
-      "name": "BOS-MINI Y1568MBT 12V-24V",
-      "sku": "",
-      "price_rub": 1000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅Напряжение-12-24V\n✅Bluetooth/Aux/USB/SD/Type-C\n✅Цветной 7-ми цветный экран\n✅Радиатор охлаждения\n✅6 выходов RCA\n✅2 пульта управления и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2964.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2964.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2964.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2964.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 43,
-      "added_at": 1782205257,
-      "views": 334
-    },
-    {
       "slug": "bos-mini-y956bt-12v-24v",
       "url": "https://bosminiofficial.com/shop/851/desc/bos-mini-y956bt-12v-24v",
       "name": "BOS-MINI Y956BT 12V-24V",
@@ -9799,37 +9706,6 @@
       "popularity": 497,
       "added_at": 1722879275,
       "views": 959
-    },
-    {
-      "slug": "bos-mini-y957bt-12v-24v",
-      "url": "https://bosminiofficial.com/shop/2518/desc/bos-mini-y957bt-12v-24v",
-      "name": "BOS-MINI Y957BT 12V-24V",
-      "sku": "",
-      "price_rub": 1000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅Универсальные 12v-24v ✅Bluetooth ✅Type-C, USB, Aux, SD слоты ✅Цветной экран ✅Радиатор охлаждения ✅6 выходов RCA ✅Простой пульт,пульт на руль и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2518.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2518.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2518.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2518.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 305,
-      "added_at": 1753768718,
-      "views": 615
     },
     {
       "slug": "bos-mini-bos-n670dsp",
@@ -11257,7 +11133,7 @@
       "stock_count": 0,
       "popularity": 72,
       "added_at": 1714856095,
-      "views": 1190
+      "views": 1191
     },
     {
       "slug": "magnitola-bos-mini-n973dsp",
@@ -11970,7 +11846,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1752671618,
-      "views": 962
+      "views": 963
     },
     {
       "slug": "bos-08e",
