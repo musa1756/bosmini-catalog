@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789632017,
-  "scraped_count": 477,
+  "generated_at": 1789632317,
+  "scraped_count": 476,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -9209,7 +9209,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1734506942,
-      "views": 277
+      "views": 278
     },
     {
       "slug": "wt-spk161-22",
@@ -9489,37 +9489,6 @@
       "popularity": 99,
       "added_at": 1752047244,
       "views": 210
-    },
-    {
-      "slug": "1-din-bos-mini-n771",
-      "url": "https://bosminiofficial.com/shop/578/desc/1-din-bos-mini-n771",
-      "name": "1-Din Bos-Mini - N771",
-      "sku": "",
-      "price_rub": 3400,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅Bluetooth ✅Aux, USB и Type-C ✅Процессор DSP ✅Цветной RGB экран ✅Мощный радиатор охлаждения ✅9 выходов RCA ✅Пульт и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/5/578.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/5/578.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/5/578.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/5/578.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 86,
-      "added_at": 1716273525,
-      "views": 1233
     },
     {
       "slug": "bos-mini-941dsp",
