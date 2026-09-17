@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789633216,
+  "generated_at": 1789633517,
   "scraped_count": 476,
   "products": [
     {
@@ -217,9 +217,9 @@
         "https://bosminiofficial.com/_sh/30/3042.jpg"
       ],
       "stock_count": 0,
-      "popularity": 8,
+      "popularity": 9,
       "added_at": 1788416160,
-      "views": 86
+      "views": 87
     },
     {
       "slug": "bos-mini-a1203-bmw-style",
@@ -2914,7 +2914,7 @@
         "https://bosminiofficial.com/_sh/29/2902.jpg"
       ],
       "stock_count": 0,
-      "popularity": 66,
+      "popularity": 67,
       "added_at": 1776517157,
       "views": 247
     },
