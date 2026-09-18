@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789718417,
-  "scraped_count": 476,
+  "generated_at": 1789718717,
+  "scraped_count": 472,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1491,37 +1491,6 @@
       "popularity": 124,
       "added_at": 1767294203,
       "views": 967
-    },
-    {
-      "slug": "bos-mini-n776s-4-64gb",
-      "url": "https://bosminiofficial.com/shop/2744/desc/bos-mini-n776s-4-64gb",
-      "name": "Bos-Mini N776S 4+64Gb",
-      "sku": "",
-      "price_rub": 6000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Память- 4+64Gb\n✅Кулер охлаждения\n✅Размер экрана-7\" сенсорный\n✅Надежный автоматический механизм\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2744.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2744.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2744.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2744.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 86,
-      "added_at": 1765630585,
-      "views": 1098
     },
     {
       "slug": "bos-mini-q5-4-64gb-9",
@@ -11350,7 +11319,7 @@
       "stock_count": 0,
       "popularity": 27,
       "added_at": 1786687638,
-      "views": 453
+      "views": 454
     },
     {
       "slug": "dhd-1057x",
@@ -14050,37 +14019,6 @@
       "views": 208
     },
     {
-      "slug": "kabel-2-2-rca-sinij",
-      "url": "https://bosminiofficial.com/shop/2936/desc/kabel-2-2-rca-sinij",
-      "name": "Кабель 2*2 RCA (синий )",
-      "sku": "",
-      "price_rub": 150,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Кабель 2*2 RCA\n✅Длина кабеля-5м",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2936.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2936.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2936.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2936.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 149,
-      "added_at": 1778922215,
-      "views": 247
-    },
-    {
       "slug": "kabel-2-2-rca-bl863",
       "url": "https://bosminiofficial.com/shop/553/desc/kabel-2-2-rca-bl863",
       "name": "Кабель 2*2 RCA BL863",
@@ -14606,68 +14544,6 @@
       "popularity": 52,
       "added_at": 1783923577,
       "views": 76
-    },
-    {
-      "slug": "dv-pioneer-ok-414",
-      "url": "https://bosminiofficial.com/shop/2753/desc/dv-pioneer-ok-414",
-      "name": "Dv-Pioneer.Ok 414",
-      "sku": "",
-      "price_rub": 1700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Усилители"
-      ],
-      "brand_tags": [],
-      "description": "✅Количество каналов-4\n✅Мощность-1800W Max",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2753.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2753.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2753.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2753.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 614,
-      "added_at": 1765802307,
-      "views": 280
-    },
-    {
-      "slug": "dv-pioneer-ok-415",
-      "url": "https://bosminiofficial.com/shop/2754/desc/dv-pioneer-ok-415",
-      "name": "Dv-Pioneer.Ok 415",
-      "sku": "",
-      "price_rub": 1700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Усилители"
-      ],
-      "brand_tags": [],
-      "description": "✅Количество каналов-4\n✅Мощность-1800W Max",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2754.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2754.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2754.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2754.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 479,
-      "added_at": 1765802327,
-      "views": 230
     },
     {
       "slug": "kenwood-kw-a5314",
