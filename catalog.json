@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789763716,
+  "generated_at": 1789764017,
   "scraped_count": 472,
   "products": [
     {
@@ -374,7 +374,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1788416281,
-      "views": 64
+      "views": 65
     },
     {
       "slug": "bos-mini-a1301",
@@ -808,7 +808,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1752859585,
-      "views": 485
+      "views": 486
     },
     {
       "slug": "bos-mini-q2-9",
@@ -2730,7 +2730,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1780137341,
-      "views": 284
+      "views": 285
     },
     {
       "slug": "x3-diamond-4-64gb",
@@ -2761,7 +2761,7 @@
       "stock_count": 0,
       "popularity": 85,
       "added_at": 1781589517,
-      "views": 199
+      "views": 200
     },
     {
       "slug": "y2-pro-12-128gb",
