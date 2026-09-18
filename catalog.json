@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789704317,
+  "generated_at": 1789704616,
   "scraped_count": 476,
   "products": [
     {
@@ -3412,7 +3412,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1730529840,
-      "views": 485
+      "views": 486
     },
     {
       "slug": "iso-bos-mini-e-05",
@@ -11040,7 +11040,7 @@
       "stock_count": 0,
       "popularity": 163,
       "added_at": 1714856095,
-      "views": 1592
+      "views": 1593
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
@@ -11288,7 +11288,7 @@
       "stock_count": 0,
       "popularity": 56,
       "added_at": 1778219987,
-      "views": 632
+      "views": 633
     },
     {
       "slug": "bos-n725ftp5",
@@ -12218,7 +12218,7 @@
       "stock_count": 0,
       "popularity": 114,
       "added_at": 1738756089,
-      "views": 489
+      "views": 490
     },
     {
       "slug": "parktronik-bos-666",
@@ -14760,7 +14760,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1738756387,
-      "views": 986
+      "views": 987
     }
   ]
 }
