@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789726516,
+  "generated_at": 1789726816,
   "scraped_count": 472,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 791
+      "views": 792
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -529,7 +529,7 @@
       "stock_count": 0,
       "popularity": 911,
       "added_at": 1759819618,
-      "views": 1466
+      "views": 1467
     },
     {
       "slug": "bos-mini-a42-6-64gb-9",
@@ -5706,7 +5706,7 @@
       "stock_count": 0,
       "popularity": 1039,
       "added_at": 1732391421,
-      "views": 1020
+      "views": 1021
     },
     {
       "slug": "bos-mini-a17l-2k-s-wi-fi",
@@ -7628,7 +7628,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1789417283,
-      "views": 25
+      "views": 26
     },
     {
       "slug": "bos-mini-6990-6-9-800w",
@@ -8124,7 +8124,7 @@
       "stock_count": 0,
       "popularity": 317,
       "added_at": 1733386378,
-      "views": 431
+      "views": 432
     },
     {
       "slug": "bos-mini-5500",
@@ -11164,7 +11164,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1782205423,
-      "views": 431
+      "views": 432
     },
     {
       "slug": "bos-783dp5",
