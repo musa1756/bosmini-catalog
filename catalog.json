@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789805117,
+  "generated_at": 1789805416,
   "scraped_count": 471,
   "products": [
     {
@@ -9860,7 +9860,7 @@
       "stock_count": 0,
       "popularity": 87,
       "added_at": 1749968403,
-      "views": 478
+      "views": 479
     },
     {
       "slug": "bos-n974dsp-1475",
@@ -11040,7 +11040,7 @@
       "stock_count": 0,
       "popularity": 72,
       "added_at": 1714856095,
-      "views": 1198
+      "views": 1199
     },
     {
       "slug": "magnitola-bos-mini-n973dsp",
@@ -11381,7 +11381,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1785307627,
-      "views": 217
+      "views": 218
     },
     {
       "slug": "dv-pioneer-ok-5503",
@@ -11760,7 +11760,7 @@
       "url": "https://bosminiofficial.com/shop/1454/desc/bos-08e",
       "name": "Bos-08E (с брелоком)",
       "sku": "",
-      "price_rub": 900,
+      "price_rub": 1000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -11791,7 +11791,7 @@
       "url": "https://bosminiofficial.com/shop/1455/desc/bos-08g",
       "name": "Bos-08G",
       "sku": "",
-      "price_rub": 800,
+      "price_rub": 900,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -11970,7 +11970,7 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1727081099,
-      "views": 300
+      "views": 301
     },
     {
       "slug": "dvukhstoronnjaja-signalizacija-s-avtozapuskom-x5",
