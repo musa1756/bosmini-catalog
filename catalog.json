@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789800616,
-  "scraped_count": 472,
+  "generated_at": 1789800916,
+  "scraped_count": 471,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 795
+      "views": 796
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -1025,7 +1025,7 @@
       "stock_count": 0,
       "popularity": 140,
       "added_at": 1764313794,
-      "views": 1868
+      "views": 1869
     },
     {
       "slug": "bos-a659d-pro-4-64gb",
@@ -2793,37 +2793,6 @@
       "popularity": 226,
       "added_at": 1773035061,
       "views": 472
-    },
-    {
-      "slug": "y202-pro-8-64gb",
-      "url": "https://bosminiofficial.com/shop/3038/desc/y202-pro-8-64gb",
-      "name": "Y202 Pro 8+64Gb",
-      "sku": "",
-      "price_rub": 8500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-10.2 дюйма\n✅Память-8+64Gb\n✅Поддержка сим карты\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅Рамка и набор проводов для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3038.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3038.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3038.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3038.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 6,
-      "added_at": 1787567077,
-      "views": 125
     },
     {
       "slug": "zx1-4-64gb-9",
