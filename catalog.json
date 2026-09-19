@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789828217,
+  "generated_at": 1789828517,
   "scraped_count": 471,
   "products": [
     {
@@ -2575,7 +2575,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1752907950,
-      "views": 214
+      "views": 215
     },
     {
       "slug": "h41-nano-2-32g",
@@ -5589,7 +5589,7 @@
       "url": "https://bosminiofficial.com/shop/2952/desc/bos-mini-k15l-wi-fi",
       "name": "BOS-MINI K15L Wi-Fi",
       "sku": "",
-      "price_rub": 2350,
+      "price_rub": 2400,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
