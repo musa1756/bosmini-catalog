@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789823717,
+  "generated_at": 1789824016,
   "scraped_count": 471,
   "products": [
     {
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1788416160,
-      "views": 100
+      "views": 103
     },
     {
       "slug": "bos-mini-a1203-bmw-style",
@@ -1118,7 +1118,7 @@
       "stock_count": 0,
       "popularity": 56,
       "added_at": 1772527002,
-      "views": 1055
+      "views": 1058
     },
     {
       "slug": "bos-mini-a1pro-10-4-64gb",
@@ -1304,7 +1304,7 @@
       "stock_count": 0,
       "popularity": 61,
       "added_at": 1772527820,
-      "views": 598
+      "views": 600
     },
     {
       "slug": "bos-mini-cc3-max-2k-12-256gb-9",
