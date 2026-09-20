@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789889117,
-  "scraped_count": 471,
+  "generated_at": 1789889416,
+  "scraped_count": 473,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -3009,7 +3009,7 @@
       "stock_count": 0,
       "popularity": 2699,
       "added_at": 1753684369,
-      "views": 750
+      "views": 751
     },
     {
       "slug": "teyes-sony-ahd-1080p",
@@ -3970,7 +3970,7 @@
       "stock_count": 0,
       "popularity": 34,
       "added_at": 1763447303,
-      "views": 280
+      "views": 281
     },
     {
       "slug": "besprovodnoj-karplehj-t1-dlja-populjarnykh-modelej-toyota",
@@ -8468,6 +8468,68 @@
       "views": 441
     },
     {
+      "slug": "hertz-k165",
+      "url": "https://bosminiofficial.com/shop/2530/desc/hertz-k165",
+      "name": "HERTZ K165",
+      "sku": "",
+      "price_rub": 2650,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер Динамика 16см ✅Мощность- 300W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/25/2530.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/25/2530.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/25/2530.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/25/2530.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 80,
+      "added_at": 1753859805,
+      "views": 286
+    },
+    {
+      "slug": "hertz-x165",
+      "url": "https://bosminiofficial.com/shop/2531/desc/hertz-x165",
+      "name": "HERTZ X165",
+      "sku": "",
+      "price_rub": 2350,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер Динамика 16см ✅Мощность- 220W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/25/2531.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/25/2531.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/25/2531.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/25/2531.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 157,
+      "added_at": 1753859920,
+      "views": 326
+    },
+    {
       "slug": "hz-405-360w-10sm",
       "url": "https://bosminiofficial.com/shop/2591/desc/hz-405-360w-10sm",
       "name": "HZ-405 (360W, 10см)",
@@ -10883,7 +10945,7 @@
       "stock_count": 0,
       "popularity": 27,
       "added_at": 1752837167,
-      "views": 451
+      "views": 452
     },
     {
       "slug": "pioneer-gb-mvh-768mbt",
@@ -11257,7 +11319,7 @@
       "stock_count": 0,
       "popularity": 26,
       "added_at": 1786687337,
-      "views": 348
+      "views": 349
     },
     {
       "slug": "bos-n726skdp5",
