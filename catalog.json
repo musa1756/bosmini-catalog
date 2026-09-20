@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789889717,
-  "scraped_count": 473,
+  "generated_at": 1789890016,
+  "scraped_count": 474,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -715,7 +715,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1788416365,
-      "views": 78
+      "views": 79
     },
     {
       "slug": "bos-mini-k39",
@@ -3227,6 +3227,37 @@
       "popularity": 13,
       "added_at": 1785308346,
       "views": 105
+    },
+    {
+      "slug": "cifrovoj-mikrofon-dlja-teyes-cc4-pro",
+      "url": "https://bosminiofficial.com/shop/3015/desc/cifrovoj-mikrofon-dlja-teyes-cc4-pro",
+      "name": "Цифровой микрофон для TEYES CC4 Pro",
+      "sku": "",
+      "price_rub": 1400,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "TEYES"
+      ],
+      "brand_tags": [],
+      "description": "✅Внешний микрофон для подключения к магнитоле TEYES CC4 Pro",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3015.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3015.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3015.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3015.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 18,
+      "added_at": 1785310554,
+      "views": 44
     },
     {
       "slug": "bos-mini-9602",
@@ -10449,7 +10480,7 @@
       "stock_count": 0,
       "popularity": 778,
       "added_at": 1723960692,
-      "views": 517
+      "views": 518
     },
     {
       "slug": "dv-pioneer-ok-219",
