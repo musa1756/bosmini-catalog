@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789942816,
+  "generated_at": 1789943116,
   "scraped_count": 473,
   "products": [
     {
@@ -7845,7 +7845,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1789418105,
-      "views": 31
+      "views": 32
     },
     {
       "slug": "bos-mini-t565",
@@ -7876,7 +7876,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1789417882,
-      "views": 25
+      "views": 26
     },
     {
       "slug": "bos-mini-t65kit",
@@ -10542,7 +10542,7 @@
       "stock_count": 0,
       "popularity": 196,
       "added_at": 1773034968,
-      "views": 474
+      "views": 475
     },
     {
       "slug": "e5-olom-e-011",
