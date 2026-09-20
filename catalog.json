@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789876517,
+  "generated_at": 1789876817,
   "scraped_count": 471,
   "products": [
     {
@@ -13582,7 +13582,7 @@
       "stock_count": 0,
       "popularity": 123,
       "added_at": 1719655536,
-      "views": 442
+      "views": 443
     },
     {
       "slug": "gb-sw10",
@@ -14605,7 +14605,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1738756387,
-      "views": 988
+      "views": 989
     }
   ]
 }
