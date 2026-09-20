@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789893617,
-  "scraped_count": 474,
+  "generated_at": 1789893917,
+  "scraped_count": 473,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2017,7 +2017,7 @@
       "stock_count": 0,
       "popularity": 98,
       "added_at": 1781700561,
-      "views": 191
+      "views": 192
     },
     {
       "slug": "dhd-s200-pro-12-128gb",
@@ -5303,7 +5303,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1778565029,
-      "views": 186
+      "views": 187
     },
     {
       "slug": "galogenovaja-lampa-hb4-9006",
@@ -7008,7 +7008,7 @@
       "stock_count": 0,
       "popularity": 765,
       "added_at": 1750494148,
-      "views": 308
+      "views": 309
     },
     {
       "slug": "kamera-zadnego-vida-l-162",
@@ -12994,37 +12994,6 @@
       "popularity": 186,
       "added_at": 1718632955,
       "views": 283
-    },
-    {
-      "slug": "renault-sandero-symbo1-2015-2018",
-      "url": "https://bosminiofficial.com/shop/1071/desc/renault-sandero-symbo1-2015-2018",
-      "name": "Renault Sandero (Symbo1 2015-2018)",
-      "sku": "",
-      "price_rub": 1700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Переходные рамки"
-      ],
-      "brand_tags": [],
-      "description": "✅ Размер рамки: ,,9” ✅ Провода в комплекте..",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/10/1071.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1071.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/10/1071.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1071.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 71,
-      "added_at": 1732002322,
-      "views": 245
     },
     {
       "slug": "toyota-prado-2010gg-9",
