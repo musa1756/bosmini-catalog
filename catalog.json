@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790001617,
+  "generated_at": 1790001919,
   "scraped_count": 473,
   "products": [
     {
@@ -5892,7 +5892,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1750599777,
-      "views": 324
+      "views": 325
     },
     {
       "slug": "carplay-pnd-7-pro",
@@ -11288,7 +11288,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1787555310,
-      "views": 144
+      "views": 145
     },
     {
       "slug": "bos-mini-n640dp5",
@@ -11319,7 +11319,7 @@
       "stock_count": 0,
       "popularity": 56,
       "added_at": 1778219987,
-      "views": 651
+      "views": 652
     },
     {
       "slug": "bos-n725ftp5",
@@ -11412,7 +11412,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1785133944,
-      "views": 183
+      "views": 184
     },
     {
       "slug": "dhd-6353kh",
@@ -11505,7 +11505,7 @@
       "stock_count": 0,
       "popularity": 234,
       "added_at": 1750255775,
-      "views": 744
+      "views": 745
     },
     {
       "slug": "dv-pioneer-ok-5505",
@@ -14667,7 +14667,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1738756387,
-      "views": 989
+      "views": 990
     }
   ]
 }
