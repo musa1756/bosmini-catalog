@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789990817,
+  "generated_at": 1789991117,
   "scraped_count": 473,
   "products": [
     {
@@ -684,7 +684,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1782540010,
-      "views": 189
+      "views": 190
     },
     {
       "slug": "bos-mini-b1236-wi-fi",
@@ -932,7 +932,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1788416403,
-      "views": 91
+      "views": 92
     },
     {
       "slug": "bos-mini-t3-4-64gb-9",
@@ -2108,7 +2108,7 @@
         "https://bosminiofficial.com/_sh/30/3054.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1,
+      "popularity": 2,
       "added_at": 1789417633,
       "views": 35
     },
@@ -3410,7 +3410,7 @@
         "https://bosminiofficial.com/_sh/28/2896.jpg"
       ],
       "stock_count": 0,
-      "popularity": 604,
+      "popularity": 609,
       "added_at": 1776113206,
       "views": 329
     },
@@ -6789,7 +6789,7 @@
         "https://bosminiofficial.com/_sh/28/2871.jpg"
       ],
       "stock_count": 0,
-      "popularity": 179,
+      "popularity": 182,
       "added_at": 1773149468,
       "views": 161
     },
@@ -12402,7 +12402,7 @@
         "https://bosminiofficial.com/_sh/30/3022.jpg"
       ],
       "stock_count": 0,
-      "popularity": 17,
+      "popularity": 19,
       "added_at": 1786085529,
       "views": 86
     },
@@ -13737,7 +13737,7 @@
       "stock_count": 0,
       "popularity": 41,
       "added_at": 1726917429,
-      "views": 421
+      "views": 422
     },
     {
       "slug": "pioneer-gb-mvh-3010u",
