@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1789971316,
+  "generated_at": 1789971616,
   "scraped_count": 473,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 802
+      "views": 803
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -2854,7 +2854,7 @@
       "stock_count": 0,
       "popularity": 69,
       "added_at": 1776517157,
-      "views": 251
+      "views": 252
     },
     {
       "slug": "gem61-pro-max-mersedes-style",
@@ -7442,7 +7442,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1782390337,
-      "views": 93
+      "views": 94
     },
     {
       "slug": "bos-mini-5569",
