@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790058317,
-  "scraped_count": 478,
+  "generated_at": 1790058617,
+  "scraped_count": 477,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -343,7 +343,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1782470618,
-      "views": 260
+      "views": 261
     },
     {
       "slug": "bos-mini-a1236-wi-fi",
@@ -529,7 +529,7 @@
       "stock_count": 0,
       "popularity": 921,
       "added_at": 1759819618,
-      "views": 1475
+      "views": 1476
     },
     {
       "slug": "bos-mini-a42-6-64gb-9",
@@ -7356,7 +7356,7 @@
       "url": "https://bosminiofficial.com/shop/2513/desc/bos-6591",
       "name": "BOS-6591",
       "sku": "",
-      "price_rub": 3200,
+      "price_rub": 3100,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -8038,7 +8038,7 @@
       "url": "https://bosminiofficial.com/shop/1131/desc/bos-mini-6586-16sm",
       "name": "Bos Mini 6586 (16см)",
       "sku": "",
-      "price_rub": 1650,
+      "price_rub": 1600,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -13496,7 +13496,7 @@
       "url": "https://bosminiofficial.com/shop/2961/desc/bos-mini-1512-12-3600w",
       "name": "BOS-MINI 1512 (12\", 3600W)",
       "sku": "BOS-1512",
-      "price_rub": 6500,
+      "price_rub": 6000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -13521,6 +13521,37 @@
       "popularity": 17,
       "added_at": 1782111672,
       "views": 104
+    },
+    {
+      "slug": "bos-mini-1580-8-2600w",
+      "url": "https://bosminiofficial.com/shop/2963/desc/bos-mini-1580-8-2600w",
+      "name": "BOS-MINI 1580 (8\", 2600W)",
+      "sku": "BOS-1580",
+      "price_rub": 5500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Сабвуферы и комплектующие"
+      ],
+      "brand_tags": [],
+      "description": "✅Сабвуфер активный\n✅Размер-8\"\n✅Максимальная Мощность: 1600W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2963.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2963.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2963.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2963.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 16,
+      "added_at": 1782111823,
+      "views": 86
     },
     {
       "slug": "bos-mini-8016",
@@ -13552,37 +13583,6 @@
       "popularity": 8,
       "added_at": 1776112831,
       "views": 115
-    },
-    {
-      "slug": "dv-100-komplekt-provodov",
-      "url": "https://bosminiofficial.com/shop/2574/desc/dv-100-komplekt-provodov",
-      "name": "DV-100 + комплект проводов",
-      "sku": "",
-      "price_rub": 3800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅️Размер 10 ✅️Максимальная мощность 3000W-Max ✅️С активным усилитеусилителем ✅️Провода в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2574.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2574.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2574.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2574.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 239,
-      "added_at": 1754806593,
-      "views": 286
     },
     {
       "slug": "dv-60-komplekt-provodov",
@@ -14048,37 +14048,6 @@
       "popularity": 2,
       "added_at": 1765863730,
       "views": 241
-    },
-    {
-      "slug": "aktivnyj-sabvufer-px120",
-      "url": "https://bosminiofficial.com/shop/2764/desc/aktivnyj-sabvufer-px120",
-      "name": "Активный Сабвуфер PX120",
-      "sku": "",
-      "price_rub": 9200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер динамика -12\"\n✅Мощность-4200W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2764.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2764.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2764.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2764.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 7,
-      "added_at": 1765863799,
-      "views": 276
     },
     {
       "slug": "bukhta-100m-0-5mm",
