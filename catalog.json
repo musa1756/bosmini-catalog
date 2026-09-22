@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790059216,
-  "scraped_count": 484,
+  "generated_at": 1790059516,
+  "scraped_count": 486,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -654,6 +654,68 @@
       "popularity": 124,
       "added_at": 1757144356,
       "views": 2320
+    },
+    {
+      "slug": "bos-mini-a8-4-64gb-10-djujmov-3062",
+      "url": "https://bosminiofficial.com/shop/3062/desc/bos-mini-a8-4-64gb-10-djujmov",
+      "name": "BOS-MINI A8+ 4+64Gb 10-дюймов",
+      "sku": "",
+      "price_rub": 9950,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Память-4+64Gb\n✅Размер экрана 10-дюймов\n✅8-ми ядерный процессор Qualcomm SnapDragon\n✅Усилитель звука AC7315HX\n✅Версия Android-13\n✅Процессор DSP\n✅Голосовое управление\n✅Кулер охлаждения\n✅Carplay\n✅Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3062.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3062.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3062.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3062.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1790059440,
+      "views": 1
+    },
+    {
+      "slug": "bos-mini-a8-4-64gb-10-djujmov",
+      "url": "https://bosminiofficial.com/shop/3061/desc/bos-mini-a8-4-64gb-10-djujmov",
+      "name": "BOS-MINI A8+ 4+64Gb 9-дюймов",
+      "sku": "",
+      "price_rub": 9950,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Память-4+64Gb\n✅Размер экрана-9 дюймов\n✅8-ми ядерный процессор Qualcomm SnapDragon\n✅Усилитель звука AC7315HX\n✅Версия Android-13\n✅Процессор DSP\n✅Голосовое управление\n✅Кулер охлаждения\n✅Carplay\n✅Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3061.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3061.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3061.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3061.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1790059344,
+      "views": 1
     },
     {
       "slug": "bos-mini-b1203-audi-style",
@@ -2947,7 +3009,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1784270492,
-      "views": 209
+      "views": 210
     },
     {
       "slug": "gem73-pro-max-8-64gb-bmw-style",
