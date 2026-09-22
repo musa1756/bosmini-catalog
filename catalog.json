@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790059818,
-  "scraped_count": 490,
+  "generated_at": 1790060117,
+  "scraped_count": 494,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -684,7 +684,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790059440,
-      "views": 1
+      "views": 5
     },
     {
       "slug": "bos-mini-a8-4-64gb-10-djujmov",
@@ -715,6 +715,68 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790059344,
+      "views": 2
+    },
+    {
+      "slug": "bos-mini-a8-plus-4-64gb-10-djujmov",
+      "url": "https://bosminiofficial.com/shop/3066/desc/bos-mini-a8-plus-4-64gb-10-djujmov",
+      "name": "BOS-MINI A8+ PLUS 4+64Gb 10-дюймов",
+      "sku": "",
+      "price_rub": 15000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана: 10 дюймов\n✅Память- 4+64Gb\n✅Количество ядер-8 (Qualcomm Snapdragon)\n✅Поддержка сим карты\n✅Голосовое управление\n✅Оптический выход\n✅Звуковой процессор DSP\n✅CarPlay\n✅Кулер охлаждения\n✅Набор проводов для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3066.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3066.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3066.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3066.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1790060062,
+      "views": 0
+    },
+    {
+      "slug": "bos-mini-a8-plus-4-64gb-9-djujmov",
+      "url": "https://bosminiofficial.com/shop/3065/desc/bos-mini-a8-plus-4-64gb-9-djujmov",
+      "name": "BOS-MINI A8+ PLUS 4+64Gb 9-дюймов",
+      "sku": "",
+      "price_rub": 15000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-9 дюймов\n✅Память- 4+64Gb\n✅Количество ядер-8 (Qualcomm Snapdragon)\n✅Поддержка сим карты\n✅Голосовое управление\n✅Оптический выход\n✅Звуковой процессор DSP\n✅CarPlay\n✅Кулер охлаждения\n✅Набор проводов для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3065.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3065.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3065.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3065.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1790060021,
       "views": 1
     },
     {
@@ -746,7 +808,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790059693,
-      "views": 0
+      "views": 2
     },
     {
       "slug": "bos-mini-a8-pro-4-64gb-9-djujmov",
@@ -777,7 +839,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790059659,
-      "views": 1
+      "views": 3
     },
     {
       "slug": "bos-mini-b1203-audi-style",
@@ -1369,6 +1431,68 @@
       "views": 1276
     },
     {
+      "slug": "bos-mini-a8-plus-8-256gb-10-djujmov",
+      "url": "https://bosminiofficial.com/shop/2855/desc/bos-mini-a8-plus-8-256gb-10-djujmov",
+      "name": "Bos-Mini A8+Plus 8+256Gb 10-дюймов",
+      "sku": "",
+      "price_rub": 16500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана 10-дюймов\n✅Память- 8+256Gb\n✅Количество ядер-8 (Qualcomm Snapdragon)\n✅Поддержка сим карты\n✅Голосовое управление\n✅Оптический выход\n✅Звуковой процессор DSP\n✅CarPlay\n✅Кулер охлаждения\n✅Набор проводов для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/28/2855.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2855.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/28/2855.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2855.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 2,
+      "added_at": 1772528419,
+      "views": 328
+    },
+    {
+      "slug": "bos-mini-a8-plus-8-256gb-9-djujmov",
+      "url": "https://bosminiofficial.com/shop/2854/desc/bos-mini-a8-plus-8-256gb-9-djujmov",
+      "name": "Bos-Mini A8+Plus 8+256Gb 9-дюймов",
+      "sku": "",
+      "price_rub": 16500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-9 дюймов\n✅Память- 8+256Gb\n✅Количество ядер-8 (Qualcomm Snapdragon)\n✅Поддержка сим карты\n✅Голосовое управление\n✅Оптический выход\n✅Звуковой процессор DSP\n✅CarPlay\n✅Кулер охлаждения\n✅Набор проводов для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/28/2854.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2854.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/28/2854.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2854.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 4,
+      "added_at": 1772528364,
+      "views": 367
+    },
+    {
       "slug": "bos-mini-a8-pro-6-128gb-10-djujmov",
       "url": "https://bosminiofficial.com/shop/2850/desc/bos-mini-a8-pro-6-128gb-10-djujmov",
       "name": "Bos-Mini A8+Pro 6+128Gb 10-дюймов",
@@ -1490,7 +1614,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1772528067,
-      "views": 228
+      "views": 229
     },
     {
       "slug": "bos-mini-cc3-max-2k-12-256gb-9",
@@ -3102,7 +3226,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1784270215,
-      "views": 136
+      "views": 137
     },
     {
       "slug": "gem63-pro-max-audi-style",
@@ -6295,7 +6419,7 @@
       "stock_count": 0,
       "popularity": 174,
       "added_at": 1747484565,
-      "views": 424
+      "views": 425
     },
     {
       "slug": "tomboss-t16",
@@ -10015,7 +10139,7 @@
       "stock_count": 0,
       "popularity": 499,
       "added_at": 1722879275,
-      "views": 968
+      "views": 969
     },
     {
       "slug": "bos-mini-y957bt-12v-24v",
