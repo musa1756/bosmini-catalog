@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790120118,
+  "generated_at": 1790120417,
   "scraped_count": 497,
   "products": [
     {
@@ -188,7 +188,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1755664855,
-      "views": 644
+      "views": 646
     },
     {
       "slug": "bos-mini-a12",
@@ -15411,7 +15411,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1738756387,
-      "views": 990
+      "views": 991
     }
   ]
 }
