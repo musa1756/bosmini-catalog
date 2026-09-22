@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790057717,
-  "scraped_count": 474,
+  "generated_at": 1790058016,
+  "scraped_count": 476,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1788416160,
-      "views": 113
+      "views": 114
     },
     {
       "slug": "bos-mini-a1203-bmw-style",
@@ -808,7 +808,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1752859585,
-      "views": 495
+      "views": 496
     },
     {
       "slug": "bos-mini-q2-9",
@@ -9309,7 +9309,7 @@
       "url": "https://bosminiofficial.com/shop/674/desc/kolonki-gb-v-512",
       "name": "Колонки GB / V-512",
       "sku": "",
-      "price_rub": 1150,
+      "price_rub": 1300,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -9336,11 +9336,42 @@
       "views": 199
     },
     {
+      "slug": "kolonki-gb-v-612",
+      "url": "https://bosminiofficial.com/shop/673/desc/kolonki-gb-v-612",
+      "name": "Колонки GB / V-612",
+      "sku": "",
+      "price_rub": 1500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер колонки-16см ✅Мощность-160W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/6/673.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/6/673.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/6/673.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/6/673.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 86,
+      "added_at": 1718304602,
+      "views": 122
+    },
+    {
       "slug": "kolonki-gb-v-6912",
       "url": "https://bosminiofficial.com/shop/672/desc/kolonki-gb-v-6912",
       "name": "Колонки GB / V-6912",
       "sku": "",
-      "price_rub": 2150,
+      "price_rub": 2100,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -10883,7 +10914,7 @@
       "stock_count": 0,
       "popularity": 227,
       "added_at": 1753770414,
-      "views": 516
+      "views": 517
     },
     {
       "slug": "pioneer-gb-mvh-341-12-24v",
@@ -11102,7 +11133,7 @@
       "stock_count": 0,
       "popularity": 164,
       "added_at": 1714856095,
-      "views": 1615
+      "views": 1616
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
@@ -14606,6 +14637,37 @@
       "popularity": 54,
       "added_at": 1783923577,
       "views": 83
+    },
+    {
+      "slug": "bos-mini-66-4-6000w-max",
+      "url": "https://bosminiofficial.com/shop/497/desc/bos-mini-66-4-6000w-max",
+      "name": "Bos-Mini 66.4 (6000w Max)",
+      "sku": "",
+      "price_rub": 2650,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Усилители"
+      ],
+      "brand_tags": [],
+      "description": "✅Количество каналов-4 ✅Мощность-6000W Max",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/4/497.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/4/497.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/4/497.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/4/497.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 30,
+      "added_at": 1715238985,
+      "views": 458
     },
     {
       "slug": "kenwood-kw-a5314",
