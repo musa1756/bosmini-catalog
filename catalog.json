@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790065517,
-  "scraped_count": 494,
+  "generated_at": 1790065818,
+  "scraped_count": 495,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -563,6 +563,37 @@
       "views": 993
     },
     {
+      "slug": "bos-mini-a47-2k-4-64gb-9",
+      "url": "https://bosminiofficial.com/shop/2536/desc/bos-mini-a47-2k-4-64gb-9",
+      "name": "BOS-MINI A47 2K 4+64Gb 9\"",
+      "sku": "",
+      "price_rub": 6500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Посадочное место 9 дюймов ✅Голосовое управление ✅Процессор DSP ✅CarPlay ✅Кулер охлаждения ✅Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/25/2536.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/25/2536.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/25/2536.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/25/2536.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 27,
+      "added_at": 1753951634,
+      "views": 1825
+    },
+    {
       "slug": "bos-mini-a6-wi-fi-4-64gb-10-djujm",
       "url": "https://bosminiofficial.com/shop/2938/desc/bos-mini-a6-wi-fi-4-64gb-10-djujm",
       "name": "BOS-MINI A6+ Wi-Fi 4+64Gb 10-Дюйм",
@@ -901,7 +932,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1788416365,
-      "views": 85
+      "views": 86
     },
     {
       "slug": "bos-mini-k39",
@@ -4466,7 +4497,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1761308770,
-      "views": 341
+      "views": 342
     },
     {
       "slug": "multimedijnaja-smart-pristavka-a133-2-32g",
@@ -14047,7 +14078,7 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1757143405,
-      "views": 341
+      "views": 342
     },
     {
       "slug": "bos-mini-8016",
