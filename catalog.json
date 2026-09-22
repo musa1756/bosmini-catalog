@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790060718,
+  "generated_at": 1790061017,
   "scraped_count": 494,
   "products": [
     {
@@ -715,7 +715,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790059344,
-      "views": 2
+      "views": 3
     },
     {
       "slug": "bos-mini-a8-plus-4-64gb-10-djujmov",
@@ -746,7 +746,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790060062,
-      "views": 2
+      "views": 3
     },
     {
       "slug": "bos-mini-a8-plus-4-64gb-9-djujmov",
@@ -777,7 +777,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790060021,
-      "views": 3
+      "views": 4
     },
     {
       "slug": "bos-mini-a8-pro-4-64gb-10-djujmov",
@@ -2823,7 +2823,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1752845497,
-      "views": 639
+      "views": 640
     },
     {
       "slug": "e5-olom-e3-pro-6-64gb-9",
