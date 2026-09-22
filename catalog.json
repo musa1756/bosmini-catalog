@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790058617,
-  "scraped_count": 477,
+  "generated_at": 1790058916,
+  "scraped_count": 479,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -6667,7 +6667,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1783923958,
-      "views": 175
+      "views": 176
     },
     {
       "slug": "kamera-zad-vida-bos-mini-l-168",
@@ -13554,6 +13554,37 @@
       "views": 86
     },
     {
+      "slug": "bos-mini-6016",
+      "url": "https://bosminiofficial.com/shop/2626/desc/bos-mini-6016",
+      "name": "BOS-MINI 6016",
+      "sku": "",
+      "price_rub": 5000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Сабвуферы и комплектующие"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Размер динамика 6 ✅️ Мощность 100W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/26/2626.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2626.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/26/2626.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2626.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 31,
+      "added_at": 1757143405,
+      "views": 341
+    },
+    {
       "slug": "bos-mini-8016",
       "url": "https://bosminiofficial.com/shop/2893/desc/bos-mini-8016",
       "name": "BOS-MINI 8016",
@@ -13583,6 +13614,37 @@
       "popularity": 8,
       "added_at": 1776112831,
       "views": 115
+    },
+    {
+      "slug": "bos-mini-x1008",
+      "url": "https://bosminiofficial.com/shop/3060/desc/bos-mini-x1008",
+      "name": "BOS-MINI X1008",
+      "sku": "",
+      "price_rub": 7700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Сабвуферы и комплектующие"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Сабвуфер Активный\n✅️ Размер динамика 10\n✅️ Мощность: 2000W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3060.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3060.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3060.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3060.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1790058864,
+      "views": 1
     },
     {
       "slug": "dv-60-komplekt-provodov",
@@ -14605,7 +14667,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1771744690,
-      "views": 375
+      "views": 376
     },
     {
       "slug": "bos-mini-468d",
