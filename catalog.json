@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790079618,
+  "generated_at": 1790079917,
   "scraped_count": 495,
   "products": [
     {
@@ -436,7 +436,7 @@
       "stock_count": 0,
       "popularity": 1035,
       "added_at": 1752844697,
-      "views": 1424
+      "views": 1425
     },
     {
       "slug": "bos-mini-a2-4-64gb-9",
@@ -560,7 +560,7 @@
       "stock_count": 0,
       "popularity": 183,
       "added_at": 1753952536,
-      "views": 994
+      "views": 995
     },
     {
       "slug": "bos-mini-a47-2k-4-64gb-9",
@@ -839,7 +839,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790059693,
-      "views": 4
+      "views": 5
     },
     {
       "slug": "bos-mini-a8-pro-4-64gb-9-djujmov",
@@ -899,7 +899,7 @@
         "https://bosminiofficial.com/_sh/29/2986.jpg"
       ],
       "stock_count": 0,
-      "popularity": 0,
+      "popularity": 1,
       "added_at": 1782540010,
       "views": 192
     },
@@ -961,7 +961,7 @@
         "https://bosminiofficial.com/_sh/30/3049.jpg"
       ],
       "stock_count": 0,
-      "popularity": 17,
+      "popularity": 19,
       "added_at": 1789377256,
       "views": 59
     },
@@ -2046,7 +2046,7 @@
         "https://bosminiofficial.com/_sh/28/2814.jpg"
       ],
       "stock_count": 0,
-      "popularity": 54,
+      "popularity": 55,
       "added_at": 1769577324,
       "views": 553
     },
@@ -11906,7 +11906,7 @@
         "https://bosminiofficial.com/_sh/30/3030.jpg"
       ],
       "stock_count": 0,
-      "popularity": 26,
+      "popularity": 27,
       "added_at": 1786687337,
       "views": 376
     },
