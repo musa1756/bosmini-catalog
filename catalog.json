@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790080518,
-  "scraped_count": 495,
+  "generated_at": 1790080817,
+  "scraped_count": 497,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1025,7 +1025,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1752859585,
-      "views": 496
+      "views": 497
     },
     {
       "slug": "bos-mini-q2-9",
@@ -1088,6 +1088,68 @@
       "popularity": 103,
       "added_at": 1753341610,
       "views": 3038
+    },
+    {
+      "slug": "bos-mini-r1-2-64gb",
+      "url": "https://bosminiofficial.com/shop/1991/desc/bos-mini-r1-2-64gb",
+      "name": "BOS-MINI R1 4+64Gb",
+      "sku": "",
+      "price_rub": 5200,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер Экрана 7-сенсорный ✅Память-4+64Gb ✅Количество ядер-4 ✅Надежный ручной механизм ✅Carplay ✅Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/19/1991.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/19/1991.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/19/1991.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/19/1991.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 36,
+      "added_at": 1752866582,
+      "views": 273
+    },
+    {
+      "slug": "bos-mini-r2-2-64gb",
+      "url": "https://bosminiofficial.com/shop/1992/desc/bos-mini-r2-2-64gb",
+      "name": "BOS-MINI R2 4+64Gb",
+      "sku": "",
+      "price_rub": 5200,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер Экрана 7-сенсорный ✅Память-4+64Gb ✅Количество ядер-4 ✅Надежный ручной механизм ✅Carplay ✅Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/19/1992.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/19/1992.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/19/1992.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/19/1992.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 31,
+      "added_at": 1752866604,
+      "views": 269
     },
     {
       "slug": "bos-mini-s1203-mersedes-style",
@@ -1707,7 +1769,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1765802757,
-      "views": 1664
+      "views": 1666
     },
     {
       "slug": "bos-mini-k69",
@@ -1738,7 +1800,7 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1765802832,
-      "views": 842
+      "views": 843
     },
     {
       "slug": "bos-mini-k71",
@@ -1769,7 +1831,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1765802523,
-      "views": 1283
+      "views": 1284
     },
     {
       "slug": "bos-mini-k72",
@@ -1800,7 +1862,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1765802621,
-      "views": 893
+      "views": 894
     },
     {
       "slug": "bos-mini-k76hg-4-64gb",
@@ -1893,7 +1955,7 @@
       "stock_count": 0,
       "popularity": 39,
       "added_at": 1752912147,
-      "views": 2034
+      "views": 2035
     },
     {
       "slug": "bos-mini-t8-4-64gb-10",
@@ -2358,7 +2420,7 @@
       "stock_count": 0,
       "popularity": 98,
       "added_at": 1781700561,
-      "views": 195
+      "views": 196
     },
     {
       "slug": "dhd-s200-pro-12-128gb",
@@ -8217,7 +8279,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1789418105,
-      "views": 39
+      "views": 40
     },
     {
       "slug": "bos-mini-t565",
