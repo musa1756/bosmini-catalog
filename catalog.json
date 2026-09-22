@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790057416,
-  "scraped_count": 473,
+  "generated_at": 1790057717,
+  "scraped_count": 474,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -6674,7 +6674,7 @@
       "url": "https://bosminiofficial.com/shop/1088/desc/kamera-zad-vida-bos-mini-l-168",
       "name": "Камера зад.вида Bos-Mini (L-168)",
       "sku": "",
-      "price_rub": 350,
+      "price_rub": 400,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -6887,6 +6887,37 @@
       "views": 547
     },
     {
+      "slug": "kamera-zadnego-vida-bos-l370",
+      "url": "https://bosminiofficial.com/shop/2881/desc/kamera-zadnego-vida-bos-l370",
+      "name": "Камера заднего вида BOS-L370",
+      "sku": "",
+      "price_rub": 900,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅ С подсветкой \"Задний ход”\n✅ В комплекте провода 5-метров",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/28/2881.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2881.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/28/2881.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2881.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 8,
+      "added_at": 1775026590,
+      "views": 314
+    },
+    {
       "slug": "kamera-zadnego-vida-bos-l210",
       "url": "https://bosminiofficial.com/shop/1257/desc/kamera-zadnego-vida-bos-l210",
       "name": "Камера заднего вида Bos-L210",
@@ -6922,7 +6953,7 @@
       "url": "https://bosminiofficial.com/shop/1258/desc/kamera-zadnego-vida-bos-l310",
       "name": "Камера заднего вида Bos-L310",
       "sku": "",
-      "price_rub": 500,
+      "price_rub": 450,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -9364,7 +9395,7 @@
       "stock_count": 0,
       "popularity": 71,
       "added_at": 1717065242,
-      "views": 562
+      "views": 563
     },
     {
       "slug": "kolonki-ot-bos-mini-6583",
