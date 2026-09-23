@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790148317,
+  "generated_at": 1790148617,
   "scraped_count": 497,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 806
+      "views": 807
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -8620,7 +8620,7 @@
       "stock_count": 0,
       "popularity": 27,
       "added_at": 1752041968,
-      "views": 479
+      "views": 480
     },
     {
       "slug": "bos-mini-6500",
@@ -10201,7 +10201,7 @@
       "stock_count": 0,
       "popularity": 71,
       "added_at": 1752837291,
-      "views": 552
+      "views": 553
     },
     {
       "slug": "bos-mini-y956bt-12v-24v",
