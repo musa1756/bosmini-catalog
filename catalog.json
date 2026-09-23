@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790194517,
+  "generated_at": 1790194818,
   "scraped_count": 494,
   "products": [
     {
@@ -870,7 +870,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790059659,
-      "views": 13
+      "views": 14
     },
     {
       "slug": "bos-mini-b1203-audi-style",
@@ -1149,7 +1149,7 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1752866604,
-      "views": 279
+      "views": 280
     },
     {
       "slug": "bos-mini-s1203-mersedes-style",
@@ -1211,7 +1211,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1788416403,
-      "views": 96
+      "views": 97
     },
     {
       "slug": "bos-mini-t3-4-64gb-9",
