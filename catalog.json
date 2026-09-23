@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790167517,
+  "generated_at": 1790167817,
   "scraped_count": 494,
   "products": [
     {
@@ -808,7 +808,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790060021,
-      "views": 12
+      "views": 13
     },
     {
       "slug": "bos-mini-a8-pro-4-64gb-10-djujmov",
@@ -1583,7 +1583,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1772528364,
-      "views": 373
+      "views": 374
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-10-djujmov",
@@ -4745,7 +4745,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1773035946,
-      "views": 426
+      "views": 427
     },
     {
       "slug": "fizicheski-knopka-tmb-001",
@@ -9736,7 +9736,7 @@
       "stock_count": 0,
       "popularity": 38,
       "added_at": 1718304499,
-      "views": 280
+      "views": 281
     },
     {
       "slug": "kolonki-ot-bos-mini-5083",
@@ -11160,7 +11160,7 @@
         "https://bosminiofficial.com/_sh/27/2702.jpg"
       ],
       "stock_count": 0,
-      "popularity": 2281,
+      "popularity": 2361,
       "added_at": 1764669521,
       "views": 312
     },
@@ -11939,7 +11939,7 @@
       "stock_count": 0,
       "popularity": 58,
       "added_at": 1765285531,
-      "views": 1341
+      "views": 1342
     },
     {
       "slug": "dhd-1057x",
