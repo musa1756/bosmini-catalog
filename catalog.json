@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790160318,
+  "generated_at": 1790160618,
   "scraped_count": 494,
   "products": [
     {
@@ -11410,7 +11410,7 @@
       "stock_count": 0,
       "popularity": 2277,
       "added_at": 1722713624,
-      "views": 728
+      "views": 729
     },
     {
       "slug": "pioneer-gb-mvh-f899zbt",
@@ -14915,7 +14915,7 @@
       "stock_count": 0,
       "popularity": 70,
       "added_at": 1777715745,
-      "views": 211
+      "views": 212
     },
     {
       "slug": "komplekt-provodov-kb-4ga",
@@ -15318,7 +15318,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1738756387,
-      "views": 993
+      "views": 994
     }
   ]
 }
