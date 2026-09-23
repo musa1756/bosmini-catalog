@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790155818,
-  "scraped_count": 497,
+  "generated_at": 1790156117,
+  "scraped_count": 495,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1707,7 +1707,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1772528067,
-      "views": 236
+      "views": 237
     },
     {
       "slug": "bos-mini-cc3-max-2k-12-256gb-9",
@@ -1831,7 +1831,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1765802523,
-      "views": 1288
+      "views": 1289
     },
     {
       "slug": "bos-mini-k72",
@@ -3785,37 +3785,6 @@
       "popularity": 3,
       "added_at": 1730529840,
       "views": 492
-    },
-    {
-      "slug": "iso-bos-mini-e-05",
-      "url": "https://bosminiofficial.com/shop/2896/desc/iso-bos-mini-e-05",
-      "name": "ISO BOS-MINI E-05",
-      "sku": "ISO",
-      "price_rub": 150,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Автоаксессуары"
-      ],
-      "brand_tags": [],
-      "description": "✅ISO переходник для android магнитол",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2896.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2896.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2896.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2896.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 609,
-      "added_at": 1776113206,
-      "views": 330
     },
     {
       "slug": "aromatizator-rh-001n",
@@ -9086,37 +9055,6 @@
       "popularity": 18,
       "added_at": 1755665146,
       "views": 185
-    },
-    {
-      "slug": "hz-695-1200w-6-9-ovaly",
-      "url": "https://bosminiofficial.com/shop/2594/desc/hz-695-1200w-6-9-ovaly",
-      "name": "HZ-695 (1200W, 6/9-овалы)",
-      "sku": "",
-      "price_rub": 1600,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅️ Размер колонки 6/9-овалы ✅️ Максимальная мощность 1200W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2594.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2594.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2594.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2594.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 64,
-      "added_at": 1755665591,
-      "views": 463
     },
     {
       "slug": "hertz-401-10sm",
