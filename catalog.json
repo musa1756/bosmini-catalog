@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790156117,
-  "scraped_count": 495,
+  "generated_at": 1790156417,
+  "scraped_count": 494,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1831,7 +1831,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1765802523,
-      "views": 1289
+      "views": 1290
     },
     {
       "slug": "bos-mini-k72",
@@ -8807,37 +8807,6 @@
       "popularity": 7,
       "added_at": 1767296178,
       "views": 167
-    },
-    {
-      "slug": "dv-pioneer-ok-1615",
-      "url": "https://bosminiofficial.com/shop/2788/desc/dv-pioneer-ok-1615",
-      "name": "DV-Pioneer.Ok 1615",
-      "sku": "",
-      "price_rub": 1100,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер-16см\n✅Максимальная мощность-120w",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2788.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2788.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2788.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2788.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 15,
-      "added_at": 1767296273,
-      "views": 260
     },
     {
       "slug": "e5-olom-e5-cy504c",
