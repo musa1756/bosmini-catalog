@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790182818,
+  "generated_at": 1790183117,
   "scraped_count": 494,
   "products": [
     {
@@ -95,7 +95,7 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1763311652,
-      "views": 963
+      "views": 964
     },
     {
       "slug": "bos-mini-8702-2-32gb-7",
@@ -498,7 +498,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1789205058,
-      "views": 72
+      "views": 73
     },
     {
       "slug": "bos-mini-a4-9-4-64gb",
@@ -6078,7 +6078,7 @@
       "stock_count": 0,
       "popularity": 1039,
       "added_at": 1732391421,
-      "views": 1026
+      "views": 1027
     },
     {
       "slug": "bos-mini-a17l-2k-s-wi-fi",
