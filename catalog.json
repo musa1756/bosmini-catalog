@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790242517,
+  "generated_at": 1790242818,
   "scraped_count": 494,
   "products": [
     {
@@ -682,7 +682,7 @@
         "https://bosminiofficial.com/_sh/26/2636.jpg"
       ],
       "stock_count": 0,
-      "popularity": 124,
+      "popularity": 125,
       "added_at": 1757144356,
       "views": 2327
     },
@@ -961,7 +961,7 @@
         "https://bosminiofficial.com/_sh/30/3049.jpg"
       ],
       "stock_count": 0,
-      "popularity": 19,
+      "popularity": 23,
       "added_at": 1789377256,
       "views": 73
     },
@@ -2046,9 +2046,9 @@
         "https://bosminiofficial.com/_sh/20/2040.jpg"
       ],
       "stock_count": 0,
-      "popularity": 158,
+      "popularity": 160,
       "added_at": 1752911964,
-      "views": 2083
+      "views": 2084
     },
     {
       "slug": "bos-mini-ts10-4-64gb-10",
@@ -3071,7 +3071,7 @@
       "stock_count": 0,
       "popularity": 53,
       "added_at": 1769577216,
-      "views": 779
+      "views": 780
     },
     {
       "slug": "s1-4-64gb",
@@ -5613,7 +5613,7 @@
       "stock_count": 0,
       "popularity": 40,
       "added_at": 1778565823,
-      "views": 175
+      "views": 176
     },
     {
       "slug": "galogenovaja-lampa-h7",
@@ -11598,7 +11598,7 @@
       "stock_count": 0,
       "popularity": 72,
       "added_at": 1714856095,
-      "views": 1213
+      "views": 1214
     },
     {
       "slug": "magnitola-bos-mini-n973dsp",
@@ -12497,7 +12497,7 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1765013663,
-      "views": 362
+      "views": 363
     },
     {
       "slug": "starline-a91",
