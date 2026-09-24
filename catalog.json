@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790241318,
+  "generated_at": 1790241618,
   "scraped_count": 494,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 809
+      "views": 810
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -95,7 +95,7 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1763311652,
-      "views": 968
+      "views": 969
     },
     {
       "slug": "bos-mini-8702-2-32gb-7",
@@ -11536,7 +11536,7 @@
       "stock_count": 0,
       "popularity": 164,
       "added_at": 1714856095,
-      "views": 1624
+      "views": 1625
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
