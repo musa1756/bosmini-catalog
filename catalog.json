@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790212518,
+  "generated_at": 1790212817,
   "scraped_count": 494,
   "products": [
     {
@@ -808,7 +808,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790060021,
-      "views": 16
+      "views": 18
     },
     {
       "slug": "bos-mini-a8-pro-4-64gb-10-djujmov",
@@ -839,7 +839,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790059693,
-      "views": 14
+      "views": 16
     },
     {
       "slug": "bos-mini-a8-pro-4-64gb-9-djujmov",
@@ -1304,7 +1304,7 @@
       "stock_count": 0,
       "popularity": 140,
       "added_at": 1764313794,
-      "views": 1890
+      "views": 1891
     },
     {
       "slug": "bos-a659d-pro-4-64gb",
