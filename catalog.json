@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790217018,
+  "generated_at": 1790217318,
   "scraped_count": 494,
   "products": [
     {
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 808
+      "views": 809
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -8372,7 +8372,7 @@
       "stock_count": 0,
       "popularity": 40,
       "added_at": 1749112981,
-      "views": 1000
+      "views": 1001
     },
     {
       "slug": "bos-t3265-16cm-50w",
@@ -14047,7 +14047,7 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1757143405,
-      "views": 351
+      "views": 353
     },
     {
       "slug": "bos-mini-8016",
