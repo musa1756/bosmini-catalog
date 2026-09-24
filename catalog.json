@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790286318,
+  "generated_at": 1790286617,
   "scraped_count": 494,
   "products": [
     {
@@ -6977,7 +6977,7 @@
       "stock_count": 0,
       "popularity": 299,
       "added_at": 1753683329,
-      "views": 974
+      "views": 975
     },
     {
       "slug": "zerkalo-videorgistrator-blaupunkt",
@@ -14512,7 +14512,7 @@
       "stock_count": 0,
       "popularity": 610,
       "added_at": 1740909560,
-      "views": 164
+      "views": 165
     },
     {
       "slug": "y-kabel-1-papa-2-mama",
@@ -15318,7 +15318,7 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1738756387,
-      "views": 994
+      "views": 995
     }
   ]
 }
