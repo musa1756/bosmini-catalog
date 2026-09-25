@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790322017,
-  "scraped_count": 493,
+  "generated_at": 1790322318,
+  "scraped_count": 491,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -777,7 +777,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790060062,
-      "views": 24
+      "views": 25
     },
     {
       "slug": "bos-mini-a8-plus-4-64gb-9-djujmov",
@@ -3320,37 +3320,6 @@
       "popularity": 19,
       "added_at": 1784270215,
       "views": 140
-    },
-    {
-      "slug": "gem63-pro-max-audi-style",
-      "url": "https://bosminiofficial.com/shop/3006/desc/gem63-pro-max-audi-style",
-      "name": "ГЕМ63 PRO MAX AUDI Style",
-      "sku": "",
-      "price_rub": 10500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-12,8 дюймов\n✅Память-8+64Gb\n✅Количество ядер-8\n✅Поддержка сим карты\n✅Платформа TS18\n✅CarPlay/AndroidAuto\n✅Разделение экрана\n✅Кулер охлаждения\n✅2 рамки и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3006.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3006.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3006.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3006.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 12,
-      "added_at": 1784270492,
-      "views": 217
     },
     {
       "slug": "gem73-pro-max-8-64gb-bmw-style",
@@ -10356,7 +10325,7 @@
       "stock_count": 0,
       "popularity": 87,
       "added_at": 1765628646,
-      "views": 367
+      "views": 368
     },
     {
       "slug": "bos-mini-y958bt",
@@ -11663,37 +11632,6 @@
       "views": 542
     },
     {
-      "slug": "b0s-mini-678dp5",
-      "url": "https://bosminiofficial.com/shop/2965/desc/b0s-mini-678dp5",
-      "name": "B0S-MINI 678DP5",
-      "sku": "",
-      "price_rub": 2300,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы с экраном"
-      ],
-      "brand_tags": [],
-      "description": "✅\nРазмер экрана -6.86 дюймов сенсорный\n✅\nТипоразмер-1 Din\n✅\nCarPlay/AndroidAuto\n✅\nBluetooth/USB/Type-C\n✅\nВозможность подключения камеры заднего вида\n✅\nРадиатор охлаждения\n✅2 пульта управления и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2965.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2965.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2965.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2965.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 37,
-      "added_at": 1782205423,
-      "views": 465
-    },
-    {
       "slug": "bos-783dp5",
       "url": "https://bosminiofficial.com/shop/2569/desc/bos-783dp5",
       "name": "BOS-783DP5",
@@ -12311,7 +12249,7 @@
       "stock_count": 0,
       "popularity": 64,
       "added_at": 1771312210,
-      "views": 283
+      "views": 284
     },
     {
       "slug": "5-provodnyj-ehlektroprivod-zamka-dverej-vm-05",
