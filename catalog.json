@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790342418,
+  "generated_at": 1790342717,
   "scraped_count": 490,
   "products": [
     {
@@ -33,7 +33,8 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1752843286,
-      "views": 812
+      "views": 812,
+      "tile_url": "https://api.boss-mini-app.ru/t/7d1905918cd8bf30565406cd.webp"
     },
     {
       "slug": "alpine-409s-2-64gb",
@@ -64,7 +65,8 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1752862193,
-      "views": 1458
+      "views": 1458,
+      "tile_url": "https://api.boss-mini-app.ru/t/675a97e68ee12b763fd54e0a.webp"
     },
     {
       "slug": "blaupunkt-ha900-b4-4-64g",
@@ -95,7 +97,8 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1763311652,
-      "views": 977
+      "views": 977,
+      "tile_url": "https://api.boss-mini-app.ru/t/c3eb69f44f209bb8ccc73a6d.webp"
     },
     {
       "slug": "bos-mini-8702-2-32gb-7",
@@ -126,7 +129,8 @@
       "stock_count": 0,
       "popularity": 299,
       "added_at": 1752844861,
-      "views": 1082
+      "views": 1082,
+      "tile_url": "https://api.boss-mini-app.ru/t/e6bafae998d0274e42088a7a.webp"
     },
     {
       "slug": "bos-mini-a1-pro-4-64gb-9",
@@ -157,7 +161,8 @@
       "stock_count": 0,
       "popularity": 848,
       "added_at": 1765176165,
-      "views": 2101
+      "views": 2101,
+      "tile_url": "https://api.boss-mini-app.ru/t/cb3d873d0eff022f4a8b4430.webp"
     },
     {
       "slug": "bos-mini-a1022xz-2-32gb",
@@ -188,7 +193,8 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1755664855,
-      "views": 656
+      "views": 656,
+      "tile_url": "https://api.boss-mini-app.ru/t/55a63055c416dd44e4dbfdf2.webp"
     },
     {
       "slug": "bos-mini-a12",
@@ -219,7 +225,8 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1788416160,
-      "views": 135
+      "views": 135,
+      "tile_url": "https://api.boss-mini-app.ru/t/e83484ef6e7a0150a663bde8.webp"
     },
     {
       "slug": "bos-mini-a1203-bmw-style",
@@ -250,7 +257,8 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1782539919,
-      "views": 297
+      "views": 297,
+      "tile_url": "https://api.boss-mini-app.ru/t/58ad81d9d9f61800eed90523.webp"
     },
     {
       "slug": "bos-mini-a1206",
@@ -281,7 +289,8 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1782390552,
-      "views": 217
+      "views": 217,
+      "tile_url": "https://api.boss-mini-app.ru/t/50d6063e5d59bd61bfa7267a.webp"
     },
     {
       "slug": "bos-mini-a1206-4g",
@@ -312,7 +321,8 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1782390686,
-      "views": 275
+      "views": 275,
+      "tile_url": "https://api.boss-mini-app.ru/t/acaf1afcbe12ea44bf810586.webp"
     },
     {
       "slug": "bos-mini-a1213",
@@ -343,7 +353,8 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1782470618,
-      "views": 270
+      "views": 270,
+      "tile_url": "https://api.boss-mini-app.ru/t/d15bf79aef6c3c57eeab3450.webp"
     },
     {
       "slug": "bos-mini-a1236-wi-fi",
@@ -374,7 +385,8 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1788416281,
-      "views": 78
+      "views": 78,
+      "tile_url": "https://api.boss-mini-app.ru/t/13e1243fdb3373c2b7b3f904.webp"
     },
     {
       "slug": "bos-mini-a1301",
@@ -405,7 +417,8 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1784446916,
-      "views": 274
+      "views": 274,
+      "tile_url": "https://api.boss-mini-app.ru/t/8284be2b7ebb9fa1739e1656.webp"
     },
     {
       "slug": "bos-mini-a2-4-64gb-10",
@@ -436,7 +449,8 @@
       "stock_count": 0,
       "popularity": 1035,
       "added_at": 1752844697,
-      "views": 1433
+      "views": 1433,
+      "tile_url": "https://api.boss-mini-app.ru/t/0c5c4b630f442af93a9826da.webp"
     },
     {
       "slug": "bos-mini-a2-4-64gb-9",
@@ -467,7 +481,8 @@
       "stock_count": 0,
       "popularity": 3236,
       "added_at": 1752844676,
-      "views": 1918
+      "views": 1918,
+      "tile_url": "https://api.boss-mini-app.ru/t/0c5c4b630f442af93a9826da.webp"
     },
     {
       "slug": "bos-mini-a3-pro-10-djujmov",
@@ -498,7 +513,8 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1789205058,
-      "views": 82
+      "views": 82,
+      "tile_url": "https://api.boss-mini-app.ru/t/4757aa7b1885a18c1dff058c.webp"
     },
     {
       "slug": "bos-mini-a4-9-4-64gb",
@@ -529,7 +545,8 @@
       "stock_count": 0,
       "popularity": 926,
       "added_at": 1759819618,
-      "views": 1486
+      "views": 1486,
+      "tile_url": "https://api.boss-mini-app.ru/t/cf0d375a221dd7523791e6e6.webp"
     },
     {
       "slug": "bos-mini-a42-6-64gb-9",
@@ -560,7 +577,8 @@
       "stock_count": 0,
       "popularity": 185,
       "added_at": 1753952536,
-      "views": 1004
+      "views": 1004,
+      "tile_url": "https://api.boss-mini-app.ru/t/7c7f2edabbd8afebb85466e0.webp"
     },
     {
       "slug": "bos-mini-a47-2k-4-64gb-9",
@@ -591,7 +609,8 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1753951634,
-      "views": 1845
+      "views": 1845,
+      "tile_url": "https://api.boss-mini-app.ru/t/0a3fa029283aaee64217ba6c.webp"
     },
     {
       "slug": "bos-mini-a6-wi-fi-4-64gb-10-djujm",
@@ -622,7 +641,8 @@
       "stock_count": 0,
       "popularity": 26,
       "added_at": 1779786820,
-      "views": 290
+      "views": 290,
+      "tile_url": "https://api.boss-mini-app.ru/t/4a2bae2918823b0f414f2f47.webp"
     },
     {
       "slug": "bos-mini-a6-wi-fi-4-64gb-9-djujm",
@@ -653,7 +673,8 @@
       "stock_count": 0,
       "popularity": 125,
       "added_at": 1779787001,
-      "views": 385
+      "views": 385,
+      "tile_url": "https://api.boss-mini-app.ru/t/4a2bae2918823b0f414f2f47.webp"
     },
     {
       "slug": "bos-mini-a7-4-64gb-7",
@@ -684,7 +705,8 @@
       "stock_count": 0,
       "popularity": 128,
       "added_at": 1757144356,
-      "views": 2331
+      "views": 2331,
+      "tile_url": "https://api.boss-mini-app.ru/t/70fe3ae11bf033167e3d2736.webp"
     },
     {
       "slug": "bos-mini-a8-4-64gb-10-djujmov-3062",
@@ -715,7 +737,8 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790059440,
-      "views": 26
+      "views": 26,
+      "tile_url": "https://api.boss-mini-app.ru/t/8df7517cde94f8e0540cb249.webp"
     },
     {
       "slug": "bos-mini-a8-4-64gb-10-djujmov",
@@ -746,7 +769,8 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1790059344,
-      "views": 33
+      "views": 33,
+      "tile_url": "https://api.boss-mini-app.ru/t/8df7517cde94f8e0540cb249.webp"
     },
     {
       "slug": "bos-mini-a8-plus-4-64gb-10-djujmov",
@@ -777,7 +801,8 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790060062,
-      "views": 29
+      "views": 29,
+      "tile_url": "https://api.boss-mini-app.ru/t/fa546a9d1c29e14137cd8df7.webp"
     },
     {
       "slug": "bos-mini-a8-plus-4-64gb-9-djujmov",
@@ -808,7 +833,8 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790060021,
-      "views": 27
+      "views": 27,
+      "tile_url": "https://api.boss-mini-app.ru/t/fa546a9d1c29e14137cd8df7.webp"
     },
     {
       "slug": "bos-mini-a8-pro-4-64gb-10-djujmov",
@@ -839,7 +865,8 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790059693,
-      "views": 27
+      "views": 27,
+      "tile_url": "https://api.boss-mini-app.ru/t/e49d01f549936ab10ae10b04.webp"
     },
     {
       "slug": "bos-mini-a8-pro-4-64gb-9-djujmov",
@@ -870,7 +897,8 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790059659,
-      "views": 30
+      "views": 30,
+      "tile_url": "https://api.boss-mini-app.ru/t/e49d01f549936ab10ae10b04.webp"
     },
     {
       "slug": "bos-mini-b1203-audi-style",
@@ -901,7 +929,8 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1782540010,
-      "views": 199
+      "views": 199,
+      "tile_url": "https://api.boss-mini-app.ru/t/400548d971f6c3ac24d29b10.webp"
     },
     {
       "slug": "bos-mini-b1236-wi-fi",
@@ -932,7 +961,8 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1788416365,
-      "views": 93
+      "views": 93,
+      "tile_url": "https://api.boss-mini-app.ru/t/a2298a7a7ee540b2ab0bcaa0.webp"
     },
     {
       "slug": "bos-mini-k39",
@@ -963,7 +993,8 @@
       "stock_count": 0,
       "popularity": 33,
       "added_at": 1789377256,
-      "views": 83
+      "views": 83,
+      "tile_url": "https://api.boss-mini-app.ru/t/7d3cc30f3b2f11edba035537.webp"
     },
     {
       "slug": "bos-mini-n578-4-64gb",
@@ -994,7 +1025,8 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1752859489,
-      "views": 1023
+      "views": 1023,
+      "tile_url": "https://api.boss-mini-app.ru/t/b60345d37dbb6f03be8a5b5a.webp"
     },
     {
       "slug": "bos-mini-n97d-4-64gb",
@@ -1025,7 +1057,8 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1752859585,
-      "views": 508
+      "views": 508,
+      "tile_url": "https://api.boss-mini-app.ru/t/253d79b630a58640103a570a.webp"
     },
     {
       "slug": "bos-mini-q2-9",
@@ -1056,7 +1089,8 @@
       "stock_count": 0,
       "popularity": 124,
       "added_at": 1752862854,
-      "views": 599
+      "views": 599,
+      "tile_url": "https://api.boss-mini-app.ru/t/ccb77972b65dd6b8a4c55c02.webp"
     },
     {
       "slug": "bos-mini-q70-6-64gb-7",
@@ -1087,7 +1121,8 @@
       "stock_count": 0,
       "popularity": 103,
       "added_at": 1753341610,
-      "views": 3059
+      "views": 3059,
+      "tile_url": "https://api.boss-mini-app.ru/t/0b9fac8512365dbefbfababd.webp"
     },
     {
       "slug": "bos-mini-r1-2-64gb",
@@ -1118,7 +1153,8 @@
       "stock_count": 0,
       "popularity": 36,
       "added_at": 1752866582,
-      "views": 293
+      "views": 293,
+      "tile_url": "https://api.boss-mini-app.ru/t/064e743de3efa93b9e6a639c.webp"
     },
     {
       "slug": "bos-mini-r2-2-64gb",
@@ -1149,7 +1185,8 @@
       "stock_count": 0,
       "popularity": 32,
       "added_at": 1752866604,
-      "views": 293
+      "views": 293,
+      "tile_url": "https://api.boss-mini-app.ru/t/0794fc9297a5446ed9119b0f.webp"
     },
     {
       "slug": "bos-mini-s1203-mersedes-style",
@@ -1180,7 +1217,8 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1782540190,
-      "views": 183
+      "views": 183,
+      "tile_url": "https://api.boss-mini-app.ru/t/899666b2e7ffb1a7d649ff9d.webp"
     },
     {
       "slug": "bos-mini-s1236-wi-fi",
@@ -1211,7 +1249,8 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1788416403,
-      "views": 99
+      "views": 99,
+      "tile_url": "https://api.boss-mini-app.ru/t/824504c7bfab19d725768ace.webp"
     },
     {
       "slug": "bos-mini-t3-4-64gb-9",
@@ -1242,7 +1281,8 @@
       "stock_count": 0,
       "popularity": 72,
       "added_at": 1776843716,
-      "views": 395
+      "views": 395,
+      "tile_url": "https://api.boss-mini-app.ru/t/899526f9512c01375a4f975a.webp"
     },
     {
       "slug": "bos-mini-a1105",
@@ -1273,7 +1313,8 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1782456237,
-      "views": 200
+      "views": 200,
+      "tile_url": "https://api.boss-mini-app.ru/t/a70aad6dfa0e3b8f353fb5c9.webp"
     },
     {
       "slug": "bos-a658d-pro-4-64gb",
@@ -1304,7 +1345,8 @@
       "stock_count": 0,
       "popularity": 140,
       "added_at": 1764313794,
-      "views": 1900
+      "views": 1900,
+      "tile_url": "https://api.boss-mini-app.ru/t/504ec1ed4c0b9940c149f673.webp"
     },
     {
       "slug": "bos-a659d-pro-4-64gb",
@@ -1335,7 +1377,8 @@
       "stock_count": 0,
       "popularity": 52,
       "added_at": 1764313847,
-      "views": 1494
+      "views": 1494,
+      "tile_url": "https://api.boss-mini-app.ru/t/111c87e93094b2f223128b3b.webp"
     },
     {
       "slug": "bos-mini-a15-10-djujmov",
@@ -1366,7 +1409,8 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1772526981,
-      "views": 753
+      "views": 753,
+      "tile_url": "https://api.boss-mini-app.ru/t/d8c5cd69f5fa7cfee483fd5c.webp"
     },
     {
       "slug": "bos-mini-a15-9-djujmov",
@@ -1397,7 +1441,8 @@
       "stock_count": 0,
       "popularity": 56,
       "added_at": 1772527002,
-      "views": 1077
+      "views": 1077,
+      "tile_url": "https://api.boss-mini-app.ru/t/d8c5cd69f5fa7cfee483fd5c.webp"
     },
     {
       "slug": "bos-mini-a1pro-10-4-64gb",
@@ -1428,7 +1473,8 @@
       "stock_count": 0,
       "popularity": 571,
       "added_at": 1764392614,
-      "views": 997
+      "views": 997,
+      "tile_url": "https://api.boss-mini-app.ru/t/126609bff11cfe49aaa4c173.webp"
     },
     {
       "slug": "bos-mini-a5-6-128gb-10",
@@ -1459,7 +1505,8 @@
       "stock_count": 0,
       "popularity": 41,
       "added_at": 1769575588,
-      "views": 805
+      "views": 805,
+      "tile_url": "https://api.boss-mini-app.ru/t/2e954cb078eb89a3eaad8736.webp"
     },
     {
       "slug": "bos-mini-a628d-dsp-4-64gb",
@@ -1490,7 +1537,8 @@
       "stock_count": 0,
       "popularity": 103,
       "added_at": 1764494765,
-      "views": 1638
+      "views": 1638,
+      "tile_url": "https://api.boss-mini-app.ru/t/a9c604ef4b8a1512265b7e09.webp"
     },
     {
       "slug": "bos-mini-a629d-4-64gb",
@@ -1521,7 +1569,8 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1764494672,
-      "views": 1281
+      "views": 1281,
+      "tile_url": "https://api.boss-mini-app.ru/t/22ae7a5acb3214e7e50c3559.webp"
     },
     {
       "slug": "bos-mini-a8-plus-8-256gb-10-djujmov",
@@ -1552,7 +1601,8 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1772528419,
-      "views": 348
+      "views": 348,
+      "tile_url": "https://api.boss-mini-app.ru/t/710ba1ae0bc78a24f72d9a61.webp"
     },
     {
       "slug": "bos-mini-a8-plus-8-256gb-9-djujmov",
@@ -1583,7 +1633,8 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1772528364,
-      "views": 387
+      "views": 387,
+      "tile_url": "https://api.boss-mini-app.ru/t/710ba1ae0bc78a24f72d9a61.webp"
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-10-djujmov",
@@ -1614,7 +1665,8 @@
       "stock_count": 0,
       "popularity": 26,
       "added_at": 1772527567,
-      "views": 494
+      "views": 494,
+      "tile_url": "https://api.boss-mini-app.ru/t/ebe350decbdf259ece30b942.webp"
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-9-djujmov",
@@ -1645,7 +1697,8 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1772527820,
-      "views": 619
+      "views": 619,
+      "tile_url": "https://api.boss-mini-app.ru/t/ebe350decbdf259ece30b942.webp"
     },
     {
       "slug": "bos-mini-a8-pro-8-256gb-10-djujmov",
@@ -1676,7 +1729,8 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1772528022,
-      "views": 496
+      "views": 496,
+      "tile_url": "https://api.boss-mini-app.ru/t/ebe350decbdf259ece30b942.webp"
     },
     {
       "slug": "bos-mini-a8-pro-8-256gb-9-djujmov",
@@ -1707,7 +1761,8 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1772528067,
-      "views": 247
+      "views": 247,
+      "tile_url": "https://api.boss-mini-app.ru/t/ebe350decbdf259ece30b942.webp"
     },
     {
       "slug": "bos-mini-cc3-max-2k-12-256gb-9",
@@ -1738,7 +1793,8 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1752852789,
-      "views": 1922
+      "views": 1922,
+      "tile_url": "https://api.boss-mini-app.ru/t/1e746b11f0548aef8bdb90d7.webp"
     },
     {
       "slug": "bos-mini-k68",
@@ -1769,7 +1825,8 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1765802757,
-      "views": 1675
+      "views": 1675,
+      "tile_url": "https://api.boss-mini-app.ru/t/cf0ca926542ffd3913b142cc.webp"
     },
     {
       "slug": "bos-mini-k69",
@@ -1800,7 +1857,8 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1765802832,
-      "views": 861
+      "views": 861,
+      "tile_url": "https://api.boss-mini-app.ru/t/85df975306795702b7fab8c3.webp"
     },
     {
       "slug": "bos-mini-k71",
@@ -1831,7 +1889,8 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1765802523,
-      "views": 1301
+      "views": 1301,
+      "tile_url": "https://api.boss-mini-app.ru/t/e73027dc68d9edaa3a373ee3.webp"
     },
     {
       "slug": "bos-mini-k72",
@@ -1862,7 +1921,8 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1765802621,
-      "views": 903
+      "views": 903,
+      "tile_url": "https://api.boss-mini-app.ru/t/359f2ce9a048086d1fc75991.webp"
     },
     {
       "slug": "bos-mini-k76hg-4-64gb",
@@ -1893,7 +1953,8 @@
       "stock_count": 0,
       "popularity": 129,
       "added_at": 1767294203,
-      "views": 988
+      "views": 988,
+      "tile_url": "https://api.boss-mini-app.ru/t/bbd731aa21576ada33b53a9f.webp"
     },
     {
       "slug": "bos-mini-t216-4-64gb",
@@ -1924,7 +1985,8 @@
       "stock_count": 0,
       "popularity": 39,
       "added_at": 1752912147,
-      "views": 2048
+      "views": 2048,
+      "tile_url": "https://api.boss-mini-app.ru/t/e903b3f571a40ac57d9e3e7f.webp"
     },
     {
       "slug": "bos-mini-t8-4-64gb-10",
@@ -1955,7 +2017,8 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1752853165,
-      "views": 524
+      "views": 524,
+      "tile_url": "https://api.boss-mini-app.ru/t/e1438de228214c729d79b987.webp"
     },
     {
       "slug": "bos-mini-t8-4-64gb-9",
@@ -1986,7 +2049,8 @@
       "stock_count": 0,
       "popularity": 104,
       "added_at": 1752853137,
-      "views": 1045
+      "views": 1045,
+      "tile_url": "https://api.boss-mini-app.ru/t/e1438de228214c729d79b987.webp"
     },
     {
       "slug": "bos-mini-t8705-4-64gb-7",
@@ -2017,7 +2081,8 @@
       "stock_count": 0,
       "popularity": 161,
       "added_at": 1752911964,
-      "views": 2094
+      "views": 2094,
+      "tile_url": "https://api.boss-mini-app.ru/t/55230f5dbc5c597edf7cdf8e.webp"
     },
     {
       "slug": "bos-mini-ts10-4-64gb-10",
@@ -2048,7 +2113,8 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1769577346,
-      "views": 448
+      "views": 448,
+      "tile_url": "https://api.boss-mini-app.ru/t/e35b328f28fa10f4f03dfd06.webp"
     },
     {
       "slug": "bos-mini-ts10-4-64gb-9",
@@ -2079,7 +2145,8 @@
       "stock_count": 0,
       "popularity": 55,
       "added_at": 1769577324,
-      "views": 561
+      "views": 561,
+      "tile_url": "https://api.boss-mini-app.ru/t/e35b328f28fa10f4f03dfd06.webp"
     },
     {
       "slug": "bos-mini-ts10-6-128gb-10",
@@ -2110,7 +2177,8 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1769577457,
-      "views": 596
+      "views": 596,
+      "tile_url": "https://api.boss-mini-app.ru/t/e35b328f28fa10f4f03dfd06.webp"
     },
     {
       "slug": "bos-mini-ts10-6-128gb-9",
@@ -2141,7 +2209,8 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1769577429,
-      "views": 767
+      "views": 767,
+      "tile_url": "https://api.boss-mini-app.ru/t/e35b328f28fa10f4f03dfd06.webp"
     },
     {
       "slug": "bos-mini-ts18-10-4-64gb",
@@ -2172,7 +2241,8 @@
       "stock_count": 0,
       "popularity": 83,
       "added_at": 1764392333,
-      "views": 584
+      "views": 584,
+      "tile_url": "https://api.boss-mini-app.ru/t/e78e25b2730674514d65df65.webp"
     },
     {
       "slug": "bos-mini-ts18-10-6-128gb",
@@ -2203,7 +2273,8 @@
       "stock_count": 0,
       "popularity": 40,
       "added_at": 1764392414,
-      "views": 973
+      "views": 973,
+      "tile_url": "https://api.boss-mini-app.ru/t/e78e25b2730674514d65df65.webp"
     },
     {
       "slug": "cc5-ultra-4-64gb-10",
@@ -2234,7 +2305,8 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1752860117,
-      "views": 768
+      "views": 768,
+      "tile_url": "https://api.boss-mini-app.ru/t/bcf1e2b70629fa88679355bb.webp"
     },
     {
       "slug": "cc5-ultra-4-64gb-9",
@@ -2265,7 +2337,8 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1752860064,
-      "views": 888
+      "views": 888,
+      "tile_url": "https://api.boss-mini-app.ru/t/15f17cc643a114294d5b02f4.webp"
     },
     {
       "slug": "dhd-a3x-4-64gb-9",
@@ -2296,7 +2369,8 @@
       "stock_count": 0,
       "popularity": 49,
       "added_at": 1785750358,
-      "views": 165
+      "views": 165,
+      "tile_url": "https://api.boss-mini-app.ru/t/68a4aaddd16187a8adc0f84c.webp"
     },
     {
       "slug": "dhd-m1-4-64gb-9-djujmov",
@@ -2327,7 +2401,8 @@
       "stock_count": 0,
       "popularity": 245,
       "added_at": 1781700641,
-      "views": 217
+      "views": 217,
+      "tile_url": "https://api.boss-mini-app.ru/t/fae3412c26da41a5f8be6c37.webp"
     },
     {
       "slug": "dhd-s1-4-64gb-9-djujmov",
@@ -2358,7 +2433,8 @@
       "stock_count": 0,
       "popularity": 500,
       "added_at": 1781700207,
-      "views": 215
+      "views": 215,
+      "tile_url": "https://api.boss-mini-app.ru/t/4cd627c1efd75d90eb0e9665.webp"
     },
     {
       "slug": "dhd-s1-plus-4-64gb-10-djujmov",
@@ -2389,7 +2465,8 @@
       "stock_count": 0,
       "popularity": 99,
       "added_at": 1781700561,
-      "views": 204
+      "views": 204,
+      "tile_url": "https://api.boss-mini-app.ru/t/0ee93753ecc389cbd8d2bf63.webp"
     },
     {
       "slug": "dhd-s200-pro-12-128gb",
@@ -2420,7 +2497,8 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1789417555,
-      "views": 57
+      "views": 57,
+      "tile_url": "https://api.boss-mini-app.ru/t/dc39ac03a4a3d0db5e5ec271.webp"
     },
     {
       "slug": "dhd-s200-pro-8-64gb",
@@ -2451,7 +2529,8 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1789417479,
-      "views": 48
+      "views": 48,
+      "tile_url": "https://api.boss-mini-app.ru/t/2d8cd76724324777fc6e3fb5.webp"
     },
     {
       "slug": "dhd-s210-pro-8-64gb",
@@ -2482,7 +2561,8 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1789417633,
-      "views": 44
+      "views": 44,
+      "tile_url": "https://api.boss-mini-app.ru/t/6078eae5eadf542de0b9e4ff.webp"
     },
     {
       "slug": "dhd-x1-plus-4-64gb-10-djujmov",
@@ -2513,7 +2593,8 @@
       "stock_count": 0,
       "popularity": 83,
       "added_at": 1781699833,
-      "views": 190
+      "views": 190,
+      "tile_url": "https://api.boss-mini-app.ru/t/107e0cde3ef4f11d7ea10239.webp"
     },
     {
       "slug": "dhd-x31-4-64gb",
@@ -2544,7 +2625,8 @@
       "stock_count": 0,
       "popularity": 50,
       "added_at": 1782024662,
-      "views": 202
+      "views": 202,
+      "tile_url": "https://api.boss-mini-app.ru/t/1482daf6866b9d0c3f37e11a.webp"
     },
     {
       "slug": "dhd-y2-pro-12-128gb-9",
@@ -2575,7 +2657,8 @@
       "stock_count": 0,
       "popularity": 116,
       "added_at": 1783059576,
-      "views": 172
+      "views": 172,
+      "tile_url": "https://api.boss-mini-app.ru/t/0f06e1ba7240f8866ae67953.webp"
     },
     {
       "slug": "dhd-y2-pro-8-64gb-9",
@@ -2606,7 +2689,8 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1783060101,
-      "views": 166
+      "views": 166,
+      "tile_url": "https://api.boss-mini-app.ru/t/20e7a0c655b119f6ebc53e7a.webp"
     },
     {
       "slug": "dv-pineer-ok-ahd-9115-10-3-32gb-10",
@@ -2637,7 +2721,8 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1752843688,
-      "views": 459
+      "views": 459,
+      "tile_url": "https://api.boss-mini-app.ru/t/2d98a998fdcd072c173e0bdc.webp"
     },
     {
       "slug": "dv-pioneer-ok-6611",
@@ -2668,7 +2753,8 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1752841827,
-      "views": 681
+      "views": 681,
+      "tile_url": "https://api.boss-mini-app.ru/t/c83830d449892e6ea9b2ba05.webp"
     },
     {
       "slug": "dv-pioneer-ok-d107-4-64gb",
@@ -2699,7 +2785,8 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1770637683,
-      "views": 650
+      "views": 650,
+      "tile_url": "https://api.boss-mini-app.ru/t/ac519fe02eea8120430d34ca.webp"
     },
     {
       "slug": "dv-pioneer-ok-d3gold-4-64gb",
@@ -2730,7 +2817,8 @@
       "stock_count": 0,
       "popularity": 41,
       "added_at": 1770637548,
-      "views": 519
+      "views": 519,
+      "tile_url": "https://api.boss-mini-app.ru/t/6c813ef86359f97eca2e5bcd.webp"
     },
     {
       "slug": "dv-pioneer-ok-y2-pro-8-64gb",
@@ -2761,7 +2849,8 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1786688207,
-      "views": 158
+      "views": 158,
+      "tile_url": "https://api.boss-mini-app.ru/t/1db74ea3a080bef702fd2251.webp"
     },
     {
       "slug": "dv-pioneer-ok-z3s-4-64",
@@ -2792,7 +2881,8 @@
       "stock_count": 0,
       "popularity": 57,
       "added_at": 1776680345,
-      "views": 306
+      "views": 306,
+      "tile_url": "https://api.boss-mini-app.ru/t/b6cbc8e0a53f125e86a02183.webp"
     },
     {
       "slug": "dv-pioneer-ok-d3-nano-4-64gb",
@@ -2823,7 +2913,8 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1765283275,
-      "views": 750
+      "views": 750,
+      "tile_url": "https://api.boss-mini-app.ru/t/4e3b1d894f3bfcd876a9c716.webp"
     },
     {
       "slug": "dv-pioneer-ok-z3-pro-6-64gb-9",
@@ -2854,7 +2945,8 @@
       "stock_count": 0,
       "popularity": 83,
       "added_at": 1765282134,
-      "views": 502
+      "views": 502,
+      "tile_url": "https://api.boss-mini-app.ru/t/4bbcce17fb623b08151ff761.webp"
     },
     {
       "slug": "e5-olom-es4-ultra-4-64gb-9",
@@ -2885,7 +2977,8 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1752845497,
-      "views": 643
+      "views": 643,
+      "tile_url": "https://api.boss-mini-app.ru/t/8d91a678019f0d9de43153c9.webp"
     },
     {
       "slug": "e5-olom-e3-pro-6-64gb-9",
@@ -2916,7 +3009,8 @@
       "stock_count": 0,
       "popularity": 33,
       "added_at": 1776112985,
-      "views": 389
+      "views": 389,
+      "tile_url": "https://api.boss-mini-app.ru/t/99e60c4871b112a8f535d19c.webp"
     },
     {
       "slug": "es80-4-64gb",
@@ -2947,7 +3041,8 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1752907950,
-      "views": 228
+      "views": 228,
+      "tile_url": "https://api.boss-mini-app.ru/t/2ebe43357cda9063222dccba.webp"
     },
     {
       "slug": "h41-nano-2-32g",
@@ -2978,7 +3073,8 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1765863892,
-      "views": 584
+      "views": 584,
+      "tile_url": "https://api.boss-mini-app.ru/t/56a3193394981b1fc727ec85.webp"
     },
     {
       "slug": "pioneer-gb-f8-6-64gb-9",
@@ -3009,7 +3105,8 @@
       "stock_count": 0,
       "popularity": 66,
       "added_at": 1769575727,
-      "views": 498
+      "views": 498,
+      "tile_url": "https://api.boss-mini-app.ru/t/42fbfd8e9a77abb1cde7f952.webp"
     },
     {
       "slug": "pioneer-gb-f8-plus-12-128g-10",
@@ -3040,7 +3137,8 @@
       "stock_count": 0,
       "popularity": 53,
       "added_at": 1769577216,
-      "views": 787
+      "views": 787,
+      "tile_url": "https://api.boss-mini-app.ru/t/b3b8ba8265293874525439b4.webp"
     },
     {
       "slug": "s1-4-64gb",
@@ -3071,7 +3169,8 @@
       "stock_count": 0,
       "popularity": 75,
       "added_at": 1773476138,
-      "views": 497
+      "views": 497,
+      "tile_url": "https://api.boss-mini-app.ru/t/922a18629a5378a32bdd6e14.webp"
     },
     {
       "slug": "tomboss-t123",
@@ -3102,7 +3201,8 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1780137341,
-      "views": 293
+      "views": 293,
+      "tile_url": "https://api.boss-mini-app.ru/t/ad5cfa4294348038518d539b.webp"
     },
     {
       "slug": "x3-diamond-4-64gb",
@@ -3133,7 +3233,8 @@
       "stock_count": 0,
       "popularity": 85,
       "added_at": 1781589517,
-      "views": 208
+      "views": 208,
+      "tile_url": "https://api.boss-mini-app.ru/t/13c570929318a34fe2dd72f6.webp"
     },
     {
       "slug": "y2-pro-12-128gb",
@@ -3164,7 +3265,8 @@
       "stock_count": 0,
       "popularity": 226,
       "added_at": 1773035061,
-      "views": 481
+      "views": 481,
+      "tile_url": "https://api.boss-mini-app.ru/t/a7281a52f0bf5775bf5685b5.webp"
     },
     {
       "slug": "zx1-4-64gb-9",
@@ -3195,7 +3297,8 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1776517259,
-      "views": 307
+      "views": 307,
+      "tile_url": "https://api.boss-mini-app.ru/t/6b952dd4d5dcd312cc8eac35.webp"
     },
     {
       "slug": "zx1-pro-plus-4-64gb-10",
@@ -3226,7 +3329,8 @@
       "stock_count": 0,
       "popularity": 69,
       "added_at": 1776517157,
-      "views": 254
+      "views": 254,
+      "tile_url": "https://api.boss-mini-app.ru/t/768e172060bcde73a9532ede.webp"
     },
     {
       "slug": "gem61-pro-max-mersedes-style",
@@ -3257,7 +3361,8 @@
       "stock_count": 0,
       "popularity": 26,
       "added_at": 1784270650,
-      "views": 185
+      "views": 186,
+      "tile_url": "https://api.boss-mini-app.ru/t/02d07d3288b734d4df171167.webp"
     },
     {
       "slug": "gem62-pro-max-bmw-style",
@@ -3288,7 +3393,8 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1784270215,
-      "views": 141
+      "views": 141,
+      "tile_url": "https://api.boss-mini-app.ru/t/b550a73cd356d8c26a48ac08.webp"
     },
     {
       "slug": "gem73-pro-max-8-64gb-bmw-style",
@@ -3319,7 +3425,8 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1789418652,
-      "views": 58
+      "views": 58,
+      "tile_url": "https://api.boss-mini-app.ru/t/2af58f6da37191a21858eddd.webp"
     },
     {
       "slug": "teyes-hs-sony-camera",
@@ -3350,7 +3457,8 @@
       "stock_count": 0,
       "popularity": 2699,
       "added_at": 1753684369,
-      "views": 753
+      "views": 753,
+      "tile_url": "https://api.boss-mini-app.ru/t/b1cb7db30ca2015bf8cc2c4c.webp"
     },
     {
       "slug": "teyes-sony-ahd-1080p",
@@ -3381,7 +3489,8 @@
       "stock_count": 0,
       "popularity": 3432,
       "added_at": 1753683801,
-      "views": 793
+      "views": 793,
+      "tile_url": "https://api.boss-mini-app.ru/t/bdadb5a3e5b757ccaa00fdf0.webp"
     },
     {
       "slug": "teyes-x5-dvr",
@@ -3412,7 +3521,8 @@
       "stock_count": 0,
       "popularity": 5624,
       "added_at": 1724219666,
-      "views": 970
+      "views": 970,
+      "tile_url": "https://api.boss-mini-app.ru/t/48363578fc27e0881e9df02b.webp"
     },
     {
       "slug": "videoregistrator-teyes-ahd",
@@ -3443,7 +3553,8 @@
       "stock_count": 0,
       "popularity": 52,
       "added_at": 1785308119,
-      "views": 147
+      "views": 147,
+      "tile_url": "https://api.boss-mini-app.ru/t/5d72d6647b03347af6ca6755.webp"
     },
     {
       "slug": "datchik-davlenija-shin-teyes",
@@ -3474,7 +3585,8 @@
       "stock_count": 0,
       "popularity": 896,
       "added_at": 1763361207,
-      "views": 477
+      "views": 477,
+      "tile_url": "https://api.boss-mini-app.ru/t/a0a8b5516b9860786322a901.webp"
     },
     {
       "slug": "kamera-teyes-ahd-v-pakete",
@@ -3505,7 +3617,8 @@
       "stock_count": 0,
       "popularity": 6150,
       "added_at": 1722408772,
-      "views": 827
+      "views": 827,
+      "tile_url": "https://api.boss-mini-app.ru/t/b1477a42c77659c7b66f93c1.webp"
     },
     {
       "slug": "cifrovaja-kamera-zadnego-vida-dlja-teyes-digital-cc4-pro-1080p",
@@ -3536,7 +3649,8 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1788246796,
-      "views": 92
+      "views": 92,
+      "tile_url": "https://api.boss-mini-app.ru/t/6157f92cb98f9e9b82c7f0af.webp"
     },
     {
       "slug": "cifrovoj-videoregistrator-teyes-digital",
@@ -3567,7 +3681,8 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1785308346,
-      "views": 114
+      "views": 114,
+      "tile_url": "https://api.boss-mini-app.ru/t/abf149dab5cadbb783add415.webp"
     },
     {
       "slug": "cifrovoj-mikrofon-dlja-teyes-cc4-pro",
@@ -3598,7 +3713,8 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1785310554,
-      "views": 51
+      "views": 51,
+      "tile_url": "https://api.boss-mini-app.ru/t/faf3332a1a057275fcfb86e4.webp"
     },
     {
       "slug": "bos-mini-9602",
@@ -3629,7 +3745,8 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1732348103,
-      "views": 1117
+      "views": 1117,
+      "tile_url": "https://api.boss-mini-app.ru/t/1f9c1e117dba39d0aa7c5830.webp"
     },
     {
       "slug": "carplay-5-4-64gb",
@@ -3660,7 +3777,8 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1730529413,
-      "views": 870
+      "views": 870,
+      "tile_url": "https://api.boss-mini-app.ru/t/701e27d52c0d3e1a2c0ee142.webp"
     },
     {
       "slug": "carplay-6-4-64gb-sim",
@@ -3691,7 +3809,8 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1730529692,
-      "views": 561
+      "views": 561,
+      "tile_url": "https://api.boss-mini-app.ru/t/ad969577c92eb39e05895899.webp"
     },
     {
       "slug": "carplay-8-6-128gb-sim",
@@ -3722,7 +3841,8 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1730529840,
-      "views": 494
+      "views": 494,
+      "tile_url": "https://api.boss-mini-app.ru/t/ca674221ef3985ffecd088a2.webp"
     },
     {
       "slug": "aromatizator-rh-001n",
@@ -3753,7 +3873,8 @@
       "stock_count": 0,
       "popularity": 149,
       "added_at": 1775198471,
-      "views": 303
+      "views": 303,
+      "tile_url": "https://api.boss-mini-app.ru/t/77647536309be9247cb08635.webp"
     },
     {
       "slug": "aromatizator-rh-002",
@@ -3784,7 +3905,8 @@
       "stock_count": 0,
       "popularity": 281,
       "added_at": 1752658610,
-      "views": 227
+      "views": 227,
+      "tile_url": "https://api.boss-mini-app.ru/t/3bc84dc08bd63f0272bbbf73.webp"
     },
     {
       "slug": "aromatizator-rh-032",
@@ -3815,7 +3937,8 @@
       "stock_count": 0,
       "popularity": 44,
       "added_at": 1775198040,
-      "views": 177
+      "views": 177,
+      "tile_url": "https://api.boss-mini-app.ru/t/c130cdf5574df03c726b6706.webp"
     },
     {
       "slug": "aromatizator-rh-034",
@@ -3846,7 +3969,8 @@
       "stock_count": 0,
       "popularity": 619,
       "added_at": 1756104856,
-      "views": 210
+      "views": 210,
+      "tile_url": "https://api.boss-mini-app.ru/t/5f3ba84008b1efa8fcd886f8.webp"
     },
     {
       "slug": "aromatizator-rh-038",
@@ -3877,7 +4001,8 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1769494185,
-      "views": 184
+      "views": 184,
+      "tile_url": "https://api.boss-mini-app.ru/t/dd086d6fe10f2227138c1a46.webp"
     },
     {
       "slug": "aromatizator-rh-039",
@@ -3908,7 +4033,8 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1769493683,
-      "views": 225
+      "views": 225,
+      "tile_url": "https://api.boss-mini-app.ru/t/1a7e451b3d74b3b832576c3e.webp"
     },
     {
       "slug": "aromatizator-rh-040",
@@ -3939,7 +4065,8 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1775197632,
-      "views": 247
+      "views": 247,
+      "tile_url": "https://api.boss-mini-app.ru/t/87d2f776d15c2cf902111af7.webp"
     },
     {
       "slug": "aromatizator-rh-044",
@@ -3970,7 +4097,8 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1775197935,
-      "views": 211
+      "views": 211,
+      "tile_url": "https://api.boss-mini-app.ru/t/413944d307c5a5eeff9dbc36.webp"
     },
     {
       "slug": "aromatizator-rh-045",
@@ -4001,7 +4129,8 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1775199067,
-      "views": 224
+      "views": 224,
+      "tile_url": "https://api.boss-mini-app.ru/t/ac7cd6b781ef7e3467365f97.webp"
     },
     {
       "slug": "aromatizator-diffuzory-rh-017",
@@ -4032,7 +4161,8 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1769493461,
-      "views": 186
+      "views": 186,
+      "tile_url": "https://api.boss-mini-app.ru/t/f3c44afb72dcc86f3a9a4fc3.webp"
     },
     {
       "slug": "aromatizator-diffuzory-rh-033",
@@ -4063,7 +4193,8 @@
       "stock_count": 0,
       "popularity": 92,
       "added_at": 1756104784,
-      "views": 226
+      "views": 226,
+      "tile_url": "https://api.boss-mini-app.ru/t/48605b5a989cd78b61c50cc2.webp"
     },
     {
       "slug": "aromatizator-diffuzory-rh-035",
@@ -4094,7 +4225,8 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1769494404,
-      "views": 214
+      "views": 214,
+      "tile_url": "https://api.boss-mini-app.ru/t/e6221d5ae334b1f1a3a440b7.webp"
     },
     {
       "slug": "aromatizator-sprej-rh-010",
@@ -4125,7 +4257,8 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1769411297,
-      "views": 172
+      "views": 172,
+      "tile_url": "https://api.boss-mini-app.ru/t/5c410b974596bf19a12c6139.webp"
     },
     {
       "slug": "aromatizator-sprej-rh-011",
@@ -4156,7 +4289,8 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1769411412,
-      "views": 183
+      "views": 183,
+      "tile_url": "https://api.boss-mini-app.ru/t/0fe4069ab23ba62809f7e129.webp"
     },
     {
       "slug": "aromatizator-sprej-rh-012",
@@ -4187,7 +4321,8 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1769411527,
-      "views": 220
+      "views": 220,
+      "tile_url": "https://api.boss-mini-app.ru/t/54ed54b8f01630944310dfbd.webp"
     },
     {
       "slug": "aromatizator-sprej-rh-031",
@@ -4218,7 +4353,8 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1769411698,
-      "views": 171
+      "views": 171,
+      "tile_url": "https://api.boss-mini-app.ru/t/10c6b144d820b4336c99cd9e.webp"
     },
     {
       "slug": "aromatizatory-rh-043",
@@ -4249,7 +4385,8 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1785393310,
-      "views": 76
+      "views": 76,
+      "tile_url": "https://api.boss-mini-app.ru/t/42f40fe6bbbba25e73383c43.webp"
     },
     {
       "slug": "aromatizatory-rh-043a",
@@ -4280,7 +4417,8 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1785393286,
-      "views": 67
+      "views": 67,
+      "tile_url": "https://api.boss-mini-app.ru/t/928ded22e700c3e98e802484.webp"
     },
     {
       "slug": "besprovodnoj-usb-adapter-carplay",
@@ -4311,7 +4449,8 @@
       "stock_count": 0,
       "popularity": 34,
       "added_at": 1763447303,
-      "views": 283
+      "views": 283,
+      "tile_url": "https://api.boss-mini-app.ru/t/a59c047d7bd7f9f88963d89c.webp"
     },
     {
       "slug": "besprovodnoj-karplehj-t1-dlja-populjarnykh-modelej-toyota",
@@ -4342,7 +4481,8 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1763447228,
-      "views": 212
+      "views": 212,
+      "tile_url": "https://api.boss-mini-app.ru/t/7e7ea2f7f1d6f6cc2a3a48e9.webp"
     },
     {
       "slug": "vneshniij-mikrafon-bos-e02",
@@ -4373,7 +4513,8 @@
       "stock_count": 0,
       "popularity": 255,
       "added_at": 1752176292,
-      "views": 385
+      "views": 385,
+      "tile_url": "https://api.boss-mini-app.ru/t/1e16fdf651fb8022e7e89c60.webp"
     },
     {
       "slug": "vozdukhoduvka-s-funkciej-pylesosa",
@@ -4404,7 +4545,8 @@
       "stock_count": 0,
       "popularity": 45,
       "added_at": 1731912601,
-      "views": 383
+      "views": 383,
+      "tile_url": "https://api.boss-mini-app.ru/t/a6cb9870861cbe9af8b7dfc1.webp"
     },
     {
       "slug": "komplekt-provodov-dlja-podkljuchenija-android-magnitola",
@@ -4435,7 +4577,8 @@
       "stock_count": 0,
       "popularity": 1282,
       "added_at": 1718527601,
-      "views": 982
+      "views": 982,
+      "tile_url": "https://api.boss-mini-app.ru/t/eca629794e9b1b1d613cdb73.webp"
     },
     {
       "slug": "kompressor-3v1-y-qb01",
@@ -4466,7 +4609,8 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1761308770,
-      "views": 343
+      "views": 343,
+      "tile_url": "https://api.boss-mini-app.ru/t/fbc5dd284f0519ecf211c8c5.webp"
     },
     {
       "slug": "multimedijnaja-smart-pristavka-a133-2-32g",
@@ -4497,7 +4641,8 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1766149772,
-      "views": 325
+      "views": 325,
+      "tile_url": "https://api.boss-mini-app.ru/t/65a663ce69cd4a173bf25a14.webp"
     },
     {
       "slug": "multimedijnaja-smart-pristavka-kpl070-4-64g",
@@ -4528,7 +4673,8 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1763447077,
-      "views": 330
+      "views": 330,
+      "tile_url": "https://api.boss-mini-app.ru/t/acd032bf95ad013c6d3703c3.webp"
     },
     {
       "slug": "multirul-a01",
@@ -4559,7 +4705,8 @@
       "stock_count": 0,
       "popularity": 282,
       "added_at": 1714856095,
-      "views": 563
+      "views": 563,
+      "tile_url": "https://api.boss-mini-app.ru/t/0cdffcbc38c8ff9c99d96791.webp"
     },
     {
       "slug": "multirul-a02",
@@ -4590,7 +4737,8 @@
       "stock_count": 0,
       "popularity": 135,
       "added_at": 1732270639,
-      "views": 593
+      "views": 593,
+      "tile_url": "https://api.boss-mini-app.ru/t/f972857391475127fa1bacda.webp"
     },
     {
       "slug": "multirul-bos-mini-a03",
@@ -4621,7 +4769,8 @@
       "stock_count": 0,
       "popularity": 70,
       "added_at": 1765013957,
-      "views": 648
+      "views": 648,
+      "tile_url": "https://api.boss-mini-app.ru/t/2895df324d00b6b49ab6e334.webp"
     },
     {
       "slug": "puskovoe-ustrojstvo-4-v-1-cjs-78",
@@ -4652,7 +4801,8 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1731153413,
-      "views": 429
+      "views": 429,
+      "tile_url": "https://api.boss-mini-app.ru/t/b176440a366f5c0b62895175.webp"
     },
     {
       "slug": "ultrafioletovyj-fonar-dlja-proverki-lkp-avto",
@@ -4683,7 +4833,8 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1773035946,
-      "views": 435
+      "views": 435,
+      "tile_url": "https://api.boss-mini-app.ru/t/a5b0c620263fa806175b3e6f.webp"
     },
     {
       "slug": "fizicheski-knopka-tmb-001",
@@ -4714,7 +4865,8 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1779958996,
-      "views": 318
+      "views": 318,
+      "tile_url": "https://api.boss-mini-app.ru/t/9840b9709f479be02f5437c5.webp"
     },
     {
       "slug": "ar7-h4",
@@ -4745,7 +4897,8 @@
       "stock_count": 0,
       "popularity": 280,
       "added_at": 1730983413,
-      "views": 320
+      "views": 320,
+      "tile_url": "https://api.boss-mini-app.ru/t/071c9d7fe18b0c95b6e09470.webp"
     },
     {
       "slug": "ars-9005-hb3",
@@ -4776,7 +4929,8 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1735018975,
-      "views": 283
+      "views": 283,
+      "tile_url": "https://api.boss-mini-app.ru/t/c3ede125ad1b08e27e2a25f4.webp"
     },
     {
       "slug": "ars-h4",
@@ -4807,7 +4961,8 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1735018631,
-      "views": 310
+      "views": 310,
+      "tile_url": "https://api.boss-mini-app.ru/t/8dcbab14e0448a523ae597bc.webp"
     },
     {
       "slug": "auto-led-ar6-h4",
@@ -4838,7 +4993,8 @@
       "stock_count": 0,
       "popularity": 38,
       "added_at": 1716467615,
-      "views": 286
+      "views": 286,
+      "tile_url": "https://api.boss-mini-app.ru/t/698cf2251c6aa0dfe6260576.webp"
     },
     {
       "slug": "e4-9005-20000-lm",
@@ -4869,7 +5025,8 @@
       "stock_count": 0,
       "popularity": 33,
       "added_at": 1730967246,
-      "views": 298
+      "views": 298,
+      "tile_url": "https://api.boss-mini-app.ru/t/e82e1371f8f98304588a70b9.webp"
     },
     {
       "slug": "k15-9005-hb3",
@@ -4900,7 +5057,8 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1751464085,
-      "views": 137
+      "views": 137,
+      "tile_url": "https://api.boss-mini-app.ru/t/216f9e2909282ce27e4eeae2.webp"
     },
     {
       "slug": "k15-h1",
@@ -4931,7 +5089,8 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1751463087,
-      "views": 155
+      "views": 155,
+      "tile_url": "https://api.boss-mini-app.ru/t/175347c6f592eb011f220679.webp"
     },
     {
       "slug": "k15-h4",
@@ -4962,7 +5121,8 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1751463679,
-      "views": 174
+      "views": 174,
+      "tile_url": "https://api.boss-mini-app.ru/t/96155f0cf0d9b23f598e9040.webp"
     },
     {
       "slug": "led-headlights-n3-h4",
@@ -4993,7 +5153,8 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1716467176,
-      "views": 321
+      "views": 321,
+      "tile_url": "https://api.boss-mini-app.ru/t/efb9ee71074eaabd323dfa43.webp"
     },
     {
       "slug": "led-lampa-zw1-9005",
@@ -5024,7 +5185,8 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1752401620,
-      "views": 165
+      "views": 165,
+      "tile_url": "https://api.boss-mini-app.ru/t/83159bc585d98c5e4cc65cb1.webp"
     },
     {
       "slug": "led-lampa-zw1-h1",
@@ -5055,7 +5217,8 @@
       "stock_count": 0,
       "popularity": 80,
       "added_at": 1752401107,
-      "views": 101
+      "views": 101,
+      "tile_url": "https://api.boss-mini-app.ru/t/deea750168610ba2ee5ef4d7.webp"
     },
     {
       "slug": "led-lampa-zw1-h11",
@@ -5086,7 +5249,8 @@
       "stock_count": 0,
       "popularity": 36,
       "added_at": 1778499441,
-      "views": 189
+      "views": 189,
+      "tile_url": "https://api.boss-mini-app.ru/t/aa7ceabeaadd426c7d6deba2.webp"
     },
     {
       "slug": "led-lampa-zw1-h4",
@@ -5117,7 +5281,8 @@
       "stock_count": 0,
       "popularity": 68,
       "added_at": 1752401332,
-      "views": 177
+      "views": 177,
+      "tile_url": "https://api.boss-mini-app.ru/t/552eb88378f824c7422d0e49.webp"
     },
     {
       "slug": "led-lampa-zw1-h7",
@@ -5148,7 +5313,8 @@
       "stock_count": 0,
       "popularity": 83,
       "added_at": 1752401573,
-      "views": 121
+      "views": 121,
+      "tile_url": "https://api.boss-mini-app.ru/t/281030772f66925e74b0f736.webp"
     },
     {
       "slug": "led-mini-h4",
@@ -5179,7 +5345,8 @@
       "stock_count": 0,
       "popularity": 184,
       "added_at": 1716466990,
-      "views": 370
+      "views": 370,
+      "tile_url": "https://api.boss-mini-app.ru/t/42d541dc85f56da896cbb68b.webp"
     },
     {
       "slug": "led-mini-h7",
@@ -5210,7 +5377,8 @@
       "stock_count": 0,
       "popularity": 153,
       "added_at": 1716467058,
-      "views": 262
+      "views": 262,
+      "tile_url": "https://api.boss-mini-app.ru/t/f6b896d1f892b6272f86cd86.webp"
     },
     {
       "slug": "tech-king-h1",
@@ -5241,7 +5409,8 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1743145190,
-      "views": 163
+      "views": 163,
+      "tile_url": "https://api.boss-mini-app.ru/t/bca04272138f7cc380d7a481.webp"
     },
     {
       "slug": "tech-king-h4",
@@ -5272,7 +5441,8 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1743145408,
-      "views": 218
+      "views": 218,
+      "tile_url": "https://api.boss-mini-app.ru/t/c16bfabb9deda40a7e0b8e80.webp"
     },
     {
       "slug": "tech-king-hb3-9005",
@@ -5303,7 +5473,8 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1743145803,
-      "views": 181
+      "views": 181,
+      "tile_url": "https://api.boss-mini-app.ru/t/19803419f440d498e0c5516f.webp"
     },
     {
       "slug": "zr-9005-hb3",
@@ -5334,7 +5505,8 @@
       "stock_count": 0,
       "popularity": 87,
       "added_at": 1734934388,
-      "views": 213
+      "views": 213,
+      "tile_url": "https://api.boss-mini-app.ru/t/2b472e1b3809d0d450b70579.webp"
     },
     {
       "slug": "zr2-h1",
@@ -5365,7 +5537,8 @@
       "stock_count": 0,
       "popularity": 153,
       "added_at": 1751713853,
-      "views": 119
+      "views": 119,
+      "tile_url": "https://api.boss-mini-app.ru/t/e5ceda92363e01a95fc6c5ca.webp"
     },
     {
       "slug": "zr2-h11",
@@ -5396,7 +5569,8 @@
       "stock_count": 0,
       "popularity": 113,
       "added_at": 1751713957,
-      "views": 106
+      "views": 106,
+      "tile_url": "https://api.boss-mini-app.ru/t/5ba5e34d6a24bdf46b54eea2.webp"
     },
     {
       "slug": "zr2-h4",
@@ -5427,7 +5601,8 @@
       "stock_count": 0,
       "popularity": 216,
       "added_at": 1734934541,
-      "views": 291
+      "views": 291,
+      "tile_url": "https://api.boss-mini-app.ru/t/9686e21e1223944d68b430c2.webp"
     },
     {
       "slug": "zr2-h7",
@@ -5458,7 +5633,8 @@
       "stock_count": 0,
       "popularity": 459,
       "added_at": 1734934654,
-      "views": 355
+      "views": 355,
+      "tile_url": "https://api.boss-mini-app.ru/t/f71aebb66f53686faa4b2e6e.webp"
     },
     {
       "slug": "galogenovaja-lampa-h1",
@@ -5489,7 +5665,8 @@
       "stock_count": 0,
       "popularity": 52,
       "added_at": 1778564901,
-      "views": 219
+      "views": 219,
+      "tile_url": "https://api.boss-mini-app.ru/t/9b278c7f7761a61cb61a8987.webp"
     },
     {
       "slug": "galogenovaja-lampa-h11",
@@ -5520,7 +5697,8 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1778565956,
-      "views": 167
+      "views": 167,
+      "tile_url": "https://api.boss-mini-app.ru/t/9c027957fb2bc889b6983e79.webp"
     },
     {
       "slug": "galogenovaja-lampa-h4",
@@ -5551,7 +5729,8 @@
       "stock_count": 0,
       "popularity": 40,
       "added_at": 1778565823,
-      "views": 177
+      "views": 177,
+      "tile_url": "https://api.boss-mini-app.ru/t/b3d3646bca683378394bb0f7.webp"
     },
     {
       "slug": "galogenovaja-lampa-h7",
@@ -5582,7 +5761,8 @@
       "stock_count": 0,
       "popularity": 46,
       "added_at": 1778565879,
-      "views": 184
+      "views": 184,
+      "tile_url": "https://api.boss-mini-app.ru/t/782abce7f2d977b16e433d44.webp"
     },
     {
       "slug": "galogenovaja-lampa-hb3-9005",
@@ -5613,7 +5793,8 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1778565029,
-      "views": 189
+      "views": 189,
+      "tile_url": "https://api.boss-mini-app.ru/t/3dc2825939d1547dccb64447.webp"
     },
     {
       "slug": "galogenovaja-lampa-hb4-9006",
@@ -5644,7 +5825,8 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1778565614,
-      "views": 162
+      "views": 162,
+      "tile_url": "https://api.boss-mini-app.ru/t/21c33e238d61fefc096f9ccb.webp"
     },
     {
       "slug": "zvezdnoe-nebo",
@@ -5675,7 +5857,8 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1766130374,
-      "views": 408
+      "views": 408,
+      "tile_url": "https://api.boss-mini-app.ru/t/dc11abe8f43c9d598f170900.webp"
     },
     {
       "slug": "ptf-universalnye-50w-glazki-angela",
@@ -5706,7 +5889,8 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1736655571,
-      "views": 321
+      "views": 321,
+      "tile_url": "https://api.boss-mini-app.ru/t/d0da43fef7cd8cb31b6d5243.webp"
     },
     {
       "slug": "podsvetka-salona-colorful-frgb",
@@ -5737,7 +5921,8 @@
       "stock_count": 0,
       "popularity": 145,
       "added_at": 1754140827,
-      "views": 501
+      "views": 501,
+      "tile_url": "https://api.boss-mini-app.ru/t/a55b009b6cc5e0c8b0cfbceb.webp"
     },
     {
       "slug": "svetodiodnye-linzy-gt2",
@@ -5768,7 +5953,8 @@
       "stock_count": 0,
       "popularity": 33,
       "added_at": 1751353443,
-      "views": 308
+      "views": 308,
+      "tile_url": "https://api.boss-mini-app.ru/t/447f9f4afc309594da69b9cd.webp"
     },
     {
       "slug": "svetodiodnye-linzy-gt3",
@@ -5799,7 +5985,8 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1751715210,
-      "views": 445
+      "views": 445,
+      "tile_url": "https://api.boss-mini-app.ru/t/e14888611cbb3a87e110d581.webp"
     },
     {
       "slug": "svetodiodnye-linzy-gt1",
@@ -5830,7 +6017,8 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1747293099,
-      "views": 369
+      "views": 369,
+      "tile_url": "https://api.boss-mini-app.ru/t/5346be47f7106c271db8f8c7.webp"
     },
     {
       "slug": "a15l-2k-wi-fi",
@@ -5861,7 +6049,8 @@
       "stock_count": 0,
       "popularity": 80,
       "added_at": 1739603510,
-      "views": 690
+      "views": 690,
+      "tile_url": "https://api.boss-mini-app.ru/t/da6ddfff25cfd243b99e0ce3.webp"
     },
     {
       "slug": "bos-mini-f75",
@@ -5892,7 +6081,8 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1787817722,
-      "views": 98
+      "views": 98,
+      "tile_url": "https://api.boss-mini-app.ru/t/c1e059b1ef2251f2c0014516.webp"
     },
     {
       "slug": "bos-mini-f85",
@@ -5923,7 +6113,8 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1787817773,
-      "views": 102
+      "views": 102,
+      "tile_url": "https://api.boss-mini-app.ru/t/735e51e5acb2325195e55ac4.webp"
     },
     {
       "slug": "bos-mini-k15l-wi-fi",
@@ -5954,7 +6145,8 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1781946848,
-      "views": 184
+      "views": 184,
+      "tile_url": "https://api.boss-mini-app.ru/t/b4a16efc387b648a92b97f6d.webp"
     },
     {
       "slug": "bos-mini-x13pro",
@@ -5985,7 +6177,8 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1781947054,
-      "views": 157
+      "views": 157,
+      "tile_url": "https://api.boss-mini-app.ru/t/866da4efcf611d61d05f353c.webp"
     },
     {
       "slug": "bos-mini-l-810",
@@ -6016,7 +6209,8 @@
       "stock_count": 0,
       "popularity": 1041,
       "added_at": 1732391421,
-      "views": 1029
+      "views": 1029,
+      "tile_url": "https://api.boss-mini-app.ru/t/df08aafd1556bfa8a2302c9e.webp"
     },
     {
       "slug": "bos-mini-a17l-2k-s-wi-fi",
@@ -6047,7 +6241,8 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1747484451,
-      "views": 488
+      "views": 488,
+      "tile_url": "https://api.boss-mini-app.ru/t/b9454966fdd50daa54226c40.webp"
     },
     {
       "slug": "bos-mini-a31-pro-wi-fi",
@@ -6078,7 +6273,8 @@
       "stock_count": 0,
       "popularity": 110,
       "added_at": 1765628151,
-      "views": 602
+      "views": 602,
+      "tile_url": "https://api.boss-mini-app.ru/t/835240e9a375e1ff68b76c3d.webp"
     },
     {
       "slug": "bos-mini-a32-pro-wi-fi",
@@ -6109,7 +6305,8 @@
       "stock_count": 0,
       "popularity": 155,
       "added_at": 1765628182,
-      "views": 477
+      "views": 477,
+      "tile_url": "https://api.boss-mini-app.ru/t/25b37c2417899def89d1b47a.webp"
     },
     {
       "slug": "bos-mini-l-369",
@@ -6140,7 +6337,8 @@
       "stock_count": 0,
       "popularity": 1019,
       "added_at": 1740736611,
-      "views": 740
+      "views": 740,
+      "tile_url": "https://api.boss-mini-app.ru/t/66fa8a2be3800958250c4573.webp"
     },
     {
       "slug": "bos-mini-l-817",
@@ -6171,7 +6369,8 @@
       "stock_count": 0,
       "popularity": 55,
       "added_at": 1764785199,
-      "views": 307
+      "views": 307,
+      "tile_url": "https://api.boss-mini-app.ru/t/b989ead2fe1fdc0da6e6d4c3.webp"
     },
     {
       "slug": "carplay-pnd-7",
@@ -6202,7 +6401,8 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1750599777,
-      "views": 328
+      "views": 328,
+      "tile_url": "https://api.boss-mini-app.ru/t/ee1266f79d326628b19bf231.webp"
     },
     {
       "slug": "carplay-pnd-7-pro",
@@ -6233,7 +6433,8 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1750599476,
-      "views": 373
+      "views": 373,
+      "tile_url": "https://api.boss-mini-app.ru/t/f888b4f5611e5bb6a05d0fce.webp"
     },
     {
       "slug": "e5-olim-s2",
@@ -6264,7 +6465,8 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1734179124,
-      "views": 689
+      "views": 689,
+      "tile_url": "https://api.boss-mini-app.ru/t/f1eea9d185782346008da965.webp"
     },
     {
       "slug": "e5-olom-lmt-3",
@@ -6295,7 +6497,8 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1787554965,
-      "views": 75
+      "views": 75,
+      "tile_url": "https://api.boss-mini-app.ru/t/b726ce1f6c8231b4e6b13fc4.webp"
     },
     {
       "slug": "e5-olom-lmt-5",
@@ -6326,7 +6529,8 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1737099710,
-      "views": 365
+      "views": 365,
+      "tile_url": "https://api.boss-mini-app.ru/t/73cdb116b64af2123dbf9de2.webp"
     },
     {
       "slug": "e5-olom-lmt-8",
@@ -6357,7 +6561,8 @@
       "stock_count": 0,
       "popularity": 78,
       "added_at": 1737099829,
-      "views": 428
+      "views": 428,
+      "tile_url": "https://api.boss-mini-app.ru/t/e0e8208c605f87e185f0937d.webp"
     },
     {
       "slug": "e5-olom-s1",
@@ -6388,7 +6593,8 @@
       "stock_count": 0,
       "popularity": 127,
       "added_at": 1734179057,
-      "views": 514
+      "views": 514,
+      "tile_url": "https://api.boss-mini-app.ru/t/b1f86eba830d886a776b8b7b.webp"
     },
     {
       "slug": "gzj-u9",
@@ -6419,7 +6625,8 @@
       "stock_count": 0,
       "popularity": 174,
       "added_at": 1747484565,
-      "views": 430
+      "views": 430,
+      "tile_url": "https://api.boss-mini-app.ru/t/7a538b3a30d8fb08a6788ba2.webp"
     },
     {
       "slug": "tomboss-t16",
@@ -6450,7 +6657,8 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1779788743,
-      "views": 159
+      "views": 159,
+      "tile_url": "https://api.boss-mini-app.ru/t/4529886770cfe72b30784efc.webp"
     },
     {
       "slug": "tomboss-t20",
@@ -6481,7 +6689,8 @@
       "stock_count": 0,
       "popularity": 67,
       "added_at": 1753772635,
-      "views": 1004
+      "views": 1004,
+      "tile_url": "https://api.boss-mini-app.ru/t/da608b5b70681aa4bb678274.webp"
     },
     {
       "slug": "tomboss-t30",
@@ -6512,7 +6721,8 @@
       "stock_count": 0,
       "popularity": 25,
       "added_at": 1753772523,
-      "views": 616
+      "views": 616,
+      "tile_url": "https://api.boss-mini-app.ru/t/8ca12cb8e273f87bcf081b44.webp"
     },
     {
       "slug": "tomboss-t10",
@@ -6543,7 +6753,8 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1771148839,
-      "views": 344
+      "views": 344,
+      "tile_url": "https://api.boss-mini-app.ru/t/2b95f38fc0dcba9ec4517eb0.webp"
     },
     {
       "slug": "videoregistrator-4-1-ok-dhd-4",
@@ -6574,7 +6785,8 @@
       "stock_count": 0,
       "popularity": 70,
       "added_at": 1746085925,
-      "views": 1295
+      "views": 1295,
+      "tile_url": "https://api.boss-mini-app.ru/t/f741157419ee1a16c8f8583d.webp"
     },
     {
       "slug": "videoregistrator-bos-mini-v8",
@@ -6605,7 +6817,8 @@
       "stock_count": 0,
       "popularity": 38,
       "added_at": 1783665902,
-      "views": 136
+      "views": 136,
+      "tile_url": "https://api.boss-mini-app.ru/t/58053ab9aee3b3931e0a8592.webp"
     },
     {
       "slug": "videoregistrator-c8",
@@ -6636,7 +6849,8 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1714856095,
-      "views": 425
+      "views": 425,
+      "tile_url": "https://api.boss-mini-app.ru/t/4e90481c12e452dd80e63356.webp"
     },
     {
       "slug": "videoregistrator-t33-1080p",
@@ -6667,7 +6881,8 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1749455456,
-      "views": 378
+      "views": 378,
+      "tile_url": "https://api.boss-mini-app.ru/t/f653fc2ad1a372ac16dc26b6.webp"
     },
     {
       "slug": "videoregistrator-dlja-android-magnitol-u10",
@@ -6698,7 +6913,8 @@
       "stock_count": 0,
       "popularity": 25,
       "added_at": 1768974626,
-      "views": 449
+      "views": 449,
+      "tile_url": "https://api.boss-mini-app.ru/t/055b7553d2f9db7671476f3f.webp"
     },
     {
       "slug": "videoregistrator-dlja-android-magnitol-u1pro",
@@ -6729,7 +6945,8 @@
       "stock_count": 0,
       "popularity": 198,
       "added_at": 1765285796,
-      "views": 328
+      "views": 328,
+      "tile_url": "https://api.boss-mini-app.ru/t/39a4f9d03020d87d77730874.webp"
     },
     {
       "slug": "videoregistrator-dlja-android-magnitol-u2",
@@ -6760,7 +6977,8 @@
       "stock_count": 0,
       "popularity": 463,
       "added_at": 1739603379,
-      "views": 432
+      "views": 432,
+      "tile_url": "https://api.boss-mini-app.ru/t/437f24a71ea0e4713f6d11f3.webp"
     },
     {
       "slug": "videoregistrator-dlja-android-magnitol-u2pro",
@@ -6791,7 +7009,8 @@
       "stock_count": 0,
       "popularity": 294,
       "added_at": 1765013878,
-      "views": 342
+      "views": 342,
+      "tile_url": "https://api.boss-mini-app.ru/t/0d038df8670afdd9f8047c89.webp"
     },
     {
       "slug": "videoregistrator-na-3-kamery-c6",
@@ -6822,7 +7041,8 @@
       "stock_count": 0,
       "popularity": 111,
       "added_at": 1721755869,
-      "views": 527
+      "views": 527,
+      "tile_url": "https://api.boss-mini-app.ru/t/e7d7c198e70bb021f0e81bb6.webp"
     },
     {
       "slug": "vreznaja-kamera-zadnego-vida-e1241",
@@ -6853,7 +7073,8 @@
       "stock_count": 0,
       "popularity": 78,
       "added_at": 1773035549,
-      "views": 244
+      "views": 244,
+      "tile_url": "https://api.boss-mini-app.ru/t/70356686017d80bd024851a0.webp"
     },
     {
       "slug": "zerkala-videoregistratory-4k-wif-x12",
@@ -6884,7 +7105,8 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1732085020,
-      "views": 522
+      "views": 522,
+      "tile_url": "https://api.boss-mini-app.ru/t/b7906edef03ede741c2dcb4d.webp"
     },
     {
       "slug": "zerkalo-videoregistrator-p11l",
@@ -6915,7 +7137,8 @@
       "stock_count": 0,
       "popularity": 299,
       "added_at": 1753683329,
-      "views": 977
+      "views": 977,
+      "tile_url": "https://api.boss-mini-app.ru/t/3e3e5a2cc6ebdfcb3c7306ee.webp"
     },
     {
       "slug": "zerkalo-videorgistrator-blaupunkt",
@@ -6946,7 +7169,8 @@
       "stock_count": 0,
       "popularity": 27,
       "added_at": 1771148869,
-      "views": 305
+      "views": 305,
+      "tile_url": "https://api.boss-mini-app.ru/t/bae142c0a2ef7d748bcd455a.webp"
     },
     {
       "slug": "kamera-360-full-hd",
@@ -6977,7 +7201,8 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1783923958,
-      "views": 180
+      "views": 180,
+      "tile_url": "https://api.boss-mini-app.ru/t/494f3eb34ee531cf5e6f3701.webp"
     },
     {
       "slug": "kamera-zad-vida-bos-mini-l-168",
@@ -7008,7 +7233,8 @@
       "stock_count": 0,
       "popularity": 1428,
       "added_at": 1732039326,
-      "views": 629
+      "views": 629,
+      "tile_url": "https://api.boss-mini-app.ru/t/2672b64ff992dfad86c5a5cc.webp"
     },
     {
       "slug": "kamera-zad-vida-bos-mini-e-266",
@@ -7039,7 +7265,8 @@
       "stock_count": 0,
       "popularity": 1255,
       "added_at": 1732038428,
-      "views": 563
+      "views": 563,
+      "tile_url": "https://api.boss-mini-app.ru/t/4293230a9e28dc2c39f37bbf.webp"
     },
     {
       "slug": "kamera-zad-vida-bos-mini-e-267",
@@ -7070,7 +7297,8 @@
       "stock_count": 0,
       "popularity": 514,
       "added_at": 1732038503,
-      "views": 579
+      "views": 579,
+      "tile_url": "https://api.boss-mini-app.ru/t/c5f61a4e0e12bc500cae3643.webp"
     },
     {
       "slug": "kamera-zad-vida-e-2316",
@@ -7101,7 +7329,8 @@
       "stock_count": 0,
       "popularity": 184,
       "added_at": 1773149468,
-      "views": 163
+      "views": 163,
+      "tile_url": "https://api.boss-mini-app.ru/t/9ef10c5c4d93f6ef4ff319c8.webp"
     },
     {
       "slug": "kamera-zad-vida-e-3218",
@@ -7132,7 +7361,8 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1771745664,
-      "views": 226
+      "views": 226,
+      "tile_url": "https://api.boss-mini-app.ru/t/706e3a8e5fe032dc1fc18167.webp"
     },
     {
       "slug": "kamera-zad-vida-e034-ahd",
@@ -7163,7 +7393,8 @@
       "stock_count": 0,
       "popularity": 49,
       "added_at": 1765777713,
-      "views": 267
+      "views": 267,
+      "tile_url": "https://api.boss-mini-app.ru/t/54ea14fd7c4bfc9be9aa872b.webp"
     },
     {
       "slug": "kamera-zadnego-vida-bos-f65",
@@ -7194,7 +7425,8 @@
       "stock_count": 0,
       "popularity": 154,
       "added_at": 1764398182,
-      "views": 549
+      "views": 549,
+      "tile_url": "https://api.boss-mini-app.ru/t/e84727380ccc8f0cede9b5e0.webp"
     },
     {
       "slug": "kamera-zadnego-vida-bos-l370",
@@ -7225,7 +7457,8 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1775026590,
-      "views": 320
+      "views": 320,
+      "tile_url": "https://api.boss-mini-app.ru/t/f27ad4c46ee8737eadd8f434.webp"
     },
     {
       "slug": "kamera-zadnego-vida-bos-l210",
@@ -7256,7 +7489,8 @@
       "stock_count": 0,
       "popularity": 839,
       "added_at": 1738414405,
-      "views": 548
+      "views": 548,
+      "tile_url": "https://api.boss-mini-app.ru/t/a7558badd82194e04f6887b9.webp"
     },
     {
       "slug": "kamera-zadnego-vida-bos-l310",
@@ -7287,7 +7521,8 @@
       "stock_count": 0,
       "popularity": 736,
       "added_at": 1738414504,
-      "views": 812
+      "views": 812,
+      "tile_url": "https://api.boss-mini-app.ru/t/8b928442cf99b98bc1b35480.webp"
     },
     {
       "slug": "kamera-zadnego-vida-e-187-ahd",
@@ -7318,7 +7553,8 @@
       "stock_count": 0,
       "popularity": 107,
       "added_at": 1750492956,
-      "views": 99
+      "views": 99,
+      "tile_url": "https://api.boss-mini-app.ru/t/1c0d9b34ddd237922db77350.webp"
     },
     {
       "slug": "kamera-zadnego-vida-e-300",
@@ -7349,7 +7585,8 @@
       "stock_count": 0,
       "popularity": 770,
       "added_at": 1750494148,
-      "views": 313
+      "views": 313,
+      "tile_url": "https://api.boss-mini-app.ru/t/78751d75261dd7dbb3632df1.webp"
     },
     {
       "slug": "kamera-zadnego-vida-l-162",
@@ -7380,7 +7617,8 @@
       "stock_count": 0,
       "popularity": 321,
       "added_at": 1746416891,
-      "views": 377
+      "views": 377,
+      "tile_url": "https://api.boss-mini-app.ru/t/89222dd8e8502aa9375d42d6.webp"
     },
     {
       "slug": "kamera-zadnego-vida-l-606",
@@ -7411,7 +7649,8 @@
       "stock_count": 0,
       "popularity": 315,
       "added_at": 1783665077,
-      "views": 88
+      "views": 88,
+      "tile_url": "https://api.boss-mini-app.ru/t/2e88bc8d43daf8bace7ce896.webp"
     },
     {
       "slug": "kamera-krugovo-obzora-bos-mini-a360",
@@ -7442,7 +7681,8 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1757406784,
-      "views": 517
+      "views": 517,
+      "tile_url": "https://api.boss-mini-app.ru/t/2eb7756f52f08639677e3891.webp"
     },
     {
       "slug": "monitor-dlja-bolshegruznykh-mashin-gq-136-4",
@@ -7473,7 +7713,8 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1765657119,
-      "views": 838
+      "views": 838,
+      "tile_url": "https://api.boss-mini-app.ru/t/b04be31ce38090d6060bd29a.webp"
     },
     {
       "slug": "monitor-s-4-mja-kamerami-jcs-7003-4",
@@ -7504,7 +7745,8 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1714856095,
-      "views": 754
+      "views": 754,
+      "tile_url": "https://api.boss-mini-app.ru/t/75d6ad916afd13b3fb5fcdf6.webp"
     },
     {
       "slug": "provoda-dlja-kamery-zadnego-vida-20m",
@@ -7535,7 +7777,8 @@
       "stock_count": 0,
       "popularity": 258,
       "added_at": 1731883338,
-      "views": 334
+      "views": 334,
+      "tile_url": "https://api.boss-mini-app.ru/t/e3420732e4831a9389c1c485.webp"
     },
     {
       "slug": "provoda-dlja-kamery-zadnego-vida-6m",
@@ -7566,7 +7809,8 @@
       "stock_count": 0,
       "popularity": 121,
       "added_at": 1735020490,
-      "views": 317
+      "views": 317,
+      "tile_url": "https://api.boss-mini-app.ru/t/3fccb0ab2b131d6c34ced791.webp"
     },
     {
       "slug": "bos-5071-13cm-220w",
@@ -7597,7 +7841,8 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1749113475,
-      "views": 369
+      "views": 369,
+      "tile_url": "https://api.boss-mini-app.ru/t/36294060c63ecf5d19f3d365.webp"
     },
     {
       "slug": "bos-5089-13cm-300w",
@@ -7628,7 +7873,8 @@
       "stock_count": 0,
       "popularity": 72,
       "added_at": 1749113253,
-      "views": 400
+      "views": 400,
+      "tile_url": "https://api.boss-mini-app.ru/t/bddfc9d8ec32370a2331ad50.webp"
     },
     {
       "slug": "bos-6571-16cm-300w",
@@ -7659,7 +7905,8 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1749113589,
-      "views": 283
+      "views": 283,
+      "tile_url": "https://api.boss-mini-app.ru/t/798b7248c16fce3792d49026.webp"
     },
     {
       "slug": "bos-6591",
@@ -7690,7 +7937,8 @@
       "stock_count": 0,
       "popularity": 76,
       "added_at": 1753599089,
-      "views": 1194
+      "views": 1194,
+      "tile_url": "https://api.boss-mini-app.ru/t/61d970eed00bf33bf7819d46.webp"
     },
     {
       "slug": "bos-mini-5081-180w",
@@ -7721,7 +7969,8 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789301805,
-      "views": 34
+      "views": 34,
+      "tile_url": "https://api.boss-mini-app.ru/t/7c352abfad0dec3f4280f5aa.webp"
     },
     {
       "slug": "bos-mini-5088",
@@ -7752,7 +8001,8 @@
       "stock_count": 0,
       "popularity": 151,
       "added_at": 1738649802,
-      "views": 930
+      "views": 930,
+      "tile_url": "https://api.boss-mini-app.ru/t/22bcd46c2ab31c3986163157.webp"
     },
     {
       "slug": "bos-mini-52xd",
@@ -7783,7 +8033,8 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1782390337,
-      "views": 100
+      "views": 100,
+      "tile_url": "https://api.boss-mini-app.ru/t/f5f74c3531b50d03b6c47e6c.webp"
     },
     {
       "slug": "bos-mini-5569",
@@ -7814,7 +8065,8 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1782540803,
-      "views": 108
+      "views": 108,
+      "tile_url": "https://api.boss-mini-app.ru/t/ed2fe85f7e54857324c5e396.webp"
     },
     {
       "slug": "bos-mini-6528",
@@ -7845,7 +8097,8 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1782390251,
-      "views": 120
+      "views": 120,
+      "tile_url": "https://api.boss-mini-app.ru/t/1ca114368d12af7ad00a2ff1.webp"
     },
     {
       "slug": "bos-mini-6587",
@@ -7876,7 +8129,8 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1779520353,
-      "views": 299
+      "views": 299,
+      "tile_url": "https://api.boss-mini-app.ru/t/3245cd45076a0a895ac1e936.webp"
     },
     {
       "slug": "bos-mini-6588",
@@ -7907,7 +8161,8 @@
       "stock_count": 0,
       "popularity": 169,
       "added_at": 1738649729,
-      "views": 486
+      "views": 486,
+      "tile_url": "https://api.boss-mini-app.ru/t/a81fe32c07dd41e56f23bd2e.webp"
     },
     {
       "slug": "bos-mini-6975-v2",
@@ -7938,7 +8193,8 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789417159,
-      "views": 34
+      "views": 34,
+      "tile_url": "https://api.boss-mini-app.ru/t/eda46e466e25e26d983108a7.webp"
     },
     {
       "slug": "bos-mini-6975-v3",
@@ -7969,7 +8225,8 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1789417283,
-      "views": 40
+      "views": 40,
+      "tile_url": "https://api.boss-mini-app.ru/t/2a17ee0a39ab7dc4dc980f6b.webp"
     },
     {
       "slug": "bos-mini-6990-6-9-800w",
@@ -8000,7 +8257,8 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1782627140,
-      "views": 140
+      "views": 140,
+      "tile_url": "https://api.boss-mini-app.ru/t/5419b25d587aed1cb7739efa.webp"
     },
     {
       "slug": "bos-mini-t225",
@@ -8031,7 +8289,8 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1782366146,
-      "views": 112
+      "views": 112,
+      "tile_url": "https://api.boss-mini-app.ru/t/ecfd79e0a6e8ab0be0c53708.webp"
     },
     {
       "slug": "bos-mini-t265",
@@ -8062,7 +8321,8 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1789418041,
-      "views": 39
+      "views": 39,
+      "tile_url": "https://api.boss-mini-app.ru/t/e3f489a5bb0da51b47864eeb.webp"
     },
     {
       "slug": "bos-mini-t2955",
@@ -8093,7 +8353,8 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1782538463,
-      "views": 97
+      "views": 97,
+      "tile_url": "https://api.boss-mini-app.ru/t/c855d075c5b36bb1b3cd4922.webp"
     },
     {
       "slug": "bos-mini-t3155",
@@ -8124,7 +8385,8 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1783409105,
-      "views": 85
+      "views": 85,
+      "tile_url": "https://api.boss-mini-app.ru/t/aab7858c598a1c33c8f394f7.webp"
     },
     {
       "slug": "bos-mini-t3255",
@@ -8155,7 +8417,8 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1783409197,
-      "views": 105
+      "views": 105,
+      "tile_url": "https://api.boss-mini-app.ru/t/6bc2c8b5d31c20ae0ed0b425.webp"
     },
     {
       "slug": "bos-mini-t365",
@@ -8186,7 +8449,8 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1789418105,
-      "views": 57
+      "views": 57,
+      "tile_url": "https://api.boss-mini-app.ru/t/5ac3bd699e774cf9c3f7b109.webp"
     },
     {
       "slug": "bos-mini-t565",
@@ -8217,7 +8481,8 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1789417882,
-      "views": 47
+      "views": 47,
+      "tile_url": "https://api.boss-mini-app.ru/t/4c38720a270178448ca729f5.webp"
     },
     {
       "slug": "bos-mini-t65kit",
@@ -8248,7 +8513,8 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789418343,
-      "views": 65
+      "views": 65,
+      "tile_url": "https://api.boss-mini-app.ru/t/62ed81abba4196707549c1d2.webp"
     },
     {
       "slug": "bos-mini-x651",
@@ -8279,7 +8545,8 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1782390093,
-      "views": 145
+      "views": 145,
+      "tile_url": "https://api.boss-mini-app.ru/t/58687cf34d773820caf3fa77.webp"
     },
     {
       "slug": "bos-t3165-16cm-40w",
@@ -8310,7 +8577,8 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1749112981,
-      "views": 1006
+      "views": 1006,
+      "tile_url": "https://api.boss-mini-app.ru/t/df6e57a2316d1035db8c440c.webp"
     },
     {
       "slug": "bos-t3265-16cm-50w",
@@ -8341,7 +8609,8 @@
       "stock_count": 0,
       "popularity": 65,
       "added_at": 1749112890,
-      "views": 885
+      "views": 885,
+      "tile_url": "https://api.boss-mini-app.ru/t/5f46427f93a38266e77c35d1.webp"
     },
     {
       "slug": "bos-mini-6586-16sm",
@@ -8372,7 +8641,8 @@
       "stock_count": 0,
       "popularity": 302,
       "added_at": 1733386143,
-      "views": 874
+      "views": 874,
+      "tile_url": "https://api.boss-mini-app.ru/t/33b77584e57998e7702dbf6b.webp"
     },
     {
       "slug": "bos-6580",
@@ -8403,7 +8673,8 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1750255621,
-      "views": 442
+      "views": 442,
+      "tile_url": "https://api.boss-mini-app.ru/t/22c24b8121be9863ec066c19.webp"
     },
     {
       "slug": "bos-mini-6581-260w",
@@ -8434,7 +8705,8 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1738564421,
-      "views": 335
+      "views": 335,
+      "tile_url": "https://api.boss-mini-app.ru/t/3f28a708d8cb7305da004f1b.webp"
     },
     {
       "slug": "bos-mini-5086-13sm",
@@ -8465,7 +8737,8 @@
       "stock_count": 0,
       "popularity": 317,
       "added_at": 1733386378,
-      "views": 439
+      "views": 439,
+      "tile_url": "https://api.boss-mini-app.ru/t/a91eeb0bb669c4c6469d9c60.webp"
     },
     {
       "slug": "bos-mini-5500",
@@ -8496,7 +8769,8 @@
       "stock_count": 0,
       "popularity": 88,
       "added_at": 1723527380,
-      "views": 765
+      "views": 765,
+      "tile_url": "https://api.boss-mini-app.ru/t/58bbce276b129b6c4e7eee7c.webp"
     },
     {
       "slug": "bos-mini-5565",
@@ -8527,7 +8801,8 @@
       "stock_count": 0,
       "popularity": 27,
       "added_at": 1752041968,
-      "views": 484
+      "views": 484,
+      "tile_url": "https://api.boss-mini-app.ru/t/b5150aca8dfbe8eb8e4612d1.webp"
     },
     {
       "slug": "bos-mini-6500",
@@ -8558,7 +8833,8 @@
       "stock_count": 0,
       "popularity": 92,
       "added_at": 1723527458,
-      "views": 483
+      "views": 483,
+      "tile_url": "https://api.boss-mini-app.ru/t/a59717536df7b4b67f1c7dc0.webp"
     },
     {
       "slug": "bos-mini-6515",
@@ -8589,7 +8865,8 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1765546118,
-      "views": 326
+      "views": 326,
+      "tile_url": "https://api.boss-mini-app.ru/t/b5443e18dcef0763ba464221.webp"
     },
     {
       "slug": "bos-mini-6516kit",
@@ -8620,7 +8897,8 @@
       "stock_count": 0,
       "popularity": 76,
       "added_at": 1752176079,
-      "views": 1135
+      "views": 1135,
+      "tile_url": "https://api.boss-mini-app.ru/t/f45fd1df3536aae7b0f0b661.webp"
     },
     {
       "slug": "bos-mini-6518kit",
@@ -8651,7 +8929,8 @@
       "stock_count": 0,
       "popularity": 132,
       "added_at": 1723527578,
-      "views": 872
+      "views": 872,
+      "tile_url": "https://api.boss-mini-app.ru/t/52251decd345d4f4c1ded486.webp"
     },
     {
       "slug": "bos-mini-6981-6-9",
@@ -8682,7 +8961,8 @@
       "stock_count": 0,
       "popularity": 30,
       "added_at": 1723529241,
-      "views": 237
+      "views": 237,
+      "tile_url": "https://api.boss-mini-app.ru/t/2c699fe05eea355439dcd030.webp"
     },
     {
       "slug": "dv-pioneer-ok-1015",
@@ -8713,7 +8993,8 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1767296121,
-      "views": 198
+      "views": 198,
+      "tile_url": "https://api.boss-mini-app.ru/t/93fcc3edd3d5160d0e8b75d0.webp"
     },
     {
       "slug": "dv-pioneer-ok-1315",
@@ -8744,7 +9025,8 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1767296178,
-      "views": 170
+      "views": 170,
+      "tile_url": "https://api.boss-mini-app.ru/t/e50f2b58a74d8b4dcb7afef4.webp"
     },
     {
       "slug": "e5-olom-e5-cy504c",
@@ -8775,7 +9057,8 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1733726084,
-      "views": 316
+      "views": 316,
+      "tile_url": "https://api.boss-mini-app.ru/t/920811a62148a1a98d04627e.webp"
     },
     {
       "slug": "e5-olom-hh609",
@@ -8806,7 +9089,8 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1787561190,
-      "views": 109
+      "views": 109,
+      "tile_url": "https://api.boss-mini-app.ru/t/a9ab45b1871a2ab9f872e872.webp"
     },
     {
       "slug": "hertz-dsk165-3",
@@ -8837,7 +9121,8 @@
       "stock_count": 0,
       "popularity": 99,
       "added_at": 1753860068,
-      "views": 456
+      "views": 456,
+      "tile_url": "https://api.boss-mini-app.ru/t/5d705b84ce2800f49e171f2b.webp"
     },
     {
       "slug": "hertz-k165",
@@ -8868,7 +9153,8 @@
       "stock_count": 0,
       "popularity": 80,
       "added_at": 1753859805,
-      "views": 298
+      "views": 298,
+      "tile_url": "https://api.boss-mini-app.ru/t/1b09beb250ecf131024289ca.webp"
     },
     {
       "slug": "hertz-x165",
@@ -8899,7 +9185,8 @@
       "stock_count": 0,
       "popularity": 157,
       "added_at": 1753859920,
-      "views": 336
+      "views": 336,
+      "tile_url": "https://api.boss-mini-app.ru/t/d9735a356cfe2a26297c1702.webp"
     },
     {
       "slug": "hz-405-360w-10sm",
@@ -8930,7 +9217,8 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1755665003,
-      "views": 178
+      "views": 178,
+      "tile_url": "https://api.boss-mini-app.ru/t/2a44ddd26fb8935b2408fca4.webp"
     },
     {
       "slug": "hz-505-500w-13sm",
@@ -8961,7 +9249,8 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1755665146,
-      "views": 187
+      "views": 187,
+      "tile_url": "https://api.boss-mini-app.ru/t/82a92d925f1665d2b9c57914.webp"
     },
     {
       "slug": "hertz-401-10sm",
@@ -8992,7 +9281,8 @@
       "stock_count": 0,
       "popularity": 45,
       "added_at": 1721656202,
-      "views": 319
+      "views": 319,
+      "tile_url": "https://api.boss-mini-app.ru/t/d9b727ab8d6b35913cd8b398.webp"
     },
     {
       "slug": "hertz-501-13sm",
@@ -9023,7 +9313,8 @@
       "stock_count": 0,
       "popularity": 131,
       "added_at": 1721656363,
-      "views": 310
+      "views": 310,
+      "tile_url": "https://api.boss-mini-app.ru/t/37434b9f855e2cd93ef094b5.webp"
     },
     {
       "slug": "jvc-cs-610",
@@ -9054,7 +9345,8 @@
       "stock_count": 0,
       "popularity": 63,
       "added_at": 1732391754,
-      "views": 298
+      "views": 298,
+      "tile_url": "https://api.boss-mini-app.ru/t/eca50fb5b39dae24f5f43a37.webp"
     },
     {
       "slug": "lenovo-sp04wy-10sm-50w-max",
@@ -9085,7 +9377,8 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1763446753,
-      "views": 312
+      "views": 312,
+      "tile_url": "https://api.boss-mini-app.ru/t/de9d627a1bc67f5956fa1e10.webp"
     },
     {
       "slug": "ok-kenwood-kfc-1358",
@@ -9116,7 +9409,8 @@
       "stock_count": 0,
       "popularity": 178,
       "added_at": 1751111969,
-      "views": 247
+      "views": 247,
+      "tile_url": "https://api.boss-mini-app.ru/t/283c9a6f0e69729c90950959.webp"
     },
     {
       "slug": "pioneer-ts-1393",
@@ -9147,7 +9441,8 @@
       "stock_count": 0,
       "popularity": 90,
       "added_at": 1745502365,
-      "views": 277
+      "views": 277,
+      "tile_url": "https://api.boss-mini-app.ru/t/74861eaac5bdd1e50f0fae4b.webp"
     },
     {
       "slug": "pioneer-ts-1396s-480w",
@@ -9178,7 +9473,8 @@
       "stock_count": 0,
       "popularity": 84,
       "added_at": 1733548229,
-      "views": 253
+      "views": 253,
+      "tile_url": "https://api.boss-mini-app.ru/t/a54fe3181898ec3931efbb43.webp"
     },
     {
       "slug": "pioneer-ts-6975-v3-6-9-ovaly",
@@ -9209,7 +9505,8 @@
       "stock_count": 0,
       "popularity": 212,
       "added_at": 1728137074,
-      "views": 439
+      "views": 439,
+      "tile_url": "https://api.boss-mini-app.ru/t/6cbf9cb1ea5f858c00e514b4.webp"
     },
     {
       "slug": "pioneer-ts-a1096a-450w",
@@ -9240,7 +9537,8 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1767297276,
-      "views": 240
+      "views": 240,
+      "tile_url": "https://api.boss-mini-app.ru/t/15017d14a36105fed1678a77.webp"
     },
     {
       "slug": "pioneer-ts-a1394",
@@ -9271,7 +9569,8 @@
       "stock_count": 0,
       "popularity": 93,
       "added_at": 1745558726,
-      "views": 222
+      "views": 222,
+      "tile_url": "https://api.boss-mini-app.ru/t/d2c8b26af889bb6b4427724c.webp"
     },
     {
       "slug": "pioneer-ts-a1396a-550w",
@@ -9302,7 +9601,8 @@
       "stock_count": 0,
       "popularity": 112,
       "added_at": 1767297338,
-      "views": 302
+      "views": 302,
+      "tile_url": "https://api.boss-mini-app.ru/t/480696ce328207252879a09a.webp"
     },
     {
       "slug": "pioneer-ts-a1693",
@@ -9333,7 +9633,8 @@
       "stock_count": 0,
       "popularity": 89,
       "added_at": 1745502255,
-      "views": 220
+      "views": 220,
+      "tile_url": "https://api.boss-mini-app.ru/t/6ec2a7abf033999727b55f60.webp"
     },
     {
       "slug": "pioneer-ts-a1694",
@@ -9364,7 +9665,8 @@
       "stock_count": 0,
       "popularity": 118,
       "added_at": 1745558815,
-      "views": 328
+      "views": 328,
+      "tile_url": "https://api.boss-mini-app.ru/t/e78702bbb1093ef896c6d938.webp"
     },
     {
       "slug": "pioneer-ts6997a",
@@ -9395,7 +9697,8 @@
       "stock_count": 0,
       "popularity": 196,
       "added_at": 1753519365,
-      "views": 257
+      "views": 257,
+      "tile_url": "https://api.boss-mini-app.ru/t/e13ed58db65b6a472bfc5f72.webp"
     },
     {
       "slug": "pioneer-ts6999a",
@@ -9426,7 +9729,8 @@
       "stock_count": 0,
       "popularity": 149,
       "added_at": 1753519412,
-      "views": 190
+      "views": 190,
+      "tile_url": "https://api.boss-mini-app.ru/t/50fe47aebaa26c9cf5174c71.webp"
     },
     {
       "slug": "ts-a1696s-650w",
@@ -9457,7 +9761,8 @@
       "stock_count": 0,
       "popularity": 241,
       "added_at": 1759759078,
-      "views": 159
+      "views": 159,
+      "tile_url": "https://api.boss-mini-app.ru/t/86b33c4a844b11e6a0d041c0.webp"
     },
     {
       "slug": "wt-580asp-22",
@@ -9488,7 +9793,8 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1734507278,
-      "views": 289
+      "views": 289,
+      "tile_url": "https://api.boss-mini-app.ru/t/ecdf3b562f55690d2dd27bcd.webp"
     },
     {
       "slug": "wt-582asp-22",
@@ -9519,7 +9825,8 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1734507190,
-      "views": 292
+      "views": 292,
+      "tile_url": "https://api.boss-mini-app.ru/t/863bb24b4f7dcfd0667227ff.webp"
     },
     {
       "slug": "wt-spk159-22",
@@ -9550,7 +9857,8 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1734506942,
-      "views": 281
+      "views": 281,
+      "tile_url": "https://api.boss-mini-app.ru/t/adf9a1d209956532121f04f1.webp"
     },
     {
       "slug": "wt-spk161-22",
@@ -9581,7 +9889,8 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1734507022,
-      "views": 260
+      "views": 260,
+      "tile_url": "https://api.boss-mini-app.ru/t/3cfe409f4b22c4b3e677d7c3.webp"
     },
     {
       "slug": "kolonki-gb-v-512",
@@ -9612,7 +9921,8 @@
       "stock_count": 0,
       "popularity": 55,
       "added_at": 1718304718,
-      "views": 212
+      "views": 212,
+      "tile_url": "https://api.boss-mini-app.ru/t/97b295b37c153976891cc012.webp"
     },
     {
       "slug": "kolonki-gb-v-612",
@@ -9643,7 +9953,8 @@
       "stock_count": 0,
       "popularity": 86,
       "added_at": 1718304602,
-      "views": 136
+      "views": 136,
+      "tile_url": "https://api.boss-mini-app.ru/t/d04651d61506111b13b294a5.webp"
     },
     {
       "slug": "kolonki-gb-v-6912",
@@ -9674,7 +9985,8 @@
       "stock_count": 0,
       "popularity": 38,
       "added_at": 1718304499,
-      "views": 291
+      "views": 291,
+      "tile_url": "https://api.boss-mini-app.ru/t/b33514a4ca39dab0ed906712.webp"
     },
     {
       "slug": "kolonki-ot-bos-mini-5083",
@@ -9705,7 +10017,8 @@
       "stock_count": 0,
       "popularity": 71,
       "added_at": 1717065242,
-      "views": 570
+      "views": 570,
+      "tile_url": "https://api.boss-mini-app.ru/t/21035bc6e16d808751e47ead.webp"
     },
     {
       "slug": "kolonki-ot-bos-mini-6583",
@@ -9736,7 +10049,8 @@
       "stock_count": 0,
       "popularity": 163,
       "added_at": 1717065094,
-      "views": 532
+      "views": 532,
+      "tile_url": "https://api.boss-mini-app.ru/t/952417d1e1315dfc0bf39524.webp"
     },
     {
       "slug": "kolonki-ot-bos-mini-6983",
@@ -9767,7 +10081,8 @@
       "stock_count": 0,
       "popularity": 64,
       "added_at": 1717064941,
-      "views": 435
+      "views": 435,
+      "tile_url": "https://api.boss-mini-app.ru/t/1f74f672fbc2fb52e4680ca5.webp"
     },
     {
       "slug": "pishhalka-ht-25",
@@ -9798,7 +10113,8 @@
       "stock_count": 0,
       "popularity": 466,
       "added_at": 1720114055,
-      "views": 318
+      "views": 318,
+      "tile_url": "https://api.boss-mini-app.ru/t/5b0cc16f3fb608a8c1ea522c.webp"
     },
     {
       "slug": "postuplenie-pishhalok-hz-3-0t",
@@ -9829,7 +10145,8 @@
       "stock_count": 0,
       "popularity": 145,
       "added_at": 1715285715,
-      "views": 463
+      "views": 463,
+      "tile_url": "https://api.boss-mini-app.ru/t/5962944c31757159439183e7.webp"
     },
     {
       "slug": "rupor-tp-14",
@@ -9860,7 +10177,8 @@
       "stock_count": 0,
       "popularity": 103,
       "added_at": 1752047244,
-      "views": 218
+      "views": 218,
+      "tile_url": "https://api.boss-mini-app.ru/t/a4288c2fed15fcdf5b73124f.webp"
     },
     {
       "slug": "1-din-bos-mini-n771",
@@ -9891,7 +10209,8 @@
       "stock_count": 0,
       "popularity": 86,
       "added_at": 1716273525,
-      "views": 1256
+      "views": 1256,
+      "tile_url": "https://api.boss-mini-app.ru/t/44e28a4872b2bb93d35ac328.webp"
     },
     {
       "slug": "bos-mini-941dsp",
@@ -9922,7 +10241,8 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1784269255,
-      "views": 140
+      "views": 140,
+      "tile_url": "https://api.boss-mini-app.ru/t/6ee8a29cf6558684f8ddbbba.webp"
     },
     {
       "slug": "bos-mini-942dsp",
@@ -9953,7 +10273,8 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1784269320,
-      "views": 104
+      "views": 104,
+      "tile_url": "https://api.boss-mini-app.ru/t/13dbc3f3cdd527fb0eb907f3.webp"
     },
     {
       "slug": "bos-mini-mvh-t912b",
@@ -9984,7 +10305,8 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1784268254,
-      "views": 99
+      "views": 99,
+      "tile_url": "https://api.boss-mini-app.ru/t/08058b772aff3a9af7d2c26f.webp"
     },
     {
       "slug": "bos-mini-n870",
@@ -10015,7 +10337,8 @@
       "stock_count": 0,
       "popularity": 73,
       "added_at": 1752837333,
-      "views": 399
+      "views": 399,
+      "tile_url": "https://api.boss-mini-app.ru/t/2fbe4029ed67e1aea6dfeed5.webp"
     },
     {
       "slug": "bos-mini-n871",
@@ -10046,7 +10369,8 @@
       "stock_count": 0,
       "popularity": 71,
       "added_at": 1752837291,
-      "views": 559
+      "views": 559,
+      "tile_url": "https://api.boss-mini-app.ru/t/910237a7e81361a934a83fcc.webp"
     },
     {
       "slug": "bos-mini-y1568mbt-12v-24v",
@@ -10077,7 +10401,8 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1782205257,
-      "views": 360
+      "views": 360,
+      "tile_url": "https://api.boss-mini-app.ru/t/46cf9a888f641dd05680a05d.webp"
     },
     {
       "slug": "bos-mini-y956bt-12v-24v",
@@ -10108,7 +10433,8 @@
       "stock_count": 0,
       "popularity": 501,
       "added_at": 1722879275,
-      "views": 978
+      "views": 979,
+      "tile_url": "https://api.boss-mini-app.ru/t/df45f0c87619239703e8c43d.webp"
     },
     {
       "slug": "bos-mini-y957bt-12v-24v",
@@ -10139,7 +10465,8 @@
       "stock_count": 0,
       "popularity": 305,
       "added_at": 1753768718,
-      "views": 636
+      "views": 636,
+      "tile_url": "https://api.boss-mini-app.ru/t/d91a4f605eb7887237c5cf8b.webp"
     },
     {
       "slug": "bos-mini-bos-n670dsp",
@@ -10170,7 +10497,8 @@
       "stock_count": 0,
       "popularity": 258,
       "added_at": 1733822414,
-      "views": 1374
+      "views": 1374,
+      "tile_url": "https://api.boss-mini-app.ru/t/91af7f6ee778a02da78e4cde.webp"
     },
     {
       "slug": "bos-mini-bos-n671dsp",
@@ -10201,7 +10529,8 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1733822564,
-      "views": 1245
+      "views": 1245,
+      "tile_url": "https://api.boss-mini-app.ru/t/b163033f95cde663994150b0.webp"
     },
     {
       "slug": "bos-mini-940dsp",
@@ -10232,7 +10561,8 @@
       "stock_count": 0,
       "popularity": 222,
       "added_at": 1765607730,
-      "views": 1003
+      "views": 1003,
+      "tile_url": "https://api.boss-mini-app.ru/t/f2c65c20076d429aa3f10547.webp"
     },
     {
       "slug": "bos-mini-y8063mbt",
@@ -10263,7 +10593,8 @@
       "stock_count": 0,
       "popularity": 76,
       "added_at": 1765628595,
-      "views": 323
+      "views": 323,
+      "tile_url": "https://api.boss-mini-app.ru/t/dbf6b59db6a6d6817677dc24.webp"
     },
     {
       "slug": "bos-mini-y8064mbt",
@@ -10294,7 +10625,8 @@
       "stock_count": 0,
       "popularity": 101,
       "added_at": 1765628623,
-      "views": 326
+      "views": 326,
+      "tile_url": "https://api.boss-mini-app.ru/t/b240d40b39912b5a2a502da0.webp"
     },
     {
       "slug": "bos-mini-y8065mbt",
@@ -10325,7 +10657,8 @@
       "stock_count": 0,
       "popularity": 90,
       "added_at": 1765628646,
-      "views": 368
+      "views": 368,
+      "tile_url": "https://api.boss-mini-app.ru/t/f2b24af1e65cee13fcd6fcf0.webp"
     },
     {
       "slug": "bos-mini-y958bt",
@@ -10356,7 +10689,8 @@
       "stock_count": 0,
       "popularity": 183,
       "added_at": 1765628462,
-      "views": 382
+      "views": 382,
+      "tile_url": "https://api.boss-mini-app.ru/t/0f978a90c9ef61f1ab313e2e.webp"
     },
     {
       "slug": "bos-n974dsp",
@@ -10387,7 +10721,8 @@
       "stock_count": 0,
       "popularity": 87,
       "added_at": 1749968403,
-      "views": 497
+      "views": 497,
+      "tile_url": "https://api.boss-mini-app.ru/t/41e5ca4a0de4d6fad6d4462a.webp"
     },
     {
       "slug": "bos-n974dsp-1475",
@@ -10418,7 +10753,8 @@
       "stock_count": 0,
       "popularity": 81,
       "added_at": 1749968442,
-      "views": 625
+      "views": 625,
+      "tile_url": "https://api.boss-mini-app.ru/t/21ecc13c900a4ff68949b5fe.webp"
     },
     {
       "slug": "bos-y950bt",
@@ -10449,7 +10785,8 @@
       "stock_count": 0,
       "popularity": 282,
       "added_at": 1750255313,
-      "views": 721
+      "views": 721,
+      "tile_url": "https://api.boss-mini-app.ru/t/784d4520943a725b16b4b778.webp"
     },
     {
       "slug": "den-190hbt",
@@ -10480,7 +10817,8 @@
       "stock_count": 0,
       "popularity": 1608,
       "added_at": 1754637220,
-      "views": 392
+      "views": 392,
+      "tile_url": "https://api.boss-mini-app.ru/t/1152883776b47ff80370b0ed.webp"
     },
     {
       "slug": "dhd-xf3251",
@@ -10511,7 +10849,8 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1786383355,
-      "views": 64
+      "views": 64,
+      "tile_url": "https://api.boss-mini-app.ru/t/eae397d40d62e17c5269db75.webp"
     },
     {
       "slug": "dhd-xf3252",
@@ -10542,7 +10881,8 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1786383413,
-      "views": 67
+      "views": 67,
+      "tile_url": "https://api.boss-mini-app.ru/t/207f29657d099439bf89f4fc.webp"
     },
     {
       "slug": "dhd-xf3253",
@@ -10573,7 +10913,8 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1786383475,
-      "views": 68
+      "views": 68,
+      "tile_url": "https://api.boss-mini-app.ru/t/13bc71efcff8a00774fc52a0.webp"
     },
     {
       "slug": "dhd-xf3254",
@@ -10604,7 +10945,8 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1786383504,
-      "views": 63
+      "views": 63,
+      "tile_url": "https://api.boss-mini-app.ru/t/78101548bb45396fe0b65cea.webp"
     },
     {
       "slug": "dhd-xf3255",
@@ -10635,7 +10977,8 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1786383529,
-      "views": 88
+      "views": 88,
+      "tile_url": "https://api.boss-mini-app.ru/t/c287d39d197c81e986e150d9.webp"
     },
     {
       "slug": "dv-pioneer-ok-212",
@@ -10666,7 +11009,8 @@
       "stock_count": 0,
       "popularity": 106,
       "added_at": 1772781358,
-      "views": 466
+      "views": 466,
+      "tile_url": "https://api.boss-mini-app.ru/t/2e25c445a7672250e660c42e.webp"
     },
     {
       "slug": "dv-pioneer-ok-mp3564",
@@ -10697,7 +11041,8 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1770802347,
-      "views": 259
+      "views": 259,
+      "tile_url": "https://api.boss-mini-app.ru/t/db37b0b300bd4060151421d4.webp"
     },
     {
       "slug": "dv-pioneer-ok-mp3565",
@@ -10728,7 +11073,8 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1770802367,
-      "views": 227
+      "views": 227,
+      "tile_url": "https://api.boss-mini-app.ru/t/e9e2ab9e0d835178fc0b61c3.webp"
     },
     {
       "slug": "dv-pioneer-ok-mp3566",
@@ -10759,7 +11105,8 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1770802444,
-      "views": 243
+      "views": 243,
+      "tile_url": "https://api.boss-mini-app.ru/t/b834f32e5483ccd9c006aa7f.webp"
     },
     {
       "slug": "dv-pioneer-ok-mp3567",
@@ -10790,7 +11137,8 @@
       "stock_count": 0,
       "popularity": 40,
       "added_at": 1770802487,
-      "views": 287
+      "views": 287,
+      "tile_url": "https://api.boss-mini-app.ru/t/7a22424f6ca5c65d185a4e44.webp"
     },
     {
       "slug": "dv-pioneer-ok-mp371dsp",
@@ -10821,7 +11169,8 @@
       "stock_count": 0,
       "popularity": 29,
       "added_at": 1767297093,
-      "views": 341
+      "views": 341,
+      "tile_url": "https://api.boss-mini-app.ru/t/283e0d7c7d7e2328c13acbd4.webp"
     },
     {
       "slug": "dv-pioneer-ok-mp372dsp",
@@ -10852,7 +11201,8 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1767297118,
-      "views": 362
+      "views": 362,
+      "tile_url": "https://api.boss-mini-app.ru/t/fd78547575f78cde241d9394.webp"
     },
     {
       "slug": "dv-pioneer-ok-217",
@@ -10883,7 +11233,8 @@
       "stock_count": 0,
       "popularity": 779,
       "added_at": 1723960692,
-      "views": 527
+      "views": 527,
+      "tile_url": "https://api.boss-mini-app.ru/t/58137ac1f35c3efa3ae97a2b.webp"
     },
     {
       "slug": "dv-pioneer-ok-219",
@@ -10914,7 +11265,8 @@
       "stock_count": 0,
       "popularity": 1006,
       "added_at": 1723960791,
-      "views": 450
+      "views": 450,
+      "tile_url": "https://api.boss-mini-app.ru/t/3a37576114e03ecd0be01e5f.webp"
     },
     {
       "slug": "dv-pioneer-ok-220",
@@ -10945,7 +11297,8 @@
       "stock_count": 0,
       "popularity": 196,
       "added_at": 1773034968,
-      "views": 484
+      "views": 484,
+      "tile_url": "https://api.boss-mini-app.ru/t/f2dc84513cddec1ffc64e41c.webp"
     },
     {
       "slug": "e5-olom-e-011",
@@ -10976,7 +11329,8 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1770802084,
-      "views": 210
+      "views": 210,
+      "tile_url": "https://api.boss-mini-app.ru/t/a2a39af9462856605429e345.webp"
     },
     {
       "slug": "e5-olom-e-012",
@@ -11007,7 +11361,8 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1770802124,
-      "views": 193
+      "views": 193,
+      "tile_url": "https://api.boss-mini-app.ru/t/b4b58aacf13cadc2e2b6cb56.webp"
     },
     {
       "slug": "e5-olom-e-013",
@@ -11038,7 +11393,8 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1770802147,
-      "views": 195
+      "views": 195,
+      "tile_url": "https://api.boss-mini-app.ru/t/e4fee399c88902d16529068f.webp"
     },
     {
       "slug": "mvh-y8053mbt",
@@ -11069,7 +11425,8 @@
       "stock_count": 0,
       "popularity": 1149,
       "added_at": 1764669494,
-      "views": 262
+      "views": 262,
+      "tile_url": "https://api.boss-mini-app.ru/t/69cd7cbc09f02bd422c8bf44.webp"
     },
     {
       "slug": "mvh-y8055mbt",
@@ -11100,7 +11457,8 @@
       "stock_count": 0,
       "popularity": 2361,
       "added_at": 1764669521,
-      "views": 313
+      "views": 313,
+      "tile_url": "https://api.boss-mini-app.ru/t/2515814bbeaf89da494fc599.webp"
     },
     {
       "slug": "mvh-y8056mbt",
@@ -11131,7 +11489,8 @@
       "stock_count": 0,
       "popularity": 1602,
       "added_at": 1765546343,
-      "views": 272
+      "views": 272,
+      "tile_url": "https://api.boss-mini-app.ru/t/a86fc6995080bf3ca100acb8.webp"
     },
     {
       "slug": "mvh-y8057mbt",
@@ -11162,7 +11521,8 @@
       "stock_count": 0,
       "popularity": 112,
       "added_at": 1764669556,
-      "views": 249
+      "views": 249,
+      "tile_url": "https://api.boss-mini-app.ru/t/5031369fad9ec436cb0e6632.webp"
     },
     {
       "slug": "mvh-y8058mbt",
@@ -11193,7 +11553,8 @@
       "stock_count": 0,
       "popularity": 3198,
       "added_at": 1764669581,
-      "views": 288
+      "views": 288,
+      "tile_url": "https://api.boss-mini-app.ru/t/7307c25efd2815e163f1f7dc.webp"
     },
     {
       "slug": "mvh-y8059mbt",
@@ -11224,7 +11585,8 @@
       "stock_count": 0,
       "popularity": 696,
       "added_at": 1764669603,
-      "views": 243
+      "views": 243,
+      "tile_url": "https://api.boss-mini-app.ru/t/5e8a91d4db607c5cefea01da.webp"
     },
     {
       "slug": "pioneer-pla-196sbt",
@@ -11255,7 +11617,8 @@
       "stock_count": 0,
       "popularity": 227,
       "added_at": 1753770414,
-      "views": 521
+      "views": 521,
+      "tile_url": "https://api.boss-mini-app.ru/t/df065a27356d935894b69703.webp"
     },
     {
       "slug": "pioneer-gb-mvh-341-12-24v",
@@ -11286,7 +11649,8 @@
       "stock_count": 0,
       "popularity": 1836,
       "added_at": 1746085618,
-      "views": 345
+      "views": 345,
+      "tile_url": "https://api.boss-mini-app.ru/t/c1de9be901c779c8ebfb1aa0.webp"
     },
     {
       "slug": "pioneer-gb-12-na-24v-mvh-340dbt",
@@ -11317,7 +11681,8 @@
       "stock_count": 0,
       "popularity": 2915,
       "added_at": 1718306019,
-      "views": 424
+      "views": 424,
+      "tile_url": "https://api.boss-mini-app.ru/t/accee309e6f28fa930f00fbe.webp"
     },
     {
       "slug": "pioneer-gb-mvh-767mbt",
@@ -11348,7 +11713,8 @@
       "stock_count": 0,
       "popularity": 2277,
       "added_at": 1722713624,
-      "views": 732
+      "views": 732,
+      "tile_url": "https://api.boss-mini-app.ru/t/63fb96b6668dbb3ec03dfe12.webp"
     },
     {
       "slug": "pioneer-gb-mvh-f899zbt",
@@ -11379,7 +11745,8 @@
       "stock_count": 0,
       "popularity": 27,
       "added_at": 1752837167,
-      "views": 458
+      "views": 458,
+      "tile_url": "https://api.boss-mini-app.ru/t/62194f36c1b5f77a5aa8eeb4.webp"
     },
     {
       "slug": "pioneer-gb-mvh-768mbt",
@@ -11410,7 +11777,8 @@
       "stock_count": 0,
       "popularity": 1931,
       "added_at": 1722584362,
-      "views": 839
+      "views": 839,
+      "tile_url": "https://api.boss-mini-app.ru/t/dcf721ba98331cdeb8d42a1b.webp"
     },
     {
       "slug": "1-din-bos-mini-n770",
@@ -11443,7 +11811,8 @@
       "stock_count": 0,
       "popularity": 76,
       "added_at": 1716273411,
-      "views": 1415
+      "views": 1415,
+      "tile_url": "https://api.boss-mini-app.ru/t/b2ede670c39527cfb6cfeebc.webp"
     },
     {
       "slug": "magnitola-bos-mini-n970dsp",
@@ -11474,7 +11843,8 @@
       "stock_count": 0,
       "popularity": 165,
       "added_at": 1714856095,
-      "views": 1639
+      "views": 1639,
+      "tile_url": "https://api.boss-mini-app.ru/t/bbe84050736253ea01ff61b8.webp"
     },
     {
       "slug": "magnitola-bos-mini-n971dsp",
@@ -11505,7 +11875,8 @@
       "stock_count": 0,
       "popularity": 166,
       "added_at": 1714856095,
-      "views": 1422
+      "views": 1422,
+      "tile_url": "https://api.boss-mini-app.ru/t/752e7a2cfd563ac5abb35896.webp"
     },
     {
       "slug": "magnitola-bos-mini-n972dsp",
@@ -11536,7 +11907,8 @@
       "stock_count": 0,
       "popularity": 73,
       "added_at": 1714856095,
-      "views": 1218
+      "views": 1218,
+      "tile_url": "https://api.boss-mini-app.ru/t/358ecc86fcf7bd65ad0c7eaa.webp"
     },
     {
       "slug": "magnitola-bos-mini-n973dsp",
@@ -11567,7 +11939,8 @@
       "stock_count": 0,
       "popularity": 86,
       "added_at": 1714856095,
-      "views": 1334
+      "views": 1334,
+      "tile_url": "https://api.boss-mini-app.ru/t/e73f73d5fbf7f44d0670aaa6.webp"
     },
     {
       "slug": "7010b",
@@ -11598,7 +11971,8 @@
       "stock_count": 0,
       "popularity": 1623,
       "added_at": 1738048528,
-      "views": 544
+      "views": 544,
+      "tile_url": "https://api.boss-mini-app.ru/t/673c14095322a60b8bf3e81d.webp"
     },
     {
       "slug": "bos-783dp5",
@@ -11629,7 +12003,8 @@
       "stock_count": 0,
       "popularity": 58,
       "added_at": 1754650895,
-      "views": 1085
+      "views": 1085,
+      "tile_url": "https://api.boss-mini-app.ru/t/56d028bf68fbddf9b7844ebd.webp"
     },
     {
       "slug": "bos-mini-785p5",
@@ -11660,7 +12035,8 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1787555310,
-      "views": 152
+      "views": 152,
+      "tile_url": "https://api.boss-mini-app.ru/t/5c61d0479dba94a810869349.webp"
     },
     {
       "slug": "bos-mini-n637dp5",
@@ -11691,7 +12067,8 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1773903123,
-      "views": 720
+      "views": 720,
+      "tile_url": "https://api.boss-mini-app.ru/t/c6a6b504f29f257cbe817d80.webp"
     },
     {
       "slug": "bos-mini-n639dp5",
@@ -11722,7 +12099,8 @@
       "stock_count": 0,
       "popularity": 27,
       "added_at": 1773903156,
-      "views": 628
+      "views": 628,
+      "tile_url": "https://api.boss-mini-app.ru/t/a9e42f2daaf28ceea4389403.webp"
     },
     {
       "slug": "bos-mini-n640dp5",
@@ -11753,7 +12131,8 @@
       "stock_count": 0,
       "popularity": 56,
       "added_at": 1778219987,
-      "views": 671
+      "views": 671,
+      "tile_url": "https://api.boss-mini-app.ru/t/a401c8c37539da31ecde9215.webp"
     },
     {
       "slug": "bos-n725ftp5",
@@ -11784,7 +12163,8 @@
       "stock_count": 0,
       "popularity": 27,
       "added_at": 1786687337,
-      "views": 399
+      "views": 399,
+      "tile_url": "https://api.boss-mini-app.ru/t/62f99afe73f57fb0037121ec.webp"
     },
     {
       "slug": "bos-n726skdp5",
@@ -11815,7 +12195,8 @@
       "stock_count": 0,
       "popularity": 29,
       "added_at": 1786687638,
-      "views": 524
+      "views": 524,
+      "tile_url": "https://api.boss-mini-app.ru/t/0757af16da94726278140c1f.webp"
     },
     {
       "slug": "bos-mini-n636dp5",
@@ -11846,7 +12227,8 @@
       "stock_count": 0,
       "popularity": 58,
       "added_at": 1765285531,
-      "views": 1365
+      "views": 1365,
+      "tile_url": "https://api.boss-mini-app.ru/t/46e65e2b1daa313c2cc001cf.webp"
     },
     {
       "slug": "dhd-1057x",
@@ -11877,7 +12259,8 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1785133944,
-      "views": 193
+      "views": 193,
+      "tile_url": "https://api.boss-mini-app.ru/t/21fd4b91ddb9ab05df22ebae.webp"
     },
     {
       "slug": "dhd-6353kh",
@@ -11908,7 +12291,8 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1785307726,
-      "views": 159
+      "views": 159,
+      "tile_url": "https://api.boss-mini-app.ru/t/b898c9b0280ba2564b988001.webp"
     },
     {
       "slug": "dhd-9151kh",
@@ -11939,7 +12323,8 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1785307627,
-      "views": 252
+      "views": 252,
+      "tile_url": "https://api.boss-mini-app.ru/t/031a98711b6488e505613788.webp"
     },
     {
       "slug": "dv-pioneer-ok-5503",
@@ -11970,7 +12355,8 @@
       "stock_count": 0,
       "popularity": 234,
       "added_at": 1750255775,
-      "views": 758
+      "views": 758,
+      "tile_url": "https://api.boss-mini-app.ru/t/5bc50d4a64962a73faa55918.webp"
     },
     {
       "slug": "dv-pioneer-ok-5505",
@@ -12001,7 +12387,8 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1783495187,
-      "views": 169
+      "views": 169,
+      "tile_url": "https://api.boss-mini-app.ru/t/4e3011d8e43b57b8e7e781c8.webp"
     },
     {
       "slug": "e5-olom-e-707",
@@ -12032,7 +12419,8 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1743669570,
-      "views": 626
+      "views": 626,
+      "tile_url": "https://api.boss-mini-app.ru/t/d28ef9a4394b4780e6b58cd6.webp"
     },
     {
       "slug": "pioneer-gb-mvh-595dp5",
@@ -12063,7 +12451,8 @@
       "stock_count": 0,
       "popularity": 25,
       "added_at": 1756292951,
-      "views": 583
+      "views": 583,
+      "tile_url": "https://api.boss-mini-app.ru/t/0c3d8658b3e52f5282fafae8.webp"
     },
     {
       "slug": "pioneer-ok-4422",
@@ -12094,7 +12483,8 @@
       "stock_count": 0,
       "popularity": 51,
       "added_at": 1714856095,
-      "views": 790
+      "views": 790,
+      "tile_url": "https://api.boss-mini-app.ru/t/e01e9561b1fa4b4a09857291.webp"
     },
     {
       "slug": "pioneergb-grs-881dp5",
@@ -12125,7 +12515,8 @@
       "stock_count": 0,
       "popularity": 448,
       "added_at": 1716836605,
-      "views": 856
+      "views": 856,
+      "tile_url": "https://api.boss-mini-app.ru/t/9b2b21b01860f337678a36dc.webp"
     },
     {
       "slug": "pioneergb-grs-882dp5",
@@ -12156,7 +12547,8 @@
       "stock_count": 0,
       "popularity": 926,
       "added_at": 1716836782,
-      "views": 426
+      "views": 426,
+      "tile_url": "https://api.boss-mini-app.ru/t/8468877e87a37596eef30b68.webp"
     },
     {
       "slug": "pioneergb-grs-883dp5",
@@ -12187,7 +12579,8 @@
       "stock_count": 0,
       "popularity": 786,
       "added_at": 1716836918,
-      "views": 405
+      "views": 405,
+      "tile_url": "https://api.boss-mini-app.ru/t/2020bd5db2a5b6ba1bf4f1da.webp"
     },
     {
       "slug": "2-provodnyj-ehlektroprivod-zamka-dverej-bm-02",
@@ -12218,7 +12611,8 @@
       "stock_count": 0,
       "popularity": 64,
       "added_at": 1771312210,
-      "views": 284
+      "views": 284,
+      "tile_url": "https://api.boss-mini-app.ru/t/85408caf7c11e7fc02ab8717.webp"
     },
     {
       "slug": "5-provodnyj-ehlektroprivod-zamka-dverej-vm-05",
@@ -12249,7 +12643,8 @@
       "stock_count": 0,
       "popularity": 51,
       "added_at": 1745559160,
-      "views": 283
+      "views": 283,
+      "tile_url": "https://api.boss-mini-app.ru/t/bc8c51c541842ba7c84f1024.webp"
     },
     {
       "slug": "bos-mini-a235pke",
@@ -12280,7 +12675,8 @@
       "stock_count": 0,
       "popularity": 26,
       "added_at": 1724959457,
-      "views": 869
+      "views": 869,
+      "tile_url": "https://api.boss-mini-app.ru/t/d8c7a7d6e0e3663856c9015f.webp"
     },
     {
       "slug": "bos-mini-233pke",
@@ -12311,7 +12707,8 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1752671618,
-      "views": 980
+      "views": 980,
+      "tile_url": "https://api.boss-mini-app.ru/t/828bef9c6c258a04652c2304.webp"
     },
     {
       "slug": "bos-08e",
@@ -12342,7 +12739,8 @@
       "stock_count": 0,
       "popularity": 74,
       "added_at": 1749111958,
-      "views": 762
+      "views": 762,
+      "tile_url": "https://api.boss-mini-app.ru/t/dac0be09df2715888efdce68.webp"
     },
     {
       "slug": "bos-08g",
@@ -12373,7 +12771,8 @@
       "stock_count": 0,
       "popularity": 92,
       "added_at": 1749112025,
-      "views": 387
+      "views": 387,
+      "tile_url": "https://api.boss-mini-app.ru/t/ef85da59cd069169d61b4d1f.webp"
     },
     {
       "slug": "bos-mini-a238",
@@ -12404,7 +12803,8 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1765013663,
-      "views": 366
+      "views": 366,
+      "tile_url": "https://api.boss-mini-app.ru/t/c7379079a17a58fcbd172716.webp"
     },
     {
       "slug": "starline-a91",
@@ -12435,7 +12835,8 @@
       "stock_count": 0,
       "popularity": 121,
       "added_at": 1764621987,
-      "views": 452
+      "views": 452,
+      "tile_url": "https://api.boss-mini-app.ru/t/b2f58a606590431252c61a3a.webp"
     },
     {
       "slug": "starline-b9",
@@ -12466,7 +12867,8 @@
       "stock_count": 0,
       "popularity": 320,
       "added_at": 1722779686,
-      "views": 450
+      "views": 450,
+      "tile_url": "https://api.boss-mini-app.ru/t/845aa17a38ae86679069d76f.webp"
     },
     {
       "slug": "tomahawk-tw-9010",
@@ -12497,7 +12899,8 @@
       "stock_count": 0,
       "popularity": 237,
       "added_at": 1753770937,
-      "views": 542
+      "views": 542,
+      "tile_url": "https://api.boss-mini-app.ru/t/022fa2d4d4884d7cfc19cbda.webp"
     },
     {
       "slug": "brelok-dlja-avtosignalizacii-tamahawk-x5",
@@ -12528,7 +12931,8 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1727081099,
-      "views": 304
+      "views": 304,
+      "tile_url": "https://api.boss-mini-app.ru/t/7d43f67c14027eafda2c62a1.webp"
     },
     {
       "slug": "dvukhstoronnjaja-signalizacija-s-avtozapuskom-x5",
@@ -12559,7 +12963,8 @@
       "stock_count": 0,
       "popularity": 154,
       "added_at": 1714856095,
-      "views": 451
+      "views": 452,
+      "tile_url": "https://api.boss-mini-app.ru/t/17f4e5ae078353e87f9e8534.webp"
     },
     {
       "slug": "lazernyj-datchik-otkryvanija-bagazhnika-ot-bos-mini-x-03",
@@ -12590,7 +12995,8 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1754137097,
-      "views": 752
+      "views": 752,
+      "tile_url": "https://api.boss-mini-app.ru/t/f76ed901860334c31e633025.webp"
     },
     {
       "slug": "odnostoronnjaja-signalizacija-bos-a232ke-s-knopkoj-start-stop",
@@ -12621,7 +13027,8 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1754137765,
-      "views": 466
+      "views": 466,
+      "tile_url": "https://api.boss-mini-app.ru/t/d64f1044a5ef8b26e6029c8f.webp"
     },
     {
       "slug": "odnostoronnjaja-signalizacija-bos-mini-g6099bt",
@@ -12652,7 +13059,8 @@
       "stock_count": 0,
       "popularity": 96,
       "added_at": 1736253626,
-      "views": 847
+      "views": 847,
+      "tile_url": "https://api.boss-mini-app.ru/t/47196c0e112dd4115b9eb3cf.webp"
     },
     {
       "slug": "odnostoronnjaja-signalizacija-dv-234",
@@ -12683,7 +13091,8 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1714856095,
-      "views": 404
+      "views": 404,
+      "tile_url": "https://api.boss-mini-app.ru/t/c59f126344913a01f6fa7490.webp"
     },
     {
       "slug": "parktronik-bos-555",
@@ -12714,7 +13123,8 @@
       "stock_count": 0,
       "popularity": 114,
       "added_at": 1738756089,
-      "views": 498
+      "views": 498,
+      "tile_url": "https://api.boss-mini-app.ru/t/14acadbc4cfe998a0e8881e2.webp"
     },
     {
       "slug": "parktronik-bos-666",
@@ -12745,7 +13155,8 @@
       "stock_count": 0,
       "popularity": 313,
       "added_at": 1738756168,
-      "views": 485
+      "views": 485,
+      "tile_url": "https://api.boss-mini-app.ru/t/f7fb3d0fd8992f9917e94228.webp"
     },
     {
       "slug": "centralnyj-zamok-ot-bos-mini-686a",
@@ -12776,7 +13187,8 @@
       "stock_count": 0,
       "popularity": 147,
       "added_at": 1727075286,
-      "views": 232
+      "views": 232,
+      "tile_url": "https://api.boss-mini-app.ru/t/71c451e89ccf67d413a232c0.webp"
     },
     {
       "slug": "centralnyj-zamok-s-dvumja-pultami-686b",
@@ -12807,7 +13219,8 @@
       "stock_count": 0,
       "popularity": 153,
       "added_at": 1727072278,
-      "views": 821
+      "views": 821,
+      "tile_url": "https://api.boss-mini-app.ru/t/48807bba345b3ae39ad4060b.webp"
     },
     {
       "slug": "chevrolet-cobalt",
@@ -12838,7 +13251,8 @@
       "stock_count": 0,
       "popularity": 33,
       "added_at": 1753205038,
-      "views": 248
+      "views": 248,
+      "tile_url": "https://api.boss-mini-app.ru/t/a51233fb36479d1652811501.webp"
     },
     {
       "slug": "ford-focus-1999-2008",
@@ -12869,7 +13283,8 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1786085529,
-      "views": 89
+      "views": 89,
+      "tile_url": "https://api.boss-mini-app.ru/t/45885325bbd54b72445d288b.webp"
     },
     {
       "slug": "ford-focus-2012-2017-9",
@@ -12900,7 +13315,8 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1786088875,
-      "views": 87
+      "views": 87,
+      "tile_url": "https://api.boss-mini-app.ru/t/114d5c3474bd3d77e0ad3fa7.webp"
     },
     {
       "slug": "ford-transit-2015g",
@@ -12931,7 +13347,8 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1755666788,
-      "views": 171
+      "views": 171,
+      "tile_url": "https://api.boss-mini-app.ru/t/b3af1fe11ae944e9a1bae91d.webp"
     },
     {
       "slug": "gazelle-business-2010-2022",
@@ -12962,7 +13379,8 @@
       "stock_count": 0,
       "popularity": 108,
       "added_at": 1721251344,
-      "views": 413
+      "views": 413,
+      "tile_url": "https://api.boss-mini-app.ru/t/ebd09d96fa3bde7e212aa800.webp"
     },
     {
       "slug": "gazel-next-2016",
@@ -12993,7 +13411,8 @@
       "stock_count": 0,
       "popularity": 183,
       "added_at": 1752932250,
-      "views": 241
+      "views": 241,
+      "tile_url": "https://api.boss-mini-app.ru/t/c2f80db369d7f013ccb8bdd9.webp"
     },
     {
       "slug": "gazelle-business-2010-9-djujmov-seryj",
@@ -13024,7 +13443,8 @@
       "stock_count": 0,
       "popularity": 223,
       "added_at": 1755667861,
-      "views": 243
+      "views": 243,
+      "tile_url": "https://api.boss-mini-app.ru/t/3cb5deefbe50ed5b40395bac.webp"
     },
     {
       "slug": "gazelle-business-2010-9-djujmov-chjornyj",
@@ -13055,7 +13475,8 @@
       "stock_count": 0,
       "popularity": 113,
       "added_at": 1755667900,
-      "views": 206
+      "views": 206,
+      "tile_url": "https://api.boss-mini-app.ru/t/3ececfb93bc86d681c3de1e1.webp"
     },
     {
       "slug": "hyundai-accent-2011-2016-seryj",
@@ -13086,7 +13507,8 @@
       "stock_count": 0,
       "popularity": 49,
       "added_at": 1769508393,
-      "views": 212
+      "views": 212,
+      "tile_url": "https://api.boss-mini-app.ru/t/b5e917e4285570ae855e4dea.webp"
     },
     {
       "slug": "hyundai-accent-2017-chernyj",
@@ -13117,7 +13539,8 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1786088184,
-      "views": 67
+      "views": 67,
+      "tile_url": "https://api.boss-mini-app.ru/t/3c764e64ed569dac59eb103c.webp"
     },
     {
       "slug": "hyundai-sonata-9-2011-2014g",
@@ -13148,7 +13571,8 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1774860023,
-      "views": 129
+      "views": 129,
+      "tile_url": "https://api.boss-mini-app.ru/t/f40a986f856dc7d11c65ad34.webp"
     },
     {
       "slug": "kia-k5-2016g",
@@ -13179,7 +13603,8 @@
       "stock_count": 0,
       "popularity": 38,
       "added_at": 1755666601,
-      "views": 198
+      "views": 198,
+      "tile_url": "https://api.boss-mini-app.ru/t/fcd76fe01eddc35a40e5f009.webp"
     },
     {
       "slug": "kia-rio-2012-2016",
@@ -13210,7 +13635,8 @@
       "stock_count": 0,
       "popularity": 294,
       "added_at": 1754039103,
-      "views": 325
+      "views": 325,
+      "tile_url": "https://api.boss-mini-app.ru/t/0640b52348d92ffe5a13e737.webp"
     },
     {
       "slug": "lada-vesta-2023",
@@ -13241,7 +13667,8 @@
       "stock_count": 0,
       "popularity": 107,
       "added_at": 1718632019,
-      "views": 421
+      "views": 421,
+      "tile_url": "https://api.boss-mini-app.ru/t/45d620385ace017089539583.webp"
     },
     {
       "slug": "laba-niva-1993-2020",
@@ -13272,7 +13699,8 @@
       "stock_count": 0,
       "popularity": 83,
       "added_at": 1729665330,
-      "views": 357
+      "views": 357,
+      "tile_url": "https://api.boss-mini-app.ru/t/e15a4cbfbf18063d83a7a0b3.webp"
     },
     {
       "slug": "lada-2114-2115-1997-2012rr",
@@ -13303,7 +13731,8 @@
       "stock_count": 0,
       "popularity": 115,
       "added_at": 1745134818,
-      "views": 319
+      "views": 319,
+      "tile_url": "https://api.boss-mini-app.ru/t/388488c2903079d82a1ff044.webp"
     },
     {
       "slug": "lada-granta-2018",
@@ -13334,7 +13763,8 @@
       "stock_count": 0,
       "popularity": 786,
       "added_at": 1721297076,
-      "views": 644
+      "views": 644,
+      "tile_url": "https://api.boss-mini-app.ru/t/9c55880222fd798e98f2d18f.webp"
     },
     {
       "slug": "lada-priora-2013-2018",
@@ -13365,7 +13795,8 @@
       "stock_count": 0,
       "popularity": 32,
       "added_at": 1721297725,
-      "views": 416
+      "views": 416,
+      "tile_url": "https://api.boss-mini-app.ru/t/056cc23b5799f0daab2632fe.webp"
     },
     {
       "slug": "lada-xray",
@@ -13396,7 +13827,8 @@
       "stock_count": 0,
       "popularity": 41,
       "added_at": 1753205133,
-      "views": 156
+      "views": 156,
+      "tile_url": "https://api.boss-mini-app.ru/t/84aaaeaf26bd6e23c15de08e.webp"
     },
     {
       "slug": "nissan-qashqai-2014-10-djujmov",
@@ -13427,7 +13859,8 @@
       "stock_count": 0,
       "popularity": 84,
       "added_at": 1738490935,
-      "views": 296
+      "views": 296,
+      "tile_url": "https://api.boss-mini-app.ru/t/b64209291ac1a9429c3d06ee.webp"
     },
     {
       "slug": "renault-duster-2015-2018",
@@ -13458,7 +13891,8 @@
       "stock_count": 0,
       "popularity": 186,
       "added_at": 1718632955,
-      "views": 289
+      "views": 289,
+      "tile_url": "https://api.boss-mini-app.ru/t/3bd943cc118642c7b9d9607e.webp"
     },
     {
       "slug": "toyota-prado-2010gg-9",
@@ -13489,7 +13923,8 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1775026980,
-      "views": 177
+      "views": 177,
+      "tile_url": "https://api.boss-mini-app.ru/t/f363a14bcf8bc17cf1c820e7.webp"
     },
     {
       "slug": "uaz-patriot-2016",
@@ -13520,7 +13955,8 @@
       "stock_count": 0,
       "popularity": 141,
       "added_at": 1757834787,
-      "views": 227
+      "views": 227,
+      "tile_url": "https://api.boss-mini-app.ru/t/a96f0b8963c0e397f09a0401.webp"
     },
     {
       "slug": "uaz-patriot-2016-10-djumov",
@@ -13551,7 +13987,8 @@
       "stock_count": 0,
       "popularity": 15,
       "added_at": 1774597625,
-      "views": 145
+      "views": 145,
+      "tile_url": "https://api.boss-mini-app.ru/t/2c81d071fa334c0eb9ed1de7.webp"
     },
     {
       "slug": "uaz-patriot-2016-9-djumov",
@@ -13582,7 +14019,8 @@
       "stock_count": 0,
       "popularity": 34,
       "added_at": 1774597460,
-      "views": 171
+      "views": 171,
+      "tile_url": "https://api.boss-mini-app.ru/t/2c81d071fa334c0eb9ed1de7.webp"
     },
     {
       "slug": "red-24v-220v-1000w",
@@ -13613,7 +14051,8 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1732022622,
-      "views": 340
+      "views": 340,
+      "tile_url": "https://api.boss-mini-app.ru/t/b26420d442980d5457b87d79.webp"
     },
     {
       "slug": "red-24v-220v-1600w",
@@ -13644,7 +14083,8 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1732022421,
-      "views": 304
+      "views": 304,
+      "tile_url": "https://api.boss-mini-app.ru/t/03f3fa257d91fb4411d18644.webp"
     },
     {
       "slug": "preobrazovateli-24v-12v-45a",
@@ -13675,7 +14115,8 @@
       "stock_count": 0,
       "popularity": 45,
       "added_at": 1718658908,
-      "views": 326
+      "views": 326,
+      "tile_url": "https://api.boss-mini-app.ru/t/dafaf329878f31a1159b521d.webp"
     },
     {
       "slug": "preobrazovateli-24v-12v-60a",
@@ -13706,7 +14147,8 @@
       "stock_count": 0,
       "popularity": 69,
       "added_at": 1718659006,
-      "views": 290
+      "views": 290,
+      "tile_url": "https://api.boss-mini-app.ru/t/08a761a71b5d6ccc674853fa.webp"
     },
     {
       "slug": "bos-404-4-ch-rca",
@@ -13737,7 +14179,8 @@
       "stock_count": 0,
       "popularity": 137,
       "added_at": 1777715674,
-      "views": 281
+      "views": 281,
+      "tile_url": "https://api.boss-mini-app.ru/t/c698c2f36cfcb88df735e349.webp"
     },
     {
       "slug": "bos-4ga",
@@ -13768,7 +14211,8 @@
       "stock_count": 0,
       "popularity": 335,
       "added_at": 1753860593,
-      "views": 432
+      "views": 432,
+      "tile_url": "https://api.boss-mini-app.ru/t/8a2be7d643d4ab06a2efdf87.webp"
     },
     {
       "slug": "bos-6ga",
@@ -13799,7 +14243,8 @@
       "stock_count": 0,
       "popularity": 213,
       "added_at": 1753860509,
-      "views": 232
+      "views": 232,
+      "tile_url": "https://api.boss-mini-app.ru/t/a1a9037706db32e6b35aa120.webp"
     },
     {
       "slug": "bos-8ga",
@@ -13830,7 +14275,8 @@
       "stock_count": 0,
       "popularity": 303,
       "added_at": 1753860442,
-      "views": 234
+      "views": 234,
+      "tile_url": "https://api.boss-mini-app.ru/t/15ae365eb6f93a6da45f40ea.webp"
     },
     {
       "slug": "bos-mini-10g",
@@ -13861,7 +14307,8 @@
       "stock_count": 0,
       "popularity": 83,
       "added_at": 1726917366,
-      "views": 823
+      "views": 823,
+      "tile_url": "https://api.boss-mini-app.ru/t/e20ed7d9d544bad58388b4ab.webp"
     },
     {
       "slug": "bos-mini-1512-12-3600w",
@@ -13892,7 +14339,8 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1782111672,
-      "views": 119
+      "views": 119,
+      "tile_url": "https://api.boss-mini-app.ru/t/dadfb689ec11568ef64ac934.webp"
     },
     {
       "slug": "bos-mini-1580-8-2600w",
@@ -13923,7 +14371,8 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1782111823,
-      "views": 102
+      "views": 102,
+      "tile_url": "https://api.boss-mini-app.ru/t/c0b5aa8cbbdb9badd986892e.webp"
     },
     {
       "slug": "bos-mini-6016",
@@ -13954,7 +14403,8 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1757143405,
-      "views": 360
+      "views": 360,
+      "tile_url": "https://api.boss-mini-app.ru/t/6c3cd91fe744948672def64b.webp"
     },
     {
       "slug": "bos-mini-8016",
@@ -13985,7 +14435,8 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1776112831,
-      "views": 119
+      "views": 119,
+      "tile_url": "https://api.boss-mini-app.ru/t/4399ebc2ef681cd5efd22ead.webp"
     },
     {
       "slug": "bos-mini-x1008",
@@ -14016,7 +14467,8 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790058864,
-      "views": 24
+      "views": 24,
+      "tile_url": "https://api.boss-mini-app.ru/t/260c2c09e35f2442f3dc35aa.webp"
     },
     {
       "slug": "dv-60-komplekt-provodov",
@@ -14047,7 +14499,8 @@
       "stock_count": 0,
       "popularity": 346,
       "added_at": 1754823254,
-      "views": 133
+      "views": 133,
+      "tile_url": "https://api.boss-mini-app.ru/t/c13532337e115c9ae0805c43.webp"
     },
     {
       "slug": "dv-80-komplekt-provodov",
@@ -14078,7 +14531,8 @@
       "stock_count": 0,
       "popularity": 85,
       "added_at": 1754806553,
-      "views": 174
+      "views": 174,
+      "tile_url": "https://api.boss-mini-app.ru/t/9790b7daf81d43826c6499c4.webp"
     },
     {
       "slug": "e5-olom-p-08",
@@ -14109,7 +14563,8 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1719655304,
-      "views": 252
+      "views": 252,
+      "tile_url": "https://api.boss-mini-app.ru/t/b82112908922a610f1fa84aa.webp"
     },
     {
       "slug": "e5-olom-p-10",
@@ -14140,7 +14595,8 @@
       "stock_count": 0,
       "popularity": 41,
       "added_at": 1719655432,
-      "views": 468
+      "views": 468,
+      "tile_url": "https://api.boss-mini-app.ru/t/bc22517452c096fd338049ca.webp"
     },
     {
       "slug": "e5-olom-p-12",
@@ -14171,7 +14627,8 @@
       "stock_count": 0,
       "popularity": 123,
       "added_at": 1719655536,
-      "views": 451
+      "views": 451,
+      "tile_url": "https://api.boss-mini-app.ru/t/7a115d752f95ad3a10be826d.webp"
     },
     {
       "slug": "gb-sw10",
@@ -14202,7 +14659,8 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1782389313,
-      "views": 93
+      "views": 93,
+      "tile_url": "https://api.boss-mini-app.ru/t/ebd78712e48b19cf04431e47.webp"
     },
     {
       "slug": "gb-sw12",
@@ -14233,7 +14691,8 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1782389416,
-      "views": 83
+      "views": 83,
+      "tile_url": "https://api.boss-mini-app.ru/t/3ae4207117635f6f5ec289bf.webp"
     },
     {
       "slug": "pioneer-gb-802a",
@@ -14264,7 +14723,8 @@
       "stock_count": 0,
       "popularity": 125,
       "added_at": 1753518058,
-      "views": 280
+      "views": 280,
+      "tile_url": "https://api.boss-mini-app.ru/t/95e6ba7873499b9ed18087be.webp"
     },
     {
       "slug": "pioneer-gb-11g",
@@ -14295,7 +14755,8 @@
       "stock_count": 0,
       "popularity": 41,
       "added_at": 1726917429,
-      "views": 426
+      "views": 426,
+      "tile_url": "https://api.boss-mini-app.ru/t/754af25a1c934f78c917b42f.webp"
     },
     {
       "slug": "pioneer-gb-mvh-3010u",
@@ -14326,7 +14787,8 @@
       "stock_count": 0,
       "popularity": 161,
       "added_at": 1766646329,
-      "views": 338
+      "views": 338,
+      "tile_url": "https://api.boss-mini-app.ru/t/532f72843871d90af3b6ecfd.webp"
     },
     {
       "slug": "syzx-v-us80",
@@ -14357,7 +14819,8 @@
       "stock_count": 0,
       "popularity": 27,
       "added_at": 1741171685,
-      "views": 257
+      "views": 257,
+      "tile_url": "https://api.boss-mini-app.ru/t/a95bec879dc5ff3f0c5c2d45.webp"
     },
     {
       "slug": "syzx-v-1310-10",
@@ -14388,7 +14851,8 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1746689110,
-      "views": 215
+      "views": 215,
+      "tile_url": "https://api.boss-mini-app.ru/t/e9eff2bf0696c10848a73551.webp"
     },
     {
       "slug": "y-kabel-1-mama-2-papa",
@@ -14419,7 +14883,8 @@
       "stock_count": 0,
       "popularity": 620,
       "added_at": 1740909560,
-      "views": 165
+      "views": 165,
+      "tile_url": "https://api.boss-mini-app.ru/t/9608a67acb89efa0c3250327.webp"
     },
     {
       "slug": "y-kabel-1-papa-2-mama",
@@ -14450,7 +14915,8 @@
       "stock_count": 0,
       "popularity": 673,
       "added_at": 1740909477,
-      "views": 118
+      "views": 118,
+      "tile_url": "https://api.boss-mini-app.ru/t/8a1e28a7d5957a6fdf36503d.webp"
     },
     {
       "slug": "aktivnyj-sabvufer-px100",
@@ -14481,7 +14947,8 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1765863730,
-      "views": 242
+      "views": 242,
+      "tile_url": "https://api.boss-mini-app.ru/t/4573e492433188f677a7e48f.webp"
     },
     {
       "slug": "bukhta-100m-0-5mm",
@@ -14512,7 +14979,8 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1789202148,
-      "views": 41
+      "views": 41,
+      "tile_url": "https://api.boss-mini-app.ru/t/0b2a4f0c02a972b2588fa702.webp"
     },
     {
       "slug": "bukhta-100m-1-0mm",
@@ -14543,7 +15011,8 @@
       "stock_count": 0,
       "popularity": 48,
       "added_at": 1716585339,
-      "views": 194
+      "views": 194,
+      "tile_url": "https://api.boss-mini-app.ru/t/3b71dc2deeac644a153f15ec.webp"
     },
     {
       "slug": "bukhta-100m-1-5mm",
@@ -14574,7 +15043,8 @@
       "stock_count": 0,
       "popularity": 32,
       "added_at": 1716585165,
-      "views": 213
+      "views": 213,
+      "tile_url": "https://api.boss-mini-app.ru/t/2dd3f9418c3ef6ddf29c5919.webp"
     },
     {
       "slug": "kabel-2-2-rca-bl863",
@@ -14605,7 +15075,8 @@
       "stock_count": 0,
       "popularity": 94,
       "added_at": 1715363607,
-      "views": 394
+      "views": 394,
+      "tile_url": "https://api.boss-mini-app.ru/t/cf228b62892866140d119f33.webp"
     },
     {
       "slug": "kabel-rca-the-poem",
@@ -14636,7 +15107,8 @@
       "stock_count": 0,
       "popularity": 412,
       "added_at": 1765863450,
-      "views": 263
+      "views": 263,
+      "tile_url": "https://api.boss-mini-app.ru/t/e9d1e9dcc6802a9aede2504b.webp"
     },
     {
       "slug": "komplekt-akusticheskie-provodov-pac-f4",
@@ -14667,7 +15139,8 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1755617876,
-      "views": 338
+      "views": 338,
+      "tile_url": "https://api.boss-mini-app.ru/t/0c034e71b4951d671141624d.webp"
     },
     {
       "slug": "komplekt-akusticheskikh-provodov-dp-4ga",
@@ -14698,7 +15171,8 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1787555577,
-      "views": 85
+      "views": 85,
+      "tile_url": "https://api.boss-mini-app.ru/t/ae99039aebff323f141ae33f.webp"
     },
     {
       "slug": "komplekt-akusticheskikh-provodov-f77-4a",
@@ -14729,7 +15203,8 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1787560178,
-      "views": 71
+      "views": 71,
+      "tile_url": "https://api.boss-mini-app.ru/t/64f2a6219ba1913ca76a01fe.webp"
     },
     {
       "slug": "komplekt-provodov-8ga",
@@ -14760,7 +15235,8 @@
       "stock_count": 0,
       "popularity": 446,
       "added_at": 1714856095,
-      "views": 400
+      "views": 400,
+      "tile_url": "https://api.boss-mini-app.ru/t/378f7bed420aede1e68b7937.webp"
     },
     {
       "slug": "komplekt-provodov-bos-44",
@@ -14791,7 +15267,8 @@
       "stock_count": 0,
       "popularity": 46,
       "added_at": 1777715840,
-      "views": 196
+      "views": 196,
+      "tile_url": "https://api.boss-mini-app.ru/t/6b83b016a29437a0ecfa388e.webp"
     },
     {
       "slug": "komplekt-provodov-bos-48",
@@ -14822,7 +15299,8 @@
       "stock_count": 0,
       "popularity": 70,
       "added_at": 1777715745,
-      "views": 214
+      "views": 214,
+      "tile_url": "https://api.boss-mini-app.ru/t/ae9b8a0053ac39f27ca08005.webp"
     },
     {
       "slug": "komplekt-provodov-kb-4ga",
@@ -14853,7 +15331,8 @@
       "stock_count": 0,
       "popularity": 99,
       "added_at": 1754038974,
-      "views": 57
+      "views": 57,
+      "tile_url": "https://api.boss-mini-app.ru/t/b9ffd97efb512eeb1aae0105.webp"
     },
     {
       "slug": "komplekt-provodov-pro-series-4ga",
@@ -14884,7 +15363,8 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1765863510,
-      "views": 259
+      "views": 259,
+      "tile_url": "https://api.boss-mini-app.ru/t/aa4d14d048969613145269fe.webp"
     },
     {
       "slug": "komplekt-provodov-x9",
@@ -14915,7 +15395,8 @@
       "stock_count": 0,
       "popularity": 1036,
       "added_at": 1753516707,
-      "views": 275
+      "views": 275,
+      "tile_url": "https://api.boss-mini-app.ru/t/0069b94690878edda44c8bd6.webp"
     },
     {
       "slug": "sabvufer-syzx-yd-0108",
@@ -14946,7 +15427,8 @@
       "stock_count": 0,
       "popularity": 27,
       "added_at": 1719475285,
-      "views": 455
+      "views": 455,
+      "tile_url": "https://api.boss-mini-app.ru/t/3c1a3e3f1d25475d57f132b2.webp"
     },
     {
       "slug": "saby-bos-mini-k-120",
@@ -14977,7 +15459,8 @@
       "stock_count": 0,
       "popularity": 54,
       "added_at": 1717502009,
-      "views": 491
+      "views": 491,
+      "tile_url": "https://api.boss-mini-app.ru/t/9f45b8be9c31c8e7195e3cbf.webp"
     },
     {
       "slug": "alpine-ap-a5204",
@@ -15008,7 +15491,8 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1771744690,
-      "views": 382
+      "views": 382,
+      "tile_url": "https://api.boss-mini-app.ru/t/3e83eec930f3375bdbc25405.webp"
     },
     {
       "slug": "bos-mini-468d",
@@ -15039,7 +15523,8 @@
       "stock_count": 0,
       "popularity": 416,
       "added_at": 1754033937,
-      "views": 764
+      "views": 764,
+      "tile_url": "https://api.boss-mini-app.ru/t/d6658ea12f195795c2910672.webp"
     },
     {
       "slug": "bos-mini-a25",
@@ -15070,7 +15555,8 @@
       "stock_count": 0,
       "popularity": 54,
       "added_at": 1783923577,
-      "views": 87
+      "views": 87,
+      "tile_url": "https://api.boss-mini-app.ru/t/3565504c3cdf11750f93deda.webp"
     },
     {
       "slug": "bos-mini-66-4-6000w-max",
@@ -15101,7 +15587,8 @@
       "stock_count": 0,
       "popularity": 30,
       "added_at": 1715238985,
-      "views": 473
+      "views": 473,
+      "tile_url": "https://api.boss-mini-app.ru/t/a40b133f36c55d4c233500a1.webp"
     },
     {
       "slug": "kenwood-kw-a5314",
@@ -15132,7 +15619,8 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1771744629,
-      "views": 330
+      "views": 330,
+      "tile_url": "https://api.boss-mini-app.ru/t/0377b5cf74dc233d0feae975.webp"
     },
     {
       "slug": "planior-pla-a21",
@@ -15163,7 +15651,8 @@
       "stock_count": 0,
       "popularity": 689,
       "added_at": 1714856095,
-      "views": 663
+      "views": 663,
+      "tile_url": "https://api.boss-mini-app.ru/t/a1821303bafb2a308df892a5.webp"
     },
     {
       "slug": "planior-pla-a25",
@@ -15194,7 +15683,8 @@
       "stock_count": 0,
       "popularity": 142,
       "added_at": 1738756387,
-      "views": 995
+      "views": 995,
+      "tile_url": "https://api.boss-mini-app.ru/t/103d14aebe5159b7b974d149.webp"
     }
   ]
 }
