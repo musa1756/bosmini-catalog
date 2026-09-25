@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790319017,
-  "scraped_count": 494,
+  "generated_at": 1790319317,
+  "scraped_count": 493,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -312,7 +312,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1782390686,
-      "views": 271
+      "views": 272
     },
     {
       "slug": "bos-mini-a1213",
@@ -9953,7 +9953,7 @@
       "stock_count": 0,
       "popularity": 86,
       "added_at": 1716273525,
-      "views": 1251
+      "views": 1252
     },
     {
       "slug": "bos-mini-941dsp",
@@ -14978,37 +14978,6 @@
       "popularity": 47,
       "added_at": 1765863510,
       "views": 258
-    },
-    {
-      "slug": "komplekt-provodov-vp04",
-      "url": "https://bosminiofficial.com/shop/2762/desc/komplekt-provodov-vp04",
-      "name": "Комплект проводов VP04",
-      "sku": "",
-      "price_rub": 1050,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Комплект акустических проводов с предохранителем\n✅Толщина провода- 4GA",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2762.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2762.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2762.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2762.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 59,
-      "added_at": 1765863602,
-      "views": 211
     },
     {
       "slug": "komplekt-provodov-x9",
