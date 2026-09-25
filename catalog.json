@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790335517,
-  "scraped_count": 489,
+  "generated_at": 1790335818,
+  "scraped_count": 490,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -932,7 +932,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1788416365,
-      "views": 92
+      "views": 93
     },
     {
       "slug": "bos-mini-k39",
@@ -1211,7 +1211,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1788416403,
-      "views": 98
+      "views": 99
     },
     {
       "slug": "bos-mini-t3-4-64gb-9",
@@ -3536,7 +3536,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1788246796,
-      "views": 91
+      "views": 92
     },
     {
       "slug": "cifrovoj-videoregistrator-teyes-digital",
@@ -7380,7 +7380,7 @@
       "stock_count": 0,
       "popularity": 321,
       "added_at": 1746416891,
-      "views": 376
+      "views": 377
     },
     {
       "slug": "kamera-zadnego-vida-l-606",
@@ -10049,6 +10049,37 @@
       "views": 559
     },
     {
+      "slug": "bos-mini-y1568mbt-12v-24v",
+      "url": "https://bosminiofficial.com/shop/2964/desc/bos-mini-y1568mbt-12v-24v",
+      "name": "BOS-MINI Y1568MBT 12V-24V",
+      "sku": "",
+      "price_rub": 1000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅Напряжение-12-24V\n✅Bluetooth/Aux/USB/SD/Type-C\n✅Цветной 7-ми цветный экран\n✅Радиатор охлаждения\n✅6 выходов RCA\n✅2 пульта управления и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2964.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2964.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2964.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2964.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 43,
+      "added_at": 1782205257,
+      "views": 360
+    },
+    {
       "slug": "bos-mini-y956bt-12v-24v",
       "url": "https://bosminiofficial.com/shop/851/desc/bos-mini-y956bt-12v-24v",
       "name": "BOS-MINI Y956BT 12V-24V",
@@ -11598,7 +11629,7 @@
       "stock_count": 0,
       "popularity": 58,
       "added_at": 1754650895,
-      "views": 1084
+      "views": 1085
     },
     {
       "slug": "bos-mini-785p5",
@@ -11660,7 +11691,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1773903123,
-      "views": 717
+      "views": 719
     },
     {
       "slug": "bos-mini-n639dp5",
@@ -11815,7 +11846,7 @@
       "stock_count": 0,
       "popularity": 58,
       "added_at": 1765285531,
-      "views": 1357
+      "views": 1360
     },
     {
       "slug": "dhd-1057x",
@@ -11846,7 +11877,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1785133944,
-      "views": 191
+      "views": 193
     },
     {
       "slug": "dhd-6353kh",
@@ -13706,7 +13737,7 @@
       "stock_count": 0,
       "popularity": 132,
       "added_at": 1777715674,
-      "views": 280
+      "views": 281
     },
     {
       "slug": "bos-4ga",
