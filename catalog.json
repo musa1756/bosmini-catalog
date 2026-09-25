@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790334318,
-  "scraped_count": 491,
+  "generated_at": 1790334617,
+  "scraped_count": 490,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -219,7 +219,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1788416160,
-      "views": 132
+      "views": 133
     },
     {
       "slug": "bos-mini-a1203-bmw-style",
@@ -1894,37 +1894,6 @@
       "popularity": 129,
       "added_at": 1767294203,
       "views": 988
-    },
-    {
-      "slug": "bos-mini-q5-4-64gb-9",
-      "url": "https://bosminiofficial.com/shop/1951/desc/bos-mini-q5-4-64gb-9",
-      "name": "Bos-Mini Q5 4+64Gb 9\"",
-      "sku": "",
-      "price_rub": 6400,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9 дюймов ✅Память-4+64Gb ✅Голосовое управление ✅Кулер охлаждения ✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/19/1951.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/19/1951.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/19/1951.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/19/1951.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 87,
-      "added_at": 1752853019,
-      "views": 1353
     },
     {
       "slug": "bos-mini-t216-4-64gb",
@@ -6202,7 +6171,7 @@
       "stock_count": 0,
       "popularity": 55,
       "added_at": 1764785199,
-      "views": 306
+      "views": 307
     },
     {
       "slug": "carplay-pnd-7",
@@ -9860,7 +9829,7 @@
       "stock_count": 0,
       "popularity": 145,
       "added_at": 1715285715,
-      "views": 462
+      "views": 463
     },
     {
       "slug": "rupor-tp-14",
@@ -10232,7 +10201,7 @@
       "stock_count": 0,
       "popularity": 222,
       "added_at": 1765607730,
-      "views": 1000
+      "views": 1003
     },
     {
       "slug": "bos-mini-y8063mbt",
@@ -14047,7 +14016,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790058864,
-      "views": 22
+      "views": 24
     },
     {
       "slug": "dv-60-komplekt-provodov",
@@ -14264,7 +14233,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1782389416,
-      "views": 80
+      "views": 82
     },
     {
       "slug": "pioneer-gb-802a",
