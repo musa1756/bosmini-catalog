@@ -19,7 +19,8 @@
 #   cd /opt
 #   git clone git@github.com:musa1756/bosmini-catalog.git bosmini-catalog-sync
 #   cd bosmini-catalog-sync
-#   python3 -m venv venv && ./venv/bin/pip install httpx
+#   python3 -m venv venv && ./venv/bin/pip install httpx pillow
+#   mkdir -p /opt/beget/supabase/volumes/proxy/caddy/thumbs   # tiles, see step 2b
 #   cat >/etc/bos-catalog-sync.env <<'EOF'
 #   UCOZ_SITE=bosminiofficial.com
 #   UCOZ_TOKEN=...
@@ -63,6 +64,11 @@ MIN_RATIO="${MIN_RATIO:-0.8}"
 # run is still better than no catalog at all.
 SCRAPE_TIMEOUT="${SCRAPE_TIMEOUT:-2700}"
 GIT_PUSH="${GIT_PUSH:-1}"
+# WebP catalog tiles (make_tiles.py). TILES_DIR is inside the supabase-caddy
+# config mount, which serves it as $TILES_BASE_URL/<hash>.webp.
+TILES_DIR="${TILES_DIR:-/opt/beget/supabase/volumes/proxy/caddy/thumbs}"
+TILES_BASE_URL="${TILES_BASE_URL:-https://api.boss-mini-app.ru/t}"
+TILES_TIMEOUT="${TILES_TIMEOUT:-600}"
 GIT_SSH_KEY="${GIT_SSH_KEY:-/root/.ssh/bosmini_catalog_deploy}"
 export GIT_SSH_COMMAND="ssh -i $GIT_SSH_KEY -o BatchMode=yes -o ConnectTimeout=10"
 
@@ -144,6 +150,18 @@ PY
 fi
 mv catalog.json.new catalog.json
 count=$(./venv/bin/python -c "import json; print(json.load(open('catalog.json'))['scraped_count'])")
+
+# 2b. Tiles (best-effort): encode each product's first photo as a 600 px WebP
+#     (~70 KB vs ~225 KB of JPEGs per grid tile) and add "tile_url" to
+#     catalog.json. The app falls back to the uCoz JPEGs for products without
+#     it, so a failure here is logged and the catalog still publishes. The
+#     script keeps its own time budget; the timeout is only a safety net.
+if ! timeout "$TILES_TIMEOUT" ./venv/bin/python -u make_tiles.py --catalog catalog.json \
+    --state "$STATE_DIR/tiles.json" --out-dir "$TILES_DIR" --base-url "$TILES_BASE_URL" \
+    >/tmp/bos-catalog-tiles.out 2>&1; then
+  tail -3 /tmp/bos-catalog-tiles.out | while IFS= read -r l; do log "  $l"; done
+  log "make_tiles.py failed (non-fatal; details: /tmp/bos-catalog-tiles.out)"
+fi
 
 # 3. Publish: POST the payload inline to the Edge Function. This is the
 #    critical path — the app and place-order read what this call writes.

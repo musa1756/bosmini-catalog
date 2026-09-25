@@ -17,6 +17,16 @@ VPS is the reliable place to run.
   in the header of `vps-sync.sh`; state lives in `/var/lib/bos-catalog-sync/`,
   log in `/var/log/bos-catalog-sync.log`, Telegram alert after 3 consecutive
   failures + recovery ping.
+- **Catalog tiles** (`make_tiles.py`, step 2b of `vps-sync.sh`): each
+  product's first photo → 600 px WebP (~70 KB instead of ~225 KB of JPEGs per
+  app grid tile) in `/opt/beget/supabase/volumes/proxy/caddy/thumbs`, served
+  by `supabase-caddy` as `https://api.boss-mini-app.ru/t/<hash>.webp` with an
+  immutable 1-year cache; `catalog.json` gets `tile_url` per product. Names
+  are content hashes, so a replaced photo gets a new URL (sources are
+  re-checked with `If-None-Match`, ~60 per run). Best-effort: without
+  `tile_url` the app loads the uCoz JPEGs. State:
+  `/var/lib/bos-catalog-sync/tiles.json`, last output:
+  `/tmp/bos-catalog-tiles.out`. Needs `pillow` in the venv.
 - **GitHub Actions** (`.github/workflows/sync.yml`): **manual fallback only**
   (`workflow_dispatch`, no schedule). Use it when the VPS is down and GitHub
   can reach uCoz. The old external dispatcher
