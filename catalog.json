@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790344818,
+  "generated_at": 1790345117,
   "scraped_count": 490,
   "products": [
     {
@@ -3841,7 +3841,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1730529840,
-      "views": 494,
+      "views": 495,
       "tile_url": "https://api.boss-mini-app.ru/t/ca674221ef3985ffecd088a2.webp"
     },
     {
@@ -9121,7 +9121,7 @@
       "stock_count": 0,
       "popularity": 99,
       "added_at": 1753860068,
-      "views": 456,
+      "views": 457,
       "tile_url": "https://api.boss-mini-app.ru/t/5d705b84ce2800f49e171f2b.webp"
     },
     {
@@ -10377,7 +10377,7 @@
       "url": "https://bosminiofficial.com/shop/2964/desc/bos-mini-y1568mbt-12v-24v",
       "name": "BOS-MINI Y1568MBT 12V-24V",
       "sku": "",
-      "price_rub": 1000,
+      "price_rub": 1100,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
