@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790334617,
-  "scraped_count": 490,
+  "generated_at": 1790334918,
+  "scraped_count": 489,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -498,7 +498,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1789205058,
-      "views": 80
+      "views": 81
     },
     {
       "slug": "bos-mini-a4-9-4-64gb",
@@ -8434,7 +8434,7 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1738564421,
-      "views": 334
+      "views": 335
     },
     {
       "slug": "bos-mini-5086-13sm",
@@ -10638,37 +10638,6 @@
       "views": 466
     },
     {
-      "slug": "dv-pioneer-ok-214",
-      "url": "https://bosminiofficial.com/shop/875/desc/dv-pioneer-ok-214",
-      "name": "DV-Pioneer.Ok 214",
-      "sku": "",
-      "price_rub": 600,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅Bluetooth ✅Aux ✅USB и SD карты ✅Монохромная подсветка ✅4 выхода RCA ✅Радиатор охлаждения ✅Пульт и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/8/875.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/8/875.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/8/875.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/8/875.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 738,
-      "added_at": 1723960647,
-      "views": 488
-    },
-    {
       "slug": "dv-pioneer-ok-mp3564",
       "url": "https://bosminiofficial.com/shop/2836/desc/dv-pioneer-ok-mp3564",
       "name": "DV-Pioneer.Ok MP3564",
@@ -11443,7 +11412,7 @@
       "stock_count": 0,
       "popularity": 76,
       "added_at": 1716273411,
-      "views": 1413
+      "views": 1414
     },
     {
       "slug": "magnitola-bos-mini-n970dsp",
@@ -13923,7 +13892,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1782111823,
-      "views": 99
+      "views": 101
     },
     {
       "slug": "bos-mini-6016",
@@ -14233,7 +14202,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1782389416,
-      "views": 82
+      "views": 83
     },
     {
       "slug": "pioneer-gb-802a",
