@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790412617,
-  "scraped_count": 495,
+  "generated_at": 1790412918,
+  "scraped_count": 493,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -1441,7 +1441,7 @@
       "stock_count": 0,
       "popularity": 56,
       "added_at": 1772527002,
-      "views": 1080,
+      "views": 1082,
       "tile_url": "https://api.boss-mini-app.ru/t/d8c5cd69f5fa7cfee483fd5c.webp"
     },
     {
@@ -1505,7 +1505,7 @@
       "stock_count": 0,
       "popularity": 41,
       "added_at": 1769575588,
-      "views": 809,
+      "views": 811,
       "tile_url": "https://api.boss-mini-app.ru/t/2e954cb078eb89a3eaad8736.webp"
     },
     {
@@ -1635,38 +1635,6 @@
       "added_at": 1772528364,
       "views": 390,
       "tile_url": "https://api.boss-mini-app.ru/t/710ba1ae0bc78a24f72d9a61.webp"
-    },
-    {
-      "slug": "bos-mini-a8-pro-6-128gb-10-djujmov",
-      "url": "https://bosminiofficial.com/shop/2850/desc/bos-mini-a8-pro-6-128gb-10-djujmov",
-      "name": "Bos-Mini A8+Pro 6+128Gb 10-дюймов",
-      "sku": "",
-      "price_rub": 12500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-10 дюймов\n✅Память-6+128Gb\n✅Количество ядер-8 (Qualcomm Snapdragon)\n✅Поддержка сим карты\n✅Оптический выход\n✅Голосовое управление\n✅Звуковой процессор DSP\n✅CarPlay\n✅Кулер охлаждения\n✅Набор проводов для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2850.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2850.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2850.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2850.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 26,
-      "added_at": 1772527567,
-      "views": 498,
-      "tile_url": "https://api.boss-mini-app.ru/t/ebe350decbdf259ece30b942.webp"
     },
     {
       "slug": "bos-mini-a8-pro-6-128gb-9-djujmov",
@@ -2145,7 +2113,7 @@
       "stock_count": 0,
       "popularity": 55,
       "added_at": 1769577324,
-      "views": 562,
+      "views": 564,
       "tile_url": "https://api.boss-mini-app.ru/t/e35b328f28fa10f4f03dfd06.webp"
     },
     {
@@ -2821,38 +2789,6 @@
       "tile_url": "https://api.boss-mini-app.ru/t/6c813ef86359f97eca2e5bcd.webp"
     },
     {
-      "slug": "dv-pioneer-ok-y2-pro-8-64gb",
-      "url": "https://bosminiofficial.com/shop/3032/desc/dv-pioneer-ok-y2-pro-8-64gb",
-      "name": "DV-Pioneer.Ok Y2 Pro 8+64Gb",
-      "sku": "",
-      "price_rub": 6800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9 дюймов\n✅Количество ядер-8\n✅Поддержка сим карты\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3032.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3032.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3032.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3032.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 15,
-      "added_at": 1786688207,
-      "views": 160,
-      "tile_url": "https://api.boss-mini-app.ru/t/1db74ea3a080bef702fd2251.webp"
-    },
-    {
       "slug": "dv-pioneer-ok-z3s-4-64",
       "url": "https://bosminiofficial.com/shop/2904/desc/dv-pioneer-ok-z3s-4-64",
       "name": "DV-Pioneer.Ok Z3S 4+64",
@@ -3105,7 +3041,7 @@
       "stock_count": 0,
       "popularity": 66,
       "added_at": 1769575727,
-      "views": 500,
+      "views": 502,
       "tile_url": "https://api.boss-mini-app.ru/t/42fbfd8e9a77abb1cde7f952.webp"
     },
     {
@@ -3329,7 +3265,7 @@
       "stock_count": 0,
       "popularity": 69,
       "added_at": 1776517157,
-      "views": 255,
+      "views": 258,
       "tile_url": "https://api.boss-mini-app.ru/t/768e172060bcde73a9532ede.webp"
     },
     {
@@ -3617,7 +3553,7 @@
       "stock_count": 0,
       "popularity": 6180,
       "added_at": 1722408772,
-      "views": 828,
+      "views": 829,
       "tile_url": "https://api.boss-mini-app.ru/t/b1477a42c77659c7b66f93c1.webp"
     },
     {
@@ -6305,7 +6241,7 @@
       "stock_count": 0,
       "popularity": 155,
       "added_at": 1765628182,
-      "views": 482,
+      "views": 483,
       "tile_url": "https://api.boss-mini-app.ru/t/25b37c2417899def89d1b47a.webp"
     },
     {
@@ -7329,7 +7265,7 @@
       "stock_count": 0,
       "popularity": 184,
       "added_at": 1773149468,
-      "views": 165,
+      "views": 167,
       "tile_url": "https://api.boss-mini-app.ru/t/9ef10c5c4d93f6ef4ff319c8.webp"
     },
     {
@@ -7361,7 +7297,7 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1771745664,
-      "views": 229,
+      "views": 231,
       "tile_url": "https://api.boss-mini-app.ru/t/706e3a8e5fe032dc1fc18167.webp"
     },
     {
@@ -9569,7 +9505,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1767297276,
-      "views": 242,
+      "views": 244,
       "tile_url": "https://api.boss-mini-app.ru/t/15017d14a36105fed1678a77.webp"
     },
     {
@@ -9633,7 +9569,7 @@
       "stock_count": 0,
       "popularity": 112,
       "added_at": 1767297338,
-      "views": 303,
+      "views": 305,
       "tile_url": "https://api.boss-mini-app.ru/t/480696ce328207252879a09a.webp"
     },
     {
@@ -11201,7 +11137,7 @@
       "stock_count": 0,
       "popularity": 29,
       "added_at": 1767297093,
-      "views": 343,
+      "views": 345,
       "tile_url": "https://api.boss-mini-app.ru/t/283e0d7c7d7e2328c13acbd4.webp"
     },
     {
@@ -11233,7 +11169,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1767297118,
-      "views": 365,
+      "views": 367,
       "tile_url": "https://api.boss-mini-app.ru/t/fd78547575f78cde241d9394.webp"
     },
     {
