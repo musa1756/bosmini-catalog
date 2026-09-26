@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790404817,
-  "scraped_count": 491,
+  "generated_at": 1790405117,
+  "scraped_count": 492,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -4897,7 +4897,7 @@
       "stock_count": 0,
       "popularity": 280,
       "added_at": 1730983413,
-      "views": 321,
+      "views": 323,
       "tile_url": "https://api.boss-mini-app.ru/t/071c9d7fe18b0c95b6e09470.webp"
     },
     {
@@ -5601,7 +5601,7 @@
       "stock_count": 0,
       "popularity": 216,
       "added_at": 1734934541,
-      "views": 292,
+      "views": 294,
       "tile_url": "https://api.boss-mini-app.ru/t/9686e21e1223944d68b430c2.webp"
     },
     {
@@ -8801,7 +8801,7 @@
       "stock_count": 0,
       "popularity": 88,
       "added_at": 1723527380,
-      "views": 768,
+      "views": 769,
       "tile_url": "https://api.boss-mini-app.ru/t/58bbce276b129b6c4e7eee7c.webp"
     },
     {
@@ -12003,7 +12003,7 @@
       "stock_count": 0,
       "popularity": 1623,
       "added_at": 1738048528,
-      "views": 545,
+      "views": 546,
       "tile_url": "https://api.boss-mini-app.ru/t/673c14095322a60b8bf3e81d.webp"
     },
     {
@@ -12453,6 +12453,38 @@
       "added_at": 1743669570,
       "views": 628,
       "tile_url": "https://api.boss-mini-app.ru/t/d28ef9a4394b4780e6b58cd6.webp"
+    },
+    {
+      "slug": "multimedia-factory-p7",
+      "url": "https://bosminiofficial.com/shop/3067/desc/multimedia-factory-p7",
+      "name": "Multimedia Factory P7",
+      "sku": "",
+      "price_rub": 3000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана -7дюймов\n✅Формат -Mp5, сенсорный\n✅CarPlay/AndroidAuto\n✅Bluetooth/USB/SD/Aux\n✅Радиатор охлаждения\n✅Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3067.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3067.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3067.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3067.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1790405032,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/39c7353be24a6643978f3f9a.webp"
     },
     {
       "slug": "pioneer-gb-mvh-595dp5",
