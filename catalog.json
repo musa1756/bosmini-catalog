@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790404517,
-  "scraped_count": 490,
+  "generated_at": 1790404817,
+  "scraped_count": 491,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -4577,7 +4577,7 @@
       "stock_count": 0,
       "popularity": 1282,
       "added_at": 1718527601,
-      "views": 984,
+      "views": 985,
       "tile_url": "https://api.boss-mini-app.ru/t/eca629794e9b1b1d613cdb73.webp"
     },
     {
@@ -6305,7 +6305,7 @@
       "stock_count": 0,
       "popularity": 155,
       "added_at": 1765628182,
-      "views": 479,
+      "views": 480,
       "tile_url": "https://api.boss-mini-app.ru/t/25b37c2417899def89d1b47a.webp"
     },
     {
@@ -7749,6 +7749,38 @@
       "tile_url": "https://api.boss-mini-app.ru/t/75d6ad916afd13b3fb5fcdf6.webp"
     },
     {
+      "slug": "provoda-dlja-kamery-zadnego-vida-10m",
+      "url": "https://bosminiofficial.com/shop/2645/desc/provoda-dlja-kamery-zadnego-vida-10m",
+      "name": "Провода для камеры заднего вида (10м)",
+      "sku": "",
+      "price_rub": 150,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/26/2645.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2645.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/26/2645.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2645.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 92,
+      "added_at": 1758283581,
+      "views": 127,
+      "tile_url": "https://api.boss-mini-app.ru/t/b34249eb164c7c990e14085e.webp"
+    },
+    {
       "slug": "provoda-dlja-kamery-zadnego-vida-20m",
       "url": "https://bosminiofficial.com/shop/1064/desc/provoda-dlja-kamery-zadnego-vida-20m",
       "name": "Провода для камеры заднего вида (20м)",
@@ -7969,7 +8001,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1789301805,
-      "views": 35,
+      "views": 36,
       "tile_url": "https://api.boss-mini-app.ru/t/7c352abfad0dec3f4280f5aa.webp"
     },
     {
@@ -9985,7 +10017,7 @@
       "stock_count": 0,
       "popularity": 38,
       "added_at": 1718304499,
-      "views": 292,
+      "views": 293,
       "tile_url": "https://api.boss-mini-app.ru/t/b33514a4ca39dab0ed906712.webp"
     },
     {
@@ -14371,7 +14403,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1782111823,
-      "views": 105,
+      "views": 106,
       "tile_url": "https://api.boss-mini-app.ru/t/c0b5aa8cbbdb9badd986892e.webp"
     },
     {
@@ -14403,7 +14435,7 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1757143405,
-      "views": 361,
+      "views": 362,
       "tile_url": "https://api.boss-mini-app.ru/t/6c3cd91fe744948672def64b.webp"
     },
     {
