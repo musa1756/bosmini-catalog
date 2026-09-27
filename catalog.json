@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790514917,
-  "scraped_count": 493,
+  "generated_at": 1790515217,
+  "scraped_count": 492,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2625,7 +2625,7 @@
       "stock_count": 0,
       "popularity": 116,
       "added_at": 1783059576,
-      "views": 184,
+      "views": 185,
       "tile_url": "https://api.boss-mini-app.ru/t/0f06e1ba7240f8866ae67953.webp"
     },
     {
@@ -14789,38 +14789,6 @@
       "added_at": 1726917429,
       "views": 429,
       "tile_url": "https://api.boss-mini-app.ru/t/754af25a1c934f78c917b42f.webp"
-    },
-    {
-      "slug": "pioneer-gb-mvh-3010u",
-      "url": "https://bosminiofficial.com/shop/2780/desc/pioneer-gb-mvh-3010u",
-      "name": "Pioneer.GB MVH-3010U",
-      "sku": "",
-      "price_rub": 3700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер динамикa: 10 дюймов\n✅Мощность-3200W Max\n✅Провода в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2780.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2780.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2780.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2780.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 161,
-      "added_at": 1766646329,
-      "views": 342,
-      "tile_url": "https://api.boss-mini-app.ru/t/532f72843871d90af3b6ecfd.webp"
     },
     {
       "slug": "syzx-v-us80",
