@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790594718,
-  "scraped_count": 497,
+  "generated_at": 1790595018,
+  "scraped_count": 496,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -14597,38 +14597,6 @@
       "added_at": 1776112831,
       "views": 124,
       "tile_url": "https://api.boss-mini-app.ru/t/4399ebc2ef681cd5efd22ead.webp"
-    },
-    {
-      "slug": "bos-mini-x1008",
-      "url": "https://bosminiofficial.com/shop/3060/desc/bos-mini-x1008",
-      "name": "BOS-MINI X1008",
-      "sku": "",
-      "price_rub": 7700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅️ Сабвуфер Активный\n✅️ Размер динамика 10\n✅️ Мощность: 2000W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3060.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3060.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3060.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3060.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 10,
-      "added_at": 1790058864,
-      "views": 33,
-      "tile_url": "https://api.boss-mini-app.ru/t/260c2c09e35f2442f3dc35aa.webp"
     },
     {
       "slug": "dv-60-komplekt-provodov",
