@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790579117,
-  "scraped_count": 492,
+  "generated_at": 1790579417,
+  "scraped_count": 494,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -545,7 +545,7 @@
       "stock_count": 0,
       "popularity": 929,
       "added_at": 1759819618,
-      "views": 1507,
+      "views": 1508,
       "tile_url": "https://api.boss-mini-app.ru/t/cf0d375a221dd7523791e6e6.webp"
     },
     {
@@ -12133,6 +12133,70 @@
       "added_at": 1778219987,
       "views": 691,
       "tile_url": "https://api.boss-mini-app.ru/t/a401c8c37539da31ecde9215.webp"
+    },
+    {
+      "slug": "bos-mini-n727hgp5",
+      "url": "https://bosminiofficial.com/shop/2898/desc/bos-mini-n727hgp5",
+      "name": "BOS-MINI N727HGP5",
+      "sku": "MP5",
+      "price_rub": 4300,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-7 дюймов\n✅CarPlay/AndroidAuto\n✅Bluetooth, Type-C, USB, AUX\n✅Радиатор охлаждения\n✅9 выходов RCA\n✅Фишки и провода для подключения и в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/28/2898.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2898.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/28/2898.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2898.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 21,
+      "added_at": 1776253023,
+      "views": 536,
+      "tile_url": "https://api.boss-mini-app.ru/t/59d03f4a0c088fde0bbf3348.webp"
+    },
+    {
+      "slug": "bos-mini-n728dzp5",
+      "url": "https://bosminiofficial.com/shop/2897/desc/bos-mini-n728dzp5",
+      "name": "BOS-MINI N728DZP5",
+      "sku": "MP5",
+      "price_rub": 6500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-7 дюймов\n✅CarPlay/AndroidAuto\n✅Радиатор охлаждения\n✅9 выходов RCA\n✅Канблок и провода для подключения и в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/28/2897.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2897.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/28/2897.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2897.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 98,
+      "added_at": 1776113389,
+      "views": 1287,
+      "tile_url": "https://api.boss-mini-app.ru/t/1ec7edec5d1806ac49f04ab4.webp"
     },
     {
       "slug": "bos-n725ftp5",
