@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790582117,
-  "scraped_count": 495,
+  "generated_at": 1790582417,
+  "scraped_count": 496,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -3779,6 +3779,38 @@
       "added_at": 1730529840,
       "views": 503,
       "tile_url": "https://api.boss-mini-app.ru/t/ca674221ef3985ffecd088a2.webp"
+    },
+    {
+      "slug": "avtonomnyj-otopitel-bos-l22",
+      "url": "https://bosminiofficial.com/shop/3072/desc/avtonomnyj-otopitel-bos-l22",
+      "name": "Автономный отопитель Bos-L22",
+      "sku": "",
+      "price_rub": 6000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Автоаксессуары"
+      ],
+      "brand_tags": [],
+      "description": "✅Мощность-5 kW\n✅Универсальные-12v-24v\n✅Инструкция и полный набор для установки в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3072.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3072.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3072.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3072.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1790582263,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/e3bf34b2b344deb76db3b2cf.webp"
     },
     {
       "slug": "aromatizator-rh-001n",
@@ -10497,7 +10529,7 @@
       "stock_count": 0,
       "popularity": 31,
       "added_at": 1733822564,
-      "views": 1251,
+      "views": 1252,
       "tile_url": "https://api.boss-mini-app.ru/t/b163033f95cde663994150b0.webp"
     },
     {
@@ -12003,7 +12035,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1790405391,
-      "views": 31,
+      "views": 32,
       "tile_url": "https://api.boss-mini-app.ru/t/2761002d50695af7cc0c9439.webp"
     },
     {
@@ -15619,7 +15651,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790582021,
-      "views": 1,
+      "views": 2,
       "tile_url": "https://api.boss-mini-app.ru/t/d025f860cbfbc3aacbd21193.webp"
     },
     {
