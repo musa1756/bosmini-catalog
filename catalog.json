@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790581818,
-  "scraped_count": 494,
+  "generated_at": 1790582117,
+  "scraped_count": 495,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -2049,7 +2049,7 @@
       "stock_count": 0,
       "popularity": 163,
       "added_at": 1752911964,
-      "views": 2105,
+      "views": 2106,
       "tile_url": "https://api.boss-mini-app.ru/t/55230f5dbc5c597edf7cdf8e.webp"
     },
     {
@@ -12067,7 +12067,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1773903123,
-      "views": 747,
+      "views": 748,
       "tile_url": "https://api.boss-mini-app.ru/t/c6a6b504f29f257cbe817d80.webp"
     },
     {
@@ -12195,7 +12195,7 @@
       "stock_count": 0,
       "popularity": 98,
       "added_at": 1776113389,
-      "views": 1289,
+      "views": 1290,
       "tile_url": "https://api.boss-mini-app.ru/t/1ec7edec5d1806ac49f04ab4.webp"
     },
     {
@@ -15589,6 +15589,38 @@
       "added_at": 1754033937,
       "views": 775,
       "tile_url": "https://api.boss-mini-app.ru/t/d6658ea12f195795c2910672.webp"
+    },
+    {
+      "slug": "bos-mini-48-4",
+      "url": "https://bosminiofficial.com/shop/3071/desc/bos-mini-48-4",
+      "name": "BOS-MINI 48.4",
+      "sku": "",
+      "price_rub": 1950,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Усилители"
+      ],
+      "brand_tags": [],
+      "description": "✅Количество каналов-4\n✅Мощность-4500 W Max",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3071.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3071.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3071.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3071.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1790582021,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/d025f860cbfbc3aacbd21193.webp"
     },
     {
       "slug": "bos-mini-a25",
