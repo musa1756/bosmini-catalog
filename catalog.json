@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790582417,
-  "scraped_count": 496,
+  "generated_at": 1790582718,
+  "scraped_count": 497,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -3489,7 +3489,7 @@
       "stock_count": 0,
       "popularity": 52,
       "added_at": 1785308119,
-      "views": 152,
+      "views": 153,
       "tile_url": "https://api.boss-mini-app.ru/t/5d72d6647b03347af6ca6755.webp"
     },
     {
@@ -3521,7 +3521,7 @@
       "stock_count": 0,
       "popularity": 901,
       "added_at": 1763361207,
-      "views": 484,
+      "views": 485,
       "tile_url": "https://api.boss-mini-app.ru/t/a0a8b5516b9860786322a901.webp"
     },
     {
@@ -3585,7 +3585,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1788246796,
-      "views": 96,
+      "views": 97,
       "tile_url": "https://api.boss-mini-app.ru/t/6157f92cb98f9e9b82c7f0af.webp"
     },
     {
@@ -3617,7 +3617,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1785308346,
-      "views": 120,
+      "views": 121,
       "tile_url": "https://api.boss-mini-app.ru/t/abf149dab5cadbb783add415.webp"
     },
     {
@@ -3649,7 +3649,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1785310554,
-      "views": 56,
+      "views": 57,
       "tile_url": "https://api.boss-mini-app.ru/t/faf3332a1a057275fcfb86e4.webp"
     },
     {
@@ -3811,6 +3811,38 @@
       "added_at": 1790582263,
       "views": 1,
       "tile_url": "https://api.boss-mini-app.ru/t/e3bf34b2b344deb76db3b2cf.webp"
+    },
+    {
+      "slug": "avtonomnyj-otopitel-bos-w33",
+      "url": "https://bosminiofficial.com/shop/3073/desc/avtonomnyj-otopitel-bos-w33",
+      "name": "Автономный отопитель Bos-W33",
+      "sku": "",
+      "price_rub": 6000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Автоаксессуары"
+      ],
+      "brand_tags": [],
+      "description": "✅Мощность-5 kW\n✅Универсальные-12v-24v\n✅Инструкция и полный набор для установки в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3073.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3073.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3073.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3073.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1790582491,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/a3d20c982b7aa53917b33ce2.webp"
     },
     {
       "slug": "aromatizator-rh-001n",
