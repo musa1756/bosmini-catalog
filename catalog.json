@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790661917,
-  "scraped_count": 496,
+  "generated_at": 1790662217,
+  "scraped_count": 495,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -13699,7 +13699,7 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1786088184,
-      "views": 73,
+      "views": 74,
       "tile_url": "https://api.boss-mini-app.ru/t/3c764e64ed569dac59eb103c.webp"
     },
     {
@@ -14725,38 +14725,6 @@
       "added_at": 1719655432,
       "views": 475,
       "tile_url": "https://api.boss-mini-app.ru/t/bc22517452c096fd338049ca.webp"
-    },
-    {
-      "slug": "e5-olom-p-12",
-      "url": "https://bosminiofficial.com/shop/730/desc/e5-olom-p-12",
-      "name": "E5-OLOM P-12",
-      "sku": "",
-      "price_rub": 7200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер Динамика- 12 ✅Максимальная мощность 3200W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/7/730.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/7/730.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/7/730.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/7/730.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 124,
-      "added_at": 1719655536,
-      "views": 459,
-      "tile_url": "https://api.boss-mini-app.ru/t/7a115d752f95ad3a10be826d.webp"
     },
     {
       "slug": "gb-sw10",
