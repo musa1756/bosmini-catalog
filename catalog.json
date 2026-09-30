@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790748617,
-  "scraped_count": 495,
+  "generated_at": 1790748917,
+  "scraped_count": 494,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -11683,38 +11683,6 @@
       "added_at": 1746085618,
       "views": 353,
       "tile_url": "https://api.boss-mini-app.ru/t/c1de9be901c779c8ebfb1aa0.webp"
-    },
-    {
-      "slug": "pioneer-gb-12-na-24v-mvh-340dbt",
-      "url": "https://bosminiofficial.com/shop/678/desc/pioneer-gb-12-na-24v-mvh-340dbt",
-      "name": "Pioneer.GB (12 на 24V) MVH-340DBT",
-      "sku": "",
-      "price_rub": 700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅12v-24V ✅Bluetooth ✅Aux ✅2USB и SD карты ✅4 выхода RCA ✅Радиатор охлаждения ✅Пульт управления и фишки для подключения в комплекте!!!",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/6/678.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/6/678.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/6/678.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/6/678.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 2915,
-      "added_at": 1718306019,
-      "views": 432,
-      "tile_url": "https://api.boss-mini-app.ru/t/accee309e6f28fa930f00fbe.webp"
     },
     {
       "slug": "pioneer-gb-mvh-767mbt",
