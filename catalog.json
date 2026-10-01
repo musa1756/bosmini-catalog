@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790845517,
-  "scraped_count": 493,
+  "generated_at": 1790845817,
+  "scraped_count": 491,
   "products": [
     {
       "slug": "ah-9999-4-64gb-9",
@@ -163,38 +163,6 @@
       "added_at": 1765176165,
       "views": 2132,
       "tile_url": "https://api.boss-mini-app.ru/t/cb3d873d0eff022f4a8b4430.webp"
-    },
-    {
-      "slug": "bos-mini-a1022xz-2-32gb",
-      "url": "https://bosminiofficial.com/shop/2590/desc/bos-mini-a1022xz-2-32gb",
-      "name": "BOS-MINI A1022XZ 2+32GB",
-      "sku": "",
-      "price_rub": 4900,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-10 дюймов ✅Типоразмер-1Din ✅Carplay ✅Память-2+32Gb (реальный обьем) ✅Поворот на 180 градусов ✅Кулер охлаждения ✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2590.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2590.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2590.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2590.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 27,
-      "added_at": 1755664855,
-      "views": 683,
-      "tile_url": "https://api.boss-mini-app.ru/t/55a63055c416dd44e4dbfdf2.webp"
     },
     {
       "slug": "bos-mini-a12",
@@ -737,7 +705,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1790059440,
-      "views": 49,
+      "views": 50,
       "tile_url": "https://api.boss-mini-app.ru/t/8df7517cde94f8e0540cb249.webp"
     },
     {
@@ -1987,38 +1955,6 @@
       "added_at": 1752853137,
       "views": 1058,
       "tile_url": "https://api.boss-mini-app.ru/t/e1438de228214c729d79b987.webp"
-    },
-    {
-      "slug": "bos-mini-t8705-4-64gb-7",
-      "url": "https://bosminiofficial.com/shop/2040/desc/bos-mini-t8705-4-64gb-7",
-      "name": "Bos-Mini T8705 4+64Gb 7\"",
-      "sku": "",
-      "price_rub": 4800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-7 дюймов ✅Память-4+64Gb ✅CarPlay ✅Физические кнопки управления ✅Кулер охлаждения ✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/20/2040.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/20/2040.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/20/2040.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/20/2040.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 196,
-      "added_at": 1752911964,
-      "views": 2115,
-      "tile_url": "https://api.boss-mini-app.ru/t/55230f5dbc5c597edf7cdf8e.webp"
     },
     {
       "slug": "bos-mini-ts10-4-64gb-10",
@@ -3873,7 +3809,7 @@
       "stock_count": 0,
       "popularity": 311,
       "added_at": 1752658610,
-      "views": 233,
+      "views": 234,
       "tile_url": "https://api.boss-mini-app.ru/t/3bc84dc08bd63f0272bbbf73.webp"
     },
     {
@@ -3937,7 +3873,7 @@
       "stock_count": 0,
       "popularity": 619,
       "added_at": 1756104856,
-      "views": 214,
+      "views": 215,
       "tile_url": "https://api.boss-mini-app.ru/t/5f3ba84008b1efa8fcd886f8.webp"
     },
     {
@@ -4001,7 +3937,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1769493683,
-      "views": 230,
+      "views": 231,
       "tile_url": "https://api.boss-mini-app.ru/t/1a7e451b3d74b3b832576c3e.webp"
     },
     {
@@ -6625,7 +6561,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1779788743,
-      "views": 166,
+      "views": 167,
       "tile_url": "https://api.boss-mini-app.ru/t/4529886770cfe72b30784efc.webp"
     },
     {
@@ -7649,7 +7585,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1757406784,
-      "views": 542,
+      "views": 543,
       "tile_url": "https://api.boss-mini-app.ru/t/2eb7756f52f08639677e3891.webp"
     },
     {
