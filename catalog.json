@@ -1,41 +1,9 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1790937318,
-  "scraped_count": 491,
+  "generated_at": 1790937617,
+  "scraped_count": 489,
   "products": [
-    {
-      "slug": "ah-9999-4-64gb-9",
-      "url": "https://bosminiofficial.com/shop/1935/desc/ah-9999-4-64gb-9",
-      "name": "AH-9999 4+64Gb 9\"",
-      "sku": "",
-      "price_rub": 8000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9 дюймов ✅Количество ядер-8 ✅Кулер охлаждения ✅CarPlay ✅Провода для подключения в комплекте!!!",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/19/1935.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/19/1935.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/19/1935.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/19/1935.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 0,
-      "added_at": 1752843286,
-      "views": 824,
-      "tile_url": "https://api.boss-mini-app.ru/t/7d1905918cd8bf30565406cd.webp"
-    },
     {
       "slug": "alpine-409s-2-64gb",
       "url": "https://bosminiofficial.com/shop/1978/desc/alpine-409s-2-64gb",
@@ -2081,7 +2049,7 @@
       "stock_count": 0,
       "popularity": 33,
       "added_at": 1769577429,
-      "views": 788,
+      "views": 789,
       "tile_url": "https://api.boss-mini-app.ru/t/e35b328f28fa10f4f03dfd06.webp"
     },
     {
@@ -3139,38 +3107,6 @@
       "added_at": 1776517259,
       "views": 319,
       "tile_url": "https://api.boss-mini-app.ru/t/6b952dd4d5dcd312cc8eac35.webp"
-    },
-    {
-      "slug": "zx1-pro-plus-4-64gb-10",
-      "url": "https://bosminiofficial.com/shop/2902/desc/zx1-pro-plus-4-64gb-10",
-      "name": "ZX1 Pro Plus 4+64Gb 10\"",
-      "sku": "",
-      "price_rub": 6800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-10 дюймов\n✅Память- 4+64Gb\n✅Количество ядер-8\n✅CarPlay/AndroidAuto\n✅Поддержка сим карты\n✅Кулер охлаждения\n✅Провода для подключения и в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2902.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2902.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2902.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2902.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 70,
-      "added_at": 1776517157,
-      "views": 266,
-      "tile_url": "https://api.boss-mini-app.ru/t/768e172060bcde73a9532ede.webp"
     },
     {
       "slug": "gem61-pro-max-mersedes-style",
