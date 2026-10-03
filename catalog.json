@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791021617,
-  "scraped_count": 489,
+  "generated_at": 1791021916,
+  "scraped_count": 488,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -289,7 +289,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1782470618,
-      "views": 301,
+      "views": 302,
       "tile_url": "https://api.boss-mini-app.ru/t/d15bf79aef6c3c57eeab3450.webp"
     },
     {
@@ -513,7 +513,7 @@
       "stock_count": 0,
       "popularity": 195,
       "added_at": 1753952536,
-      "views": 1020,
+      "views": 1021,
       "tile_url": "https://api.boss-mini-app.ru/t/7c7f2edabbd8afebb85466e0.webp"
     },
     {
@@ -1377,7 +1377,7 @@
       "stock_count": 0,
       "popularity": 58,
       "added_at": 1772527002,
-      "views": 1099,
+      "views": 1100,
       "tile_url": "https://api.boss-mini-app.ru/t/d8c5cd69f5fa7cfee483fd5c.webp"
     },
     {
@@ -1571,38 +1571,6 @@
       "added_at": 1772528364,
       "views": 406,
       "tile_url": "https://api.boss-mini-app.ru/t/710ba1ae0bc78a24f72d9a61.webp"
-    },
-    {
-      "slug": "bos-mini-a8-pro-6-128gb-9-djujmov",
-      "url": "https://bosminiofficial.com/shop/2851/desc/bos-mini-a8-pro-6-128gb-9-djujmov",
-      "name": "Bos-Mini A8+Pro 6+128Gb 9-дюймов",
-      "sku": "",
-      "price_rub": 12500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана: 9-дюймов\n✅Память-6+128Gb\n✅Количество ядер-8 (Qualcomm Snapdragon)\n✅Поддержка сим карты\n✅Оптический выход\n✅Голосовое управление\n✅Звуковой процессор DSP\n✅CarPlay\n✅Кулер охлаждения\n✅Набор проводов для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2851.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2851.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2851.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2851.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 68,
-      "added_at": 1772527820,
-      "views": 638,
-      "tile_url": "https://api.boss-mini-app.ru/t/ebe350decbdf259ece30b942.webp"
     },
     {
       "slug": "bos-mini-a8-pro-8-256gb-10-djujmov",
@@ -2465,7 +2433,7 @@
       "stock_count": 0,
       "popularity": 52,
       "added_at": 1782024662,
-      "views": 215,
+      "views": 216,
       "tile_url": "https://api.boss-mini-app.ru/t/1482daf6866b9d0c3f37e11a.webp"
     },
     {
@@ -2945,7 +2913,7 @@
       "stock_count": 0,
       "popularity": 53,
       "added_at": 1769577216,
-      "views": 818,
+      "views": 819,
       "tile_url": "https://api.boss-mini-app.ru/t/b3b8ba8265293874525439b4.webp"
     },
     {
@@ -14251,7 +14219,7 @@
       "url": "https://bosminiofficial.com/shop/927/desc/bos-mini-10g",
       "name": "BOS-MINI 10G",
       "sku": "",
-      "price_rub": 3300,
+      "price_rub": 3500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -14915,7 +14883,7 @@
       "stock_count": 0,
       "popularity": 33,
       "added_at": 1716585165,
-      "views": 221,
+      "views": 222,
       "tile_url": "https://api.boss-mini-app.ru/t/2dd3f9418c3ef6ddf29c5919.webp"
     },
     {
