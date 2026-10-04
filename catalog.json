@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791099917,
-  "scraped_count": 486,
+  "generated_at": 1791100217,
+  "scraped_count": 485,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -3553,7 +3553,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1730529692,
-      "views": 576,
+      "views": 577,
       "tile_url": "https://api.boss-mini-app.ru/t/ad969577c92eb39e05895899.webp"
     },
     {
@@ -12933,38 +12933,6 @@
       "added_at": 1736253626,
       "views": 861,
       "tile_url": "https://api.boss-mini-app.ru/t/47196c0e112dd4115b9eb3cf.webp"
-    },
-    {
-      "slug": "odnostoronnjaja-signalizacija-dv-234",
-      "url": "https://bosminiofficial.com/shop/354/desc/odnostoronnjaja-signalizacija-dv-234",
-      "name": "Односторонняя сигнализация DV 234",
-      "sku": "Dv-Pioneer.Ok",
-      "price_rub": 1000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Охранные системы"
-      ],
-      "brand_tags": [],
-      "description": "Односторонняя автомобильная сигнализация",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/3/354.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/3/354.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/3/354.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/3/354.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 17,
-      "added_at": 1714856095,
-      "views": 412,
-      "tile_url": "https://api.boss-mini-app.ru/t/c59f126344913a01f6fa7490.webp"
     },
     {
       "slug": "parktronik-bos-555",
