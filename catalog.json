@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791091817,
-  "scraped_count": 488,
+  "generated_at": 1791092116,
+  "scraped_count": 487,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -1025,7 +1025,7 @@
       "stock_count": 0,
       "popularity": 141,
       "added_at": 1752862854,
-      "views": 614,
+      "views": 615,
       "tile_url": "https://api.boss-mini-app.ru/t/ccb77972b65dd6b8a4c55c02.webp"
     },
     {
@@ -1185,7 +1185,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1788416403,
-      "views": 123,
+      "views": 124,
       "tile_url": "https://api.boss-mini-app.ru/t/824504c7bfab19d725768ace.webp"
     },
     {
@@ -1249,7 +1249,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1782456237,
-      "views": 222,
+      "views": 223,
       "tile_url": "https://api.boss-mini-app.ru/t/a70aad6dfa0e3b8f353fb5c9.webp"
     },
     {
@@ -2081,7 +2081,7 @@
       "stock_count": 0,
       "popularity": 40,
       "added_at": 1764392414,
-      "views": 997,
+      "views": 998,
       "tile_url": "https://api.boss-mini-app.ru/t/e78e25b2730674514d65df65.webp"
     },
     {
@@ -11073,7 +11073,7 @@
       "stock_count": 0,
       "popularity": 798,
       "added_at": 1723960692,
-      "views": 548,
+      "views": 549,
       "tile_url": "https://api.boss-mini-app.ru/t/58137ac1f35c3efa3ae97a2b.webp"
     },
     {
@@ -11523,38 +11523,6 @@
       "added_at": 1722713624,
       "views": 762,
       "tile_url": "https://api.boss-mini-app.ru/t/63fb96b6668dbb3ec03dfe12.webp"
-    },
-    {
-      "slug": "pioneer-gb-mvh-f899zbt",
-      "url": "https://bosminiofficial.com/shop/1922/desc/pioneer-gb-mvh-f899zbt",
-      "name": "Pioneer.GB MVH-F899ZBT",
-      "sku": "",
-      "price_rub": 1200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅Цветной экран, светомузыка ✅Bluetooth, 2Aux ✅Удобный держатель ✅USB и SD карты ✅4 выходa RCA ✅Радиатор охлаждения ✅Фишки для подключения в комплекте!!!",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/19/1922.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/19/1922.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/19/1922.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/19/1922.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 28,
-      "added_at": 1752837167,
-      "views": 470,
-      "tile_url": "https://api.boss-mini-app.ru/t/62194f36c1b5f77a5aa8eeb4.webp"
     },
     {
       "slug": "pioneer-gb-mvh-768mbt",
