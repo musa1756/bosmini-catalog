@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791126317,
+  "generated_at": 1791126616,
   "scraped_count": 485,
   "products": [
     {
@@ -351,7 +351,7 @@
         "https://bosminiofficial.com/_sh/30/3008.jpg"
       ],
       "stock_count": 0,
-      "popularity": 2,
+      "popularity": 3,
       "added_at": 1784446916,
       "views": 302,
       "tile_url": "https://api.boss-mini-app.ru/t/8284be2b7ebb9fa1739e1656.webp"
@@ -1281,7 +1281,7 @@
       "stock_count": 0,
       "popularity": 144,
       "added_at": 1764313794,
-      "views": 1947,
+      "views": 1948,
       "tile_url": "https://api.boss-mini-app.ru/t/504ec1ed4c0b9940c149f673.webp"
     },
     {
@@ -7649,7 +7649,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1749113475,
-      "views": 382,
+      "views": 383,
       "tile_url": "https://api.boss-mini-app.ru/t/36294060c63ecf5d19f3d365.webp"
     },
     {
