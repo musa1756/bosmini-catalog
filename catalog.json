@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791202516,
-  "scraped_count": 484,
+  "generated_at": 1791202817,
+  "scraped_count": 487,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -97,7 +97,7 @@
       "stock_count": 0,
       "popularity": 306,
       "added_at": 1752844861,
-      "views": 1121,
+      "views": 1122,
       "tile_url": "https://api.boss-mini-app.ru/t/e6bafae998d0274e42088a7a.webp"
     },
     {
@@ -929,7 +929,7 @@
       "stock_count": 0,
       "popularity": 46,
       "added_at": 1789377256,
-      "views": 123,
+      "views": 124,
       "tile_url": "https://api.boss-mini-app.ru/t/7d3cc30f3b2f11edba035537.webp"
     },
     {
@@ -1249,7 +1249,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1782456237,
-      "views": 224,
+      "views": 225,
       "tile_url": "https://api.boss-mini-app.ru/t/a70aad6dfa0e3b8f353fb5c9.webp"
     },
     {
@@ -2849,7 +2849,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1765863892,
-      "views": 618,
+      "views": 619,
       "tile_url": "https://api.boss-mini-app.ru/t/56a3193394981b1fc727ec85.webp"
     },
     {
@@ -3489,7 +3489,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1732348103,
-      "views": 1130,
+      "views": 1131,
       "tile_url": "https://api.boss-mini-app.ru/t/1f9c1e117dba39d0aa7c5830.webp"
     },
     {
@@ -4577,7 +4577,7 @@
       "stock_count": 0,
       "popularity": 70,
       "added_at": 1765013957,
-      "views": 667,
+      "views": 668,
       "tile_url": "https://api.boss-mini-app.ru/t/2895df324d00b6b49ab6e334.webp"
     },
     {
@@ -10821,6 +10821,70 @@
       "tile_url": "https://api.boss-mini-app.ru/t/2e25c445a7672250e660c42e.webp"
     },
     {
+      "slug": "dv-pioneer-ok-deh-dv3850",
+      "url": "https://bosminiofficial.com/shop/2858/desc/dv-pioneer-ok-deh-dv3850",
+      "name": "DV-Pioneer.Ok DEH-DV3850",
+      "sku": "",
+      "price_rub": 2400,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅CD проигрыватель\n✅Bluetooth\n✅Aux\n✅USB и SD карты\n✅Цветной экран\n✅Мощный радиатор охлаждения\n✅6 выходов RCA\n✅Пульт и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/28/2858.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2858.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/28/2858.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2858.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 3,
+      "added_at": 1772779859,
+      "views": 244,
+      "tile_url": "https://api.boss-mini-app.ru/t/cc351567ff29b8ec0eec68f0.webp"
+    },
+    {
+      "slug": "dv-pioneer-ok-deh-dv5850",
+      "url": "https://bosminiofficial.com/shop/2859/desc/dv-pioneer-ok-deh-dv5850",
+      "name": "DV-Pioneer.Ok DEH-DV5850",
+      "sku": "",
+      "price_rub": 2400,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅CD проигрыватель\n✅Bluetooth\n✅Aux\n✅USB и SD карты\n✅Цветной экран\n✅Мощный радиатор охлаждения\n✅6 выходов RCA\n✅Пульт и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/28/2859.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2859.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/28/2859.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2859.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 6,
+      "added_at": 1772779884,
+      "views": 213,
+      "tile_url": "https://api.boss-mini-app.ru/t/6a0d70b2ab36ac7bd6a9acac.webp"
+    },
+    {
       "slug": "dv-pioneer-ok-mp3564",
       "url": "https://bosminiofficial.com/shop/2836/desc/dv-pioneer-ok-mp3564",
       "name": "DV-Pioneer.Ok MP3564",
@@ -11395,6 +11459,38 @@
       "added_at": 1764669603,
       "views": 253,
       "tile_url": "https://api.boss-mini-app.ru/t/5e8a91d4db607c5cefea01da.webp"
+    },
+    {
+      "slug": "ok-jvc-kd-r592m",
+      "url": "https://bosminiofficial.com/shop/2860/desc/ok-jvc-kd-r592m",
+      "name": "OK-JVC KD-R592M",
+      "sku": "",
+      "price_rub": 2400,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅CD проигрыватель\n✅Bluetooth\n✅Aux\n✅USB и SD карты\n✅Цветной экран\n✅Мощный радиатор охлаждения\n✅6 выходов RCA\n✅Пульт и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/28/2860.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2860.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/28/2860.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2860.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 27,
+      "added_at": 1772780396,
+      "views": 178,
+      "tile_url": "https://api.boss-mini-app.ru/t/53127064481850e0571e3b15.webp"
     },
     {
       "slug": "pioneer-pla-196sbt",
@@ -12195,7 +12291,7 @@
       "stock_count": 0,
       "popularity": 32,
       "added_at": 1785307627,
-      "views": 282,
+      "views": 283,
       "tile_url": "https://api.boss-mini-app.ru/t/031a98711b6488e505613788.webp"
     },
     {
