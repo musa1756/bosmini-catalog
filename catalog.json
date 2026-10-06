@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791267016,
+  "generated_at": 1791267317,
   "scraped_count": 485,
   "products": [
     {
@@ -10181,6 +10181,38 @@
       "tile_url": "https://api.boss-mini-app.ru/t/46cf9a888f641dd05680a05d.webp"
     },
     {
+      "slug": "bos-mini-y950btbt-12v-24v",
+      "url": "https://bosminiofficial.com/shop/1478/desc/bos-mini-y950btbt-12v-24v",
+      "name": "BOS-MINI Y950BTBT 12V-24V",
+      "sku": "",
+      "price_rub": 1000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅Bluetooth ✅Aux ✅USB и SD карты ✅Цветной экран ✅Радиатор охлаждения ✅6 выходов RCA ✅Простой пульт,пульт на руль и провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/14/1478.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/14/1478.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/14/1478.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/14/1478.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 286,
+      "added_at": 1750255313,
+      "views": 740,
+      "tile_url": "https://api.boss-mini-app.ru/t/784d4520943a725b16b4b778.webp"
+    },
+    {
       "slug": "bos-mini-y956bt-12v-24v",
       "url": "https://bosminiofficial.com/shop/851/desc/bos-mini-y956bt-12v-24v",
       "name": "BOS-MINI Y956BT 12V-24V",
@@ -10531,38 +10563,6 @@
       "added_at": 1749968442,
       "views": 647,
       "tile_url": "https://api.boss-mini-app.ru/t/21ecc13c900a4ff68949b5fe.webp"
-    },
-    {
-      "slug": "bos-y950bt",
-      "url": "https://bosminiofficial.com/shop/1478/desc/bos-y950bt",
-      "name": "Bos-Y950BT",
-      "sku": "",
-      "price_rub": 1000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅Bluetooth ✅Aux ✅USB и SD карты ✅Цветной экран ✅Радиатор охлаждения ✅6 выходов RCA ✅Простой пульт,пульт на руль и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/14/1478.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/14/1478.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/14/1478.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/14/1478.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 286,
-      "added_at": 1750255313,
-      "views": 739,
-      "tile_url": "https://api.boss-mini-app.ru/t/784d4520943a725b16b4b778.webp"
     },
     {
       "slug": "den-190hbt",
