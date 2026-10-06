@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791266416,
-  "scraped_count": 487,
+  "generated_at": 1791266717,
+  "scraped_count": 486,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -2211,38 +2211,6 @@
       "added_at": 1781700641,
       "views": 239,
       "tile_url": "https://api.boss-mini-app.ru/t/fae3412c26da41a5f8be6c37.webp"
-    },
-    {
-      "slug": "dhd-s1-4-64gb-9-djujmov",
-      "url": "https://bosminiofficial.com/shop/2949/desc/dhd-s1-4-64gb-9-djujmov",
-      "name": "DHD S1 4+64Gb \"9-Дюймов",
-      "sku": "",
-      "price_rub": 4700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅️Размер экрана  9-дюймов\n✅️Память-4+64Gb\n✅️CarPlay/AndroidAuto\n✅️Кулер охлаждения\n✅️Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2949.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2949.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2949.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2949.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 520,
-      "added_at": 1781700207,
-      "views": 245,
-      "tile_url": "https://api.boss-mini-app.ru/t/4cd627c1efd75d90eb0e9665.webp"
     },
     {
       "slug": "dhd-s1-plus-4-64gb-10-djujmov",
@@ -11715,7 +11683,7 @@
       "stock_count": 0,
       "popularity": 167,
       "added_at": 1714856095,
-      "views": 1463,
+      "views": 1464,
       "tile_url": "https://api.boss-mini-app.ru/t/752e7a2cfd563ac5abb35896.webp"
     },
     {
