@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791266717,
-  "scraped_count": 486,
+  "generated_at": 1791267016,
+  "scraped_count": 485,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -11077,38 +11077,6 @@
       "tile_url": "https://api.boss-mini-app.ru/t/58137ac1f35c3efa3ae97a2b.webp"
     },
     {
-      "slug": "dv-pioneer-ok-219",
-      "url": "https://bosminiofficial.com/shop/878/desc/dv-pioneer-ok-219",
-      "name": "Dv-Pioneer.Ok 219",
-      "sku": "",
-      "price_rub": 600,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅Bluetooth ✅Aux ✅USB и SD карты ✅Монохромная подсветка ✅4 выхода RCA ✅Радиатор охлаждения ✅Пульт и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/8/878.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/8/878.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/8/878.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/8/878.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 1027,
-      "added_at": 1723960791,
-      "views": 465,
-      "tile_url": "https://api.boss-mini-app.ru/t/3a37576114e03ecd0be01e5f.webp"
-    },
-    {
       "slug": "dv-pioneer-ok-220",
       "url": "https://bosminiofficial.com/shop/2862/desc/dv-pioneer-ok-220",
       "name": "Dv-Pioneer.Ok 220",
@@ -14947,7 +14915,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1787555577,
-      "views": 99,
+      "views": 100,
       "tile_url": "https://api.boss-mini-app.ru/t/ae99039aebff323f141ae33f.webp"
     },
     {
