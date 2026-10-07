@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791353418,
-  "scraped_count": 487,
+  "generated_at": 1791353716,
+  "scraped_count": 485,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -1187,38 +1187,6 @@
       "added_at": 1788416403,
       "views": 135,
       "tile_url": "https://api.boss-mini-app.ru/t/824504c7bfab19d725768ace.webp"
-    },
-    {
-      "slug": "bos-mini-t3-4-64gb-9",
-      "url": "https://bosminiofficial.com/shop/2905/desc/bos-mini-t3-4-64gb-9",
-      "name": "BOS-MINI T3 4+64Gb 9\"",
-      "sku": "",
-      "price_rub": 5200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9 дюймов\n✅Память- 4+64Gb\n✅CarPlay/AndroidAuto\n✅Количество ядер-4+4\n✅Процессор DSP\n✅USB и Type-C разъемы\n✅Кулер охлаждения\n✅Провода для подключения и в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2905.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2905.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2905.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2905.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 84,
-      "added_at": 1776843716,
-      "views": 436,
-      "tile_url": "https://api.boss-mini-app.ru/t/899526f9512c01375a4f975a.webp"
     },
     {
       "slug": "bos-mini-a1105",
@@ -6563,38 +6531,6 @@
       "added_at": 1771148839,
       "views": 365,
       "tile_url": "https://api.boss-mini-app.ru/t/2b95f38fc0dcba9ec4517eb0.webp"
-    },
-    {
-      "slug": "videoregistrator-4-1-ok-dhd-4",
-      "url": "https://bosminiofficial.com/shop/1393/desc/videoregistrator-4-1-ok-dhd-4",
-      "name": "Видеорегистратор 4/1 OK-DHD-4",
-      "sku": "",
-      "price_rub": 2000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅ Камера вперед, назад и в салон ✅ В комплекте держатель, кабель на 5м, и зарядное устройство",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/13/1393.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/13/1393.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/13/1393.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/13/1393.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 72,
-      "added_at": 1746085925,
-      "views": 1306,
-      "tile_url": "https://api.boss-mini-app.ru/t/f741157419ee1a16c8f8583d.webp"
     },
     {
       "slug": "videoregistrator-bos-mini-v8",
@@ -14275,7 +14211,7 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1782111823,
-      "views": 120,
+      "views": 121,
       "tile_url": "https://api.boss-mini-app.ru/t/c0b5aa8cbbdb9badd986892e.webp"
     },
     {
