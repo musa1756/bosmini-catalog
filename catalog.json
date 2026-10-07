@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791352517,
+  "generated_at": 1791352817,
   "scraped_count": 487,
   "products": [
     {
@@ -225,7 +225,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1782390552,
-      "views": 250,
+      "views": 253,
       "tile_url": "https://api.boss-mini-app.ru/t/50d6063e5d59bd61bfa7267a.webp"
     },
     {
@@ -575,7 +575,7 @@
         "https://bosminiofficial.com/_sh/29/2938.jpg"
       ],
       "stock_count": 0,
-      "popularity": 28,
+      "popularity": 29,
       "added_at": 1779786820,
       "views": 316,
       "tile_url": "https://api.boss-mini-app.ru/t/4a2bae2918823b0f414f2f47.webp"
@@ -607,7 +607,7 @@
         "https://bosminiofficial.com/_sh/29/2939.jpg"
       ],
       "stock_count": 0,
-      "popularity": 136,
+      "popularity": 137,
       "added_at": 1779787001,
       "views": 419,
       "tile_url": "https://api.boss-mini-app.ru/t/4a2bae2918823b0f414f2f47.webp"
@@ -895,9 +895,9 @@
         "https://bosminiofficial.com/_sh/30/3044.jpg"
       ],
       "stock_count": 0,
-      "popularity": 0,
+      "popularity": 1,
       "added_at": 1788416365,
-      "views": 129,
+      "views": 130,
       "tile_url": "https://api.boss-mini-app.ru/t/a2298a7a7ee540b2ab0bcaa0.webp"
     },
     {
@@ -1215,7 +1215,7 @@
         "https://bosminiofficial.com/_sh/29/2905.jpg"
       ],
       "stock_count": 0,
-      "popularity": 83,
+      "popularity": 84,
       "added_at": 1776843716,
       "views": 436,
       "tile_url": "https://api.boss-mini-app.ru/t/899526f9512c01375a4f975a.webp"
@@ -1375,9 +1375,9 @@
         "https://bosminiofficial.com/_sh/28/2849.jpg"
       ],
       "stock_count": 0,
-      "popularity": 60,
+      "popularity": 62,
       "added_at": 1772527002,
-      "views": 1111,
+      "views": 1112,
       "tile_url": "https://api.boss-mini-app.ru/t/d8c5cd69f5fa7cfee483fd5c.webp"
     },
     {
@@ -1631,7 +1631,7 @@
         "https://bosminiofficial.com/_sh/28/2853.jpg"
       ],
       "stock_count": 0,
-      "popularity": 7,
+      "popularity": 8,
       "added_at": 1772528067,
       "views": 286,
       "tile_url": "https://api.boss-mini-app.ru/t/ebe350decbdf259ece30b942.webp"
@@ -2017,7 +2017,7 @@
       "stock_count": 0,
       "popularity": 33,
       "added_at": 1769577429,
-      "views": 801,
+      "views": 802,
       "tile_url": "https://api.boss-mini-app.ru/t/e35b328f28fa10f4f03dfd06.webp"
     },
     {
@@ -14561,7 +14561,7 @@
         "https://bosminiofficial.com/_sh/25/2503.jpg"
       ],
       "stock_count": 0,
-      "popularity": 127,
+      "popularity": 131,
       "added_at": 1753518058,
       "views": 294,
       "tile_url": "https://api.boss-mini-app.ru/t/95e6ba7873499b9ed18087be.webp"
@@ -15201,7 +15201,7 @@
         "https://bosminiofficial.com/_sh/25/2500.jpg"
       ],
       "stock_count": 0,
-      "popularity": 1046,
+      "popularity": 1053,
       "added_at": 1753516707,
       "views": 290,
       "tile_url": "https://api.boss-mini-app.ru/t/0069b94690878edda44c8bd6.webp"
