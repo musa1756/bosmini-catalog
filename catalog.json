@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791360017,
-  "scraped_count": 485,
+  "generated_at": 1791360316,
+  "scraped_count": 484,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -1733,38 +1733,6 @@
       "tile_url": "https://api.boss-mini-app.ru/t/359f2ce9a048086d1fc75991.webp"
     },
     {
-      "slug": "bos-mini-k76hg-4-64gb",
-      "url": "https://bosminiofficial.com/shop/2782/desc/bos-mini-k76hg-4-64gb",
-      "name": "Bos-Mini K76HG 4+64Gb",
-      "sku": "",
-      "price_rub": 4200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-7 дюймов\n✅Память-4+64Gb\n✅CarPlay/AndroidAuto\n✅Количество ядер: 4\n✅Процессор DSP\n✅Кулер охлаждения\n✅Провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2782.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2782.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2782.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2782.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 133,
-      "added_at": 1767294203,
-      "views": 1018,
-      "tile_url": "https://api.boss-mini-app.ru/t/bbd731aa21576ada33b53a9f.webp"
-    },
-    {
       "slug": "bos-mini-t216-4-64gb",
       "url": "https://bosminiofficial.com/shop/2042/desc/bos-mini-t216-4-64gb",
       "name": "Bos-Mini T216 4+64Gb",
@@ -2337,7 +2305,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1789417633,
-      "views": 73,
+      "views": 74,
       "tile_url": "https://api.boss-mini-app.ru/t/6078eae5eadf542de0b9e4ff.webp"
     },
     {
@@ -2465,7 +2433,7 @@
       "stock_count": 0,
       "popularity": 79,
       "added_at": 1783060101,
-      "views": 191,
+      "views": 192,
       "tile_url": "https://api.boss-mini-app.ru/t/20e7a0c655b119f6ebc53e7a.webp"
     },
     {
@@ -9857,7 +9825,7 @@
       "stock_count": 0,
       "popularity": 66,
       "added_at": 1717064941,
-      "views": 446,
+      "views": 447,
       "tile_url": "https://api.boss-mini-app.ru/t/1f74f672fbc2fb52e4680ca5.webp"
     },
     {
@@ -11747,7 +11715,7 @@
       "stock_count": 0,
       "popularity": 1643,
       "added_at": 1738048528,
-      "views": 580,
+      "views": 581,
       "tile_url": "https://api.boss-mini-app.ru/t/673c14095322a60b8bf3e81d.webp"
     },
     {
@@ -14115,7 +14083,7 @@
       "stock_count": 0,
       "popularity": 333,
       "added_at": 1753860442,
-      "views": 248,
+      "views": 249,
       "tile_url": "https://api.boss-mini-app.ru/t/15ae365eb6f93a6da45f40ea.webp"
     },
     {
@@ -14467,7 +14435,7 @@
       "stock_count": 0,
       "popularity": 28,
       "added_at": 1782389416,
-      "views": 100,
+      "views": 101,
       "tile_url": "https://api.boss-mini-app.ru/t/3ae4207117635f6f5ec289bf.webp"
     },
     {
