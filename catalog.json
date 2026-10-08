@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791441616,
-  "scraped_count": 485,
+  "generated_at": 1791441916,
+  "scraped_count": 483,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -7425,7 +7425,7 @@
       "stock_count": 0,
       "popularity": 40,
       "added_at": 1757406784,
-      "views": 561,
+      "views": 562,
       "tile_url": "https://api.boss-mini-app.ru/t/2eb7756f52f08639677e3891.webp"
     },
     {
@@ -7457,7 +7457,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1765657119,
-      "views": 868,
+      "views": 869,
       "tile_url": "https://api.boss-mini-app.ru/t/b04be31ce38090d6060bd29a.webp"
     },
     {
@@ -7811,38 +7811,6 @@
       "added_at": 1782390337,
       "views": 116,
       "tile_url": "https://api.boss-mini-app.ru/t/f5f74c3531b50d03b6c47e6c.webp"
-    },
-    {
-      "slug": "bos-mini-5569",
-      "url": "https://bosminiofficial.com/shop/2988/desc/bos-mini-5569",
-      "name": "BOS-MINI 5569",
-      "sku": "",
-      "price_rub": 2600,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "☑️Размер Динамика 6/9 Овалы\n☑️Мощность 1200W Max",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2988.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2988.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2988.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2988.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 8,
-      "added_at": 1782540803,
-      "views": 126,
-      "tile_url": "https://api.boss-mini-app.ru/t/ed2fe85f7e54857324c5e396.webp"
     },
     {
       "slug": "bos-mini-6528",
@@ -9507,38 +9475,6 @@
       "added_at": 1753519412,
       "views": 203,
       "tile_url": "https://api.boss-mini-app.ru/t/50fe47aebaa26c9cf5174c71.webp"
-    },
-    {
-      "slug": "ts-a1696s-650w",
-      "url": "https://bosminiofficial.com/shop/2648/desc/ts-a1696s-650w",
-      "name": "TS-A1696S (650W)",
-      "sku": "",
-      "price_rub": 800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅️ Размер 16см ✅️ Максимальная мощность 650W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/26/2648.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2648.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/26/2648.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/26/2648.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 247,
-      "added_at": 1759759078,
-      "views": 176,
-      "tile_url": "https://api.boss-mini-app.ru/t/86b33c4a844b11e6a0d041c0.webp"
     },
     {
       "slug": "wt-580asp-22",
@@ -11907,7 +11843,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1773903123,
-      "views": 833,
+      "views": 834,
       "tile_url": "https://api.boss-mini-app.ru/t/c6a6b504f29f257cbe817d80.webp"
     },
     {
@@ -12067,7 +12003,7 @@
       "stock_count": 0,
       "popularity": 30,
       "added_at": 1786687337,
-      "views": 492,
+      "views": 493,
       "tile_url": "https://api.boss-mini-app.ru/t/62f99afe73f57fb0037121ec.webp"
     },
     {
@@ -12579,7 +12515,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1752671618,
-      "views": 1024,
+      "views": 1025,
       "tile_url": "https://api.boss-mini-app.ru/t/9c44504e10e904ed19461ab0.webp"
     },
     {
