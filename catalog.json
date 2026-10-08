@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791449716,
-  "scraped_count": 483,
+  "generated_at": 1791450016,
+  "scraped_count": 482,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -257,7 +257,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1782390686,
-      "views": 336,
+      "views": 337,
       "tile_url": "https://api.boss-mini-app.ru/t/acaf1afcbe12ea44bf810586.webp"
     },
     {
@@ -1603,38 +1603,6 @@
       "added_at": 1772528067,
       "views": 289,
       "tile_url": "https://api.boss-mini-app.ru/t/ebe350decbdf259ece30b942.webp"
-    },
-    {
-      "slug": "bos-mini-cc3-max-2k-12-256gb-9",
-      "url": "https://bosminiofficial.com/shop/1949/desc/bos-mini-cc3-max-2k-12-256gb-9",
-      "name": "Bos-Mini CC3 MAX 2K 12+256Gb 9\"",
-      "sku": "",
-      "price_rub": 29500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Память-12+256Gb ✅Размер экрана-9\" ✅CarPlay ✅Поддержка сим карты ✅Функция безопасного вождения ✅Голосовое управление",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/19/1949.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/19/1949.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/19/1949.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/19/1949.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 4,
-      "added_at": 1752852789,
-      "views": 1944,
-      "tile_url": "https://api.boss-mini-app.ru/t/1e746b11f0548aef8bdb90d7.webp"
     },
     {
       "slug": "bos-mini-k69",
@@ -3553,7 +3521,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1730529692,
-      "views": 590,
+      "views": 591,
       "tile_url": "https://api.boss-mini-app.ru/t/ad969577c92eb39e05895899.webp"
     },
     {
@@ -7777,7 +7745,7 @@
       "stock_count": 0,
       "popularity": 152,
       "added_at": 1738649802,
-      "views": 949,
+      "views": 950,
       "tile_url": "https://api.boss-mini-app.ru/t/22bcd46c2ab31c3986163157.webp"
     },
     {
@@ -10209,7 +10177,7 @@
       "stock_count": 0,
       "popularity": 331,
       "added_at": 1753768718,
-      "views": 669,
+      "views": 670,
       "tile_url": "https://api.boss-mini-app.ru/t/d91a4f605eb7887237c5cf8b.webp"
     },
     {
@@ -11875,7 +11843,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1773903156,
-      "views": 700,
+      "views": 701,
       "tile_url": "https://api.boss-mini-app.ru/t/a9e42f2daaf28ceea4389403.webp"
     },
     {
