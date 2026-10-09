@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791527416,
-  "scraped_count": 482,
+  "generated_at": 1791527716,
+  "scraped_count": 481,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -3201,40 +3201,8 @@
       "stock_count": 0,
       "popularity": 3633,
       "added_at": 1753683801,
-      "views": 819,
+      "views": 820,
       "tile_url": "https://api.boss-mini-app.ru/t/bdadb5a3e5b757ccaa00fdf0.webp"
-    },
-    {
-      "slug": "teyes-x5-dvr",
-      "url": "https://bosminiofficial.com/shop/884/desc/teyes-x5-dvr",
-      "name": "Teyes X5 DVR",
-      "sku": "",
-      "price_rub": 3300,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "TEYES"
-      ],
-      "brand_tags": [],
-      "description": "✅ Качество изображения-1080Р ✅ Угол обзора-170 градусов ✅ Провода в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/8/884.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/8/884.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/8/884.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/8/884.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 5660,
-      "added_at": 1724219666,
-      "views": 990,
-      "tile_url": "https://api.boss-mini-app.ru/t/48363578fc27e0881e9df02b.webp"
     },
     {
       "slug": "videoregistrator-teyes-ahd",
@@ -3297,7 +3265,7 @@
       "stock_count": 0,
       "popularity": 907,
       "added_at": 1763361207,
-      "views": 499,
+      "views": 500,
       "tile_url": "https://api.boss-mini-app.ru/t/a0a8b5516b9860786322a901.webp"
     },
     {
@@ -3329,7 +3297,7 @@
       "stock_count": 0,
       "popularity": 6282,
       "added_at": 1722408772,
-      "views": 850,
+      "views": 851,
       "tile_url": "https://api.boss-mini-app.ru/t/b1477a42c77659c7b66f93c1.webp"
     },
     {
