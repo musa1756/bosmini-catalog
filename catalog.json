@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791664516,
-  "scraped_count": 483,
+  "generated_at": 1791664817,
+  "scraped_count": 484,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -12163,7 +12163,7 @@
       "stock_count": 0,
       "popularity": 34,
       "added_at": 1785307627,
-      "views": 303,
+      "views": 304,
       "tile_url": "https://api.boss-mini-app.ru/t/031a98711b6488e505613788.webp"
     },
     {
@@ -14277,6 +14277,38 @@
       "added_at": 1754806553,
       "views": 193,
       "tile_url": "https://api.boss-mini-app.ru/t/9790b7daf81d43826c6499c4.webp"
+    },
+    {
+      "slug": "dv-pioneer-ok-dv-s006",
+      "url": "https://bosminiofficial.com/shop/3078/desc/dv-pioneer-ok-dv-s006",
+      "name": "DV-Pioneer.Ok DV S006",
+      "sku": "",
+      "price_rub": 3000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Сабвуферы и комплектующие"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер динамика-6 дюймов\n✅Мощность-3600W Max",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3078.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3078.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3078.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3078.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1791664553,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/32a444a2395e96bed4d05276.webp"
     },
     {
       "slug": "e5-olom-p-08",
