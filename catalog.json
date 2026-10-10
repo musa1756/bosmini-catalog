@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791664217,
-  "scraped_count": 481,
+  "generated_at": 1791664516,
+  "scraped_count": 483,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -1249,7 +1249,7 @@
       "stock_count": 0,
       "popularity": 146,
       "added_at": 1764313794,
-      "views": 1973,
+      "views": 1974,
       "tile_url": "https://api.boss-mini-app.ru/t/504ec1ed4c0b9940c149f673.webp"
     },
     {
@@ -1825,7 +1825,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1769577346,
-      "views": 477,
+      "views": 478,
       "tile_url": "https://api.boss-mini-app.ru/t/e35b328f28fa10f4f03dfd06.webp"
     },
     {
@@ -1985,7 +1985,7 @@
       "stock_count": 0,
       "popularity": 40,
       "added_at": 1764392414,
-      "views": 1009,
+      "views": 1010,
       "tile_url": "https://api.boss-mini-app.ru/t/e78e25b2730674514d65df65.webp"
     },
     {
@@ -3205,6 +3205,38 @@
       "tile_url": "https://api.boss-mini-app.ru/t/bdadb5a3e5b757ccaa00fdf0.webp"
     },
     {
+      "slug": "teyes-x5-dvr",
+      "url": "https://bosminiofficial.com/shop/884/desc/teyes-x5-dvr",
+      "name": "Teyes X5 DVR",
+      "sku": "",
+      "price_rub": 3400,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "TEYES"
+      ],
+      "brand_tags": [],
+      "description": "✅ Качество изображения-1080Р ✅ Угол обзора-170 градусов ✅ Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/8/884.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/8/884.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/8/884.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/8/884.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 5660,
+      "added_at": 1724219666,
+      "views": 990,
+      "tile_url": "https://api.boss-mini-app.ru/t/48363578fc27e0881e9df02b.webp"
+    },
+    {
       "slug": "videoregistrator-teyes-ahd",
       "url": "https://bosminiofficial.com/shop/3013/desc/videoregistrator-teyes-ahd",
       "name": "Видеорегистратор TEYES AHD",
@@ -3331,6 +3363,38 @@
       "added_at": 1788246796,
       "views": 117,
       "tile_url": "https://api.boss-mini-app.ru/t/6157f92cb98f9e9b82c7f0af.webp"
+    },
+    {
+      "slug": "cifrovaja-kamera-krugovogo-obzora-360-gradusov-dlja-cc4-pro",
+      "url": "https://bosminiofficial.com/shop/3077/desc/cifrovaja-kamera-krugovogo-obzora-360-gradusov-dlja-cc4-pro",
+      "name": "Цифровая камера кругового обзора 360 градусов для CC4 Pro",
+      "sku": "",
+      "price_rub": 11500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "TEYES"
+      ],
+      "brand_tags": [],
+      "description": "✅Полный комплект для установки.",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3077.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3077.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3077.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3077.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1791664460,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/9f7b5fb8c8d4dfa8491de1ed.webp"
     },
     {
       "slug": "cifrovoj-videoregistrator-teyes-digital",
@@ -3873,7 +3937,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1775199067,
-      "views": 238,
+      "views": 239,
       "tile_url": "https://api.boss-mini-app.ru/t/ac7cd6b781ef7e3467365f97.webp"
     },
     {
@@ -12195,7 +12259,7 @@
       "stock_count": 0,
       "popularity": 25,
       "added_at": 1756292951,
-      "views": 612,
+      "views": 614,
       "tile_url": "https://api.boss-mini-app.ru/t/0c3d8658b3e52f5282fafae8.webp"
     },
     {
@@ -14947,7 +15011,7 @@
       "stock_count": 0,
       "popularity": 121,
       "added_at": 1754038974,
-      "views": 78,
+      "views": 79,
       "tile_url": "https://api.boss-mini-app.ru/t/b9ffd97efb512eeb1aae0105.webp"
     },
     {
