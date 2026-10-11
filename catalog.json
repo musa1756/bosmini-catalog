@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791699916,
-  "scraped_count": 484,
+  "generated_at": 1791700226,
+  "scraped_count": 483,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -8225,7 +8225,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1789417882,
-      "views": 90,
+      "views": 91,
       "tile_url": "https://api.boss-mini-app.ru/t/4c38720a270178448ca729f5.webp"
     },
     {
@@ -11971,7 +11971,7 @@
       "stock_count": 0,
       "popularity": 119,
       "added_at": 1776113389,
-      "views": 1453,
+      "views": 1454,
       "tile_url": "https://api.boss-mini-app.ru/t/1ec7edec5d1806ac49f04ab4.webp"
     },
     {
@@ -14437,38 +14437,6 @@
       "added_at": 1782389416,
       "views": 104,
       "tile_url": "https://api.boss-mini-app.ru/t/3ae4207117635f6f5ec289bf.webp"
-    },
-    {
-      "slug": "pioneer-gb-802a",
-      "url": "https://bosminiofficial.com/shop/2503/desc/pioneer-gb-802a",
-      "name": "Pinoeer.GB 802A",
-      "sku": "",
-      "price_rub": 2800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Сабвуфер под сиденье ✅ Размер динамика 8",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2503.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2503.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2503.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2503.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 131,
-      "added_at": 1753518058,
-      "views": 304,
-      "tile_url": "https://api.boss-mini-app.ru/t/95e6ba7873499b9ed18087be.webp"
     },
     {
       "slug": "pioneer-gb-11g",
