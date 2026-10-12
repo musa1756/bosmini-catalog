@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791790517,
-  "scraped_count": 481,
+  "generated_at": 1791790816,
+  "scraped_count": 480,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -449,7 +449,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1789205058,
-      "views": 147,
+      "views": 148,
       "tile_url": "https://api.boss-mini-app.ru/t/4757aa7b1885a18c1dff058c.webp"
     },
     {
@@ -1025,7 +1025,7 @@
       "stock_count": 0,
       "popularity": 155,
       "added_at": 1752862854,
-      "views": 644,
+      "views": 645,
       "tile_url": "https://api.boss-mini-app.ru/t/ccb77972b65dd6b8a4c55c02.webp"
     },
     {
@@ -3393,7 +3393,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1791664460,
-      "views": 22,
+      "views": 23,
       "tile_url": "https://api.boss-mini-app.ru/t/9f7b5fb8c8d4dfa8491de1ed.webp"
     },
     {
@@ -4355,38 +4355,6 @@
       "added_at": 1731912601,
       "views": 394,
       "tile_url": "https://api.boss-mini-app.ru/t/a6cb9870861cbe9af8b7dfc1.webp"
-    },
-    {
-      "slug": "komplekt-provodov-dlja-podkljuchenija-android-magnitola",
-      "url": "https://bosminiofficial.com/shop/682/desc/komplekt-provodov-dlja-podkljuchenija-android-magnitola",
-      "name": "Комплект проводов для подключения андроид магнитола",
-      "sku": "",
-      "price_rub": 300,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Автоаксессуары"
-      ],
-      "brand_tags": [],
-      "description": "✅ + Слот для симки ✅ + Микрофон",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/6/682.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/6/682.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/6/682.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/6/682.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 1296,
-      "added_at": 1718527601,
-      "views": 1018,
-      "tile_url": "https://api.boss-mini-app.ru/t/eca629794e9b1b1d613cdb73.webp"
     },
     {
       "slug": "kompressor-3v1-y-qb01",
