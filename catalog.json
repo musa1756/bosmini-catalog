@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791794716,
-  "scraped_count": 481,
+  "generated_at": 1791795017,
+  "scraped_count": 479,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -65,7 +65,7 @@
       "stock_count": 0,
       "popularity": 51,
       "added_at": 1763311652,
-      "views": 1034,
+      "views": 1035,
       "tile_url": "https://api.boss-mini-app.ru/t/c3eb69f44f209bb8ccc73a6d.webp"
     },
     {
@@ -193,7 +193,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1782539919,
-      "views": 364,
+      "views": 365,
       "tile_url": "https://api.boss-mini-app.ru/t/58ad81d9d9f61800eed90523.webp"
     },
     {
@@ -4577,7 +4577,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1731153413,
-      "views": 455,
+      "views": 456,
       "tile_url": "https://api.boss-mini-app.ru/t/b176440a366f5c0b62895175.webp"
     },
     {
@@ -6465,7 +6465,7 @@
       "stock_count": 0,
       "popularity": 25,
       "added_at": 1753772523,
-      "views": 645,
+      "views": 646,
       "tile_url": "https://api.boss-mini-app.ru/t/8ca12cb8e273f87bcf081b44.webp"
     },
     {
@@ -11333,38 +11333,6 @@
       "tile_url": "https://api.boss-mini-app.ru/t/53127064481850e0571e3b15.webp"
     },
     {
-      "slug": "pioneer-pla-196sbt",
-      "url": "https://bosminiofficial.com/shop/2520/desc/pioneer-pla-196sbt",
-      "name": "PIoneer PLA-196SBT",
-      "sku": "",
-      "price_rub": 600,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅Монохромный экран ✅Bluetooth ✅Aux ✅USB и SD карты ✅4 выхода RCA ✅Радиатор охлаждения ✅Пульт управления и фишки для подключения в комплекте!!!",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/25/2520.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2520.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/25/2520.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/25/2520.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 232,
-      "added_at": 1753770414,
-      "views": 542,
-      "tile_url": "https://api.boss-mini-app.ru/t/df065a27356d935894b69703.webp"
-    },
-    {
       "slug": "pioneer-gb-mvh-341-12-24v",
       "url": "https://bosminiofficial.com/shop/1392/desc/pioneer-gb-mvh-341-12-24v",
       "name": "Pinoeer.GB MVH-341 12-24V",
@@ -15045,38 +15013,6 @@
       "added_at": 1719475285,
       "views": 470,
       "tile_url": "https://api.boss-mini-app.ru/t/3c1a3e3f1d25475d57f132b2.webp"
-    },
-    {
-      "slug": "saby-bos-mini-k-120",
-      "url": "https://bosminiofficial.com/shop/647/desc/saby-bos-mini-k-120",
-      "name": "Сабы Bos Mini / K-120",
-      "sku": "",
-      "price_rub": 7000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Мощность-800W ✅Размер динамика -12\"",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/6/647.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/6/647.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/6/647.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/6/647.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 68,
-      "added_at": 1717502009,
-      "views": 517,
-      "tile_url": "https://api.boss-mini-app.ru/t/9f45b8be9c31c8e7195e3cbf.webp"
     },
     {
       "slug": "alpine-ap-a5204",
