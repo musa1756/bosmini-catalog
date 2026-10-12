@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791793217,
-  "scraped_count": 480,
+  "generated_at": 1791793516,
+  "scraped_count": 481,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -2593,7 +2593,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1791435978,
-      "views": 38,
+      "views": 39,
       "tile_url": "https://api.boss-mini-app.ru/t/ff62b3f90f0ea337e53210a0.webp"
     },
     {
@@ -3169,7 +3169,7 @@
       "stock_count": 0,
       "popularity": 2811,
       "added_at": 1753684369,
-      "views": 783,
+      "views": 784,
       "tile_url": "https://api.boss-mini-app.ru/t/b1cb7db30ca2015bf8cc2c4c.webp"
     },
     {
@@ -13283,7 +13283,7 @@
       "stock_count": 0,
       "popularity": 39,
       "added_at": 1755666601,
-      "views": 210,
+      "views": 211,
       "tile_url": "https://api.boss-mini-app.ru/t/fcd76fe01eddc35a40e5f009.webp"
     },
     {
@@ -13701,6 +13701,38 @@
       "added_at": 1774597460,
       "views": 183,
       "tile_url": "https://api.boss-mini-app.ru/t/2c81d071fa334c0eb9ed1de7.webp"
+    },
+    {
+      "slug": "ramka-s-1din-na-9-djumov",
+      "url": "https://bosminiofficial.com/shop/1527/desc/ramka-s-1din-na-9-djumov",
+      "name": "Рамка с 1Din на 9-Дюмов",
+      "sku": "",
+      "price_rub": 550,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Типоразмер 1-DIN ✅Размер рамки 9",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/15/1527.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/15/1527.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/15/1527.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/15/1527.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 214,
+      "added_at": 1752176665,
+      "views": 164,
+      "tile_url": "https://api.boss-mini-app.ru/t/3b9b28bfbc55aa8e9d1b151e.webp"
     },
     {
       "slug": "red-24v-220v-1000w",
