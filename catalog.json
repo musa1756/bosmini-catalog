@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791789317,
-  "scraped_count": 483,
+  "generated_at": 1791789616,
+  "scraped_count": 481,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -11813,70 +11813,6 @@
       "added_at": 1787555310,
       "views": 212,
       "tile_url": "https://api.boss-mini-app.ru/t/5c61d0479dba94a810869349.webp"
-    },
-    {
-      "slug": "bos-mini-n637dp5",
-      "url": "https://bosminiofficial.com/shop/2874/desc/bos-mini-n637dp5",
-      "name": "BOS-MINI N637DP5",
-      "sku": "",
-      "price_rub": 2700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы с экраном"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-6,3 дюймов\n✅Типоразмер-1Din\n✅CarPlay/AndroidAuto\n✅Type-c, USB, AUX\n✅Радиатор охлаждения\n✅Пульт управления, инструкция и фишки для подключения и в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2874.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2874.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2874.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2874.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 27,
-      "added_at": 1773903123,
-      "views": 860,
-      "tile_url": "https://api.boss-mini-app.ru/t/c6a6b504f29f257cbe817d80.webp"
-    },
-    {
-      "slug": "bos-mini-n639dp5",
-      "url": "https://bosminiofficial.com/shop/2875/desc/bos-mini-n639dp5",
-      "name": "BOS-MINI N639DP5",
-      "sku": "",
-      "price_rub": 2700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы с экраном"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-6,3 дюймов\n✅Типоразмер-1Din\n✅CarPlay/AndroidAuto\n✅Type-c, USB, AUX\n✅Радиатор охлаждения\n✅Пульт управления, инструкция и фишки для подключения и в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2875.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2875.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2875.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2875.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 37,
-      "added_at": 1773903156,
-      "views": 718,
-      "tile_url": "https://api.boss-mini-app.ru/t/a9e42f2daaf28ceea4389403.webp"
     },
     {
       "slug": "bos-mini-n640dp5",
