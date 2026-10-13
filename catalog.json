@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791895817,
+  "generated_at": 1791896117,
   "scraped_count": 481,
   "products": [
     {
@@ -169,7 +169,7 @@
       "url": "https://bosminiofficial.com/shop/2985/desc/bos-mini-a1203-bmw-style",
       "name": "BOS-MINI A1203 BMW Style",
       "sku": "",
-      "price_rub": 13500,
+      "price_rub": 13700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -841,7 +841,7 @@
       "url": "https://bosminiofficial.com/shop/2986/desc/bos-mini-b1203-audi-style",
       "name": "BOS-MINI B1203 AUDI Style",
       "sku": "",
-      "price_rub": 13500,
+      "price_rub": 13700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -1129,7 +1129,7 @@
       "url": "https://bosminiofficial.com/shop/2987/desc/bos-mini-s1203-mersedes-style",
       "name": "BOS-MINI S1203 Mersedes Style",
       "sku": "",
-      "price_rub": 13500,
+      "price_rub": 13700,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -11875,7 +11875,7 @@
       "stock_count": 0,
       "popularity": 164,
       "added_at": 1776113389,
-      "views": 1482,
+      "views": 1483,
       "tile_url": "https://api.boss-mini-app.ru/t/1ec7edec5d1806ac49f04ab4.webp"
     },
     {
@@ -13763,7 +13763,7 @@
       "stock_count": 0,
       "popularity": 222,
       "added_at": 1752176665,
-      "views": 168,
+      "views": 169,
       "tile_url": "https://api.boss-mini-app.ru/t/3b9b28bfbc55aa8e9d1b151e.webp"
     },
     {
