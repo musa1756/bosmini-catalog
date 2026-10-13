@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791886217,
+  "generated_at": 1791886517,
   "scraped_count": 481,
   "products": [
     {
@@ -417,7 +417,7 @@
       "stock_count": 0,
       "popularity": 3257,
       "added_at": 1752844676,
-      "views": 1984,
+      "views": 1985,
       "tile_url": "https://api.boss-mini-app.ru/t/0c5c4b630f442af93a9826da.webp"
     },
     {
@@ -737,7 +737,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790060062,
-      "views": 100,
+      "views": 101,
       "tile_url": "https://api.boss-mini-app.ru/t/fa546a9d1c29e14137cd8df7.webp"
     },
     {
@@ -2241,7 +2241,7 @@
       "stock_count": 0,
       "popularity": 9,
       "added_at": 1789417479,
-      "views": 82,
+      "views": 83,
       "tile_url": "https://api.boss-mini-app.ru/t/2d8cd76724324777fc6e3fb5.webp"
     },
     {
@@ -3169,7 +3169,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1789418652,
-      "views": 106,
+      "views": 107,
       "tile_url": "https://api.boss-mini-app.ru/t/2af58f6da37191a21858eddd.webp"
     },
     {
@@ -3969,7 +3969,7 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1775199067,
-      "views": 241,
+      "views": 242,
       "tile_url": "https://api.boss-mini-app.ru/t/ac7cd6b781ef7e3467365f97.webp"
     },
     {
@@ -13731,7 +13731,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1791882479,
-      "views": 1,
+      "views": 2,
       "tile_url": "https://api.boss-mini-app.ru/t/48a786ea05d04a02b65b4f64.webp"
     },
     {
@@ -13739,7 +13739,7 @@
       "url": "https://bosminiofficial.com/shop/1527/desc/ramka-s-1din-na-9-djumov",
       "name": "Рамка с 1Din на 9-Дюмов",
       "sku": "",
-      "price_rub": 550,
+      "price_rub": 400,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
