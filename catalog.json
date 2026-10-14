@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1791974416,
-  "scraped_count": 481,
+  "generated_at": 1791974716,
+  "scraped_count": 480,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -929,7 +929,7 @@
       "stock_count": 0,
       "popularity": 62,
       "added_at": 1789377256,
-      "views": 158,
+      "views": 159,
       "tile_url": "https://api.boss-mini-app.ru/t/7d3cc30f3b2f11edba035537.webp"
     },
     {
@@ -963,38 +963,6 @@
       "added_at": 1752859489,
       "views": 1052,
       "tile_url": "https://api.boss-mini-app.ru/t/b60345d37dbb6f03be8a5b5a.webp"
-    },
-    {
-      "slug": "bos-mini-n97d-4-64gb",
-      "url": "https://bosminiofficial.com/shop/1965/desc/bos-mini-n97d-4-64gb",
-      "name": "BOS-MINI N97D 4+64Gb",
-      "sku": "",
-      "price_rub": 5300,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-9.7” ✅Типоразмер-1Din ✅Память-4+64Gb ✅Голосовое управление ✅Кулер охлаждения ✅Провода для подключения и инструкция на русском языке в комплекте!!!",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/19/1965.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/19/1965.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/19/1965.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/19/1965.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 5,
-      "added_at": 1752859585,
-      "views": 586,
-      "tile_url": "https://api.boss-mini-app.ru/t/253d79b630a58640103a570a.webp"
     },
     {
       "slug": "bos-mini-q2-9",
@@ -2209,7 +2177,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1789417555,
-      "views": 110,
+      "views": 111,
       "tile_url": "https://api.boss-mini-app.ru/t/dc39ac03a4a3d0db5e5ec271.webp"
     },
     {
@@ -4065,7 +4033,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1769494404,
-      "views": 231,
+      "views": 232,
       "tile_url": "https://api.boss-mini-app.ru/t/e6221d5ae334b1f1a3a440b7.webp"
     },
     {
