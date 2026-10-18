@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792321517,
-  "scraped_count": 476,
+  "generated_at": 1792321820,
+  "scraped_count": 474,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -129,7 +129,7 @@
       "stock_count": 0,
       "popularity": 912,
       "added_at": 1765176165,
-      "views": 2224,
+      "views": 2226,
       "tile_url": "https://api.boss-mini-app.ru/t/cb3d873d0eff022f4a8b4430.webp"
     },
     {
@@ -833,7 +833,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1782540010,
-      "views": 251,
+      "views": 252,
       "tile_url": "https://api.boss-mini-app.ru/t/400548d971f6c3ac24d29b10.webp"
     },
     {
@@ -1121,7 +1121,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1788416403,
-      "views": 160,
+      "views": 161,
       "tile_url": "https://api.boss-mini-app.ru/t/824504c7bfab19d725768ace.webp"
     },
     {
@@ -1281,7 +1281,7 @@
       "stock_count": 0,
       "popularity": 63,
       "added_at": 1772527002,
-      "views": 1143,
+      "views": 1144,
       "tile_url": "https://api.boss-mini-app.ru/t/d8c5cd69f5fa7cfee483fd5c.webp"
     },
     {
@@ -2209,7 +2209,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1789417633,
-      "views": 91,
+      "views": 92,
       "tile_url": "https://api.boss-mini-app.ru/t/6078eae5eadf542de0b9e4ff.webp"
     },
     {
@@ -5729,7 +5729,7 @@
       "stock_count": 0,
       "popularity": 81,
       "added_at": 1739603510,
-      "views": 727,
+      "views": 728,
       "tile_url": "https://api.boss-mini-app.ru/t/da6ddfff25cfd243b99e0ce3.webp"
     },
     {
@@ -11495,38 +11495,6 @@
       "tile_url": "https://api.boss-mini-app.ru/t/e73f73d5fbf7f44d0670aaa6.webp"
     },
     {
-      "slug": "7010b",
-      "url": "https://bosminiofficial.com/shop/1254/desc/7010b",
-      "name": "7010B",
-      "sku": "",
-      "price_rub": 1650,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы с экраном"
-      ],
-      "brand_tags": [],
-      "description": "✅Экран-7 дюймов сенсорный ✅USB, SD card, Aux выход ✅Bluetooth ✅6 выходов RCA ✅Возможность подключения камеры заднего вида ✅Пульт управления и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/12/1254.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1254.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/12/1254.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1254.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 1668,
-      "added_at": 1738048528,
-      "views": 612,
-      "tile_url": "https://api.boss-mini-app.ru/t/673c14095322a60b8bf3e81d.webp"
-    },
-    {
       "slug": "b0s-mini-678dp5",
       "url": "https://bosminiofficial.com/shop/2965/desc/b0s-mini-678dp5",
       "name": "B0S-MINI 678DP5",
@@ -14659,7 +14627,7 @@
       "stock_count": 0,
       "popularity": 10,
       "added_at": 1787555577,
-      "views": 124,
+      "views": 125,
       "tile_url": "https://api.boss-mini-app.ru/t/ae99039aebff323f141ae33f.webp"
     },
     {
@@ -14885,38 +14853,6 @@
       "added_at": 1753516707,
       "views": 299,
       "tile_url": "https://api.boss-mini-app.ru/t/0069b94690878edda44c8bd6.webp"
-    },
-    {
-      "slug": "sabvufer-syzx-yd-0108",
-      "url": "https://bosminiofficial.com/shop/717/desc/sabvufer-syzx-yd-0108",
-      "name": "Сабвуфер SYZX YD-0108",
-      "sku": "",
-      "price_rub": 3200,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅ С активным усилителем ✅ С комплектом проводов",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/7/717.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/7/717.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/7/717.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/7/717.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 29,
-      "added_at": 1719475285,
-      "views": 476,
-      "tile_url": "https://api.boss-mini-app.ru/t/3c1a3e3f1d25475d57f132b2.webp"
     },
     {
       "slug": "alpine-ap-a5204",
