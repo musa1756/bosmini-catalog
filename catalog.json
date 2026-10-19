@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792398016,
-  "scraped_count": 479,
+  "generated_at": 1792398321,
+  "scraped_count": 480,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -1729,7 +1729,7 @@
       "stock_count": 0,
       "popularity": 137,
       "added_at": 1752853137,
-      "views": 1085,
+      "views": 1086,
       "tile_url": "https://api.boss-mini-app.ru/t/e1438de228214c729d79b987.webp"
     },
     {
@@ -9601,7 +9601,7 @@
       "stock_count": 0,
       "popularity": 41,
       "added_at": 1718304499,
-      "views": 331,
+      "views": 332,
       "tile_url": "https://api.boss-mini-app.ru/t/b33514a4ca39dab0ed906712.webp"
     },
     {
@@ -12775,6 +12775,38 @@
       "tile_url": "https://api.boss-mini-app.ru/t/a51233fb36479d1652811501.webp"
     },
     {
+      "slug": "chevrolet-cruze-2013g-9-chjornyj",
+      "url": "https://bosminiofficial.com/shop/2606/desc/chevrolet-cruze-2013g-9-chjornyj",
+      "name": "Chevrolet Cruze 2012гг - 2015гг 9\" Чёрный",
+      "sku": "",
+      "price_rub": 1450,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Размер рамки 9 ✅️ Провода в комплекте ✅️ Кан-блок в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/26/2606.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2606.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/26/2606.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2606.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 37,
+      "added_at": 1755667405,
+      "views": 314,
+      "tile_url": "https://api.boss-mini-app.ru/t/976ba4acef3bbc34c825f95d.webp"
+    },
+    {
       "slug": "ford-focus-1999-2008",
       "url": "https://bosminiofficial.com/shop/3022/desc/ford-focus-1999-2008",
       "name": "Ford Focus 1999-2008",
@@ -13195,7 +13227,7 @@
       "url": "https://bosminiofficial.com/shop/683/desc/lada-vesta-2023",
       "name": "LADA VESTA 2023+",
       "sku": "",
-      "price_rub": 1000,
+      "price_rub": 900,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
