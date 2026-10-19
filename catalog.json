@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792398321,
-  "scraped_count": 480,
+  "generated_at": 1792398617,
+  "scraped_count": 481,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -161,7 +161,7 @@
       "stock_count": 0,
       "popularity": 25,
       "added_at": 1788416160,
-      "views": 245,
+      "views": 246,
       "tile_url": "https://api.boss-mini-app.ru/t/e83484ef6e7a0150a663bde8.webp"
     },
     {
@@ -449,7 +449,7 @@
       "stock_count": 0,
       "popularity": 940,
       "added_at": 1759819618,
-      "views": 1576,
+      "views": 1577,
       "tile_url": "https://api.boss-mini-app.ru/t/cf0d375a221dd7523791e6e6.webp"
     },
     {
@@ -11715,7 +11715,7 @@
       "stock_count": 0,
       "popularity": 169,
       "added_at": 1776113389,
-      "views": 1543,
+      "views": 1544,
       "tile_url": "https://api.boss-mini-app.ru/t/1ec7edec5d1806ac49f04ab4.webp"
     },
     {
@@ -13605,6 +13605,38 @@
       "added_at": 1718632955,
       "views": 318,
       "tile_url": "https://api.boss-mini-app.ru/t/3bd943cc118642c7b9d9607e.webp"
+    },
+    {
+      "slug": "renault-sandero-symbo1-2015-2018",
+      "url": "https://bosminiofficial.com/shop/1071/desc/renault-sandero-symbo1-2015-2018",
+      "name": "Renault Sandero (Symbo1 2014-2017)",
+      "sku": "",
+      "price_rub": 1700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер рамки: ,,9” ✅ Провода в комплекте..",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/10/1071.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/10/1071.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/10/1071.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/10/1071.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 71,
+      "added_at": 1732002322,
+      "views": 256,
+      "tile_url": "https://api.boss-mini-app.ru/t/769e60f3f74cc970364c2c14.webp"
     },
     {
       "slug": "uaz-patriot-2016",
