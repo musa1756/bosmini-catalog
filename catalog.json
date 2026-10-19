@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792396216,
+  "generated_at": 1792396516,
   "scraped_count": 475,
   "products": [
     {
@@ -2145,7 +2145,7 @@
       "stock_count": 0,
       "popularity": 20,
       "added_at": 1789417555,
-      "views": 124,
+      "views": 125,
       "tile_url": "https://api.boss-mini-app.ru/t/dc39ac03a4a3d0db5e5ec271.webp"
     },
     {
@@ -2817,7 +2817,7 @@
       "stock_count": 0,
       "popularity": 68,
       "added_at": 1769575727,
-      "views": 538,
+      "views": 539,
       "tile_url": "https://api.boss-mini-app.ru/t/42fbfd8e9a77abb1cde7f952.webp"
     },
     {
@@ -6177,7 +6177,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1787554965,
-      "views": 118,
+      "views": 119,
       "tile_url": "https://api.boss-mini-app.ru/t/b726ce1f6c8231b4e6b13fc4.webp"
     },
     {
@@ -8609,7 +8609,7 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1723529241,
-      "views": 276,
+      "views": 277,
       "tile_url": "https://api.boss-mini-app.ru/t/2c699fe05eea355439dcd030.webp"
     },
     {
@@ -13323,7 +13323,7 @@
       "url": "https://bosminiofficial.com/shop/453/desc/lada-vesta-2015",
       "name": "Lada Vesta 2015",
       "sku": "TS00507",
-      "price_rub": 850,
+      "price_rub": 800,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
