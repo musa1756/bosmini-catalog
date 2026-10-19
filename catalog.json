@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792395016,
-  "scraped_count": 474,
+  "generated_at": 1792395316,
+  "scraped_count": 475,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -1153,7 +1153,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1782456237,
-      "views": 239,
+      "views": 240,
       "tile_url": "https://api.boss-mini-app.ru/t/a70aad6dfa0e3b8f353fb5c9.webp"
     },
     {
@@ -8641,7 +8641,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1767296121,
-      "views": 223,
+      "views": 224,
       "tile_url": "https://api.boss-mini-app.ru/t/93fcc3edd3d5160d0e8b75d0.webp"
     },
     {
@@ -13317,6 +13317,38 @@
       "added_at": 1721297725,
       "views": 436,
       "tile_url": "https://api.boss-mini-app.ru/t/056cc23b5799f0daab2632fe.webp"
+    },
+    {
+      "slug": "lada-vesta-2015",
+      "url": "https://bosminiofficial.com/shop/453/desc/lada-vesta-2015",
+      "name": "Lada Vesta 2015",
+      "sku": "TS00507",
+      "price_rub": 850,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "Размер рамки-9\" Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/4/453.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/4/453.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/4/453.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/4/453.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 229,
+      "added_at": 1714856095,
+      "views": 312,
+      "tile_url": "https://api.boss-mini-app.ru/t/646b7676377cd595ca317021.webp"
     },
     {
       "slug": "lada-xray",
