@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792400417,
-  "scraped_count": 484,
+  "generated_at": 1792400716,
+  "scraped_count": 485,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -11843,7 +11843,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1785133944,
-      "views": 270,
+      "views": 271,
       "tile_url": "https://api.boss-mini-app.ru/t/21fd4b91ddb9ab05df22ebae.webp"
     },
     {
@@ -13733,6 +13733,38 @@
       "added_at": 1732002322,
       "views": 256,
       "tile_url": "https://api.boss-mini-app.ru/t/769e60f3f74cc970364c2c14.webp"
+    },
+    {
+      "slug": "toyota-corolla-2008-9-djujmov",
+      "url": "https://bosminiofficial.com/shop/1259/desc/toyota-corolla-2008-9-djujmov",
+      "name": "Toyota Corolla 2008-2013гг 9\"",
+      "sku": "",
+      "price_rub": 500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер рамки-9\" ✅ Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/12/1259.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1259.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/12/1259.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/12/1259.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 38,
+      "added_at": 1738415422,
+      "views": 73,
+      "tile_url": "https://api.boss-mini-app.ru/t/e35a245f72804c512f289450.webp"
     },
     {
       "slug": "uaz-patriot-2016",
