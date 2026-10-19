@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792400716,
-  "scraped_count": 485,
+  "generated_at": 1792401016,
+  "scraped_count": 486,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -13733,6 +13733,38 @@
       "added_at": 1732002322,
       "views": 256,
       "tile_url": "https://api.boss-mini-app.ru/t/769e60f3f74cc970364c2c14.webp"
+    },
+    {
+      "slug": "skoda-rapid-2014",
+      "url": "https://bosminiofficial.com/shop/775/desc/skoda-rapid-2014",
+      "name": "Skoda Rapid 2014 9\" (Глянцевый)",
+      "sku": "",
+      "price_rub": 1100,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки: 9-Дюймовый ✅Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/7/775.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/7/775.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/7/775.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/7/775.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 224,
+      "added_at": 1721378062,
+      "views": 260,
+      "tile_url": "https://api.boss-mini-app.ru/t/5dbe53e211e28672432dc648.webp"
     },
     {
       "slug": "toyota-corolla-2008-9-djujmov",
