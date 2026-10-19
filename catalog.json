@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792397116,
-  "scraped_count": 475,
+  "generated_at": 1792397417,
+  "scraped_count": 477,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -65,7 +65,7 @@
       "stock_count": 0,
       "popularity": 54,
       "added_at": 1763311652,
-      "views": 1059,
+      "views": 1060,
       "tile_url": "https://api.boss-mini-app.ru/t/c3eb69f44f209bb8ccc73a6d.webp"
     },
     {
@@ -161,7 +161,7 @@
       "stock_count": 0,
       "popularity": 25,
       "added_at": 1788416160,
-      "views": 244,
+      "views": 245,
       "tile_url": "https://api.boss-mini-app.ru/t/e83484ef6e7a0150a663bde8.webp"
     },
     {
@@ -4449,7 +4449,7 @@
       "stock_count": 0,
       "popularity": 144,
       "added_at": 1732270639,
-      "views": 622,
+      "views": 623,
       "tile_url": "https://api.boss-mini-app.ru/t/f972857391475127fa1bacda.webp"
     },
     {
@@ -9761,7 +9761,7 @@
       "stock_count": 0,
       "popularity": 148,
       "added_at": 1715285715,
-      "views": 486,
+      "views": 487,
       "tile_url": "https://api.boss-mini-app.ru/t/5962944c31757159439183e7.webp"
     },
     {
@@ -11747,7 +11747,7 @@
       "stock_count": 0,
       "popularity": 32,
       "added_at": 1786687337,
-      "views": 562,
+      "views": 563,
       "tile_url": "https://api.boss-mini-app.ru/t/62f99afe73f57fb0037121ec.webp"
     },
     {
@@ -13095,6 +13095,38 @@
       "tile_url": "https://api.boss-mini-app.ru/t/f40a986f856dc7d11c65ad34.webp"
     },
     {
+      "slug": "hyundai-tucson-ix-35-2010-2015gg",
+      "url": "https://bosminiofficial.com/shop/600/desc/hyundai-tucson-ix-35-2010-2015gg",
+      "name": "Hyundai Tucson/ix 35 2010-2015гг",
+      "sku": "",
+      "price_rub": 800,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер рамки-10\" ✅ Провода в комплекте.",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/6/600.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/6/600.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/6/600.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/6/600.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 144,
+      "added_at": 1716586018,
+      "views": 212,
+      "tile_url": "https://api.boss-mini-app.ru/t/a84b1fd41f163a9b12166ac9.webp"
+    },
+    {
       "slug": "kia-k5-2016g",
       "url": "https://bosminiofficial.com/shop/2597/desc/kia-k5-2016g",
       "name": "Kia K5 2016г",
@@ -13381,6 +13413,38 @@
       "added_at": 1753205133,
       "views": 181,
       "tile_url": "https://api.boss-mini-app.ru/t/84aaaeaf26bd6e23c15de08e.webp"
+    },
+    {
+      "slug": "mitsubishi-outlander-2008-2012gg-9-djujmov",
+      "url": "https://bosminiofficial.com/shop/2601/desc/mitsubishi-outlander-2008-2012gg-9-djujmov",
+      "name": "Mitsubishi Outlander 2008-2015гг. 9 дюймов",
+      "sku": "",
+      "price_rub": 500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Размер экран 9 ✅️ Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/26/2601.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2601.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/26/2601.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2601.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 104,
+      "added_at": 1755666937,
+      "views": 115,
+      "tile_url": "https://api.boss-mini-app.ru/t/103484daab3d493c570efbb9.webp"
     },
     {
       "slug": "nissan-qashqai-2014-10-djujmov",
