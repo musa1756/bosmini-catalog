@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792398617,
-  "scraped_count": 481,
+  "generated_at": 1792398917,
+  "scraped_count": 483,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -2561,7 +2561,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1791882363,
-      "views": 47,
+      "views": 48,
       "tile_url": "https://api.boss-mini-app.ru/t/b6ec39770e16ec18fc7a31fa.webp"
     },
     {
@@ -5921,7 +5921,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1747484451,
-      "views": 526,
+      "views": 527,
       "tile_url": "https://api.boss-mini-app.ru/t/b9454966fdd50daa54226c40.webp"
     },
     {
@@ -9473,7 +9473,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1734506942,
-      "views": 304,
+      "views": 305,
       "tile_url": "https://api.boss-mini-app.ru/t/adf9a1d209956532121f04f1.webp"
     },
     {
@@ -9505,7 +9505,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1734507022,
-      "views": 286,
+      "views": 288,
       "tile_url": "https://api.boss-mini-app.ru/t/3cfe409f4b22c4b3e677d7c3.webp"
     },
     {
@@ -13351,6 +13351,38 @@
       "tile_url": "https://api.boss-mini-app.ru/t/9c55880222fd798e98f2d18f.webp"
     },
     {
+      "slug": "lada-largus-2012g",
+      "url": "https://bosminiofficial.com/shop/2600/desc/lada-largus-2012g",
+      "name": "Lada Largus 2012гг 9\"",
+      "sku": "",
+      "price_rub": 800,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Размер экран 9 ✅️ Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/26/2600.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2600.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/26/2600.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2600.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 26,
+      "added_at": 1755666874,
+      "views": 45,
+      "tile_url": "https://api.boss-mini-app.ru/t/143dce18a641c6e765f1b755.webp"
+    },
+    {
       "slug": "lada-priora-2007-2014",
       "url": "https://bosminiofficial.com/shop/2609/desc/lada-priora-2007-2014",
       "name": "Lada Priora 2007-2014",
@@ -13541,6 +13573,38 @@
       "added_at": 1755666937,
       "views": 115,
       "tile_url": "https://api.boss-mini-app.ru/t/103484daab3d493c570efbb9.webp"
+    },
+    {
+      "slug": "nissan-qashqai-2008-2014",
+      "url": "https://bosminiofficial.com/shop/762/desc/nissan-qashqai-2008-2014",
+      "name": "Nissan Qashqai 2008- 2014",
+      "sku": "",
+      "price_rub": 700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер Рамки: 9-Дюймовый ✅Провода в комплекте.",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/7/762.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/7/762.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/7/762.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/7/762.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 91,
+      "added_at": 1721286613,
+      "views": 163,
+      "tile_url": "https://api.boss-mini-app.ru/t/b9eeee9fadb7eff53bd566d9.webp"
     },
     {
       "slug": "nissan-qashqai-2014-10-djujmov",
