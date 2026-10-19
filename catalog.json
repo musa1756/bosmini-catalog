@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792402216,
-  "scraped_count": 488,
+  "generated_at": 1792402516,
+  "scraped_count": 489,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -1057,7 +1057,7 @@
       "stock_count": 0,
       "popularity": 43,
       "added_at": 1752866604,
-      "views": 350,
+      "views": 351,
       "tile_url": "https://api.boss-mini-app.ru/t/0794fc9297a5446ed9119b0f.webp"
     },
     {
@@ -1409,7 +1409,7 @@
       "stock_count": 0,
       "popularity": 49,
       "added_at": 1764494672,
-      "views": 1338,
+      "views": 1339,
       "tile_url": "https://api.boss-mini-app.ru/t/22ae7a5acb3214e7e50c3559.webp"
     },
     {
@@ -7201,7 +7201,7 @@
       "stock_count": 0,
       "popularity": 130,
       "added_at": 1750492956,
-      "views": 132,
+      "views": 133,
       "tile_url": "https://api.boss-mini-app.ru/t/1c0d9b34ddd237922db77350.webp"
     },
     {
@@ -9089,7 +9089,7 @@
       "stock_count": 0,
       "popularity": 99,
       "added_at": 1745502365,
-      "views": 306,
+      "views": 307,
       "tile_url": "https://api.boss-mini-app.ru/t/74861eaac5bdd1e50f0fae4b.webp"
     },
     {
@@ -9345,7 +9345,7 @@
       "stock_count": 0,
       "popularity": 214,
       "added_at": 1753519365,
-      "views": 285,
+      "views": 286,
       "tile_url": "https://api.boss-mini-app.ru/t/e13ed58db65b6a472bfc5f72.webp"
     },
     {
@@ -9473,7 +9473,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1734506942,
-      "views": 305,
+      "views": 306,
       "tile_url": "https://api.boss-mini-app.ru/t/adf9a1d209956532121f04f1.webp"
     },
     {
@@ -13637,6 +13637,38 @@
       "added_at": 1752932250,
       "views": 137,
       "tile_url": "https://api.boss-mini-app.ru/t/bad367fbfbc3759f2fb4be9d.webp"
+    },
+    {
+      "slug": "mitsubishi-lancer-2010-9",
+      "url": "https://bosminiofficial.com/shop/2602/desc/mitsubishi-lancer-2010-9",
+      "name": "Mitsubishi Lancer 2010 9\"",
+      "sku": "",
+      "price_rub": 950,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Размер экран 9 ✅️ Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/26/2602.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2602.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/26/2602.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2602.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 11,
+      "added_at": 1755667033,
+      "views": 41,
+      "tile_url": "https://api.boss-mini-app.ru/t/2057362f560561806168b7df.webp"
     },
     {
       "slug": "mitsubishi-outlander-2008-2012gg-9-djujmov",
