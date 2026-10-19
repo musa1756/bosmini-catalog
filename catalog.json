@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792398917,
+  "generated_at": 1792399217,
   "scraped_count": 483,
   "products": [
     {
@@ -3329,7 +3329,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1791664460,
-      "views": 57,
+      "views": 58,
       "tile_url": "https://api.boss-mini-app.ru/t/9f7b5fb8c8d4dfa8491de1ed.webp"
     },
     {
@@ -13449,8 +13449,8 @@
     {
       "slug": "lada-vesta-2015",
       "url": "https://bosminiofficial.com/shop/453/desc/lada-vesta-2015",
-      "name": "Lada Vesta 2015",
-      "sku": "TS00507",
+      "name": "Lada Vesta 2015-2018гг 9\"",
+      "sku": "Lada",
       "price_rub": 800,
       "old_price_rub": null,
       "in_stock": true,
@@ -13577,7 +13577,7 @@
     {
       "slug": "nissan-qashqai-2008-2014",
       "url": "https://bosminiofficial.com/shop/762/desc/nissan-qashqai-2008-2014",
-      "name": "Nissan Qashqai 2008- 2014",
+      "name": "Nissan Qashqai 2007-2015гг 9\"",
       "sku": "",
       "price_rub": 700,
       "old_price_rub": null,
