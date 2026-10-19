@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792412117,
-  "scraped_count": 489,
+  "generated_at": 1792412417,
+  "scraped_count": 488,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -1217,7 +1217,7 @@
       "stock_count": 0,
       "popularity": 57,
       "added_at": 1764313847,
-      "views": 1577,
+      "views": 1578,
       "tile_url": "https://api.boss-mini-app.ru/t/111c87e93094b2f223128b3b.webp"
     },
     {
@@ -2725,38 +2725,6 @@
       "tile_url": "https://api.boss-mini-app.ru/t/99e60c4871b112a8f535d19c.webp"
     },
     {
-      "slug": "es80-4-64gb",
-      "url": "https://bosminiofficial.com/shop/2011/desc/es80-4-64gb",
-      "name": "ES80 4+64Gb",
-      "sku": "",
-      "price_rub": 6800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-10.1\"дюймов ✅Память- 4+64Gb ✅CarPlay ✅Кулер охлаждения ✅Рамка и набор проводов для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/20/2011.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/20/2011.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/20/2011.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/20/2011.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 19,
-      "added_at": 1752907950,
-      "views": 260,
-      "tile_url": "https://api.boss-mini-app.ru/t/2ebe43357cda9063222dccba.webp"
-    },
-    {
       "slug": "h41-nano-2-32g",
       "url": "https://bosminiofficial.com/shop/2765/desc/h41-nano-2-32g",
       "name": "H41 Nano 2+32G",
@@ -3105,7 +3073,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1789418652,
-      "views": 116,
+      "views": 117,
       "tile_url": "https://api.boss-mini-app.ru/t/2af58f6da37191a21858eddd.webp"
     },
     {
@@ -3169,7 +3137,7 @@
       "stock_count": 0,
       "popularity": 3761,
       "added_at": 1753683801,
-      "views": 835,
+      "views": 836,
       "tile_url": "https://api.boss-mini-app.ru/t/bdadb5a3e5b757ccaa00fdf0.webp"
     },
     {
@@ -3329,7 +3297,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1791664460,
-      "views": 61,
+      "views": 62,
       "tile_url": "https://api.boss-mini-app.ru/t/9f7b5fb8c8d4dfa8491de1ed.webp"
     },
     {
