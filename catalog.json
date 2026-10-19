@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792414817,
-  "scraped_count": 488,
+  "generated_at": 1792415116,
+  "scraped_count": 487,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -1217,7 +1217,7 @@
       "stock_count": 0,
       "popularity": 57,
       "added_at": 1764313847,
-      "views": 1578,
+      "views": 1579,
       "tile_url": "https://api.boss-mini-app.ru/t/111c87e93094b2f223128b3b.webp"
     },
     {
@@ -5957,38 +5957,6 @@
       "tile_url": "https://api.boss-mini-app.ru/t/25b37c2417899def89d1b47a.webp"
     },
     {
-      "slug": "bos-mini-l-369",
-      "url": "https://bosminiofficial.com/shop/1312/desc/bos-mini-l-369",
-      "name": "Bos-Mini L-369",
-      "sku": "",
-      "price_rub": 700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅ В комплекте провода на 5 метров",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/13/1312.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/13/1312.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/13/1312.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/13/1312.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 1027,
-      "added_at": 1740736611,
-      "views": 771,
-      "tile_url": "https://api.boss-mini-app.ru/t/66fa8a2be3800958250c4573.webp"
-    },
-    {
       "slug": "bos-mini-l-817",
       "url": "https://bosminiofficial.com/shop/2708/desc/bos-mini-l-817",
       "name": "Bos-Mini L-817",
@@ -8385,7 +8353,7 @@
       "stock_count": 0,
       "popularity": 91,
       "added_at": 1723527380,
-      "views": 824,
+      "views": 825,
       "tile_url": "https://api.boss-mini-app.ru/t/58bbce276b129b6c4e7eee7c.webp"
     },
     {
@@ -11619,7 +11587,7 @@
       "stock_count": 0,
       "popularity": 63,
       "added_at": 1778219987,
-      "views": 798,
+      "views": 799,
       "tile_url": "https://api.boss-mini-app.ru/t/a401c8c37539da31ecde9215.webp"
     },
     {
