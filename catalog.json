@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792400116,
-  "scraped_count": 483,
+  "generated_at": 1792400417,
+  "scraped_count": 484,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -705,7 +705,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790060062,
-      "views": 111,
+      "views": 112,
       "tile_url": "https://api.boss-mini-app.ru/t/fa546a9d1c29e14137cd8df7.webp"
     },
     {
@@ -3361,7 +3361,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1785308346,
-      "views": 165,
+      "views": 166,
       "tile_url": "https://api.boss-mini-app.ru/t/abf149dab5cadbb783add415.webp"
     },
     {
@@ -12843,7 +12843,7 @@
       "url": "https://bosminiofficial.com/shop/3024/desc/ford-focus-2012-2017-9",
       "name": "Ford Focus 2012 - 2017 9\"",
       "sku": "",
-      "price_rub": 2200,
+      "price_rub": 2000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -13383,6 +13383,38 @@
       "tile_url": "https://api.boss-mini-app.ru/t/143dce18a641c6e765f1b755.webp"
     },
     {
+      "slug": "lada-niva-2019",
+      "url": "https://bosminiofficial.com/shop/2566/desc/lada-niva-2019",
+      "name": "Lada Niva 2019+",
+      "sku": "",
+      "price_rub": 1050,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Размер рамки ,,9\" ✅️ Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/25/2566.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/25/2566.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/25/2566.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/25/2566.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 44,
+      "added_at": 1754638466,
+      "views": 90,
+      "tile_url": "https://api.boss-mini-app.ru/t/d12c133458d91df7273be121.webp"
+    },
+    {
       "slug": "lada-priora-2007-2014",
       "url": "https://bosminiofficial.com/shop/2609/desc/lada-priora-2007-2014",
       "name": "Lada Priora 2007-2014",
@@ -13673,7 +13705,7 @@
     {
       "slug": "renault-sandero-symbo1-2015-2018",
       "url": "https://bosminiofficial.com/shop/1071/desc/renault-sandero-symbo1-2015-2018",
-      "name": "Renault Sandero (Symbo1 2014-2017)",
+      "name": "Renault Sandero (SYMBOL 2014-2017)",
       "sku": "",
       "price_rub": 1700,
       "old_price_rub": null,
