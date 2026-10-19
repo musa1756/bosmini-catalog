@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792401316,
-  "scraped_count": 486,
+  "generated_at": 1792401617,
+  "scraped_count": 488,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -8609,7 +8609,7 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1723529241,
-      "views": 277,
+      "views": 278,
       "tile_url": "https://api.boss-mini-app.ru/t/2c699fe05eea355439dcd030.webp"
     },
     {
@@ -12807,6 +12807,38 @@
       "tile_url": "https://api.boss-mini-app.ru/t/976ba4acef3bbc34c825f95d.webp"
     },
     {
+      "slug": "chevrolet-lacetti-2013",
+      "url": "https://bosminiofficial.com/shop/768/desc/chevrolet-lacetti-2013",
+      "name": "Chevrolet Lacetti 2013 (Чёрный)",
+      "sku": "",
+      "price_rub": 500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки: 9-Дюймовый ✅Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/7/768.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/7/768.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/7/768.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/7/768.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 46,
+      "added_at": 1721296121,
+      "views": 105,
+      "tile_url": "https://api.boss-mini-app.ru/t/0b35903e07c6bdf6b6e036ee.webp"
+    },
+    {
       "slug": "ford-focus-1999-2008",
       "url": "https://bosminiofficial.com/shop/3022/desc/ford-focus-1999-2008",
       "name": "Ford Focus 1999-2008",
@@ -13157,6 +13189,38 @@
       "added_at": 1716586018,
       "views": 212,
       "tile_url": "https://api.boss-mini-app.ru/t/a84b1fd41f163a9b12166ac9.webp"
+    },
+    {
+      "slug": "kia-ceed-2013g-9",
+      "url": "https://bosminiofficial.com/shop/2603/desc/kia-ceed-2013g-9",
+      "name": "Kia Ceed 2013г 9\"",
+      "sku": "",
+      "price_rub": 500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Размер экран 9 ✅️ Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/26/2603.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2603.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/26/2603.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/26/2603.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 23,
+      "added_at": 1755667108,
+      "views": 48,
+      "tile_url": "https://api.boss-mini-app.ru/t/75bdc199f1ab747f652a6003.webp"
     },
     {
       "slug": "kia-k5-2016g",
