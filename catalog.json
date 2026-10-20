@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792479617,
-  "scraped_count": 486,
+  "generated_at": 1792479916,
+  "scraped_count": 489,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -961,7 +961,7 @@
       "stock_count": 0,
       "popularity": 165,
       "added_at": 1752862854,
-      "views": 668,
+      "views": 669,
       "tile_url": "https://api.boss-mini-app.ru/t/ccb77972b65dd6b8a4c55c02.webp"
     },
     {
@@ -2241,7 +2241,7 @@
       "stock_count": 0,
       "popularity": 56,
       "added_at": 1782024662,
-      "views": 242,
+      "views": 243,
       "tile_url": "https://api.boss-mini-app.ru/t/1482daf6866b9d0c3f37e11a.webp"
     },
     {
@@ -6245,6 +6245,38 @@
       "tile_url": "https://api.boss-mini-app.ru/t/fa1d23479c8c03331d191138.webp"
     },
     {
+      "slug": "renault-logan-2004-2008gg-9",
+      "url": "https://bosminiofficial.com/shop/3084/desc/renault-logan-2004-2008gg-9",
+      "name": "Renault Logan 2004-2008гг 9\"",
+      "sku": "",
+      "price_rub": 1500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-9\"\n✅Провода и CAN в комплекте\n✅Цвет- серый",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3084.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3084.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3084.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3084.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792479770,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/dd8e55346cfa686c5312737d.webp"
+    },
+    {
       "slug": "tomboss-t16",
       "url": "https://bosminiofficial.com/shop/2940/desc/tomboss-t16",
       "name": "TOMBOSS T16",
@@ -6371,6 +6403,70 @@
       "added_at": 1771148839,
       "views": 380,
       "tile_url": "https://api.boss-mini-app.ru/t/2b95f38fc0dcba9ec4517eb0.webp"
+    },
+    {
+      "slug": "toyota-corolla-2013-2016-gg-10",
+      "url": "https://bosminiofficial.com/shop/3085/desc/toyota-corolla-2013-2016-gg-10",
+      "name": "Toyota Corolla 2013-2016 гг. 10\"",
+      "sku": "",
+      "price_rub": 500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-10\"\n✅Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3085.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3085.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3085.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3085.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792479872,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/fb99e0a1675987cb7711c59d.webp"
+    },
+    {
+      "slug": "wolkswagen-passat-2012gg-10",
+      "url": "https://bosminiofficial.com/shop/3083/desc/wolkswagen-passat-2012gg-10",
+      "name": "Wolkswagen Passat 2012гг 10\"",
+      "sku": "",
+      "price_rub": 1000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-10\"\n✅Провода и CAN в комплекте\n✅Цвет- серый",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3083.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3083.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3083.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3083.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792479687,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/06b1df0cd08e8925e39f20df.webp"
     },
     {
       "slug": "videoregistrator-c8",
@@ -7649,7 +7745,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1782390251,
-      "views": 160,
+      "views": 161,
       "tile_url": "https://api.boss-mini-app.ru/t/1ca114368d12af7ad00a2ff1.webp"
     },
     {
@@ -8865,7 +8961,7 @@
       "stock_count": 0,
       "popularity": 141,
       "added_at": 1721656363,
-      "views": 335,
+      "views": 336,
       "tile_url": "https://api.boss-mini-app.ru/t/37434b9f855e2cd93ef094b5.webp"
     },
     {
@@ -9185,7 +9281,7 @@
       "stock_count": 0,
       "popularity": 112,
       "added_at": 1745502255,
-      "views": 252,
+      "views": 253,
       "tile_url": "https://api.boss-mini-app.ru/t/6ec2a7abf033999727b55f60.webp"
     },
     {
@@ -9249,7 +9345,7 @@
       "stock_count": 0,
       "popularity": 215,
       "added_at": 1753519365,
-      "views": 286,
+      "views": 287,
       "tile_url": "https://api.boss-mini-app.ru/t/e13ed58db65b6a472bfc5f72.webp"
     },
     {
@@ -9441,7 +9537,7 @@
       "stock_count": 0,
       "popularity": 60,
       "added_at": 1718304718,
-      "views": 244,
+      "views": 245,
       "tile_url": "https://api.boss-mini-app.ru/t/97b295b37c153976891cc012.webp"
     },
     {
