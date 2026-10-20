@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792484116,
-  "scraped_count": 492,
+  "generated_at": 1792484417,
+  "scraped_count": 493,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -5921,7 +5921,7 @@
       "stock_count": 0,
       "popularity": 58,
       "added_at": 1764785199,
-      "views": 338,
+      "views": 339,
       "tile_url": "https://api.boss-mini-app.ru/t/b989ead2fe1fdc0da6e6d4c3.webp"
     },
     {
@@ -6213,6 +6213,38 @@
       "tile_url": "https://api.boss-mini-app.ru/t/9d1b0292782fe12407f62969.webp"
     },
     {
+      "slug": "kia-rio-k2-2017gg-9",
+      "url": "https://bosminiofficial.com/shop/3089/desc/kia-rio-k2-2017gg-9",
+      "name": "Kia Rio (K2) 2017гг 9\"",
+      "sku": "",
+      "price_rub": 500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-9 дюймов\n✅Провода в комплект",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3089.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3089.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3089.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3089.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792484294,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/cd1d1e3c4fb643c54465501b.webp"
+    },
+    {
       "slug": "mazda-cx7-2014gg-9",
       "url": "https://bosminiofficial.com/shop/3088/desc/mazda-cx7-2014gg-9",
       "name": "Mazda CX7 2014гг 9\"",
@@ -6241,7 +6273,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792480230,
-      "views": 4,
+      "views": 5,
       "tile_url": "https://api.boss-mini-app.ru/t/19dad6ba522fbf49e285b0a8.webp"
     },
     {
@@ -6337,7 +6369,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792479969,
-      "views": 4,
+      "views": 5,
       "tile_url": "https://api.boss-mini-app.ru/t/8b1e80bda28e6fbfc2a8ff00.webp"
     },
     {
