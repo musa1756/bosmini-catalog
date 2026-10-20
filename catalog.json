@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792480217,
-  "scraped_count": 491,
+  "generated_at": 1792480516,
+  "scraped_count": 492,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -6113,7 +6113,7 @@
       "stock_count": 0,
       "popularity": 78,
       "added_at": 1737099829,
-      "views": 475,
+      "views": 476,
       "tile_url": "https://api.boss-mini-app.ru/t/e0e8208c605f87e185f0937d.webp"
     },
     {
@@ -6211,6 +6211,38 @@
       "added_at": 1792479290,
       "views": 1,
       "tile_url": "https://api.boss-mini-app.ru/t/9d1b0292782fe12407f62969.webp"
+    },
+    {
+      "slug": "mazda-cx7-2014gg-9",
+      "url": "https://bosminiofficial.com/shop/3088/desc/mazda-cx7-2014gg-9",
+      "name": "Mazda CX7 2014гг 9\"",
+      "sku": "",
+      "price_rub": 1250,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-9 дюймов\n✅Провода и CAN в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3088.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3088.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3088.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3088.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792480230,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/19dad6ba522fbf49e285b0a8.webp"
     },
     {
       "slug": "renault-duster-2010-2014gg-9",
@@ -13251,7 +13283,7 @@
       "stock_count": 0,
       "popularity": 144,
       "added_at": 1716586018,
-      "views": 215,
+      "views": 216,
       "tile_url": "https://api.boss-mini-app.ru/t/a84b1fd41f163a9b12166ac9.webp"
     },
     {
