@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792476616,
-  "scraped_count": 487,
+  "generated_at": 1792476917,
+  "scraped_count": 485,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -1571,38 +1571,6 @@
       "added_at": 1765802832,
       "views": 922,
       "tile_url": "https://api.boss-mini-app.ru/t/85df975306795702b7fab8c3.webp"
-    },
-    {
-      "slug": "bos-mini-k71",
-      "url": "https://bosminiofficial.com/shop/2756/desc/bos-mini-k71",
-      "name": "Bos-Mini K71",
-      "sku": "",
-      "price_rub": 4000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-7\"\n✅Типоразмер-1Din\n✅Память-4+64Gb\n✅USB и Type C разъемы\n✅Расположение кнопок в нижней части экрана\n✅Кулер охлаждения\n✅Провода для подключения в комплекте!!!",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/27/2756.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2756.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/27/2756.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/27/2756.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 31,
-      "added_at": 1765802523,
-      "views": 1377,
-      "tile_url": "https://api.boss-mini-app.ru/t/e73027dc68d9edaa3a373ee3.webp"
     },
     {
       "slug": "bos-mini-k72",
@@ -5765,38 +5733,6 @@
       "tile_url": "https://api.boss-mini-app.ru/t/735e51e5acb2325195e55ac4.webp"
     },
     {
-      "slug": "bos-mini-k15l-wi-fi",
-      "url": "https://bosminiofficial.com/shop/2952/desc/bos-mini-k15l-wi-fi",
-      "name": "BOS-MINI K15L Wi-Fi",
-      "sku": "",
-      "price_rub": 2400,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-3,18 дюймов\n✅Разрешение камеры-4K и 2K\n✅Система ADAS\n✅Двухканальная запись\n✅Wi-Fi соединение\n✅Камера заднего вида, провода 5м. и зарядное устройство в комплекте!",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2952.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2952.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2952.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2952.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 24,
-      "added_at": 1781946848,
-      "views": 232,
-      "tile_url": "https://api.boss-mini-app.ru/t/b4a16efc387b648a92b97f6d.webp"
-    },
-    {
       "slug": "bos-mini-x13pro",
       "url": "https://bosminiofficial.com/shop/2953/desc/bos-mini-x13pro",
       "name": "BOS-MINI X13Pro",
@@ -9249,7 +9185,7 @@
       "stock_count": 0,
       "popularity": 128,
       "added_at": 1745558815,
-      "views": 356,
+      "views": 357,
       "tile_url": "https://api.boss-mini-app.ru/t/e78702bbb1093ef896c6d938.webp"
     },
     {
