@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792479317,
-  "scraped_count": 485,
+  "generated_at": 1792479617,
+  "scraped_count": 486,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -6209,8 +6209,40 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792479290,
-      "views": 0,
+      "views": 1,
       "tile_url": "https://api.boss-mini-app.ru/t/9d1b0292782fe12407f62969.webp"
+    },
+    {
+      "slug": "renault-duster-2010-2014gg-9",
+      "url": "https://bosminiofficial.com/shop/3082/desc/renault-duster-2010-2014gg-9",
+      "name": "Renault Duster 2010-2014гг 9\"",
+      "sku": "",
+      "price_rub": 1850,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-9\"\n✅Провода и CAN в комплекте.",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3082.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3082.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3082.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3082.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792479582,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/fa1d23479c8c03331d191138.webp"
     },
     {
       "slug": "tomboss-t16",
@@ -7937,7 +7969,7 @@
       "stock_count": 0,
       "popularity": 40,
       "added_at": 1783409197,
-      "views": 149,
+      "views": 150,
       "tile_url": "https://api.boss-mini-app.ru/t/6bc2c8b5d31c20ae0ed0b425.webp"
     },
     {
@@ -8385,7 +8417,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1765546118,
-      "views": 358,
+      "views": 359,
       "tile_url": "https://api.boss-mini-app.ru/t/b5443e18dcef0763ba464221.webp"
     },
     {
@@ -8737,7 +8769,7 @@
       "stock_count": 0,
       "popularity": 12,
       "added_at": 1755665003,
-      "views": 199,
+      "views": 200,
       "tile_url": "https://api.boss-mini-app.ru/t/2a44ddd26fb8935b2408fca4.webp"
     },
     {
@@ -8929,7 +8961,7 @@
       "stock_count": 0,
       "popularity": 178,
       "added_at": 1751111969,
-      "views": 280,
+      "views": 281,
       "tile_url": "https://api.boss-mini-app.ru/t/283c9a6f0e69729c90950959.webp"
     },
     {
@@ -9121,7 +9153,7 @@
       "stock_count": 0,
       "popularity": 132,
       "added_at": 1767297338,
-      "views": 332,
+      "views": 333,
       "tile_url": "https://api.boss-mini-app.ru/t/480696ce328207252879a09a.webp"
     },
     {
@@ -9345,7 +9377,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1734506942,
-      "views": 306,
+      "views": 307,
       "tile_url": "https://api.boss-mini-app.ru/t/adf9a1d209956532121f04f1.webp"
     },
     {
@@ -9761,7 +9793,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1784269320,
-      "views": 132,
+      "views": 133,
       "tile_url": "https://api.boss-mini-app.ru/t/13dbc3f3cdd527fb0eb907f3.webp"
     },
     {
@@ -12419,7 +12451,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1754137097,
-      "views": 778,
+      "views": 779,
       "tile_url": "https://api.boss-mini-app.ru/t/f76ed901860334c31e633025.webp"
     },
     {
@@ -13891,7 +13923,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1791882479,
-      "views": 46,
+      "views": 47,
       "tile_url": "https://api.boss-mini-app.ru/t/48a786ea05d04a02b65b4f64.webp"
     },
     {
@@ -14179,7 +14211,7 @@
       "stock_count": 0,
       "popularity": 341,
       "added_at": 1753860442,
-      "views": 261,
+      "views": 262,
       "tile_url": "https://api.boss-mini-app.ru/t/15ae365eb6f93a6da45f40ea.webp"
     },
     {
@@ -14947,7 +14979,7 @@
       "stock_count": 0,
       "popularity": 151,
       "added_at": 1755617876,
-      "views": 362,
+      "views": 363,
       "tile_url": "https://api.boss-mini-app.ru/t/0c034e71b4951d671141624d.webp"
     },
     {
