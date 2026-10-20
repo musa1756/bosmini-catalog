@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792485016,
-  "scraped_count": 485,
+  "generated_at": 1792485316,
+  "scraped_count": 496,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -129,7 +129,7 @@
       "stock_count": 0,
       "popularity": 912,
       "added_at": 1765176165,
-      "views": 2236,
+      "views": 2237,
       "tile_url": "https://api.boss-mini-app.ru/t/cb3d873d0eff022f4a8b4430.webp"
     },
     {
@@ -6181,38 +6181,6 @@
       "tile_url": "https://api.boss-mini-app.ru/t/7a538b3a30d8fb08a6788ba2.webp"
     },
     {
-      "slug": "nissan-almera-2012-2019gg-9",
-      "url": "https://bosminiofficial.com/shop/3092/desc/nissan-almera-2012-2019gg-9",
-      "name": "Nissan Almera 2012-2019гг 9\"",
-      "sku": "",
-      "price_rub": 800,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер рамки-9\"\n✅Провода в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3092.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3092.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3092.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3092.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 0,
-      "added_at": 1792484818,
-      "views": 1,
-      "tile_url": "https://api.boss-mini-app.ru/t/a1f401a410c9d29295e4f2bb.webp"
-    },
-    {
       "slug": "tomboss-t16",
       "url": "https://bosminiofficial.com/shop/2940/desc/tomboss-t16",
       "name": "TOMBOSS T16",
@@ -8673,7 +8641,7 @@
       "stock_count": 0,
       "popularity": 106,
       "added_at": 1753859805,
-      "views": 341,
+      "views": 342,
       "tile_url": "https://api.boss-mini-app.ru/t/1b09beb250ecf131024289ca.webp"
     },
     {
@@ -12967,6 +12935,38 @@
       "tile_url": "https://api.boss-mini-app.ru/t/b5e917e4285570ae855e4dea.webp"
     },
     {
+      "slug": "hyundai-accent-2011-2016-chernyj",
+      "url": "https://bosminiofficial.com/shop/3081/desc/hyundai-accent-2011-2016-chernyj",
+      "name": "Hyundai Accent 2011-2016 (Черный)",
+      "sku": "",
+      "price_rub": 700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-9\"\n✅Провода в комплекте\n✅Цвет-черный",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3081.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3081.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3081.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3081.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792479290,
+      "views": 3,
+      "tile_url": "https://api.boss-mini-app.ru/t/9d1b0292782fe12407f62969.webp"
+    },
+    {
       "slug": "hyundai-accent-2017-chernyj",
       "url": "https://bosminiofficial.com/shop/3023/desc/hyundai-accent-2017-chernyj",
       "name": "Hyundai Accent 2017 (Черный)",
@@ -13125,6 +13125,70 @@
       "added_at": 1755666601,
       "views": 215,
       "tile_url": "https://api.boss-mini-app.ru/t/fcd76fe01eddc35a40e5f009.webp"
+    },
+    {
+      "slug": "kia-rio-k2-2017gg-10",
+      "url": "https://bosminiofficial.com/shop/3090/desc/kia-rio-k2-2017gg-10",
+      "name": "Kia Rio (K2) 2017гг 10\"",
+      "sku": "",
+      "price_rub": 650,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки: 10-дюймов\n✅Провода в комплект",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3090.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3090.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3090.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3090.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792484451,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/d70f40eb1ce01936181355c5.webp"
+    },
+    {
+      "slug": "kia-rio-k2-2017gg-9",
+      "url": "https://bosminiofficial.com/shop/3089/desc/kia-rio-k2-2017gg-9",
+      "name": "Kia Rio (K2) 2017гг 9\"",
+      "sku": "",
+      "price_rub": 500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-9 дюймов\n✅Провода в комплект",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3089.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3089.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3089.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3089.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792484294,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/cd1d1e3c4fb643c54465501b.webp"
     },
     {
       "slug": "kia-rio-2012-2016",
@@ -13479,6 +13543,38 @@
       "tile_url": "https://api.boss-mini-app.ru/t/84aaaeaf26bd6e23c15de08e.webp"
     },
     {
+      "slug": "mazda-cx7-2014gg-9",
+      "url": "https://bosminiofficial.com/shop/3088/desc/mazda-cx7-2014gg-9",
+      "name": "Mazda CX7 2014гг 9\"",
+      "sku": "",
+      "price_rub": 1250,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-9 дюймов\n✅Провода и CAN в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3088.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3088.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3088.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3088.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792480230,
+      "views": 5,
+      "tile_url": "https://api.boss-mini-app.ru/t/19dad6ba522fbf49e285b0a8.webp"
+    },
+    {
       "slug": "mitsubishi-lancer-2010-10",
       "url": "https://bosminiofficial.com/shop/2481/desc/mitsubishi-lancer-2010-10",
       "name": "Mitsubishi Lancer 2010 10\"",
@@ -13573,6 +13669,38 @@
       "added_at": 1755666937,
       "views": 115,
       "tile_url": "https://api.boss-mini-app.ru/t/103484daab3d493c570efbb9.webp"
+    },
+    {
+      "slug": "nissan-almera-2012-2019gg-9",
+      "url": "https://bosminiofficial.com/shop/3092/desc/nissan-almera-2012-2019gg-9",
+      "name": "Nissan Almera 2012-2019гг 9\"",
+      "sku": "",
+      "price_rub": 800,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-9\"\n✅Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3092.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3092.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3092.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3092.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792484818,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/a1f401a410c9d29295e4f2bb.webp"
     },
     {
       "slug": "nissan-qashqai-2008-2014",
@@ -13671,6 +13799,70 @@
       "tile_url": "https://api.boss-mini-app.ru/t/3bd943cc118642c7b9d9607e.webp"
     },
     {
+      "slug": "renault-duster-2010-2014gg-9",
+      "url": "https://bosminiofficial.com/shop/3082/desc/renault-duster-2010-2014gg-9",
+      "name": "Renault Duster 2010-2014гг 9\"",
+      "sku": "",
+      "price_rub": 1850,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-9\"\n✅Провода и CAN в комплекте.",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3082.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3082.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3082.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3082.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792479582,
+      "views": 4,
+      "tile_url": "https://api.boss-mini-app.ru/t/fa1d23479c8c03331d191138.webp"
+    },
+    {
+      "slug": "renault-logan-2004-2008gg-9",
+      "url": "https://bosminiofficial.com/shop/3084/desc/renault-logan-2004-2008gg-9",
+      "name": "Renault Logan 2004-2008гг 9\"",
+      "sku": "",
+      "price_rub": 1500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-9\"\n✅Провода и CAN в комплекте\n✅Цвет- серый",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3084.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3084.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3084.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3084.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792479770,
+      "views": 2,
+      "tile_url": "https://api.boss-mini-app.ru/t/dd8e55346cfa686c5312737d.webp"
+    },
+    {
       "slug": "renault-sandero-symbo1-2015-2018",
       "url": "https://bosminiofficial.com/shop/1071/desc/renault-sandero-symbo1-2015-2018",
       "name": "Renault Sandero (SYMBOL 2014-2017)",
@@ -13731,8 +13923,104 @@
       "stock_count": 0,
       "popularity": 224,
       "added_at": 1721378062,
-      "views": 261,
+      "views": 262,
       "tile_url": "https://api.boss-mini-app.ru/t/5dbe53e211e28672432dc648.webp"
+    },
+    {
+      "slug": "suzuki-sx4-2006gg-9",
+      "url": "https://bosminiofficial.com/shop/3091/desc/suzuki-sx4-2006gg-9",
+      "name": "Suzuki SX4 2006гг 9\"",
+      "sku": "",
+      "price_rub": 450,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки:  9-дюймов\n✅Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3091.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3091.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3091.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3091.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792484715,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/ddf5682354432a970cb40e11.webp"
+    },
+    {
+      "slug": "suzuki-vitara-2005gg-9",
+      "url": "https://bosminiofficial.com/shop/3086/desc/suzuki-vitara-2005gg-9",
+      "name": "Suzuki Vitara 2005гг 9\"",
+      "sku": "",
+      "price_rub": 350,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-9 дюймов\n✅Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3086.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3086.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3086.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3086.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792479969,
+      "views": 5,
+      "tile_url": "https://api.boss-mini-app.ru/t/8b1e80bda28e6fbfc2a8ff00.webp"
+    },
+    {
+      "slug": "toyota-corolla-2005-2013gg-9",
+      "url": "https://bosminiofficial.com/shop/3087/desc/toyota-corolla-2005-2013gg-9",
+      "name": "Toyota Corolla 2005-2013гг 9\"",
+      "sku": "",
+      "price_rub": 400,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-9 дюймов\n✅Провода в комплекте\n✅Цвет- коричневый",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3087.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3087.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3087.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3087.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792480105,
+      "views": 5,
+      "tile_url": "https://api.boss-mini-app.ru/t/481c9f204bcdd92e3d2b23ae.webp"
     },
     {
       "slug": "toyota-corolla-2008-9-djujmov",
@@ -13765,6 +14053,38 @@
       "added_at": 1738415422,
       "views": 76,
       "tile_url": "https://api.boss-mini-app.ru/t/e35a245f72804c512f289450.webp"
+    },
+    {
+      "slug": "toyota-corolla-2013-2016-gg-10",
+      "url": "https://bosminiofficial.com/shop/3085/desc/toyota-corolla-2013-2016-gg-10",
+      "name": "Toyota Corolla 2013-2016гг 10\"",
+      "sku": "",
+      "price_rub": 500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-10\"\n✅Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3085.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3085.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3085.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3085.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792479872,
+      "views": 2,
+      "tile_url": "https://api.boss-mini-app.ru/t/fb99e0a1675987cb7711c59d.webp"
     },
     {
       "slug": "uaz-patriot-2016",
@@ -13893,6 +14213,38 @@
       "added_at": 1791882479,
       "views": 48,
       "tile_url": "https://api.boss-mini-app.ru/t/48a786ea05d04a02b65b4f64.webp"
+    },
+    {
+      "slug": "wolkswagen-passat-2012gg-10",
+      "url": "https://bosminiofficial.com/shop/3083/desc/wolkswagen-passat-2012gg-10",
+      "name": "Wolkswagen Passat 2012гг 10\"",
+      "sku": "",
+      "price_rub": 1000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-10\"\n✅Провода и CAN в комплекте\n✅Цвет- серый",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3083.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3083.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3083.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3083.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792479687,
+      "views": 4,
+      "tile_url": "https://api.boss-mini-app.ru/t/06b1df0cd08e8925e39f20df.webp"
     },
     {
       "slug": "ramka-s-1din-na-9-djumov",
