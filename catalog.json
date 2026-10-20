@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792486216,
-  "scraped_count": 497,
+  "generated_at": 1792486517,
+  "scraped_count": 498,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -2497,7 +2497,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1791435978,
-      "views": 67,
+      "views": 68,
       "tile_url": "https://api.boss-mini-app.ru/t/ff62b3f90f0ea337e53210a0.webp"
     },
     {
@@ -11235,7 +11235,7 @@
       "stock_count": 0,
       "popularity": 172,
       "added_at": 1714856095,
-      "views": 1834,
+      "views": 1835,
       "tile_url": "https://api.boss-mini-app.ru/t/bbe84050736253ea01ff61b8.webp"
     },
     {
@@ -13059,7 +13059,7 @@
       "stock_count": 0,
       "popularity": 144,
       "added_at": 1716586018,
-      "views": 216,
+      "views": 217,
       "tile_url": "https://api.boss-mini-app.ru/t/a84b1fd41f163a9b12166ac9.webp"
     },
     {
@@ -13283,8 +13283,40 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792486152,
-      "views": 1,
+      "views": 2,
       "tile_url": "https://api.boss-mini-app.ru/t/0f589440aca70761f5e6c11d.webp"
+    },
+    {
+      "slug": "lada-vesta-2015-2018-gg-12-3-djujma-3094",
+      "url": "https://bosminiofficial.com/shop/3094/desc/lada-vesta-2015-2018-gg-12-3-djujma",
+      "name": "LADA Vesta 2015-2018 гг. 12.3 дюйма",
+      "sku": "",
+      "price_rub": 4300,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-12.3 дюйма\n✅Провода в комплекте\n✅Физические кнопки в нижней части рамки",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3094.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3094.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3094.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3094.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792486233,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/443f29f87217053034f8e9a0.webp"
     },
     {
       "slug": "laba-niva-1993-2020",
@@ -13763,7 +13795,7 @@
       "stock_count": 0,
       "popularity": 91,
       "added_at": 1721286613,
-      "views": 165,
+      "views": 166,
       "tile_url": "https://api.boss-mini-app.ru/t/b9eeee9fadb7eff53bd566d9.webp"
     },
     {
@@ -14275,7 +14307,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792479687,
-      "views": 4,
+      "views": 5,
       "tile_url": "https://api.boss-mini-app.ru/t/06b1df0cd08e8925e39f20df.webp"
     },
     {
@@ -15171,7 +15203,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1789202148,
-      "views": 76,
+      "views": 77,
       "tile_url": "https://api.boss-mini-app.ru/t/0b2a4f0c02a972b2588fa702.webp"
     },
     {
