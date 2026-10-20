@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792493716,
-  "scraped_count": 502,
+  "generated_at": 1792494017,
+  "scraped_count": 501,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -2211,38 +2211,6 @@
       "added_at": 1781699833,
       "views": 232,
       "tile_url": "https://api.boss-mini-app.ru/t/107e0cde3ef4f11d7ea10239.webp"
-    },
-    {
-      "slug": "dhd-x31-4-64gb",
-      "url": "https://bosminiofficial.com/shop/2954/desc/dhd-x31-4-64gb",
-      "name": "DHD X31 4+64Gb",
-      "sku": "",
-      "price_rub": 6500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Android Магнитолы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер экрана-10 дюймов\n✅Память -4+64Gb\n✅Посадочное место-9 дюймов\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅Переходная рамка и провода для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2954.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2954.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2954.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2954.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 56,
-      "added_at": 1782024662,
-      "views": 243,
-      "tile_url": "https://api.boss-mini-app.ru/t/1482daf6866b9d0c3f37e11a.webp"
     },
     {
       "slug": "dhd-y2-pro-12-128gb-9",
@@ -9473,7 +9441,7 @@
       "stock_count": 0,
       "popularity": 73,
       "added_at": 1717065242,
-      "views": 635,
+      "views": 636,
       "tile_url": "https://api.boss-mini-app.ru/t/21035bc6e16d808751e47ead.webp"
     },
     {
@@ -12579,7 +12547,7 @@
       "stock_count": 0,
       "popularity": 163,
       "added_at": 1727072278,
-      "views": 885,
+      "views": 886,
       "tile_url": "https://api.boss-mini-app.ru/t/48807bba345b3ae39ad4060b.webp"
     },
     {
@@ -12995,7 +12963,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792487217,
-      "views": 2,
+      "views": 4,
       "tile_url": "https://api.boss-mini-app.ru/t/621a48dd13e7f79d1563be06.webp"
     },
     {
@@ -13187,7 +13155,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792484451,
-      "views": 4,
+      "views": 5,
       "tile_url": "https://api.boss-mini-app.ru/t/d70f40eb1ce01936181355c5.webp"
     },
     {
@@ -13347,7 +13315,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792486233,
-      "views": 3,
+      "views": 4,
       "tile_url": "https://api.boss-mini-app.ru/t/443f29f87217053034f8e9a0.webp"
     },
     {
@@ -13667,7 +13635,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792480230,
-      "views": 6,
+      "views": 7,
       "tile_url": "https://api.boss-mini-app.ru/t/19dad6ba522fbf49e285b0a8.webp"
     },
     {
@@ -13795,7 +13763,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792484818,
-      "views": 1,
+      "views": 3,
       "tile_url": "https://api.boss-mini-app.ru/t/a1f401a410c9d29295e4f2bb.webp"
     },
     {
@@ -14051,7 +14019,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792484715,
-      "views": 1,
+      "views": 3,
       "tile_url": "https://api.boss-mini-app.ru/t/ddf5682354432a970cb40e11.webp"
     },
     {
@@ -14115,7 +14083,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792486535,
-      "views": 4,
+      "views": 6,
       "tile_url": "https://api.boss-mini-app.ru/t/71d085a10d62f20c603e2b94.webp"
     },
     {
@@ -14147,7 +14115,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792486802,
-      "views": 1,
+      "views": 2,
       "tile_url": "https://api.boss-mini-app.ru/t/4dbe34a872dea3b47ecc9fa6.webp"
     },
     {
@@ -14179,7 +14147,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792487116,
-      "views": 1,
+      "views": 3,
       "tile_url": "https://api.boss-mini-app.ru/t/ef4ad2d05937655439085345.webp"
     },
     {
@@ -14211,7 +14179,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792480105,
-      "views": 5,
+      "views": 7,
       "tile_url": "https://api.boss-mini-app.ru/t/481c9f204bcdd92e3d2b23ae.webp"
     },
     {
