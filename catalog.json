@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792484417,
-  "scraped_count": 493,
+  "generated_at": 1792484716,
+  "scraped_count": 494,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -3265,7 +3265,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1791664460,
-      "views": 64,
+      "views": 65,
       "tile_url": "https://api.boss-mini-app.ru/t/9f7b5fb8c8d4dfa8491de1ed.webp"
     },
     {
@@ -3617,7 +3617,7 @@
       "stock_count": 0,
       "popularity": 56,
       "added_at": 1775198040,
-      "views": 201,
+      "views": 202,
       "tile_url": "https://api.boss-mini-app.ru/t/c130cdf5574df03c726b6706.webp"
     },
     {
@@ -6211,6 +6211,38 @@
       "added_at": 1792479290,
       "views": 3,
       "tile_url": "https://api.boss-mini-app.ru/t/9d1b0292782fe12407f62969.webp"
+    },
+    {
+      "slug": "kia-rio-k2-2017gg-10",
+      "url": "https://bosminiofficial.com/shop/3090/desc/kia-rio-k2-2017gg-10",
+      "name": "Kia Rio (K2) 2017гг 10\"",
+      "sku": "",
+      "price_rub": 650,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки: 10-дюймов\n✅Провода в комплект",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3090.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3090.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3090.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3090.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792484451,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/d70f40eb1ce01936181355c5.webp"
     },
     {
       "slug": "kia-rio-k2-2017gg-9",
