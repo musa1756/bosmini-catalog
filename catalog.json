@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792484716,
-  "scraped_count": 494,
+  "generated_at": 1792485016,
+  "scraped_count": 485,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -95,7 +95,7 @@
         "https://bosminiofficial.com/_sh/19/1943.jpg"
       ],
       "stock_count": 0,
-      "popularity": 326,
+      "popularity": 328,
       "added_at": 1752844861,
       "views": 1164,
       "tile_url": "https://api.boss-mini-app.ru/t/e6bafae998d0274e42088a7a.webp"
@@ -1407,7 +1407,7 @@
         "https://bosminiofficial.com/_sh/26/2695.jpg"
       ],
       "stock_count": 0,
-      "popularity": 49,
+      "popularity": 50,
       "added_at": 1764494672,
       "views": 1341,
       "tile_url": "https://api.boss-mini-app.ru/t/22ae7a5acb3214e7e50c3559.webp"
@@ -6181,228 +6181,36 @@
       "tile_url": "https://api.boss-mini-app.ru/t/7a538b3a30d8fb08a6788ba2.webp"
     },
     {
-      "slug": "hyundai-accent-2011-2016-chernyj",
-      "url": "https://bosminiofficial.com/shop/3081/desc/hyundai-accent-2011-2016-chernyj",
-      "name": "Hyundai Accent 2011-2016 (Черный)",
+      "slug": "nissan-almera-2012-2019gg-9",
+      "url": "https://bosminiofficial.com/shop/3092/desc/nissan-almera-2012-2019gg-9",
+      "name": "Nissan Almera 2012-2019гг 9\"",
       "sku": "",
-      "price_rub": 700,
+      "price_rub": 800,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
         "Камеры и регистраторы"
       ],
       "brand_tags": [],
-      "description": "✅Размер рамки-9\"\n✅Провода в комплекте\n✅Цвет-черный",
+      "description": "✅Размер рамки-9\"\n✅Провода в комплекте",
       "specs": [],
       "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3081.jpg"
+        "https://bosminiofficial.com/_sh/30/3092.jpg"
       ],
       "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3081.jpg"
+        "https://bosminiofficial.com/_sh/30/3092.jpg"
       ],
       "local_images": [
-        "https://bosminiofficial.com/_sh/30/3081.jpg"
+        "https://bosminiofficial.com/_sh/30/3092.jpg"
       ],
       "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3081.jpg"
+        "https://bosminiofficial.com/_sh/30/3092.jpg"
       ],
       "stock_count": 0,
       "popularity": 0,
-      "added_at": 1792479290,
-      "views": 3,
-      "tile_url": "https://api.boss-mini-app.ru/t/9d1b0292782fe12407f62969.webp"
-    },
-    {
-      "slug": "kia-rio-k2-2017gg-10",
-      "url": "https://bosminiofficial.com/shop/3090/desc/kia-rio-k2-2017gg-10",
-      "name": "Kia Rio (K2) 2017гг 10\"",
-      "sku": "",
-      "price_rub": 650,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер рамки: 10-дюймов\n✅Провода в комплект",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3090.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3090.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3090.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3090.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 0,
-      "added_at": 1792484451,
+      "added_at": 1792484818,
       "views": 1,
-      "tile_url": "https://api.boss-mini-app.ru/t/d70f40eb1ce01936181355c5.webp"
-    },
-    {
-      "slug": "kia-rio-k2-2017gg-9",
-      "url": "https://bosminiofficial.com/shop/3089/desc/kia-rio-k2-2017gg-9",
-      "name": "Kia Rio (K2) 2017гг 9\"",
-      "sku": "",
-      "price_rub": 500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер рамки-9 дюймов\n✅Провода в комплект",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3089.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3089.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3089.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3089.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 0,
-      "added_at": 1792484294,
-      "views": 1,
-      "tile_url": "https://api.boss-mini-app.ru/t/cd1d1e3c4fb643c54465501b.webp"
-    },
-    {
-      "slug": "mazda-cx7-2014gg-9",
-      "url": "https://bosminiofficial.com/shop/3088/desc/mazda-cx7-2014gg-9",
-      "name": "Mazda CX7 2014гг 9\"",
-      "sku": "",
-      "price_rub": 1250,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер рамки-9 дюймов\n✅Провода и CAN в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3088.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3088.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3088.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3088.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 0,
-      "added_at": 1792480230,
-      "views": 5,
-      "tile_url": "https://api.boss-mini-app.ru/t/19dad6ba522fbf49e285b0a8.webp"
-    },
-    {
-      "slug": "renault-duster-2010-2014gg-9",
-      "url": "https://bosminiofficial.com/shop/3082/desc/renault-duster-2010-2014gg-9",
-      "name": "Renault Duster 2010-2014гг 9\"",
-      "sku": "",
-      "price_rub": 1850,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер рамки-9\"\n✅Провода и CAN в комплекте.",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3082.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3082.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3082.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3082.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 0,
-      "added_at": 1792479582,
-      "views": 4,
-      "tile_url": "https://api.boss-mini-app.ru/t/fa1d23479c8c03331d191138.webp"
-    },
-    {
-      "slug": "renault-logan-2004-2008gg-9",
-      "url": "https://bosminiofficial.com/shop/3084/desc/renault-logan-2004-2008gg-9",
-      "name": "Renault Logan 2004-2008гг 9\"",
-      "sku": "",
-      "price_rub": 1500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер рамки-9\"\n✅Провода и CAN в комплекте\n✅Цвет- серый",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3084.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3084.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3084.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3084.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 0,
-      "added_at": 1792479770,
-      "views": 2,
-      "tile_url": "https://api.boss-mini-app.ru/t/dd8e55346cfa686c5312737d.webp"
-    },
-    {
-      "slug": "suzuki-vitara-2005gg-9",
-      "url": "https://bosminiofficial.com/shop/3086/desc/suzuki-vitara-2005gg-9",
-      "name": "Suzuki Vitara 2005гг 9\"",
-      "sku": "",
-      "price_rub": 350,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер рамки-9 дюймов\n✅Провода в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3086.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3086.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3086.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3086.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 0,
-      "added_at": 1792479969,
-      "views": 5,
-      "tile_url": "https://api.boss-mini-app.ru/t/8b1e80bda28e6fbfc2a8ff00.webp"
+      "tile_url": "https://api.boss-mini-app.ru/t/a1f401a410c9d29295e4f2bb.webp"
     },
     {
       "slug": "tomboss-t16",
@@ -6531,102 +6339,6 @@
       "added_at": 1771148839,
       "views": 380,
       "tile_url": "https://api.boss-mini-app.ru/t/2b95f38fc0dcba9ec4517eb0.webp"
-    },
-    {
-      "slug": "toyota-corolla-2005-2013gg-9",
-      "url": "https://bosminiofficial.com/shop/3087/desc/toyota-corolla-2005-2013gg-9",
-      "name": "Toyota Corolla 2005-2013гг 9\"",
-      "sku": "",
-      "price_rub": 400,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер рамки-9 дюймов\n✅Провода в комплекте\n✅Цвет- коричневый",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3087.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3087.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3087.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3087.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 0,
-      "added_at": 1792480105,
-      "views": 5,
-      "tile_url": "https://api.boss-mini-app.ru/t/481c9f204bcdd92e3d2b23ae.webp"
-    },
-    {
-      "slug": "toyota-corolla-2013-2016-gg-10",
-      "url": "https://bosminiofficial.com/shop/3085/desc/toyota-corolla-2013-2016-gg-10",
-      "name": "Toyota Corolla 2013-2016 гг. 10\"",
-      "sku": "",
-      "price_rub": 500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер рамки-10\"\n✅Провода в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3085.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3085.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3085.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3085.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 0,
-      "added_at": 1792479872,
-      "views": 2,
-      "tile_url": "https://api.boss-mini-app.ru/t/fb99e0a1675987cb7711c59d.webp"
-    },
-    {
-      "slug": "wolkswagen-passat-2012gg-10",
-      "url": "https://bosminiofficial.com/shop/3083/desc/wolkswagen-passat-2012gg-10",
-      "name": "Wolkswagen Passat 2012гг 10\"",
-      "sku": "",
-      "price_rub": 1000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер рамки-10\"\n✅Провода и CAN в комплекте\n✅Цвет- серый",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3083.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3083.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3083.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3083.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 0,
-      "added_at": 1792479687,
-      "views": 4,
-      "tile_url": "https://api.boss-mini-app.ru/t/06b1df0cd08e8925e39f20df.webp"
     },
     {
       "slug": "videoregistrator-c8",
@@ -11875,7 +11587,7 @@
       "stock_count": 0,
       "popularity": 169,
       "added_at": 1776113389,
-      "views": 1554,
+      "views": 1555,
       "tile_url": "https://api.boss-mini-app.ru/t/1ec7edec5d1806ac49f04ab4.webp"
     },
     {
@@ -11969,7 +11681,7 @@
         "https://bosminiofficial.com/_sh/27/2723.jpg"
       ],
       "stock_count": 0,
-      "popularity": 79,
+      "popularity": 89,
       "added_at": 1765285531,
       "views": 1501,
       "tile_url": "https://api.boss-mini-app.ru/t/46e65e2b1daa313c2cc001cf.webp"
