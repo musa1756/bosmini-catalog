@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792479916,
-  "scraped_count": 489,
+  "generated_at": 1792480217,
+  "scraped_count": 491,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -961,7 +961,7 @@
       "stock_count": 0,
       "popularity": 165,
       "added_at": 1752862854,
-      "views": 669,
+      "views": 670,
       "tile_url": "https://api.boss-mini-app.ru/t/ccb77972b65dd6b8a4c55c02.webp"
     },
     {
@@ -4257,7 +4257,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1761308770,
-      "views": 368,
+      "views": 369,
       "tile_url": "https://api.boss-mini-app.ru/t/fbc5dd284f0519ecf211c8c5.webp"
     },
     {
@@ -6277,6 +6277,38 @@
       "tile_url": "https://api.boss-mini-app.ru/t/dd8e55346cfa686c5312737d.webp"
     },
     {
+      "slug": "suzuki-vitara-2005gg-9",
+      "url": "https://bosminiofficial.com/shop/3086/desc/suzuki-vitara-2005gg-9",
+      "name": "Suzuki Vitara 2005гг 9\"",
+      "sku": "",
+      "price_rub": 350,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-9 дюймов\n✅Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3086.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3086.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3086.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3086.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792479969,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/8b1e80bda28e6fbfc2a8ff00.webp"
+    },
+    {
       "slug": "tomboss-t16",
       "url": "https://bosminiofficial.com/shop/2940/desc/tomboss-t16",
       "name": "TOMBOSS T16",
@@ -6403,6 +6435,38 @@
       "added_at": 1771148839,
       "views": 380,
       "tile_url": "https://api.boss-mini-app.ru/t/2b95f38fc0dcba9ec4517eb0.webp"
+    },
+    {
+      "slug": "toyota-corolla-2005-2013gg-9",
+      "url": "https://bosminiofficial.com/shop/3087/desc/toyota-corolla-2005-2013gg-9",
+      "name": "Toyota Corolla 2005-2013гг 9\"",
+      "sku": "",
+      "price_rub": 400,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-9 дюймов\n✅Провода в комплекте\n✅Цвет- коричневый",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3087.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3087.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3087.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3087.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792480105,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/481c9f204bcdd92e3d2b23ae.webp"
     },
     {
       "slug": "toyota-corolla-2013-2016-gg-10",
@@ -7809,7 +7873,7 @@
       "stock_count": 0,
       "popularity": 183,
       "added_at": 1738649729,
-      "views": 537,
+      "views": 538,
       "tile_url": "https://api.boss-mini-app.ru/t/a81fe32c07dd41e56f23bd2e.webp"
     },
     {
@@ -8033,7 +8097,7 @@
       "stock_count": 0,
       "popularity": 13,
       "added_at": 1783409105,
-      "views": 115,
+      "views": 116,
       "tile_url": "https://api.boss-mini-app.ru/t/aab7858c598a1c33c8f394f7.webp"
     },
     {
@@ -8225,7 +8289,7 @@
       "stock_count": 0,
       "popularity": 52,
       "added_at": 1749112981,
-      "views": 1047,
+      "views": 1048,
       "tile_url": "https://api.boss-mini-app.ru/t/df6e57a2316d1035db8c440c.webp"
     },
     {
@@ -8449,7 +8513,7 @@
       "stock_count": 0,
       "popularity": 29,
       "added_at": 1752041968,
-      "views": 530,
+      "views": 531,
       "tile_url": "https://api.boss-mini-app.ru/t/b5150aca8dfbe8eb8e4612d1.webp"
     },
     {
@@ -8609,7 +8673,7 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1723529241,
-      "views": 279,
+      "views": 280,
       "tile_url": "https://api.boss-mini-app.ru/t/2c699fe05eea355439dcd030.webp"
     },
     {
@@ -8801,7 +8865,7 @@
       "stock_count": 0,
       "popularity": 106,
       "added_at": 1753859805,
-      "views": 340,
+      "views": 341,
       "tile_url": "https://api.boss-mini-app.ru/t/1b09beb250ecf131024289ca.webp"
     },
     {
@@ -9217,7 +9281,7 @@
       "stock_count": 0,
       "popularity": 96,
       "added_at": 1745558726,
-      "views": 241,
+      "views": 242,
       "tile_url": "https://api.boss-mini-app.ru/t/d2c8b26af889bb6b4427724c.webp"
     },
     {
@@ -11459,7 +11523,7 @@
       "stock_count": 0,
       "popularity": 80,
       "added_at": 1714856095,
-      "views": 1310,
+      "views": 1311,
       "tile_url": "https://api.boss-mini-app.ru/t/358ecc86fcf7bd65ad0c7eaa.webp"
     },
     {
