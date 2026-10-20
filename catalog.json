@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792487117,
-  "scraped_count": 500,
+  "generated_at": 1792487416,
+  "scraped_count": 502,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -12387,7 +12387,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1754137097,
-      "views": 779,
+      "views": 780,
       "tile_url": "https://api.boss-mini-app.ru/t/f76ed901860334c31e633025.webp"
     },
     {
@@ -12965,6 +12965,38 @@
       "added_at": 1792479290,
       "views": 3,
       "tile_url": "https://api.boss-mini-app.ru/t/9d1b0292782fe12407f62969.webp"
+    },
+    {
+      "slug": "hyundai-accent-2011-2016-gg-12-3-djujma",
+      "url": "https://bosminiofficial.com/shop/3098/desc/hyundai-accent-2011-2016-gg-12-3-djujma",
+      "name": "Hyundai Accent 2011-2016 гг. 12.3 дюйма",
+      "sku": "",
+      "price_rub": 3000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-12.3 дюйма\n✅Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3098.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3098.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3098.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3098.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792487217,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/621a48dd13e7f79d1563be06.webp"
     },
     {
       "slug": "hyundai-accent-2017-chernyj",
@@ -14117,6 +14149,38 @@
       "added_at": 1792486802,
       "views": 1,
       "tile_url": "https://api.boss-mini-app.ru/t/4dbe34a872dea3b47ecc9fa6.webp"
+    },
+    {
+      "slug": "toyota-camry-2012-2014-gg-12-3-djujma-3097",
+      "url": "https://bosminiofficial.com/shop/3097/desc/toyota-camry-2012-2014-gg-12-3-djujma",
+      "name": "Toyota Camry 2012-2014 гг. 12.3 дюйма",
+      "sku": "",
+      "price_rub": 6000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-12.3 дюйма\n✅Провода в комплекте\n✅Ниша для хранения в нижней части рамки",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3097.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3097.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3097.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3097.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792487116,
+      "views": 0,
+      "tile_url": "https://api.boss-mini-app.ru/t/ef4ad2d05937655439085345.webp"
     },
     {
       "slug": "toyota-corolla-2005-2013gg-9",
