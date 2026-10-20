@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792486517,
-  "scraped_count": 498,
+  "generated_at": 1792486816,
+  "scraped_count": 500,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -1441,7 +1441,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1772528419,
-      "views": 406,
+      "views": 407,
       "tile_url": "https://api.boss-mini-app.ru/t/710ba1ae0bc78a24f72d9a61.webp"
     },
     {
@@ -13315,7 +13315,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792486233,
-      "views": 1,
+      "views": 3,
       "tile_url": "https://api.boss-mini-app.ru/t/443f29f87217053034f8e9a0.webp"
     },
     {
@@ -13667,7 +13667,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1752932250,
-      "views": 137,
+      "views": 138,
       "tile_url": "https://api.boss-mini-app.ru/t/bad367fbfbc3759f2fb4be9d.webp"
     },
     {
@@ -13923,7 +13923,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792479770,
-      "views": 2,
+      "views": 3,
       "tile_url": "https://api.boss-mini-app.ru/t/dd8e55346cfa686c5312737d.webp"
     },
     {
@@ -13955,7 +13955,7 @@
       "stock_count": 0,
       "popularity": 71,
       "added_at": 1732002322,
-      "views": 258,
+      "views": 259,
       "tile_url": "https://api.boss-mini-app.ru/t/769e60f3f74cc970364c2c14.webp"
     },
     {
@@ -14053,6 +14053,70 @@
       "added_at": 1792479969,
       "views": 6,
       "tile_url": "https://api.boss-mini-app.ru/t/8b1e80bda28e6fbfc2a8ff00.webp"
+    },
+    {
+      "slug": "toyota-camry-2012-2014-gg-12-3-djujma",
+      "url": "https://bosminiofficial.com/shop/3095/desc/toyota-camry-2012-2014-gg-12-3-djujma",
+      "name": "Toyota Camry 2012-2014 гг. 12.3 дюйма",
+      "sku": "",
+      "price_rub": 6400,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-12.3 дюйма\n✅Провода в комплекте\n✅Физические кнопки в нижней части рамки",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3095.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3095.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3095.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3095.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792486535,
+      "views": 2,
+      "tile_url": "https://api.boss-mini-app.ru/t/71d085a10d62f20c603e2b94.webp"
+    },
+    {
+      "slug": "toyota-camry-2012-2014-gg-12-3-djujma-3096",
+      "url": "https://bosminiofficial.com/shop/3096/desc/toyota-camry-2012-2014-gg-12-3-djujma",
+      "name": "Toyota Camry 2012-2014 гг. 12.3 дюйма",
+      "sku": "",
+      "price_rub": 6200,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-12.3 дюйма\n✅Провода в комплекте\n✅USB/Type-C разъемы в нижней части рамки",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3096.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3096.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3096.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3096.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792486802,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/4dbe34a872dea3b47ecc9fa6.webp"
     },
     {
       "slug": "toyota-corolla-2005-2013gg-9",
