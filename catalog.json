@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792479017,
-  "scraped_count": 484,
+  "generated_at": 1792479317,
+  "scraped_count": 485,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -3137,7 +3137,7 @@
       "stock_count": 0,
       "popularity": 5670,
       "added_at": 1724219666,
-      "views": 1010,
+      "views": 1011,
       "tile_url": "https://api.boss-mini-app.ru/t/48363578fc27e0881e9df02b.webp"
     },
     {
@@ -6181,6 +6181,38 @@
       "tile_url": "https://api.boss-mini-app.ru/t/7a538b3a30d8fb08a6788ba2.webp"
     },
     {
+      "slug": "hyundai-accent-2011-2016-chernyj",
+      "url": "https://bosminiofficial.com/shop/3081/desc/hyundai-accent-2011-2016-chernyj",
+      "name": "Hyundai Accent 2011-2016 (Черный)",
+      "sku": "",
+      "price_rub": 700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Камеры и регистраторы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-9\"\n✅Провода в комплекте\n✅Цвет-черный",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3081.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3081.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3081.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3081.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792479290,
+      "views": 0,
+      "tile_url": "https://api.boss-mini-app.ru/t/9d1b0292782fe12407f62969.webp"
+    },
+    {
       "slug": "tomboss-t16",
       "url": "https://bosminiofficial.com/shop/2940/desc/tomboss-t16",
       "name": "TOMBOSS T16",
@@ -7361,7 +7393,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1749113475,
-      "views": 401,
+      "views": 402,
       "tile_url": "https://api.boss-mini-app.ru/t/36294060c63ecf5d19f3d365.webp"
     },
     {
@@ -7393,7 +7425,7 @@
       "stock_count": 0,
       "popularity": 74,
       "added_at": 1749113253,
-      "views": 430,
+      "views": 431,
       "tile_url": "https://api.boss-mini-app.ru/t/bddfc9d8ec32370a2331ad50.webp"
     },
     {
@@ -7777,7 +7809,7 @@
       "stock_count": 0,
       "popularity": 11,
       "added_at": 1782366146,
-      "views": 151,
+      "views": 152,
       "tile_url": "https://api.boss-mini-app.ru/t/ecfd79e0a6e8ab0be0c53708.webp"
     },
     {
@@ -8321,7 +8353,7 @@
       "stock_count": 0,
       "popularity": 97,
       "added_at": 1723527458,
-      "views": 536,
+      "views": 537,
       "tile_url": "https://api.boss-mini-app.ru/t/a59717536df7b4b67f1c7dc0.webp"
     },
     {
@@ -9025,7 +9057,7 @@
       "stock_count": 0,
       "popularity": 39,
       "added_at": 1767297276,
-      "views": 276,
+      "views": 277,
       "tile_url": "https://api.boss-mini-app.ru/t/15017d14a36105fed1678a77.webp"
     },
     {
@@ -14243,7 +14275,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1782111823,
-      "views": 140,
+      "views": 141,
       "tile_url": "https://api.boss-mini-app.ru/t/c0b5aa8cbbdb9badd986892e.webp"
     },
     {
