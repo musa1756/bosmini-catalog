@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792477816,
-  "scraped_count": 485,
+  "generated_at": 1792478116,
+  "scraped_count": 484,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -6309,38 +6309,6 @@
       "tile_url": "https://api.boss-mini-app.ru/t/2b95f38fc0dcba9ec4517eb0.webp"
     },
     {
-      "slug": "videoregistrator-bos-mini-v8",
-      "url": "https://bosminiofficial.com/shop/2997/desc/videoregistrator-bos-mini-v8",
-      "name": "Видеорегистратор BOS-MINI V8",
-      "sku": "BOS-V8",
-      "price_rub": 1100,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅Максимальное разрешение видео: 1920 × 1080 (Full HD)\n✅Угол обзора: 160°\n✅Wi-Fi соединение\n✅Система ADAS\n✅Поддержка карт памяти от 32Gb до 128Gb",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2997.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2997.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2997.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2997.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 48,
-      "added_at": 1783665902,
-      "views": 169,
-      "tile_url": "https://api.boss-mini-app.ru/t/58053ab9aee3b3931e0a8592.webp"
-    },
-    {
       "slug": "videoregistrator-c8",
       "url": "https://bosminiofficial.com/shop/392/desc/videoregistrator-c8",
       "name": "Видеорегистратор C8",
@@ -7585,7 +7553,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1782390337,
-      "views": 132,
+      "views": 133,
       "tile_url": "https://api.boss-mini-app.ru/t/f5f74c3531b50d03b6c47e6c.webp"
     },
     {
@@ -11267,7 +11235,7 @@
       "stock_count": 0,
       "popularity": 172,
       "added_at": 1714856095,
-      "views": 1832,
+      "views": 1833,
       "tile_url": "https://api.boss-mini-app.ru/t/bbe84050736253ea01ff61b8.webp"
     },
     {
@@ -15299,7 +15267,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1790582021,
-      "views": 97,
+      "views": 98,
       "tile_url": "https://api.boss-mini-app.ru/t/d025f860cbfbc3aacbd21193.webp"
     },
     {
