@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792650316,
-  "scraped_count": 502,
+  "generated_at": 1792650617,
+  "scraped_count": 504,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -2241,7 +2241,7 @@
       "stock_count": 0,
       "popularity": 136,
       "added_at": 1783059576,
-      "views": 240,
+      "views": 241,
       "tile_url": "https://api.boss-mini-app.ru/t/0f06e1ba7240f8866ae67953.webp"
     },
     {
@@ -13795,7 +13795,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1792484818,
-      "views": 19,
+      "views": 20,
       "tile_url": "https://api.boss-mini-app.ru/t/a1f401a410c9d29295e4f2bb.webp"
     },
     {
@@ -14147,7 +14147,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792486802,
-      "views": 17,
+      "views": 18,
       "tile_url": "https://api.boss-mini-app.ru/t/4dbe34a872dea3b47ecc9fa6.webp"
     },
     {
@@ -14179,7 +14179,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792487116,
-      "views": 22,
+      "views": 23,
       "tile_url": "https://api.boss-mini-app.ru/t/ef4ad2d05937655439085345.webp"
     },
     {
@@ -14885,6 +14885,70 @@
       "added_at": 1776112831,
       "views": 145,
       "tile_url": "https://api.boss-mini-app.ru/t/4399ebc2ef681cd5efd22ead.webp"
+    },
+    {
+      "slug": "bos-mini-x1008",
+      "url": "https://bosminiofficial.com/shop/3060/desc/bos-mini-x1008",
+      "name": "BOS-MINI X1008",
+      "sku": "",
+      "price_rub": 8300,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Сабвуферы и комплектующие"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Сабвуфер Активный\n✅️ Размер динамика 10\n✅️ Мощность: 2000W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3060.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3060.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3060.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3060.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 16,
+      "added_at": 1790058864,
+      "views": 51,
+      "tile_url": "https://api.boss-mini-app.ru/t/260c2c09e35f2442f3dc35aa.webp"
+    },
+    {
+      "slug": "bos-mini-x808",
+      "url": "https://bosminiofficial.com/shop/737/desc/bos-mini-x808",
+      "name": "Bos-Mini X808",
+      "sku": "",
+      "price_rub": 8000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Сабвуферы и комплектующие"
+      ],
+      "brand_tags": [],
+      "description": "✅Сабвуфер активный ✅Размер-8\"",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/7/737.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/7/737.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/7/737.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/7/737.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 89,
+      "added_at": 1719658254,
+      "views": 895,
+      "tile_url": "https://api.boss-mini-app.ru/t/4ca545b3140087b7369d7bf4.webp"
     },
     {
       "slug": "dv-60-komplekt-provodov",
