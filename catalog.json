@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792656918,
-  "scraped_count": 507,
+  "generated_at": 1792657216,
+  "scraped_count": 508,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -2817,7 +2817,7 @@
       "stock_count": 0,
       "popularity": 171,
       "added_at": 1773476138,
-      "views": 555,
+      "views": 556,
       "tile_url": "https://api.boss-mini-app.ru/t/922a18629a5378a32bdd6e14.webp"
     },
     {
@@ -2913,7 +2913,7 @@
       "stock_count": 0,
       "popularity": 255,
       "added_at": 1773035061,
-      "views": 527,
+      "views": 528,
       "tile_url": "https://api.boss-mini-app.ru/t/a7281a52f0bf5775bf5685b5.webp"
     },
     {
@@ -11523,7 +11523,7 @@
       "stock_count": 0,
       "popularity": 27,
       "added_at": 1773903123,
-      "views": 879,
+      "views": 880,
       "tile_url": "https://api.boss-mini-app.ru/t/c6a6b504f29f257cbe817d80.webp"
     },
     {
@@ -15909,6 +15909,38 @@
       "added_at": 1753516707,
       "views": 302,
       "tile_url": "https://api.boss-mini-app.ru/t/0069b94690878edda44c8bd6.webp"
+    },
+    {
+      "slug": "saby-bos-mini-k-120",
+      "url": "https://bosminiofficial.com/shop/647/desc/saby-bos-mini-k-120",
+      "name": "Сабы Bos Mini / K-120",
+      "sku": "",
+      "price_rub": 7500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Сабвуферы и комплектующие"
+      ],
+      "brand_tags": [],
+      "description": "✅Мощность-800W ✅Размер динамика -12\"",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/6/647.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/6/647.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/6/647.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/6/647.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 68,
+      "added_at": 1717502009,
+      "views": 524,
+      "tile_url": "https://api.boss-mini-app.ru/t/dd63dd09041bd8acc28d4b07.webp"
     },
     {
       "slug": "alpine-ap-a5204",
