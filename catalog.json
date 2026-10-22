@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792656617,
-  "scraped_count": 504,
+  "generated_at": 1792656918,
+  "scraped_count": 507,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -933,6 +933,38 @@
       "tile_url": "https://api.boss-mini-app.ru/t/b60345d37dbb6f03be8a5b5a.webp"
     },
     {
+      "slug": "bos-mini-n97d-4-64gb",
+      "url": "https://bosminiofficial.com/shop/1965/desc/bos-mini-n97d-4-64gb",
+      "name": "BOS-MINI N97D 4+64Gb",
+      "sku": "",
+      "price_rub": 5300,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-9.7” ✅Типоразмер-1Din ✅Память-4+64Gb ✅Голосовое управление ✅Кулер охлаждения ✅Провода для подключения и инструкция на русском языке в комплекте!!!",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/19/1965.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/19/1965.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/19/1965.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/19/1965.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 5,
+      "added_at": 1752859585,
+      "views": 595,
+      "tile_url": "https://api.boss-mini-app.ru/t/253d79b630a58640103a570a.webp"
+    },
+    {
       "slug": "bos-mini-q2-9",
       "url": "https://bosminiofficial.com/shop/1982/desc/bos-mini-q2-9",
       "name": "BOS-MINI Q2 9\"",
@@ -1353,7 +1385,7 @@
       "url": "https://bosminiofficial.com/shop/2696/desc/bos-mini-a628d-dsp-4-64gb",
       "name": "Bos-Mini A628D-DSP 4+64Gb",
       "sku": "",
-      "price_rub": 4800,
+      "price_rub": 5150,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -2529,7 +2561,7 @@
       "stock_count": 0,
       "popularity": 110,
       "added_at": 1776680345,
-      "views": 363,
+      "views": 364,
       "tile_url": "https://api.boss-mini-app.ru/t/b6cbc8e0a53f125e86a02183.webp"
     },
     {
@@ -2657,7 +2689,7 @@
       "stock_count": 0,
       "popularity": 35,
       "added_at": 1776112985,
-      "views": 418,
+      "views": 419,
       "tile_url": "https://api.boss-mini-app.ru/t/99e60c4871b112a8f535d19c.webp"
     },
     {
@@ -2849,7 +2881,7 @@
       "stock_count": 0,
       "popularity": 87,
       "added_at": 1781589517,
-      "views": 248,
+      "views": 249,
       "tile_url": "https://api.boss-mini-app.ru/t/13c570929318a34fe2dd72f6.webp"
     },
     {
@@ -4705,7 +4737,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1751464085,
-      "views": 160,
+      "views": 161,
       "tile_url": "https://api.boss-mini-app.ru/t/216f9e2909282ce27e4eeae2.webp"
     },
     {
@@ -11463,6 +11495,70 @@
       "tile_url": "https://api.boss-mini-app.ru/t/5c61d0479dba94a810869349.webp"
     },
     {
+      "slug": "bos-mini-n637dp5",
+      "url": "https://bosminiofficial.com/shop/2874/desc/bos-mini-n637dp5",
+      "name": "BOS-MINI N637DP5",
+      "sku": "",
+      "price_rub": 2700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-6,3 дюймов\n✅Типоразмер-1Din\n✅CarPlay/AndroidAuto\n✅Type-c, USB, AUX\n✅Радиатор охлаждения\n✅Пульт управления, инструкция и фишки для подключения и в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/28/2874.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2874.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/28/2874.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2874.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 27,
+      "added_at": 1773903123,
+      "views": 879,
+      "tile_url": "https://api.boss-mini-app.ru/t/c6a6b504f29f257cbe817d80.webp"
+    },
+    {
+      "slug": "bos-mini-n639dp5",
+      "url": "https://bosminiofficial.com/shop/2875/desc/bos-mini-n639dp5",
+      "name": "BOS-MINI N639DP5",
+      "sku": "",
+      "price_rub": 2700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-6,3 дюймов\n✅Типоразмер-1Din\n✅CarPlay/AndroidAuto\n✅Type-c, USB, AUX\n✅Радиатор охлаждения\n✅Пульт управления, инструкция и фишки для подключения и в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/28/2875.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2875.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/28/2875.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/28/2875.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 37,
+      "added_at": 1773903156,
+      "views": 734,
+      "tile_url": "https://api.boss-mini-app.ru/t/a9e42f2daaf28ceea4389403.webp"
+    },
+    {
       "slug": "bos-mini-n640dp5",
       "url": "https://bosminiofficial.com/shop/2928/desc/bos-mini-n640dp5",
       "name": "BOS-MINI N640DP5",
@@ -14339,7 +14435,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1774597625,
-      "views": 163,
+      "views": 164,
       "tile_url": "https://api.boss-mini-app.ru/t/2c81d071fa334c0eb9ed1de7.webp"
     },
     {
@@ -15875,7 +15971,7 @@
       "stock_count": 0,
       "popularity": 465,
       "added_at": 1754033937,
-      "views": 845,
+      "views": 846,
       "tile_url": "https://api.boss-mini-app.ru/t/d6658ea12f195795c2910672.webp"
     },
     {
@@ -15907,7 +16003,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1790582021,
-      "views": 102,
+      "views": 103,
       "tile_url": "https://api.boss-mini-app.ru/t/d025f860cbfbc3aacbd21193.webp"
     },
     {
