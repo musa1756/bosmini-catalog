@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792659317,
-  "scraped_count": 508,
+  "generated_at": 1792659616,
+  "scraped_count": 510,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -6785,7 +6785,7 @@
       "stock_count": 0,
       "popularity": 1308,
       "added_at": 1732038428,
-      "views": 594,
+      "views": 595,
       "tile_url": "https://api.boss-mini-app.ru/t/4293230a9e28dc2c39f37bbf.webp"
     },
     {
@@ -9921,7 +9921,7 @@
       "stock_count": 0,
       "popularity": 292,
       "added_at": 1750255313,
-      "views": 777,
+      "views": 778,
       "tile_url": "https://api.boss-mini-app.ru/t/ee26de54f7768ac726da1084.webp"
     },
     {
@@ -11845,6 +11845,70 @@
       "added_at": 1785307627,
       "views": 334,
       "tile_url": "https://api.boss-mini-app.ru/t/031a98711b6488e505613788.webp"
+    },
+    {
+      "slug": "dv-pioneer-ok-5503",
+      "url": "https://bosminiofficial.com/shop/1480/desc/dv-pioneer-ok-5503",
+      "name": "DV-Pioneer.Ok 5503",
+      "sku": "",
+      "price_rub": 3300,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана -7\" сенсорный ✅Автоматический механизм ✅7-цветная подсветка ✅Bluetooth, 2 USB, Aux ✅8 выходов RCA ✅Возможность подключения камеры заднего вида ✅Пульт управления и провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/14/1480.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/14/1480.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/14/1480.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/14/1480.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 235,
+      "added_at": 1750255775,
+      "views": 817,
+      "tile_url": "https://api.boss-mini-app.ru/t/5bc50d4a64962a73faa55918.webp"
+    },
+    {
+      "slug": "dv-pioneer-ok-5504",
+      "url": "https://bosminiofficial.com/shop/1481/desc/dv-pioneer-ok-5504",
+      "name": "DV-Pioneer.Ok 5504",
+      "sku": "",
+      "price_rub": 3300,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана -7\" сенсорный ✅Автоматический механизм ✅7-цветная подсветка ✅Bluetooth, 2 USB, Aux ✅8 выходов RCA ✅Возможность подключения камеры заднего вида ✅Пульт управления и провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/14/1481.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/14/1481.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/14/1481.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/14/1481.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 19,
+      "added_at": 1750255975,
+      "views": 589,
+      "tile_url": "https://api.boss-mini-app.ru/t/ba79509743f415a044ae302b.webp"
     },
     {
       "slug": "e5-olom-e-707",
