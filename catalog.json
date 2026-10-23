@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792797317,
+  "generated_at": 1792797616,
   "scraped_count": 510,
   "products": [
     {
@@ -3553,7 +3553,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1790582491,
-      "views": 86,
+      "views": 87,
       "tile_url": "https://api.boss-mini-app.ru/t/a3d20c982b7aa53917b33ce2.webp"
     },
     {
@@ -11267,7 +11267,7 @@
       "stock_count": 0,
       "popularity": 172,
       "added_at": 1714856095,
-      "views": 1863,
+      "views": 1864,
       "tile_url": "https://api.boss-mini-app.ru/t/bbe84050736253ea01ff61b8.webp"
     },
     {
@@ -11299,7 +11299,7 @@
       "stock_count": 0,
       "popularity": 173,
       "added_at": 1714856095,
-      "views": 1545,
+      "views": 1546,
       "tile_url": "https://api.boss-mini-app.ru/t/752e7a2cfd563ac5abb35896.webp"
     },
     {
@@ -11331,7 +11331,7 @@
       "stock_count": 0,
       "popularity": 80,
       "added_at": 1714856095,
-      "views": 1322,
+      "views": 1323,
       "tile_url": "https://api.boss-mini-app.ru/t/358ecc86fcf7bd65ad0c7eaa.webp"
     },
     {
@@ -11363,7 +11363,7 @@
       "stock_count": 0,
       "popularity": 94,
       "added_at": 1714856095,
-      "views": 1482,
+      "views": 1483,
       "tile_url": "https://api.boss-mini-app.ru/t/e73f73d5fbf7f44d0670aaa6.webp"
     },
     {
@@ -11395,7 +11395,7 @@
       "stock_count": 0,
       "popularity": 51,
       "added_at": 1782205423,
-      "views": 590,
+      "views": 591,
       "tile_url": "https://api.boss-mini-app.ru/t/e52b5c798507a7f25511fbd7.webp"
     },
     {
@@ -11683,7 +11683,7 @@
       "stock_count": 0,
       "popularity": 32,
       "added_at": 1786687337,
-      "views": 603,
+      "views": 604,
       "tile_url": "https://api.boss-mini-app.ru/t/62f99afe73f57fb0037121ec.webp"
     },
     {
@@ -14339,7 +14339,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792487116,
-      "views": 39,
+      "views": 40,
       "tile_url": "https://api.boss-mini-app.ru/t/ef4ad2d05937655439085345.webp"
     },
     {
@@ -16323,7 +16323,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1790406486,
-      "views": 95,
+      "views": 96,
       "tile_url": "https://api.boss-mini-app.ru/t/35989034f7527995a2d4da37.webp"
     }
   ]
