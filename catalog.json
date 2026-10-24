@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792821626,
-  "scraped_count": 510,
+  "generated_at": 1792821917,
+  "scraped_count": 508,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -16103,38 +16103,6 @@
       "tile_url": "https://api.boss-mini-app.ru/t/d025f860cbfbc3aacbd21193.webp"
     },
     {
-      "slug": "bos-mini-a25",
-      "url": "https://bosminiofficial.com/shop/2999/desc/bos-mini-a25",
-      "name": "BOS-MINI A25",
-      "sku": "",
-      "price_rub": 1050,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Усилители"
-      ],
-      "brand_tags": [],
-      "description": "✅Количество каналов-4\n✅Управление через приложение\n✅Мощность-600W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/29/2999.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2999.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/29/2999.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/29/2999.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 74,
-      "added_at": 1783923577,
-      "views": 144,
-      "tile_url": "https://api.boss-mini-app.ru/t/3565504c3cdf11750f93deda.webp"
-    },
-    {
       "slug": "bos-mini-66-4-6000w-max",
       "url": "https://bosminiofficial.com/shop/497/desc/bos-mini-66-4-6000w-max",
       "name": "Bos-Mini 66.4 (6000w Max)",
@@ -16229,38 +16197,6 @@
       "added_at": 1714856095,
       "views": 687,
       "tile_url": "https://api.boss-mini-app.ru/t/a1821303bafb2a308df892a5.webp"
-    },
-    {
-      "slug": "planior-pla-a25",
-      "url": "https://bosminiofficial.com/shop/1285/desc/planior-pla-a25",
-      "name": "Planior PLA-A25",
-      "sku": "PLA-25",
-      "price_rub": 1050,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Усилители"
-      ],
-      "brand_tags": [],
-      "description": "✅Максимальная мощность 600W\n✅Встроенный эквалайзер\n✅4 канала\n✅\nУправление с телефона",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/12/1285.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1285.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/12/1285.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/12/1285.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 148,
-      "added_at": 1738756387,
-      "views": 1028,
-      "tile_url": "https://api.boss-mini-app.ru/t/103d14aebe5159b7b974d149.webp"
     },
     {
       "slug": "aktivnyj-usilitel-a390",
