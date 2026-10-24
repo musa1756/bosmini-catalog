@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792835117,
+  "generated_at": 1792835417,
   "scraped_count": 508,
   "products": [
     {
@@ -321,7 +321,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1788416281,
-      "views": 154,
+      "views": 156,
       "tile_url": "https://api.boss-mini-app.ru/t/13e1243fdb3373c2b7b3f904.webp"
     },
     {
@@ -2049,7 +2049,7 @@
       "stock_count": 0,
       "popularity": 285,
       "added_at": 1781700641,
-      "views": 268,
+      "views": 269,
       "tile_url": "https://api.boss-mini-app.ru/t/fae3412c26da41a5f8be6c37.webp"
     },
     {
@@ -5545,7 +5545,7 @@
       "url": "https://bosminiofficial.com/shop/1500/desc/svetodiodnye-linzy-gt2",
       "name": "Светодиодные линзы GT2",
       "sku": "",
-      "price_rub": 3200,
+      "price_rub": 3000,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -5577,7 +5577,7 @@
       "url": "https://bosminiofficial.com/shop/1509/desc/svetodiodnye-linzy-gt3",
       "name": "Светодиодные линзы GT3",
       "sku": "",
-      "price_rub": 3600,
+      "price_rub": 3500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -5609,7 +5609,7 @@
       "url": "https://bosminiofficial.com/shop/1417/desc/svetodiodnye-linzy-gt1",
       "name": "Светодиодные линзы GТ1",
       "sku": "",
-      "price_rub": 2900,
+      "price_rub": 2500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -14915,7 +14915,7 @@
       "stock_count": 0,
       "popularity": 27,
       "added_at": 1782111672,
-      "views": 173,
+      "views": 174,
       "tile_url": "https://api.boss-mini-app.ru/t/dadfb689ec11568ef64ac934.webp"
     },
     {
