@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792908917,
+  "generated_at": 1792909217,
   "scraped_count": 508,
   "products": [
     {
@@ -673,7 +673,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1790059344,
-      "views": 106,
+      "views": 107,
       "tile_url": "https://api.boss-mini-app.ru/t/8df7517cde94f8e0540cb249.webp"
     },
     {
@@ -10049,7 +10049,7 @@
       "stock_count": 0,
       "popularity": 260,
       "added_at": 1765607730,
-      "views": 1084,
+      "views": 1085,
       "tile_url": "https://api.boss-mini-app.ru/t/f2c65c20076d429aa3f10547.webp"
     },
     {
@@ -13415,41 +13415,9 @@
       "tile_url": "https://api.boss-mini-app.ru/t/45d620385ace017089539583.webp"
     },
     {
-      "slug": "lada-vesta-2015-2018-gg-12-3-djujma",
-      "url": "https://bosminiofficial.com/shop/3093/desc/lada-vesta-2015-2018-gg-12-3-djujma",
-      "name": "LADA Vesta 2015-2018 гг. 12.3 дюйма",
-      "sku": "",
-      "price_rub": 4300,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Переходные рамки"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер рамки-12.3 дюйма\n✅Провода в комплекте\n✅USB/Type-C разъемы в нижней части рамки",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3093.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3093.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3093.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3093.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 0,
-      "added_at": 1792486152,
-      "views": 43,
-      "tile_url": "https://api.boss-mini-app.ru/t/0f589440aca70761f5e6c11d.webp"
-    },
-    {
       "slug": "lada-vesta-2015-2018-gg-12-3-djujma-3094",
       "url": "https://bosminiofficial.com/shop/3094/desc/lada-vesta-2015-2018-gg-12-3-djujma",
-      "name": "LADA Vesta 2015-2018 гг. 12.3 дюйма",
+      "name": "LADA Vesta 2015-2018 гг. 12.3 дюйма (button)",
       "sku": "",
       "price_rub": 4300,
       "old_price_rub": null,
@@ -13477,6 +13445,38 @@
       "added_at": 1792486233,
       "views": 42,
       "tile_url": "https://api.boss-mini-app.ru/t/443f29f87217053034f8e9a0.webp"
+    },
+    {
+      "slug": "lada-vesta-2015-2018-gg-12-3-djujma",
+      "url": "https://bosminiofficial.com/shop/3093/desc/lada-vesta-2015-2018-gg-12-3-djujma",
+      "name": "LADA Vesta 2015-2018 гг. 12.3 дюйма (charger)",
+      "sku": "",
+      "price_rub": 4300,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер рамки-12.3 дюйма\n✅Провода в комплекте\n✅USB/Type-C разъемы в нижней части рамки",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3093.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3093.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3093.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3093.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1792486152,
+      "views": 43,
+      "tile_url": "https://api.boss-mini-app.ru/t/0f589440aca70761f5e6c11d.webp"
     },
     {
       "slug": "laba-niva-1993-2020",
@@ -14275,7 +14275,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1792486535,
-      "views": 45,
+      "views": 46,
       "tile_url": "https://api.boss-mini-app.ru/t/71d085a10d62f20c603e2b94.webp"
     },
     {
@@ -14851,7 +14851,7 @@
       "stock_count": 0,
       "popularity": 341,
       "added_at": 1753860442,
-      "views": 267,
+      "views": 268,
       "tile_url": "https://api.boss-mini-app.ru/t/15ae365eb6f93a6da45f40ea.webp"
     },
     {
@@ -15971,7 +15971,7 @@
       "stock_count": 0,
       "popularity": 1088,
       "added_at": 1753516707,
-      "views": 304,
+      "views": 305,
       "tile_url": "https://api.boss-mini-app.ru/t/0069b94690878edda44c8bd6.webp"
     },
     {
