@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1792928417,
-  "scraped_count": 508,
+  "generated_at": 1792928717,
+  "scraped_count": 509,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -1025,7 +1025,7 @@
       "stock_count": 0,
       "popularity": 138,
       "added_at": 1753341610,
-      "views": 3175,
+      "views": 3176,
       "tile_url": "https://api.boss-mini-app.ru/t/0b9fac8512365dbefbfababd.webp"
     },
     {
@@ -12675,7 +12675,7 @@
       "stock_count": 0,
       "popularity": 151,
       "added_at": 1727075286,
-      "views": 260,
+      "views": 261,
       "tile_url": "https://api.boss-mini-app.ru/t/71c451e89ccf67d413a232c0.webp"
     },
     {
@@ -13795,7 +13795,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1792480230,
-      "views": 44,
+      "views": 45,
       "tile_url": "https://api.boss-mini-app.ru/t/19dad6ba522fbf49e285b0a8.webp"
     },
     {
@@ -14213,6 +14213,38 @@
       "added_at": 1792479969,
       "views": 16,
       "tile_url": "https://api.boss-mini-app.ru/t/8b1e80bda28e6fbfc2a8ff00.webp"
+    },
+    {
+      "slug": "toyota-rav4-2007",
+      "url": "https://bosminiofficial.com/shop/1150/desc/toyota-rav4-2007",
+      "name": "TOYOTA RAV4 2007",
+      "sku": "",
+      "price_rub": 500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Переходные рамки"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер рамки ,,9\" ✅ Провода в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/11/1150.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/11/1150.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/11/1150.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/11/1150.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 156,
+      "added_at": 1733653189,
+      "views": 155,
+      "tile_url": "https://api.boss-mini-app.ru/t/2600382222216a103673daaf.webp"
     },
     {
       "slug": "toyota-camry-2012-2014-gg-12-3-djujma-3097",
@@ -15907,7 +15939,7 @@
       "stock_count": 0,
       "popularity": 126,
       "added_at": 1754038974,
-      "views": 99,
+      "views": 100,
       "tile_url": "https://api.boss-mini-app.ru/t/b9ffd97efb512eeb1aae0105.webp"
     },
     {
