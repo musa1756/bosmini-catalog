@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1793084116,
-  "scraped_count": 509,
+  "generated_at": 1793084416,
+  "scraped_count": 508,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -1249,7 +1249,7 @@
       "stock_count": 0,
       "popularity": 57,
       "added_at": 1764313847,
-      "views": 1609,
+      "views": 1610,
       "tile_url": "https://api.boss-mini-app.ru/t/111c87e93094b2f223128b3b.webp"
     },
     {
@@ -2497,7 +2497,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1791435978,
-      "views": 85,
+      "views": 86,
       "tile_url": "https://api.boss-mini-app.ru/t/ff62b3f90f0ea337e53210a0.webp"
     },
     {
@@ -5729,7 +5729,7 @@
       "stock_count": 0,
       "popularity": 30,
       "added_at": 1787817773,
-      "views": 173,
+      "views": 176,
       "tile_url": "https://api.boss-mini-app.ru/t/735e51e5acb2325195e55ac4.webp"
     },
     {
@@ -5761,7 +5761,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1781947054,
-      "views": 225,
+      "views": 226,
       "tile_url": "https://api.boss-mini-app.ru/t/866da4efcf611d61d05f353c.webp"
     },
     {
@@ -11363,7 +11363,7 @@
       "stock_count": 0,
       "popularity": 54,
       "added_at": 1782205423,
-      "views": 612,
+      "views": 613,
       "tile_url": "https://api.boss-mini-app.ru/t/e52b5c798507a7f25511fbd7.webp"
     },
     {
@@ -13123,7 +13123,7 @@
       "stock_count": 0,
       "popularity": 1,
       "added_at": 1792487217,
-      "views": 55,
+      "views": 56,
       "tile_url": "https://api.boss-mini-app.ru/t/621a48dd13e7f79d1563be06.webp"
     },
     {
@@ -15429,38 +15429,6 @@
       "added_at": 1741171685,
       "views": 281,
       "tile_url": "https://api.boss-mini-app.ru/t/a95bec879dc5ff3f0c5c2d45.webp"
-    },
-    {
-      "slug": "syzx-v-1310-10",
-      "url": "https://bosminiofficial.com/shop/1398/desc/syzx-v-1310-10",
-      "name": "SYZX V-1310 (10)",
-      "sku": "",
-      "price_rub": 6500,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Сабвуферы и комплектующие"
-      ],
-      "brand_tags": [],
-      "description": "✅Сабвуфер активный ✅В комплекте с проводами",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/13/1398.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/13/1398.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/13/1398.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/13/1398.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 23,
-      "added_at": 1746689110,
-      "views": 239,
-      "tile_url": "https://api.boss-mini-app.ru/t/e9eff2bf0696c10848a73551.webp"
     },
     {
       "slug": "y-kabel-1-mama-2-papa",
