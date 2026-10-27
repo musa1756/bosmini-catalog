@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1793086216,
-  "scraped_count": 508,
+  "generated_at": 1793086517,
+  "scraped_count": 509,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -289,7 +289,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1782470618,
-      "views": 356,
+      "views": 357,
       "tile_url": "https://api.boss-mini-app.ru/t/d15bf79aef6c3c57eeab3450.webp"
     },
     {
@@ -833,7 +833,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1782540010,
-      "views": 263,
+      "views": 264,
       "tile_url": "https://api.boss-mini-app.ru/t/400548d971f6c3ac24d29b10.webp"
     },
     {
@@ -7841,7 +7841,7 @@
       "stock_count": 0,
       "popularity": 23,
       "added_at": 1782538463,
-      "views": 134,
+      "views": 136,
       "tile_url": "https://api.boss-mini-app.ru/t/c855d075c5b36bb1b3cd4922.webp"
     },
     {
@@ -7905,7 +7905,7 @@
       "stock_count": 0,
       "popularity": 42,
       "added_at": 1783409197,
-      "views": 156,
+      "views": 157,
       "tile_url": "https://api.boss-mini-app.ru/t/6bc2c8b5d31c20ae0ed0b425.webp"
     },
     {
@@ -7937,7 +7937,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1789418105,
-      "views": 139,
+      "views": 140,
       "tile_url": "https://api.boss-mini-app.ru/t/5ac3bd699e774cf9c3f7b109.webp"
     },
     {
@@ -8065,7 +8065,7 @@
       "stock_count": 0,
       "popularity": 52,
       "added_at": 1749112981,
-      "views": 1058,
+      "views": 1059,
       "tile_url": "https://api.boss-mini-app.ru/t/df6e57a2316d1035db8c440c.webp"
     },
     {
@@ -10885,6 +10885,70 @@
       "tile_url": "https://api.boss-mini-app.ru/t/e4fee399c88902d16529068f.webp"
     },
     {
+      "slug": "pioneer-gb-12-na-24v-mvh-340dbt",
+      "url": "https://bosminiofficial.com/shop/678/desc/pioneer-gb-12-na-24v-mvh-340dbt",
+      "name": "MVH-340DBT 12V-24V",
+      "sku": "",
+      "price_rub": 700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅12v-24V ✅Bluetooth ✅Aux ✅2USB и SD карты ✅4 выхода RCA ✅Радиатор охлаждения ✅Пульт управления и фишки для подключения в комплекте!!!",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/6/678.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/6/678.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/6/678.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/6/678.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 2915,
+      "added_at": 1718306019,
+      "views": 446,
+      "tile_url": "https://api.boss-mini-app.ru/t/accee309e6f28fa930f00fbe.webp"
+    },
+    {
+      "slug": "pioneer-gb-mvh-341-12-24v",
+      "url": "https://bosminiofficial.com/shop/1392/desc/pioneer-gb-mvh-341-12-24v",
+      "name": "MVH-341 12V-24V",
+      "sku": "",
+      "price_rub": 700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы 1 Din"
+      ],
+      "brand_tags": [],
+      "description": "✅ 12-24V ✅ Bluetooth ✅ AUX ✅ 2-USB и SD-Карты ✅ 4-Выхода RCA ✅ Радиатор охлаждения ✅ Пульт управления и фишки для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/13/1392.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/13/1392.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/13/1392.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/13/1392.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 1868,
+      "added_at": 1746085618,
+      "views": 396,
+      "tile_url": "https://api.boss-mini-app.ru/t/c1de9be901c779c8ebfb1aa0.webp"
+    },
+    {
       "slug": "mvh-y8053mbt",
       "url": "https://bosminiofficial.com/shop/2701/desc/mvh-y8053mbt",
       "name": "MVH-Y8053MBT",
@@ -11075,38 +11139,6 @@
       "added_at": 1772780396,
       "views": 232,
       "tile_url": "https://api.boss-mini-app.ru/t/53127064481850e0571e3b15.webp"
-    },
-    {
-      "slug": "pioneer-gb-mvh-341-12-24v",
-      "url": "https://bosminiofficial.com/shop/1392/desc/pioneer-gb-mvh-341-12-24v",
-      "name": "Pinoeer.GB MVH-341 12-24V",
-      "sku": "",
-      "price_rub": 700,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Магнитолы 1 Din"
-      ],
-      "brand_tags": [],
-      "description": "✅ 12-24V ✅ Bluetooth ✅ AUX ✅ 2-USB и SD-Карты ✅ 4-Выхода RCA ✅ Радиатор охлаждения ✅ Пульт управления и фишки для подключения в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/13/1392.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/13/1392.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/13/1392.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/13/1392.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 1868,
-      "added_at": 1746085618,
-      "views": 395,
-      "tile_url": "https://api.boss-mini-app.ru/t/c1de9be901c779c8ebfb1aa0.webp"
     },
     {
       "slug": "pioneer-gb-mvh-767mbt",
