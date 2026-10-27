@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1793087116,
+  "generated_at": 1793087417,
   "scraped_count": 509,
   "products": [
     {
@@ -4353,7 +4353,7 @@
       "stock_count": 0,
       "popularity": 296,
       "added_at": 1714856095,
-      "views": 594,
+      "views": 595,
       "tile_url": "https://api.boss-mini-app.ru/t/0cdffcbc38c8ff9c99d96791.webp"
     },
     {
@@ -8297,7 +8297,7 @@
       "url": "https://bosminiofficial.com/shop/859/desc/bos-mini-6500",
       "name": "Bos-Mini 6500",
       "sku": "",
-      "price_rub": 1700,
+      "price_rub": 1500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
