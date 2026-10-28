@@ -1,7 +1,7 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1793185216,
+  "generated_at": 1793185516,
   "scraped_count": 507,
   "products": [
     {
@@ -575,7 +575,7 @@
         "https://bosminiofficial.com/_sh/29/2939.jpg"
       ],
       "stock_count": 0,
-      "popularity": 193,
+      "popularity": 196,
       "added_at": 1779787001,
       "views": 471,
       "tile_url": "https://api.boss-mini-app.ru/t/4a2bae2918823b0f414f2f47.webp"
@@ -1023,7 +1023,7 @@
         "https://bosminiofficial.com/_sh/24/2495.jpg"
       ],
       "stock_count": 0,
-      "popularity": 139,
+      "popularity": 140,
       "added_at": 1753341610,
       "views": 3188,
       "tile_url": "https://api.boss-mini-app.ru/t/0b9fac8512365dbefbfababd.webp"
@@ -7681,7 +7681,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1789417159,
-      "views": 73,
+      "views": 74,
       "tile_url": "https://api.boss-mini-app.ru/t/eda46e466e25e26d983108a7.webp"
     },
     {
@@ -10465,7 +10465,7 @@
       "stock_count": 0,
       "popularity": 157,
       "added_at": 1772781358,
-      "views": 534,
+      "views": 535,
       "tile_url": "https://api.boss-mini-app.ru/t/2e25c445a7672250e660c42e.webp"
     },
     {
@@ -10785,7 +10785,7 @@
       "stock_count": 0,
       "popularity": 251,
       "added_at": 1773034968,
-      "views": 573,
+      "views": 574,
       "tile_url": "https://api.boss-mini-app.ru/t/f2dc84513cddec1ffc64e41c.webp"
     },
     {
@@ -10913,7 +10913,7 @@
       "stock_count": 0,
       "popularity": 2915,
       "added_at": 1718306019,
-      "views": 449,
+      "views": 450,
       "tile_url": "https://api.boss-mini-app.ru/t/accee309e6f28fa930f00fbe.webp"
     },
     {
@@ -15329,7 +15329,7 @@
         "https://bosminiofficial.com/_sh/25/2503.jpg"
       ],
       "stock_count": 0,
-      "popularity": 131,
+      "popularity": 134,
       "added_at": 1753518058,
       "views": 310,
       "tile_url": "https://api.boss-mini-app.ru/t/95e6ba7873499b9ed18087be.webp"
@@ -15915,7 +15915,7 @@
       "url": "https://bosminiofficial.com/shop/2500/desc/komplekt-provodov-x9",
       "name": "Комплект проводов X9",
       "sku": "",
-      "price_rub": 300,
+      "price_rub": 250,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
