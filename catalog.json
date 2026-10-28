@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1793171716,
-  "scraped_count": 508,
+  "generated_at": 1793172617,
+  "scraped_count": 507,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -1473,7 +1473,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1772528419,
-      "views": 431,
+      "views": 432,
       "tile_url": "https://api.boss-mini-app.ru/t/710ba1ae0bc78a24f72d9a61.webp"
     },
     {
@@ -2817,7 +2817,7 @@
       "stock_count": 0,
       "popularity": 7,
       "added_at": 1780137341,
-      "views": 336,
+      "views": 337,
       "tile_url": "https://api.boss-mini-app.ru/t/ad5cfa4294348038518d539b.webp"
     },
     {
@@ -3071,7 +3071,7 @@
         "https://bosminiofficial.com/_sh/25/2516.jpg"
       ],
       "stock_count": 0,
-      "popularity": 3875,
+      "popularity": 3879,
       "added_at": 1753683801,
       "views": 850,
       "tile_url": "https://api.boss-mini-app.ru/t/bdadb5a3e5b757ccaa00fdf0.webp"
@@ -3103,7 +3103,7 @@
         "https://bosminiofficial.com/_sh/8/884.jpg"
       ],
       "stock_count": 0,
-      "popularity": 5743,
+      "popularity": 5746,
       "added_at": 1724219666,
       "views": 1020,
       "tile_url": "https://api.boss-mini-app.ru/t/48363578fc27e0881e9df02b.webp"
@@ -7935,7 +7935,7 @@
         "https://bosminiofficial.com/_sh/30/3055.jpg"
       ],
       "stock_count": 0,
-      "popularity": 13,
+      "popularity": 22,
       "added_at": 1789417882,
       "views": 127,
       "tile_url": "https://api.boss-mini-app.ru/t/4c38720a270178448ca729f5.webp"
@@ -7967,9 +7967,9 @@
         "https://bosminiofficial.com/_sh/30/3058.jpg"
       ],
       "stock_count": 0,
-      "popularity": 11,
+      "popularity": 18,
       "added_at": 1789418343,
-      "views": 251,
+      "views": 252,
       "tile_url": "https://api.boss-mini-app.ru/t/62ed81abba4196707549c1d2.webp"
     },
     {
@@ -8575,7 +8575,7 @@
         "https://bosminiofficial.com/_sh/25/2532.jpg"
       ],
       "stock_count": 0,
-      "popularity": 106,
+      "popularity": 108,
       "added_at": 1753860068,
       "views": 527,
       "tile_url": "https://api.boss-mini-app.ru/t/5d705b84ce2800f49e171f2b.webp"
@@ -11137,7 +11137,7 @@
       "stock_count": 0,
       "popularity": 2308,
       "added_at": 1722713624,
-      "views": 930,
+      "views": 931,
       "tile_url": "https://api.boss-mini-app.ru/t/63fb96b6668dbb3ec03dfe12.webp"
     },
     {
@@ -11683,7 +11683,7 @@
       "stock_count": 0,
       "popularity": 34,
       "added_at": 1786687638,
-      "views": 815,
+      "views": 816,
       "tile_url": "https://api.boss-mini-app.ru/t/0757af16da94726278140c1f.webp"
     },
     {
@@ -12899,7 +12899,7 @@
       "stock_count": 0,
       "popularity": 122,
       "added_at": 1755666788,
-      "views": 202,
+      "views": 203,
       "tile_url": "https://api.boss-mini-app.ru/t/b3af1fe11ae944e9a1bae91d.webp"
     },
     {
@@ -13093,38 +13093,6 @@
       "added_at": 1792479290,
       "views": 18,
       "tile_url": "https://api.boss-mini-app.ru/t/9d1b0292782fe12407f62969.webp"
-    },
-    {
-      "slug": "hyundai-accent-2011-2016-gg-12-3-djujma",
-      "url": "https://bosminiofficial.com/shop/3098/desc/hyundai-accent-2011-2016-gg-12-3-djujma",
-      "name": "Hyundai Accent 2011-2016 гг. 12.3 дюйма",
-      "sku": "",
-      "price_rub": 3000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Переходные рамки"
-      ],
-      "brand_tags": [],
-      "description": "✅Размер рамки-12.3 дюйма\n✅Провода в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/30/3098.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3098.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/30/3098.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/30/3098.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 1,
-      "added_at": 1792487217,
-      "views": 58,
-      "tile_url": "https://api.boss-mini-app.ru/t/621a48dd13e7f79d1563be06.webp"
     },
     {
       "slug": "hyundai-accent-2017-chernyj",
