@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1793172617,
-  "scraped_count": 507,
+  "generated_at": 1793172917,
+  "scraped_count": 506,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -14629,38 +14629,6 @@
       "added_at": 1732022622,
       "views": 365,
       "tile_url": "https://api.boss-mini-app.ru/t/b26420d442980d5457b87d79.webp"
-    },
-    {
-      "slug": "red-24v-220v-1600w",
-      "url": "https://bosminiofficial.com/shop/1082/desc/red-24v-220v-1600w",
-      "name": "RED 24v-220v (1600W)",
-      "sku": "",
-      "price_rub": 2600,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Преобразователи"
-      ],
-      "brand_tags": [],
-      "description": "✅ Преобразователи- инверторы 24V-220V ✅ Отличное качество с реальными показателями! ✅ Чистая синусоида!!!",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/10/1082.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1082.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/10/1082.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/10/1082.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 18,
-      "added_at": 1732022421,
-      "views": 329,
-      "tile_url": "https://api.boss-mini-app.ru/t/03f3fa257d91fb4411d18644.webp"
     },
     {
       "slug": "preobrazovateli-24v-12v-45a",
