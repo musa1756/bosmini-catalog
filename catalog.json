@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1793177416,
-  "scraped_count": 506,
+  "generated_at": 1793177716,
+  "scraped_count": 507,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -1473,7 +1473,7 @@
       "stock_count": 0,
       "popularity": 4,
       "added_at": 1772528419,
-      "views": 432,
+      "views": 433,
       "tile_url": "https://api.boss-mini-app.ru/t/710ba1ae0bc78a24f72d9a61.webp"
     },
     {
@@ -2883,6 +2883,38 @@
       "added_at": 1773035061,
       "views": 536,
       "tile_url": "https://api.boss-mini-app.ru/t/a7281a52f0bf5775bf5685b5.webp"
+    },
+    {
+      "slug": "y202-pro-8-64gb",
+      "url": "https://bosminiofficial.com/shop/3038/desc/y202-pro-8-64gb",
+      "name": "Y202 Pro 8+64Gb",
+      "sku": "",
+      "price_rub": 8500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-10.2 дюйма\n✅Память-8+64Gb\n✅Поддержка сим карты\n✅CarPlay/AndroidAuto\n✅Кулер охлаждения\n✅Рамка и набор проводов для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/30/3038.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3038.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/30/3038.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/30/3038.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 6,
+      "added_at": 1787567077,
+      "views": 171,
+      "tile_url": "https://api.boss-mini-app.ru/t/94551324ca840948862c72df.webp"
     },
     {
       "slug": "zx1-4-64gb-9",
@@ -9025,7 +9057,7 @@
       "stock_count": 0,
       "popularity": 97,
       "added_at": 1745558726,
-      "views": 248,
+      "views": 249,
       "tile_url": "https://api.boss-mini-app.ru/t/d2c8b26af889bb6b4427724c.webp"
     },
     {
@@ -9153,7 +9185,7 @@
       "stock_count": 0,
       "popularity": 215,
       "added_at": 1753519365,
-      "views": 294,
+      "views": 295,
       "tile_url": "https://api.boss-mini-app.ru/t/e13ed58db65b6a472bfc5f72.webp"
     },
     {
@@ -12291,7 +12323,7 @@
       "stock_count": 0,
       "popularity": 125,
       "added_at": 1749112025,
-      "views": 427,
+      "views": 428,
       "tile_url": "https://api.boss-mini-app.ru/t/ef85da59cd069169d61b4d1f.webp"
     },
     {
