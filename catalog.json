@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1793262017,
-  "scraped_count": 509,
+  "generated_at": 1793262316,
+  "scraped_count": 510,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -2691,6 +2691,38 @@
       "added_at": 1776112985,
       "views": 428,
       "tile_url": "https://api.boss-mini-app.ru/t/99e60c4871b112a8f535d19c.webp"
+    },
+    {
+      "slug": "f4-4-64gb-9",
+      "url": "https://bosminiofficial.com/shop/2048/desc/f4-4-64gb-9",
+      "name": "F4 4+64Gb 9\"",
+      "sku": "",
+      "price_rub": 4000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Android Магнитолы"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-9 дюймов ✅Память-4+64GB ✅Кулер охлаждения ✅Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/20/2048.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/20/2048.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/20/2048.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/20/2048.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 380,
+      "added_at": 1752914056,
+      "views": 224,
+      "tile_url": "https://api.boss-mini-app.ru/t/adf45d65aca5c14f42ab5095.webp"
     },
     {
       "slug": "h41-nano-2-32g",
