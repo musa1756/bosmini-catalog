@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1793529016,
-  "scraped_count": 511,
+  "generated_at": 1793529316,
+  "scraped_count": 512,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -4449,7 +4449,7 @@
       "stock_count": 0,
       "popularity": 300,
       "added_at": 1714856095,
-      "views": 603,
+      "views": 604,
       "tile_url": "https://api.boss-mini-app.ru/t/0cdffcbc38c8ff9c99d96791.webp"
     },
     {
@@ -4897,7 +4897,7 @@
       "stock_count": 0,
       "popularity": 19,
       "added_at": 1716467176,
-      "views": 349,
+      "views": 350,
       "tile_url": "https://api.boss-mini-app.ru/t/efb9ee71074eaabd323dfa43.webp"
     },
     {
@@ -5089,7 +5089,7 @@
       "stock_count": 0,
       "popularity": 188,
       "added_at": 1716466990,
-      "views": 396,
+      "views": 399,
       "tile_url": "https://api.boss-mini-app.ru/t/42d541dc85f56da896cbb68b.webp"
     },
     {
@@ -5121,7 +5121,7 @@
       "stock_count": 0,
       "popularity": 162,
       "added_at": 1716467058,
-      "views": 295,
+      "views": 297,
       "tile_url": "https://api.boss-mini-app.ru/t/f6b896d1f892b6272f86cd86.webp"
     },
     {
@@ -6401,7 +6401,7 @@
       "stock_count": 0,
       "popularity": 44,
       "added_at": 1714856095,
-      "views": 461,
+      "views": 462,
       "tile_url": "https://api.boss-mini-app.ru/t/4e90481c12e452dd80e63356.webp"
     },
     {
@@ -7201,7 +7201,7 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1714856095,
-      "views": 799,
+      "views": 801,
       "tile_url": "https://api.boss-mini-app.ru/t/75d6ad916afd13b3fb5fcdf6.webp"
     },
     {
@@ -7841,7 +7841,7 @@
       "stock_count": 0,
       "popularity": 14,
       "added_at": 1783409105,
-      "views": 139,
+      "views": 140,
       "tile_url": "https://api.boss-mini-app.ru/t/aab7858c598a1c33c8f394f7.webp"
     },
     {
@@ -8737,7 +8737,7 @@
       "stock_count": 0,
       "popularity": 24,
       "added_at": 1755665146,
-      "views": 233,
+      "views": 235,
       "tile_url": "https://api.boss-mini-app.ru/t/82a92d925f1665d2b9c57914.webp"
     },
     {
@@ -9665,7 +9665,7 @@
       "stock_count": 0,
       "popularity": 93,
       "added_at": 1716273525,
-      "views": 1387,
+      "views": 1390,
       "tile_url": "https://api.boss-mini-app.ru/t/44e28a4872b2bb93d35ac328.webp"
     },
     {
@@ -11299,7 +11299,7 @@
       "stock_count": 0,
       "popularity": 86,
       "added_at": 1716273411,
-      "views": 1503,
+      "views": 1505,
       "tile_url": "https://api.boss-mini-app.ru/t/b2ede670c39527cfb6cfeebc.webp"
     },
     {
@@ -11493,6 +11493,38 @@
       "added_at": 1754650895,
       "views": 1189,
       "tile_url": "https://api.boss-mini-app.ru/t/56d028bf68fbddf9b7844ebd.webp"
+    },
+    {
+      "slug": "bos-mini-478dp5",
+      "url": "https://bosminiofficial.com/shop/3101/desc/bos-mini-478dp5",
+      "name": "BOS-MINI 478DP5",
+      "sku": "",
+      "price_rub": 2300,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Магнитолы с экраном"
+      ],
+      "brand_tags": [],
+      "description": "✅Размер экрана-4,7 дюймов\n✅Типоразмер-1Din\n✅CarPlay/AndroidAuto\n✅Радиатор охлаждения\n✅Возможность подключения камеры заднего вида\n✅Провода для подключения в комплекте",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/31/3101.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/31/3101.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/31/3101.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/31/3101.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1793529242,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/05b79800e48d265bc1d1c4dd.webp"
     },
     {
       "slug": "bos-mini-778dp5",
@@ -12131,7 +12163,7 @@
       "stock_count": 0,
       "popularity": 450,
       "added_at": 1716836605,
-      "views": 922,
+      "views": 923,
       "tile_url": "https://api.boss-mini-app.ru/t/9b2b21b01860f337678a36dc.webp"
     },
     {
@@ -12163,7 +12195,7 @@
       "stock_count": 0,
       "popularity": 937,
       "added_at": 1716836782,
-      "views": 486,
+      "views": 488,
       "tile_url": "https://api.boss-mini-app.ru/t/8468877e87a37596eef30b68.webp"
     },
     {
@@ -12195,7 +12227,7 @@
       "stock_count": 0,
       "popularity": 796,
       "added_at": 1716836918,
-      "views": 488,
+      "views": 489,
       "tile_url": "https://api.boss-mini-app.ru/t/2020bd5db2a5b6ba1bf4f1da.webp"
     },
     {
@@ -13315,7 +13347,7 @@
       "stock_count": 0,
       "popularity": 146,
       "added_at": 1716586018,
-      "views": 230,
+      "views": 233,
       "tile_url": "https://api.boss-mini-app.ru/t/a84b1fd41f163a9b12166ac9.webp"
     },
     {
@@ -13827,7 +13859,7 @@
       "stock_count": 0,
       "popularity": 231,
       "added_at": 1714856095,
-      "views": 336,
+      "views": 338,
       "tile_url": "https://api.boss-mini-app.ru/t/646b7676377cd595ca317021.webp"
     },
     {
@@ -15651,7 +15683,7 @@
       "stock_count": 0,
       "popularity": 52,
       "added_at": 1716585339,
-      "views": 248,
+      "views": 249,
       "tile_url": "https://api.boss-mini-app.ru/t/3b71dc2deeac644a153f15ec.webp"
     },
     {
@@ -15683,7 +15715,7 @@
       "stock_count": 0,
       "popularity": 37,
       "added_at": 1716585165,
-      "views": 260,
+      "views": 262,
       "tile_url": "https://api.boss-mini-app.ru/t/2dd3f9418c3ef6ddf29c5919.webp"
     },
     {
@@ -15715,7 +15747,7 @@
       "stock_count": 0,
       "popularity": 149,
       "added_at": 1778922215,
-      "views": 256,
+      "views": 257,
       "tile_url": "https://api.boss-mini-app.ru/t/b6fd4aae899ed141ed278416.webp"
     },
     {
@@ -16227,7 +16259,7 @@
       "stock_count": 0,
       "popularity": 45,
       "added_at": 1715238985,
-      "views": 540,
+      "views": 541,
       "tile_url": "https://api.boss-mini-app.ru/t/a40b133f36c55d4c233500a1.webp"
     },
     {
