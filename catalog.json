@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1793515517,
-  "scraped_count": 510,
+  "generated_at": 1793515816,
+  "scraped_count": 507,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -6597,38 +6597,6 @@
       "tile_url": "https://api.boss-mini-app.ru/t/e7d7c198e70bb021f0e81bb6.webp"
     },
     {
-      "slug": "vreznaja-kamera-zadnego-vida-e1241",
-      "url": "https://bosminiofficial.com/shop/2868/desc/vreznaja-kamera-zadnego-vida-e1241",
-      "name": "Врезная камера заднего вида E1241",
-      "sku": "",
-      "price_rub": 400,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅Провода 5 м. в комплекте",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/28/2868.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2868.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/28/2868.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/28/2868.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 85,
-      "added_at": 1773035549,
-      "views": 282,
-      "tile_url": "https://api.boss-mini-app.ru/t/70356686017d80bd024851a0.webp"
-    },
-    {
       "slug": "zerkala-videoregistratory-4k-wif-x12",
       "url": "https://bosminiofficial.com/shop/1096/desc/zerkala-videoregistratory-4k-wif-x12",
       "name": "Зеркала видеорегистраторы \"4K-WiF\" (X12",
@@ -7075,70 +7043,6 @@
       "added_at": 1738414504,
       "views": 875,
       "tile_url": "https://api.boss-mini-app.ru/t/8b928442cf99b98bc1b35480.webp"
-    },
-    {
-      "slug": "kamera-zadnego-vida-e-187-ahd",
-      "url": "https://bosminiofficial.com/shop/1483/desc/kamera-zadnego-vida-e-187-ahd",
-      "name": "Камера заднего вида E-187 AHD",
-      "sku": "",
-      "price_rub": 550,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅В комплекте проводов 5 метров",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/14/1483.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/14/1483.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/14/1483.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/14/1483.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 156,
-      "added_at": 1750492956,
-      "views": 150,
-      "tile_url": "https://api.boss-mini-app.ru/t/1c0d9b34ddd237922db77350.webp"
-    },
-    {
-      "slug": "kamera-zadnego-vida-e-300",
-      "url": "https://bosminiofficial.com/shop/1487/desc/kamera-zadnego-vida-e-300",
-      "name": "Камера заднего вида E-300",
-      "sku": "",
-      "price_rub": 650,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Камеры и регистраторы"
-      ],
-      "brand_tags": [],
-      "description": "✅В комплекте проводов 5 метров",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/14/1487.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/14/1487.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/14/1487.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/14/1487.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 816,
-      "added_at": 1750494148,
-      "views": 357,
-      "tile_url": "https://api.boss-mini-app.ru/t/78751d75261dd7dbb3632df1.webp"
     },
     {
       "slug": "kamera-zadnego-vida-l-162",
@@ -10369,7 +10273,7 @@
       "stock_count": 0,
       "popularity": 1625,
       "added_at": 1754637220,
-      "views": 442,
+      "views": 443,
       "tile_url": "https://api.boss-mini-app.ru/t/1152883776b47ff80370b0ed.webp"
     },
     {
@@ -12547,7 +12451,7 @@
       "stock_count": 0,
       "popularity": 259,
       "added_at": 1753770937,
-      "views": 633,
+      "views": 634,
       "tile_url": "https://api.boss-mini-app.ru/t/022fa2d4d4884d7cfc19cbda.webp"
     },
     {
@@ -13731,7 +13635,7 @@
       "stock_count": 0,
       "popularity": 47,
       "added_at": 1754638466,
-      "views": 113,
+      "views": 114,
       "tile_url": "https://api.boss-mini-app.ru/t/d12c133458d91df7273be121.webp"
     },
     {
