@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1793524217,
-  "scraped_count": 509,
+  "generated_at": 1793524516,
+  "scraped_count": 510,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -3393,7 +3393,7 @@
       "stock_count": 0,
       "popularity": 22,
       "added_at": 1785308346,
-      "views": 191,
+      "views": 192,
       "tile_url": "https://api.boss-mini-app.ru/t/abf149dab5cadbb783add415.webp"
     },
     {
@@ -15653,6 +15653,38 @@
       "added_at": 1716585165,
       "views": 260,
       "tile_url": "https://api.boss-mini-app.ru/t/2dd3f9418c3ef6ddf29c5919.webp"
+    },
+    {
+      "slug": "kabel-2-2-rca-sinij",
+      "url": "https://bosminiofficial.com/shop/2936/desc/kabel-2-2-rca-sinij",
+      "name": "Кабель 2*2 RCA (синий )",
+      "sku": "",
+      "price_rub": 100,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Сабвуферы и комплектующие"
+      ],
+      "brand_tags": [],
+      "description": "✅Кабель 2*2 RCA\n✅Длина кабеля-5м",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/29/2936.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2936.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/29/2936.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/29/2936.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 149,
+      "added_at": 1778922215,
+      "views": 256,
+      "tile_url": "https://api.boss-mini-app.ru/t/b6fd4aae899ed141ed278416.webp"
     },
     {
       "slug": "kabel-2-2-rca-bl863",
