@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1793532316,
-  "scraped_count": 515,
+  "generated_at": 1793532616,
+  "scraped_count": 516,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -161,7 +161,7 @@
       "stock_count": 0,
       "popularity": 27,
       "added_at": 1788416160,
-      "views": 297,
+      "views": 298,
       "tile_url": "https://api.boss-mini-app.ru/t/e83484ef6e7a0150a663bde8.webp"
     },
     {
@@ -897,7 +897,7 @@
       "stock_count": 0,
       "popularity": 75,
       "added_at": 1789377256,
-      "views": 220,
+      "views": 222,
       "tile_url": "https://api.boss-mini-app.ru/t/7d3cc30f3b2f11edba035537.webp"
     },
     {
@@ -7461,6 +7461,38 @@
       "tile_url": "https://api.boss-mini-app.ru/t/7c352abfad0dec3f4280f5aa.webp"
     },
     {
+      "slug": "bos-mini-5085",
+      "url": "https://bosminiofficial.com/shop/3102/desc/bos-mini-5085",
+      "name": "BOS-MINI 5085",
+      "sku": "",
+      "price_rub": 1700,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅️ Размер Колонки 13см\n✅️ Максимальная Мощность 380W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/31/3102.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/31/3102.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/31/3102.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/31/3102.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 0,
+      "added_at": 1793532432,
+      "views": 1,
+      "tile_url": "https://api.boss-mini-app.ru/t/91dafb1d0f3ec757fdbaa715.webp"
+    },
+    {
       "slug": "bos-mini-5088",
       "url": "https://bosminiofficial.com/shop/1273/desc/bos-mini-5088",
       "name": "BOS-MINI 5088",
@@ -7715,6 +7747,38 @@
       "added_at": 1789417283,
       "views": 103,
       "tile_url": "https://api.boss-mini-app.ru/t/2a17ee0a39ab7dc4dc980f6b.webp"
+    },
+    {
+      "slug": "kolonki-ot-bos-mini-6983",
+      "url": "https://bosminiofficial.com/shop/637/desc/kolonki-ot-bos-mini-6983",
+      "name": "BOS-MINI 6983",
+      "sku": "",
+      "price_rub": 3000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅В комплекте по 2шт ✅Максимальная мощность 600W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/6/637.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/6/637.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/6/637.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/6/637.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 68,
+      "added_at": 1717064941,
+      "views": 477,
+      "tile_url": "https://api.boss-mini-app.ru/t/1f74f672fbc2fb52e4680ca5.webp"
     },
     {
       "slug": "bos-mini-6990-6-9-800w",
@@ -8137,7 +8201,7 @@
       "url": "https://bosminiofficial.com/shop/1131/desc/bos-mini-6586-16sm",
       "name": "Bos Mini 6586 (16см)",
       "sku": "",
-      "price_rub": 1600,
+      "price_rub": 1500,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -8521,7 +8585,7 @@
       "url": "https://bosminiofficial.com/shop/1130/desc/bos-mini-8086-20sm",
       "name": "Bos-Mini 8086 (20см)",
       "sku": "",
-      "price_rub": 1750,
+      "price_rub": 1900,
       "old_price_rub": null,
       "in_stock": true,
       "categories": [
@@ -9603,38 +9667,6 @@
       "added_at": 1717065094,
       "views": 591,
       "tile_url": "https://api.boss-mini-app.ru/t/952417d1e1315dfc0bf39524.webp"
-    },
-    {
-      "slug": "kolonki-ot-bos-mini-6983",
-      "url": "https://bosminiofficial.com/shop/637/desc/kolonki-ot-bos-mini-6983",
-      "name": "Колонки от Bos-Mini 6983",
-      "sku": "",
-      "price_rub": 3000,
-      "old_price_rub": null,
-      "in_stock": true,
-      "categories": [
-        "Колонки"
-      ],
-      "brand_tags": [],
-      "description": "✅В комплекте по 2шт ✅Максимальная мощность 600W",
-      "specs": [],
-      "image_urls": [
-        "https://bosminiofficial.com/_sh/6/637.jpg"
-      ],
-      "full_image_urls": [
-        "https://bosminiofficial.com/_sh/6/637.jpg"
-      ],
-      "local_images": [
-        "https://bosminiofficial.com/_sh/6/637.jpg"
-      ],
-      "thumb_image_urls": [
-        "https://bosminiofficial.com/_sh/6/637.jpg"
-      ],
-      "stock_count": 0,
-      "popularity": 68,
-      "added_at": 1717064941,
-      "views": 475,
-      "tile_url": "https://api.boss-mini-app.ru/t/1f74f672fbc2fb52e4680ca5.webp"
     },
     {
       "slug": "pishhalka-ht-25",
@@ -11329,7 +11361,7 @@
       "stock_count": 0,
       "popularity": 2308,
       "added_at": 1722713624,
-      "views": 1004,
+      "views": 1005,
       "tile_url": "https://api.boss-mini-app.ru/t/63fb96b6668dbb3ec03dfe12.webp"
     },
     {
