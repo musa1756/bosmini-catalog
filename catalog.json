@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1793532016,
-  "scraped_count": 513,
+  "generated_at": 1793532316,
+  "scraped_count": 515,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -353,7 +353,7 @@
       "stock_count": 0,
       "popularity": 3,
       "added_at": 1784446916,
-      "views": 372,
+      "views": 373,
       "tile_url": "https://api.boss-mini-app.ru/t/8284be2b7ebb9fa1739e1656.webp"
     },
     {
@@ -7557,6 +7557,38 @@
       "tile_url": "https://api.boss-mini-app.ru/t/1ca114368d12af7ad00a2ff1.webp"
     },
     {
+      "slug": "bos-mini-6585-16sm",
+      "url": "https://bosminiofficial.com/shop/960/desc/bos-mini-6585-16sm",
+      "name": "BOS-MINI 6585 (16см)",
+      "sku": "",
+      "price_rub": 2500,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/9/960.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/9/960.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/9/960.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/9/960.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 8,
+      "added_at": 1728128563,
+      "views": 43,
+      "tile_url": "https://api.boss-mini-app.ru/t/7f4349c721779421e66399af.webp"
+    },
+    {
       "slug": "bos-mini-6587",
       "url": "https://bosminiofficial.com/shop/2937/desc/bos-mini-6587",
       "name": "BOS-MINI 6587",
@@ -8451,6 +8483,38 @@
       "added_at": 1723529241,
       "views": 297,
       "tile_url": "https://api.boss-mini-app.ru/t/2c699fe05eea355439dcd030.webp"
+    },
+    {
+      "slug": "bos-mini-6985-6-9",
+      "url": "https://bosminiofficial.com/shop/865/desc/bos-mini-6985-6-9",
+      "name": "Bos-Mini 6985 6/9",
+      "sku": "",
+      "price_rub": 3000,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Колонки"
+      ],
+      "brand_tags": [],
+      "description": "✅ Размер Динамика 6/9 Овалы ✅ Максимальная мощность 800W",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/8/865.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/8/865.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/8/865.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/8/865.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 19,
+      "added_at": 1723529449,
+      "views": 530,
+      "tile_url": "https://api.boss-mini-app.ru/t/6b88a3973bd3f48afc626854.webp"
     },
     {
       "slug": "bos-mini-8086-20sm",
@@ -11555,7 +11619,7 @@
       "stock_count": 0,
       "popularity": 0,
       "added_at": 1793529242,
-      "views": 3,
+      "views": 4,
       "tile_url": "https://api.boss-mini-app.ru/t/05b79800e48d265bc1d1c4dd.webp"
     },
     {
@@ -15811,7 +15875,7 @@
       "stock_count": 0,
       "popularity": 97,
       "added_at": 1715363607,
-      "views": 427,
+      "views": 429,
       "tile_url": "https://api.boss-mini-app.ru/t/cf228b62892866140d119f33.webp"
     },
     {
@@ -15971,7 +16035,7 @@
       "stock_count": 0,
       "popularity": 469,
       "added_at": 1714856095,
-      "views": 433,
+      "views": 434,
       "tile_url": "https://api.boss-mini-app.ru/t/378f7bed420aede1e68b7937.webp"
     },
     {
