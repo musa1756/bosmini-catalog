@@ -1,8 +1,8 @@
 {
   "source": "ucoz-uapi",
   "site": "bosminiofficial.com",
-  "generated_at": 1793532616,
-  "scraped_count": 516,
+  "generated_at": 1793532916,
+  "scraped_count": 518,
   "products": [
     {
       "slug": "alpine-409s-2-64gb",
@@ -33,7 +33,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1752862193,
-      "views": 1561,
+      "views": 1562,
       "tile_url": "https://api.boss-mini-app.ru/t/675a97e68ee12b763fd54e0a.webp"
     },
     {
@@ -929,7 +929,7 @@
       "stock_count": 0,
       "popularity": 8,
       "added_at": 1752859489,
-      "views": 1083,
+      "views": 1085,
       "tile_url": "https://api.boss-mini-app.ru/t/b60345d37dbb6f03be8a5b5a.webp"
     },
     {
@@ -1761,7 +1761,7 @@
       "stock_count": 0,
       "popularity": 148,
       "added_at": 1752853137,
-      "views": 1116,
+      "views": 1117,
       "tile_url": "https://api.boss-mini-app.ru/t/e1438de228214c729d79b987.webp"
     },
     {
@@ -3489,7 +3489,7 @@
       "stock_count": 0,
       "popularity": 5,
       "added_at": 1730529413,
-      "views": 909,
+      "views": 910,
       "tile_url": "https://api.boss-mini-app.ru/t/701e27d52c0d3e1a2c0ee142.webp"
     },
     {
@@ -5025,7 +5025,7 @@
       "stock_count": 0,
       "popularity": 90,
       "added_at": 1752401332,
-      "views": 211,
+      "views": 212,
       "tile_url": "https://api.boss-mini-app.ru/t/552eb88378f824c7422d0e49.webp"
     },
     {
@@ -5153,7 +5153,7 @@
       "stock_count": 0,
       "popularity": 17,
       "added_at": 1743145190,
-      "views": 192,
+      "views": 194,
       "tile_url": "https://api.boss-mini-app.ru/t/bca04272138f7cc380d7a481.webp"
     },
     {
@@ -5185,7 +5185,7 @@
       "stock_count": 0,
       "popularity": 18,
       "added_at": 1743145408,
-      "views": 255,
+      "views": 256,
       "tile_url": "https://api.boss-mini-app.ru/t/c16bfabb9deda40a7e0b8e80.webp"
     },
     {
@@ -5601,7 +5601,7 @@
       "stock_count": 0,
       "popularity": 2,
       "added_at": 1736655571,
-      "views": 349,
+      "views": 350,
       "tile_url": "https://api.boss-mini-app.ru/t/d0da43fef7cd8cb31b6d5243.webp"
     },
     {
@@ -6081,7 +6081,7 @@
       "stock_count": 0,
       "popularity": 45,
       "added_at": 1734179124,
-      "views": 737,
+      "views": 739,
       "tile_url": "https://api.boss-mini-app.ru/t/f1eea9d185782346008da965.webp"
     },
     {
@@ -7041,7 +7041,7 @@
       "stock_count": 0,
       "popularity": 777,
       "added_at": 1738414504,
-      "views": 876,
+      "views": 877,
       "tile_url": "https://api.boss-mini-app.ru/t/8b928442cf99b98bc1b35480.webp"
     },
     {
@@ -8609,7 +8609,7 @@
       "stock_count": 0,
       "popularity": 16,
       "added_at": 1733385980,
-      "views": 158,
+      "views": 159,
       "tile_url": "https://api.boss-mini-app.ru/t/dbad5d5d071a76a3e27f6dc4.webp"
     },
     {
@@ -9313,7 +9313,7 @@
       "stock_count": 0,
       "popularity": 134,
       "added_at": 1745558815,
-      "views": 374,
+      "views": 375,
       "tile_url": "https://api.boss-mini-app.ru/t/e78702bbb1093ef896c6d938.webp"
     },
     {
@@ -9473,7 +9473,7 @@
       "stock_count": 0,
       "popularity": 6,
       "added_at": 1734506942,
-      "views": 319,
+      "views": 320,
       "tile_url": "https://api.boss-mini-app.ru/t/adf9a1d209956532121f04f1.webp"
     },
     {
@@ -9601,7 +9601,7 @@
       "stock_count": 0,
       "popularity": 45,
       "added_at": 1718304499,
-      "views": 353,
+      "views": 354,
       "tile_url": "https://api.boss-mini-app.ru/t/b33514a4ca39dab0ed906712.webp"
     },
     {
@@ -9761,7 +9761,7 @@
       "stock_count": 0,
       "popularity": 118,
       "added_at": 1752047244,
-      "views": 263,
+      "views": 264,
       "tile_url": "https://api.boss-mini-app.ru/t/a4288c2fed15fcdf5b73124f.webp"
     },
     {
@@ -10913,7 +10913,7 @@
       "stock_count": 0,
       "popularity": 834,
       "added_at": 1723960692,
-      "views": 614,
+      "views": 615,
       "tile_url": "https://api.boss-mini-app.ru/t/58137ac1f35c3efa3ae97a2b.webp"
     },
     {
@@ -12131,7 +12131,7 @@
       "stock_count": 0,
       "popularity": 21,
       "added_at": 1750255975,
-      "views": 608,
+      "views": 609,
       "tile_url": "https://api.boss-mini-app.ru/t/ba79509743f415a044ae302b.webp"
     },
     {
@@ -13795,7 +13795,7 @@
       "stock_count": 0,
       "popularity": 116,
       "added_at": 1745134818,
-      "views": 347,
+      "views": 348,
       "tile_url": "https://api.boss-mini-app.ru/t/388488c2903079d82a1ff044.webp"
     },
     {
@@ -13827,7 +13827,7 @@
       "stock_count": 0,
       "popularity": 833,
       "added_at": 1721297076,
-      "views": 682,
+      "views": 683,
       "tile_url": "https://api.boss-mini-app.ru/t/9c55880222fd798e98f2d18f.webp"
     },
     {
@@ -14371,7 +14371,7 @@
       "stock_count": 0,
       "popularity": 76,
       "added_at": 1732002322,
-      "views": 272,
+      "views": 273,
       "tile_url": "https://api.boss-mini-app.ru/t/769e60f3f74cc970364c2c14.webp"
     },
     {
@@ -14917,6 +14917,70 @@
       "added_at": 1732022622,
       "views": 374,
       "tile_url": "https://api.boss-mini-app.ru/t/b26420d442980d5457b87d79.webp"
+    },
+    {
+      "slug": "preobrazovateli-24v-12v-20a",
+      "url": "https://bosminiofficial.com/shop/690/desc/preobrazovateli-24v-12v-20a",
+      "name": "Преобразователи 24V-12V 20А",
+      "sku": "",
+      "price_rub": 350,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Преобразователи"
+      ],
+      "brand_tags": [],
+      "description": "✅24V-12V\n✅20A",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/6/690.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/6/690.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/6/690.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/6/690.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 60,
+      "added_at": 1718658698,
+      "views": 153,
+      "tile_url": "https://api.boss-mini-app.ru/t/3dae8588050e614f4fb1f919.webp"
+    },
+    {
+      "slug": "preobrazovateli-24v-12v-30a",
+      "url": "https://bosminiofficial.com/shop/2709/desc/preobrazovateli-24v-12v-30a",
+      "name": "Преобразователи 24V-12V 30A",
+      "sku": "",
+      "price_rub": 400,
+      "old_price_rub": null,
+      "in_stock": true,
+      "categories": [
+        "Преобразователи"
+      ],
+      "brand_tags": [],
+      "description": "✅️24v-12V ✅️30A",
+      "specs": [],
+      "image_urls": [
+        "https://bosminiofficial.com/_sh/27/2709.jpg"
+      ],
+      "full_image_urls": [
+        "https://bosminiofficial.com/_sh/27/2709.jpg"
+      ],
+      "local_images": [
+        "https://bosminiofficial.com/_sh/27/2709.jpg"
+      ],
+      "thumb_image_urls": [
+        "https://bosminiofficial.com/_sh/27/2709.jpg"
+      ],
+      "stock_count": 0,
+      "popularity": 30,
+      "added_at": 1764785309,
+      "views": 68,
+      "tile_url": "https://api.boss-mini-app.ru/t/58df4ecddee8af35de9b001f.webp"
     },
     {
       "slug": "preobrazovateli-24v-12v-45a",
